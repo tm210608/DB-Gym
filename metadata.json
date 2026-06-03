@@ -1,0 +1,6 @@
+{
+  "name": "Base de Datos de Ejercicios",
+  "description": "Una base de datos de ejercicios interactiva y registrador de entrenamientos inspirada en Hevy y Fitcron, con filtros de músculos y equipamiento, mapas anatómicos y Coach de IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
