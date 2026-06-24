@@ -11,6 +11,7 @@ import ExerciseList from './components/ExerciseList';
 import ActiveWorkoutTracker from './components/ActiveWorkoutTracker';
 import HistoryStats from './components/HistoryStats';
 import AICoachPanel from './components/AICoachPanel';
+import ExerciseVisualizer from './components/ExerciseVisualizer';
 import { Dumbbell, Calendar, Bot, HelpCircle, Activity, Sparkles, BookOpen, AlertCircle, Play, ChevronRight, MessageSquare, Plus, Check } from 'lucide-react';
 
 export default function App() {
@@ -432,6 +433,9 @@ export default function App() {
                                 <span className="hidden sm:inline font-bold">IA</span>
                               </button>
                             </div>
+
+                            {/* Biomechanical execution guide animation */}
+                            <ExerciseVisualizer exercise={selectedExercise} />
 
                             {/* Targeted muscle groups */}
                             <div className="space-y-1.5">
