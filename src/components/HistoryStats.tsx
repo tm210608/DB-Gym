@@ -110,7 +110,7 @@ export default function HistoryStats({ exercisesList, logs, onLogsCleared }: His
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
         {/* LEFT COLUMN: Past Logs Timeline */}
         <div className="bg-[#0E0E0E] border border-zinc-800 rounded-2xl p-5 shadow-xl flex flex-col h-[520px]">
-          <div className="flex items-center justify-between pb-3 border-b border-zinc-850 mb-4 shrink-0">
+          <div className="flex items-center justify-between pb-3 border-b border-zinc-800 mb-4 shrink-0">
             <h3 className="text-sm font-bold text-zinc-200 flex items-center gap-2">
               <Calendar className="w-4 h-4 text-lime-400" /> Historial de Entrenamientos
             </h3>
@@ -118,19 +118,19 @@ export default function HistoryStats({ exercisesList, logs, onLogsCleared }: His
               <button
                 id="clear-logs-btn"
                 onClick={handleClearHistory}
-                className="text-[10px] hover:text-rose-455 text-zinc-500 flex items-center gap-1 bg-zinc-950 px-2 py-1 rounded border border-zinc-850 transition cursor-pointer"
+                className="text-[10px] hover:text-rose-500 text-zinc-500 flex items-center gap-1 bg-zinc-950 px-2 py-1 rounded border border-zinc-800 transition cursor-pointer"
               >
                 <Trash2 className="w-3 h-3" /> Borrar todo
               </button>
             )}
           </div>
 
-          <div className="flex-1 overflow-y-auto space-y-3 pr-1 scrollbar-thin scrollbar-thumb-zinc-850">
+          <div className="flex-1 overflow-y-auto space-y-3 pr-1 scrollbar-thin scrollbar-thumb-zinc-800">
             {logs.length === 0 ? (
               <div className="text-center py-20 flex flex-col items-center justify-center">
                 <Dumbbell className="w-10 h-10 text-zinc-700 mb-2.5" />
                 <p className="text-xs text-zinc-400 font-medium">No has registrado entrenamientos todavía</p>
-                <p className="text-[10px] text-zinc-550 mt-1 max-w-xs scale-95">Inicia un entrenamiento vacío o una rutina para registrar tus levantamientos de peso y reps.</p>
+                <p className="text-[10px] text-zinc-600 mt-1 max-w-xs scale-95">Inicia un entrenamiento vacío o una rutina para registrar tus levantamientos de peso y reps.</p>
               </div>
             ) : (
               logs.map((log) => {
@@ -141,7 +141,7 @@ export default function HistoryStats({ exercisesList, logs, onLogsCleared }: His
                   <div
                     id={`log-record-${log.id}`}
                     key={log.id}
-                    className="border border-zinc-850 bg-zinc-950/40 rounded-xl overflow-hidden transition hover:border-zinc-800"
+                    className="border border-zinc-800 bg-zinc-950/40 rounded-xl overflow-hidden transition hover:border-zinc-800"
                   >
                     {/* Collapsed top bar */}
                     <div
@@ -152,7 +152,7 @@ export default function HistoryStats({ exercisesList, logs, onLogsCleared }: His
                       <div>
                         <span className="text-xs font-bold text-zinc-200 block">{log.name}</span>
                         <div className="flex items-center gap-2 text-[10px] text-zinc-400 mt-1">
-                          <span className="font-mono bg-zinc-900 border border-zinc-850 px-1 py-0.5 rounded">
+                          <span className="font-mono bg-zinc-900 border border-zinc-800 px-1 py-0.5 rounded">
                             {new Date(log.date).toLocaleDateString(undefined, {
                               year: 'numeric',
                               month: 'short',
@@ -174,7 +174,7 @@ export default function HistoryStats({ exercisesList, logs, onLogsCleared }: His
 
                     {/* Expanded details lists */}
                     {isExpanded && (
-                      <div className="bg-zinc-950/80 border-t border-zinc-850 p-3 space-y-3 text-xs leading-relaxed max-h-56 overflow-y-auto">
+                      <div className="bg-zinc-950/80 border-t border-zinc-800 p-3 space-y-3 text-xs leading-relaxed max-h-56 overflow-y-auto">
                         {log.exercises.map((item, idx) => (
                           <div key={idx} className="border-b border-zinc-900 pb-2 last:border-0 last:pb-0">
                             <span className="font-bold text-zinc-300 block mb-1">{getExerciseName(item.exerciseId)}</span>
@@ -182,7 +182,7 @@ export default function HistoryStats({ exercisesList, logs, onLogsCleared }: His
                               {item.sets.map((set, sIdx) => (
                                 <div
                                   key={set.id}
-                                  className="bg-zinc-900 border border-zinc-850/50 px-2 py-1 rounded text-center"
+                                  className="bg-zinc-900 border border-zinc-800/50 px-2 py-1 rounded text-center"
                                 >
                                   <span className="text-zinc-500 font-bold font-mono mr-1">#{sIdx + 1}</span>
                                   <span className="text-zinc-200 font-mono font-semibold">{set.weight}kg × {set.reps}</span>

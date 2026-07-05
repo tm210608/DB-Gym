@@ -139,7 +139,7 @@ export default function ActiveWorkoutTracker({
       exerciseId,
       sets: [
         {
-          id: Math.random().toString(),
+          id: crypto.randomUUID(),
           weight: 20, // default starter plate
           reps: 10,
           completed: false,
@@ -159,7 +159,7 @@ export default function ActiveWorkoutTracker({
     const prevSet = targetEx.sets[targetEx.sets.length - 1];
 
     const newSet: WorkoutSet = {
-      id: Math.random().toString(),
+      id: crypto.randomUUID(),
       weight: prevSet ? prevSet.weight : 20,
       reps: prevSet ? prevSet.reps : 10,
       completed: false,
@@ -274,7 +274,7 @@ export default function ActiveWorkoutTracker({
 
     // Prepare WorkoutLog Object
     const newLog = {
-      id: Math.random().toString(),
+      id: crypto.randomUUID(),
       name: workoutName.trim() || 'Entrenamiento de hoy',
       date: new Date().toISOString(),
       durationSeconds: elapsedSeconds,
@@ -313,20 +313,20 @@ export default function ActiveWorkoutTracker({
   return (
     <div id="active-workout-tracker" className="flex flex-col gap-6 max-w-3xl mx-auto py-2">
       {/* 1. Header with Name & Live Stopwatch */}
-      <div className="bg-[#0E0E0E] border border-zinc-850 rounded-2xl p-5 shadow-xl flex flex-col md:flex-row md:items-center justify-between gap-4 sticky top-0 z-40 backdrop-blur-md">
+      <div className="bg-[#0E0E0E] border border-zinc-800 rounded-2xl p-5 shadow-xl flex flex-col md:flex-row md:items-center justify-between gap-4 sticky top-0 z-40 backdrop-blur-md">
         <div className="flex-1">
           <input
             id="active-workout-name-input"
             type="text"
             value={workoutName}
             onChange={(e) => setWorkoutName(e.target.value)}
-            className="text-lg font-bold bg-transparent text-zinc-100 border-b border-dashed border-zinc-800 focus:border-lime-450 focus:outline-none w-full max-w-sm py-1"
+            className="text-lg font-bold bg-transparent text-zinc-100 border-b border-dashed border-zinc-800 focus:border-lime-500 focus:outline-none w-full max-w-sm py-1"
           />
-          <p className="text-xs text-zinc-450 mt-1">Registrando sesión en tiempo real</p>
+          <p className="text-xs text-zinc-500 mt-1">Registrando sesión en tiempo real</p>
         </div>
 
         <div className="flex items-center gap-4">
-          <div className="flex items-center gap-2 bg-zinc-950 border border-zinc-850 px-4 py-2.5 rounded-xl font-mono text-zinc-100 text-lg shadow-inner">
+          <div className="flex items-center gap-2 bg-zinc-950 border border-zinc-800 px-4 py-2.5 rounded-xl font-mono text-zinc-100 text-lg shadow-inner">
             <Clock className="w-5 h-5 text-lime-400 animate-pulse" />
             <span>{formatTime(elapsedSeconds)}</span>
           </div>
@@ -382,7 +382,7 @@ export default function ActiveWorkoutTracker({
                 className="bg-[#0E0E0E] border border-zinc-800 rounded-2xl p-4 shadow-lg transition duration-200 hover:border-zinc-700/60"
               >
                 {/* Exercise header info */}
-                <div className="flex items-start justify-between border-b border-zinc-850 pb-3 mb-3">
+                <div className="flex items-start justify-between border-b border-zinc-800 pb-3 mb-3">
                   <div>
                     <h4 className="font-bold text-sm text-zinc-100 flex items-center gap-2">
                        {exerciseDetails.name}
@@ -392,7 +392,7 @@ export default function ActiveWorkoutTracker({
                       <span className="text-[10px] font-bold text-zinc-400 bg-zinc-950 border border-zinc-800 px-2 py-0.5 rounded-md">
                         {MuscleGroupTranslation[exerciseDetails.primaryMuscle] || exerciseDetails.primaryMuscle}
                       </span>
-                      <span className="text-[10px] text-zinc-655">•</span>
+                      <span className="text-[10px] text-zinc-600">•</span>
                       <span className="text-[10px] font-medium text-zinc-400 bg-zinc-950 border border-zinc-800 px-2 py-0.5 rounded-md">
                         {EquipmentTypeTranslation[exerciseDetails.equipment] || exerciseDetails.equipment}
                       </span>
@@ -413,7 +413,7 @@ export default function ActiveWorkoutTracker({
                 <div className="overflow-x-auto">
                   <table className="w-full text-left border-collapse">
                     <thead>
-                      <tr className="border-b border-zinc-850 text-[10px] font-bold text-zinc-500 uppercase tracking-wider">
+                      <tr className="border-b border-zinc-800 text-[10px] font-bold text-zinc-500 uppercase tracking-wider">
                         <th className="py-2.5 px-2 text-center w-12">Serie</th>
                         <th className="py-2.5 px-2 text-center w-16">Tipo</th>
                         <th className="py-2.5 px-2 text-center">Kilos (KG)</th>
@@ -482,7 +482,7 @@ export default function ActiveWorkoutTracker({
                               className={`w-7 h-7 rounded-lg border-2 flex items-center justify-center transition-all duration-200 cursor-pointer ${
                                 set.completed
                                   ? 'bg-lime-400 border-lime-400 text-black shadow-md scale-105'
-                                  : 'bg-zinc-950 border-zinc-800 text-transparent hover:border-zinc-650'
+                                  : 'bg-zinc-950 border-zinc-800 text-transparent hover:border-zinc-600'
                               }`}
                             >
                               {set.completed ? <Check className="w-4 h-4 stroke-[3]" /> : <Check className="w-4 h-4" />}
@@ -494,7 +494,7 @@ export default function ActiveWorkoutTracker({
                             <button
                               id={`delete-set-btn-${ex.exerciseId}-${setIdx}`}
                               onClick={() => deleteSetFromExercise(exIdx, setIdx)}
-                              className="text-zinc-500 hover:text-rose-455 p-1 rounded cursor-pointer"
+                              className="text-zinc-500 hover:text-rose-500 p-1 rounded cursor-pointer"
                               title="Borrar serie"
                             >
                               <X className="w-3.5 h-3.5" />
@@ -510,7 +510,7 @@ export default function ActiveWorkoutTracker({
                 <button
                   id={`add-set-btn-${ex.exerciseId}`}
                   onClick={() => addSetToExercise(exIdx)}
-                  className="mt-3 w-full bg-zinc-950 hover:bg-zinc-900 text-zinc-400 hover:text-zinc-200 font-bold text-xs py-2 rounded-xl border border-zinc-850 hover:border-zinc-750 transition flex items-center justify-center gap-1.5 cursor-pointer"
+                  className="mt-3 w-full bg-zinc-950 hover:bg-zinc-900 text-zinc-400 hover:text-zinc-200 font-bold text-xs py-2 rounded-xl border border-zinc-800 hover:border-zinc-700 transition flex items-center justify-center gap-1.5 cursor-pointer"
                 >
                   <Plus className="w-3.5 h-3.5" />
                   <span>Añadir Serie</span>
@@ -537,7 +537,7 @@ export default function ActiveWorkoutTracker({
       {/* 4. FLOATING ACTIVE REST TIMER POPUP     */}
       {/* ======================================= */}
       {isTimerOpen && (
-        <div id="rest-timer-bottom-popup" className="fixed bottom-6 right-6 bg-zinc-950 border-2 border-lime-500/20 rounded-2xl p-4 shadow-2xl z-50 w-64 animate-fade-in text-zinc-105">
+        <div id="rest-timer-bottom-popup" className="fixed bottom-6 right-6 bg-zinc-950 border-2 border-lime-500/20 rounded-2xl p-4 shadow-2xl z-50 w-64 animate-fade-in text-zinc-100">
           <div className="flex items-center justify-between mb-2 pb-2 border-b border-zinc-900">
             <span className="text-xs font-bold uppercase tracking-wider text-zinc-400 flex items-center gap-1.5">
               <Clock className="w-3.5 h-3.5 text-lime-400" /> Tiempo de Descanso
@@ -582,21 +582,21 @@ export default function ActiveWorkoutTracker({
               <button
                 id="timer-minus-30"
                 onClick={() => adjustRestTime(-30)}
-                className="text-[10px] font-bold bg-zinc-900 border border-zinc-800 hover:bg-zinc-800 text-zinc-350 px-2 py-1 rounded cursor-pointer"
+                className="text-[10px] font-bold bg-zinc-900 border border-zinc-800 hover:bg-zinc-800 text-zinc-400 px-2 py-1 rounded cursor-pointer"
               >
                 -30s
               </button>
               <button
                 id="timer-plus-30"
                 onClick={() => adjustRestTime(30)}
-                className="text-[10px] font-bold bg-zinc-900 border border-zinc-800 hover:bg-zinc-800 text-zinc-350 px-2 py-1 rounded cursor-pointer"
+                className="text-[10px] font-bold bg-zinc-900 border border-zinc-800 hover:bg-zinc-800 text-zinc-400 px-2 py-1 rounded cursor-pointer"
               >
                 +30s
               </button>
               <button
                 id="timer-reset"
                 onClick={() => setRestSecondsLeft(restSecondsTotal)}
-                className="text-[10px] bg-zinc-900 border border-zinc-800 hover:bg-zinc-805 text-lime-400 p-1 rounded cursor-pointer"
+                className="text-[10px] bg-zinc-900 border border-zinc-800 hover:bg-zinc-800 text-lime-400 p-1 rounded cursor-pointer"
                 title="Sincronizar de nuevo"
               >
                 <RotateCcw className="w-3 h-3" />
@@ -608,9 +608,9 @@ export default function ActiveWorkoutTracker({
               <button
                 id="timer-toggle-mute"
                 onClick={() => setIsMuted(!isMuted)}
-                className="flex items-center gap-1.5 hover:text-zinc-350 transition cursor-pointer"
+                className="flex items-center gap-1.5 hover:text-zinc-400 transition cursor-pointer"
               >
-                <Volume2 className={`w-3.5 h-3.5 ${isMuted ? 'text-rose-450' : 'text-lime-450'}`} />
+                <Volume2 className={`w-3.5 h-3.5 ${isMuted ? 'text-rose-500' : 'text-lime-500'}`} />
                 <span>{isMuted ? 'Silenciado' : 'Sonido activo'}</span>
               </button>
 
@@ -626,10 +626,10 @@ export default function ActiveWorkoutTracker({
       {isAddExerciseModalOpen && (
         <div id="add-exercise-modal-overlay" className="fixed inset-0 bg-black/75 flex items-center justify-center p-4 z-50 backdrop-blur-sm animate-fade-in">
           <div id="add-exercise-modal-content" className="bg-[#0E0E0E] border border-zinc-800 w-full max-w-xl rounded-2xl shadow-2xl p-5 flex flex-col max-h-[85vh]">
-            <div className="flex justify-between items-center pb-3 border-b border-zinc-805 mb-3">
+            <div className="flex justify-between items-center pb-3 border-b border-zinc-800 mb-3">
               <div>
                 <h3 className="font-bold text-base text-zinc-100 flex items-center gap-2">
-                  <Dumbbell className="w-5 h-5 text-lime-404" /> Agregar Ejercicio
+                  <Dumbbell className="w-5 h-5 text-lime-400" /> Agregar Ejercicio
                 </h3>
                 <p className="text-xs text-zinc-400 mt-1">Busca e inserta de la base de datos de ejercicios</p>
               </div>
@@ -650,17 +650,17 @@ export default function ActiveWorkoutTracker({
                 value={searchQuery}
                 onChange={(e) => setSearchQuery(e.target.value)}
                 placeholder="Busca por nombre (ej: banca, peso muerto)..."
-                className="bg-zinc-950 text-xs border border-zinc-805 rounded-xl px-3 py-2 text-zinc-200 focus:outline-none focus:border-lime-500 placeholder-zinc-500"
+                className="bg-zinc-950 text-xs border border-zinc-800 rounded-xl px-3 py-2 text-zinc-200 focus:outline-none focus:border-lime-500 placeholder-zinc-500"
               />
               <select
                 id="modal-muscle-select"
                 value={selectedMuscleFilter}
                 onChange={(e) => setSelectedMuscleFilter(e.target.value)}
-                className="bg-zinc-950 text-xs border border-zinc-805 rounded-xl px-2 py-2 text-zinc-300 focus:outline-none focus:border-lime-500 font-medium cursor-pointer"
+                className="bg-zinc-950 text-xs border border-zinc-800 rounded-xl px-2 py-2 text-zinc-300 focus:outline-none focus:border-lime-500 font-medium cursor-pointer"
               >
                 <option value="" className="bg-zinc-950 text-zinc-400">Todos los músculos</option>
                 {Object.keys(MuscleGroupTranslation).map((mg) => (
-                  <option key={mg} value={mg} className="bg-zinc-950 text-zinc-250">
+                  <option key={mg} value={mg} className="bg-zinc-950 text-zinc-300">
                     {MuscleGroupTranslation[mg as any]}
                   </option>
                 ))}
@@ -678,7 +678,7 @@ export default function ActiveWorkoutTracker({
                     <div
                       id={`modal-ex-row-${e.id}`}
                       key={e.id}
-                      className="flex items-center justify-between p-2.5 bg-zinc-950/60 border border-zinc-850/80 hover:border-zinc-800 rounded-xl"
+                      className="flex items-center justify-between p-2.5 bg-zinc-950/60 border border-zinc-800/80 hover:border-zinc-800 rounded-xl"
                     >
                       <div>
                         <div className="flex items-center gap-2">
@@ -686,10 +686,10 @@ export default function ActiveWorkoutTracker({
                           <span className="text-[10px] text-zinc-500">({e.nameEn})</span>
                         </div>
                         <div className="flex items-center gap-1.5 mt-1">
-                          <span className="text-[9px] text-zinc-400 bg-zinc-900 border border-zinc-850 px-1.5 py-0.5 rounded uppercase">
+                          <span className="text-[9px] text-zinc-400 bg-zinc-900 border border-zinc-800 px-1.5 py-0.5 rounded uppercase">
                             {MuscleGroupTranslation[e.primaryMuscle] || e.primaryMuscle}
                           </span>
-                          <span className="text-[9px] text-zinc-400 bg-zinc-900 border border-zinc-850 px-1.5 py-0.5 rounded uppercase">
+                          <span className="text-[9px] text-zinc-400 bg-zinc-900 border border-zinc-800 px-1.5 py-0.5 rounded uppercase">
                             {EquipmentTypeTranslation[e.equipment] || e.equipment}
                           </span>
                         </div>
@@ -704,7 +704,7 @@ export default function ActiveWorkoutTracker({
                         disabled={isAdded}
                         className={`text-[10px] font-bold px-3 py-1.5 rounded-lg transition-all cursor-pointer ${
                           isAdded
-                            ? 'bg-zinc-900 text-zinc-500 border border-zinc-850 cursor-not-allowed'
+                            ? 'bg-zinc-900 text-zinc-500 border border-zinc-800 cursor-not-allowed'
                             : 'bg-lime-400 hover:bg-lime-300 text-black flex items-center gap-1 font-extrabold'
                         }`}
                       >
@@ -723,7 +723,7 @@ export default function ActiveWorkoutTracker({
               )}
             </div>
             
-            <div className="mt-4 border-t border-zinc-850 pt-3 flex justify-end shrink-0">
+            <div className="mt-4 border-t border-zinc-800 pt-3 flex justify-end shrink-0">
               <button
                 id="modal-done-btn"
                 onClick={() => setIsAddExerciseModalOpen(false)}
@@ -757,22 +757,22 @@ export default function ActiveWorkoutTracker({
 
             {/* Metrics cards */}
             <div className="grid grid-cols-3 gap-2 mt-5">
-              <div className="bg-zinc-950 p-3 rounded-2xl border border-zinc-850">
+              <div className="bg-zinc-950 p-3 rounded-2xl border border-zinc-800">
                 <span className="text-[9px] uppercase font-bold tracking-wider text-zinc-500 block">Duración</span>
                 <span className="text-sm font-semibold font-mono text-zinc-200 block mt-1">{celebrationData.duration}</span>
               </div>
-              <div className="bg-zinc-950 p-3 rounded-2xl border border-zinc-850">
+              <div className="bg-zinc-950 p-3 rounded-2xl border border-zinc-800">
                 <span className="text-[9px] uppercase font-bold tracking-wider text-zinc-500 block">Volumen</span>
                 <span className="text-sm font-extrabold font-mono text-lime-400 block mt-1">{celebrationData.volume} kg</span>
               </div>
-              <div className="bg-zinc-950 p-3 rounded-2xl border border-zinc-850">
+              <div className="bg-zinc-950 p-3 rounded-2xl border border-zinc-800">
                 <span className="text-[9px] uppercase font-bold tracking-wider text-zinc-500 block">Series</span>
                 <span className="text-sm font-semibold font-mono text-lime-400 block mt-1">{celebrationData.setsCount}</span>
               </div>
             </div>
 
             {/* AI Motivation Quote */}
-            <div className="bg-zinc-950/60 p-3 rounded-2xl border border-zinc-855 mt-4 text-xs text-lime-300 italic">
+            <div className="bg-zinc-950/60 p-3 rounded-2xl border border-zinc-800 mt-4 text-xs text-lime-300 italic">
               "Cada repetición completada te sitúa más cerca de tus metas de fuerza. ¡La consistencia es el motor del cambio físico!"
             </div>
 

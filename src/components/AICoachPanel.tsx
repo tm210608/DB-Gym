@@ -182,7 +182,7 @@ Selecciona cualquier ejercicio de la lista o pregúntame directamente sobre cóm
       <div className="absolute top-0 right-0 w-32 h-32 bg-lime-500/10 rounded-full blur-2xl pointer-events-none" />
 
       {/* Header */}
-      <div className="flex items-center gap-2 pb-3 border-b border-zinc-850 mb-3 shrink-0">
+      <div className="flex items-center gap-2 pb-3 border-b border-zinc-800 mb-3 shrink-0">
         <div className="p-2 bg-lime-500/10 text-lime-400 rounded-xl">
           <Bot className="w-5 h-5" />
         </div>
@@ -190,10 +190,10 @@ Selecciona cualquier ejercicio de la lista o pregúntame directamente sobre cóm
           <div className="flex items-center gap-1.5">
             <h3 className="text-sm font-bold text-zinc-100">AI Gym Coach</h3>
             <span className="flex items-center gap-0.5 text-[9px] font-bold text-lime-400 bg-lime-500/10 px-1.5 py-0.5 rounded-full uppercase tracking-wider">
-              <Sparkles className="w-2.5 h-2.5 text-lime-404 fill-lime-400" /> PRO
+              <Sparkles className="w-2.5 h-2.5 text-lime-400 fill-lime-400" /> PRO
             </span>
           </div>
-          <p className="text-[10px] text-zinc-450">Técnica correctiva y generador de rutinas</p>
+          <p className="text-[10px] text-zinc-500">Técnica correctiva y generador de rutinas</p>
         </div>
       </div>
 
@@ -219,7 +219,7 @@ Selecciona cualquier ejercicio de la lista o pregúntame directamente sobre cóm
         ))}
         {loading && (
           <div className="flex justify-start">
-            <div className="bg-zinc-950/80 border border-zinc-900 rounded-2xl rounded-tl-none p-3.5 max-w-[80%] text-xs text-zinc-405 flex items-center gap-2">
+            <div className="bg-zinc-950/80 border border-zinc-900 rounded-2xl rounded-tl-none p-3.5 max-w-[80%] text-xs text-zinc-400 flex items-center gap-2">
               <Loader2 className="w-4 h-4 animate-spin text-lime-400" />
               <span>Coach de IA está analizando los detalles anatómicos...</span>
             </div>
@@ -254,7 +254,7 @@ Selecciona cualquier ejercicio de la lista o pregúntame directamente sobre cóm
           e.preventDefault();
           handleSendMessage(input);
         }}
-        className="flex gap-2 shrink-0 border-t border-zinc-850 pt-3"
+        className="flex gap-2 shrink-0 border-t border-zinc-800 pt-3"
       >
         <input
           id="ai-coach-input"

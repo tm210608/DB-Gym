@@ -90,7 +90,7 @@ export default function ExerciseList({
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             placeholder="Buscar ejercicio (ej. press de banca, sentadilla)..."
-            className="w-full bg-zinc-950 text-xs text-zinc-250 pl-10 pr-4 py-3 rounded-xl border border-zinc-850 focus:outline-none focus:border-lime-500 placeholder-zinc-550 transition-all shadow-inner"
+            className="w-full bg-zinc-950 text-xs text-zinc-300 pl-10 pr-4 py-3 rounded-xl border border-zinc-800 focus:outline-none focus:border-lime-500 placeholder-zinc-600 transition-all shadow-inner"
           />
         </div>
 
@@ -112,7 +112,7 @@ export default function ExerciseList({
           className="bg-[#0E0E0E] border border-lime-500/20 rounded-2xl p-4 shadow-lg space-y-3 animate-fade-in"
         >
           <div className="flex justify-between items-center pb-2 border-b border-zinc-800">
-            <h4 className="text-xs font-bold text-zinc-250 uppercase tracking-wide">Nuevo Ejercicio Personalizado</h4>
+            <h4 className="text-xs font-bold text-zinc-300 uppercase tracking-wide">Nuevo Ejercicio Personalizado</h4>
             <button
               id="cancel-creator-btn"
               type="button"
@@ -220,7 +220,7 @@ export default function ExerciseList({
               className={`text-[10px] font-semibold px-2.5 py-1.5 rounded-lg transition border cursor-pointer ${
                 selectedEquipment === ''
                   ? 'bg-zinc-800 border-zinc-700 text-zinc-200'
-                  : 'bg-zinc-950 border-zinc-850 text-zinc-500 hover:text-zinc-400'
+                  : 'bg-zinc-950 border-zinc-800 text-zinc-500 hover:text-zinc-400'
               }`}
             >
               Todos
@@ -233,7 +233,7 @@ export default function ExerciseList({
                 className={`text-[10px] font-semibold px-2.5 py-1.5 rounded-lg transition border cursor-pointer ${
                   selectedEquipment === eq
                     ? 'bg-lime-400 border-lime-400 text-black font-extrabold'
-                    : 'bg-zinc-950 border-zinc-850 text-zinc-400 hover:text-zinc-350'
+                    : 'bg-zinc-950 border-zinc-800 text-zinc-400 hover:text-zinc-400'
                 }`}
               >
                 {text}
@@ -252,7 +252,7 @@ export default function ExerciseList({
               className={`text-[10px] font-semibold px-2.5 py-1.5 rounded-lg transition border cursor-pointer ${
                 selectedDifficulty === ''
                   ? 'bg-zinc-800 border-zinc-700 text-zinc-200'
-                  : 'bg-zinc-950 border-zinc-850 text-zinc-500 hover:text-zinc-400'
+                  : 'bg-zinc-950 border-zinc-800 text-zinc-500 hover:text-zinc-400'
               }`}
             >
               Todas
@@ -265,7 +265,7 @@ export default function ExerciseList({
                 className={`text-[10px] font-semibold px-2.5 py-1.5 rounded-lg transition border cursor-pointer ${
                   selectedDifficulty === diff
                     ? 'bg-lime-400 border-lime-400 text-black font-extrabold'
-                    : 'bg-zinc-950 border-zinc-850 text-zinc-400 hover:text-zinc-350'
+                    : 'bg-zinc-950 border-zinc-800 text-zinc-400 hover:text-zinc-400'
                 }`}
               >
                 {diff}
@@ -276,11 +276,11 @@ export default function ExerciseList({
       </div>
 
       {/* RESULTS LIST SCREEN */}
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-3 max-h-[360px] overflow-y-auto pr-1 scrollbar-thin scrollbar-thumb-zinc-805">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-3 max-h-[360px] overflow-y-auto pr-1 scrollbar-thin scrollbar-thumb-zinc-800">
         {filteredExercises.length === 0 ? (
           <div className="col-span-2 text-center py-12 bg-[#0E0E0E] border border-zinc-800 rounded-2xl flex flex-col items-center justify-center">
             <AlertCircle className="w-8 h-8 text-zinc-600 mb-2" />
-            <p className="text-xs text-zinc-450 font-medium">Ningún ejercicio coincide con tu búsqueda.</p>
+            <p className="text-xs text-zinc-500 font-medium">Ningún ejercicio coincide con tu búsqueda.</p>
             <p className="text-[9px] text-zinc-500 mt-1">Intenta ajustando los filtros de músculo o equipamiento.</p>
           </div>
         ) : (
@@ -295,23 +295,23 @@ export default function ExerciseList({
                 onClick={() => onSelectExercise(isSelected ? null : e)}
                 className={`p-3.5 rounded-2xl border transition duration-200 cursor-pointer flex items-center justify-between shadow-sm relative overflow-hidden group ${
                   isSelected
-                    ? 'bg-[#0E0E0E] border-lime-500 ring-2 ring-lime-550/20'
+                    ? 'bg-[#0E0E0E] border-lime-500 ring-2 ring-lime-600/20'
                     : 'bg-[#0E0E0E]/60 hover:bg-[#0E0E0E] border-zinc-800 hover:border-zinc-700'
                 }`}
               >
                 <div className="flex-1">
                   <div className="flex items-center gap-2">
-                    <span className={`text-xs font-bold transition ${isSelected ? 'text-lime-450' : 'text-zinc-100 group-hover:text-lime-400'}`}>
+                    <span className={`text-xs font-bold transition ${isSelected ? 'text-lime-500' : 'text-zinc-100 group-hover:text-lime-400'}`}>
                       {e.name}
                     </span>
                     {e.difficulty === 'Avanzado' && (
                       <span className="text-[8px] font-bold text-lime-400 bg-lime-500/10 px-1 py-0.5 rounded-md uppercase">PRO</span>
                     )}
                   </div>
-                  <p className="text-[10px] text-zinc-450 mt-1 tracking-wide font-medium">({e.nameEn})</p>
+                  <p className="text-[10px] text-zinc-500 mt-1 tracking-wide font-medium">({e.nameEn})</p>
 
                   <div className="flex items-center gap-1.5 mt-2.5">
-                    <span className="text-[9px] font-bold text-zinc-350 bg-zinc-950/80 border border-zinc-800 px-2 py-0.5 rounded-md">
+                    <span className="text-[9px] font-bold text-zinc-400 bg-zinc-950/80 border border-zinc-800 px-2 py-0.5 rounded-md">
                       {MuscleGroupTranslation[e.primaryMuscle] || e.primaryMuscle}
                     </span>
                     <span className="text-[9px] font-medium text-zinc-400 bg-zinc-950/80 border border-zinc-800 px-2 py-0.5 rounded-md">
@@ -331,7 +331,7 @@ export default function ExerciseList({
                           onDeleteCustomExercise(e.id);
                         }
                       }}
-                      className="text-zinc-500 hover:text-rose-450 p-1.5 hover:bg-zinc-950 rounded-lg transition"
+                      className="text-zinc-500 hover:text-rose-500 p-1.5 hover:bg-zinc-950 rounded-lg transition"
                       title="Eliminar ejercicio personalizado"
                     >
                       <Trash className="w-3.5 h-3.5" />

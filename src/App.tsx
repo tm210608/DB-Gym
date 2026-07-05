@@ -441,7 +441,7 @@ export default function App() {
                             <div className="space-y-1.5">
                               <span className="text-[10px] uppercase font-bold text-zinc-500 block">Foco muscular:</span>
                               <div className="flex flex-wrap gap-1.5">
-                                <span className="text-[10px] font-bold text-lime-450 bg-lime-450/10 border border-lime-500/20 px-2.5 py-1 rounded-md">
+                                <span className="text-[10px] font-bold text-lime-500 bg-lime-500/10 border border-lime-500/20 px-2.5 py-1 rounded-md">
                                   Primario: {selectedExercise.primaryMuscle}
                                 </span>
                                 {selectedExercise.secondaryMuscles && selectedExercise.secondaryMuscles.map((sm, sidx) => (
@@ -455,12 +455,12 @@ export default function App() {
                             {/* Steps description list */}
                             <div className="space-y-2">
                               <span className="text-[10px] uppercase font-bold text-zinc-500 flex items-center gap-1">
-                                <BookOpen className="w-3.5 h-3.5 text-lime-450" /> Guía de Ejecución:
+                                <BookOpen className="w-3.5 h-3.5 text-lime-500" /> Guía de Ejecución:
                               </span>
                               <div className="max-h-[140px] overflow-y-auto space-y-2 pr-1 scrollbar-thin scrollbar-thumb-zinc-800 text-xs">
                                 {selectedExercise.instructions.map((inst, iIdx) => (
                                   <div key={iIdx} className="flex gap-2.5 items-start text-zinc-300 leading-relaxed">
-                                    <span className="font-mono font-black text-lime-400 bg-zinc-950 border border-zinc-850 px-1.5 py-0.5 rounded text-[10px] mt-0.5">{iIdx + 1}</span>
+                                    <span className="font-mono font-black text-lime-400 bg-zinc-950 border border-zinc-800 px-1.5 py-0.5 rounded text-[10px] mt-0.5">{iIdx + 1}</span>
                                     <p className="flex-1">{inst}</p>
                                   </div>
                                 ))}
@@ -480,7 +480,7 @@ export default function App() {
                                         id={`alt-badge-swap-${altId}`}
                                         key={altId}
                                         onClick={() => setSelectedExercise(altEx)}
-                                        className="text-[10px] font-semibold text-zinc-300 bg-zinc-950 hover:bg-zinc-900 px-2.5 py-1.5 rounded-lg border border-zinc-830 hover:border-zinc-700 transition text-left cursor-pointer"
+                                        className="text-[10px] font-semibold text-zinc-300 bg-zinc-950 hover:bg-zinc-900 px-2.5 py-1.5 rounded-lg border border-zinc-800 hover:border-zinc-700 transition text-left cursor-pointer"
                                       >
                                         🔄 {altEx.name}
                                       </button>

@@ -214,7 +214,7 @@ export default function ExerciseVisualizer({ exercise }: ExerciseVisualizerProps
   };
 
   return (
-    <div className="relative bg-zinc-950 border border-zinc-850 rounded-2xl p-4 overflow-hidden aspect-video flex items-center justify-center">
+    <div className="relative bg-zinc-950 border border-zinc-800 rounded-2xl p-4 overflow-hidden aspect-video flex items-center justify-center">
       {/* Absolute top tags */}
       <div className="absolute top-3 left-3 flex gap-2">
         <span className="text-[9px] font-bold uppercase tracking-wider bg-zinc-900 border border-zinc-800 text-zinc-400 px-2 py-0.5 rounded-md">

@@ -13,7 +13,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 // Body parser
 app.use(express.json());
@@ -101,7 +101,7 @@ Organiza tu respuesta usando formato Markdown elegante con secciones, negritas y
     });
 
     const response = await ai.models.generateContent({
-      model: "gemini-3.5-flash",
+      model: "gemini-2.0-flash",
       contents: contents,
       config: {
         systemInstruction,

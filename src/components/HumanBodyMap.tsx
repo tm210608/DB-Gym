@@ -28,9 +28,9 @@ export default function HumanBodyMap({
     const isSelected = selectedMuscle === muscle;
     const isHovered = hoveredGroup === muscle;
 
-    if (isPrimary) return 'fill-lime-400/90 stroke-lime-305 shadow shadow-lime-400/50';
+    if (isPrimary) return 'fill-lime-400/90 stroke-lime-300 shadow shadow-lime-400/50';
     if (isSecondary) return 'fill-lime-500/30 stroke-lime-500/60';
-    if (isSelected) return 'fill-zinc-350 stroke-zinc-200';
+    if (isSelected) return 'fill-zinc-400 stroke-zinc-200';
     if (isHovered) return 'fill-lime-400/50 stroke-lime-300 cursor-pointer';
     return 'fill-zinc-800 stroke-zinc-700 cursor-pointer hover:fill-zinc-700 transition-all duration-200';
   };
@@ -61,14 +61,14 @@ export default function HumanBodyMap({
     <div id="human-body-map-container" className="flex flex-col bg-[#0E0E0E] border border-zinc-800 rounded-2xl p-4 shadow-xl">
       <div className="flex justify-between items-center mb-4">
         <div>
-          <h3 className="text-sm font-bold text-zinc-150">Mapa Anatómico</h3>
+          <h3 className="text-sm font-bold text-zinc-200">Mapa Anatómico</h3>
           <p className="text-xs text-zinc-400">Filtra tocando un músculo</p>
         </div>
         {selectedMuscle && (
           <button
             id="clear-muscle-filter"
             onClick={() => onSelectMuscle(null)}
-            className="text-xs font-medium text-lime-455 hover:text-lime-350 bg-lime-400/10 border border-lime-500/15 px-2 py-1 rounded cursor-pointer"
+            className="text-xs font-medium text-lime-500 hover:text-lime-400 bg-lime-400/10 border border-lime-500/15 px-2 py-1 rounded cursor-pointer"
           >
             Ver todos
           </button>
@@ -276,20 +276,20 @@ export default function HumanBodyMap({
       <div className="mt-2 border-t border-zinc-800 pt-3 flex flex-wrap justify-center gap-x-3 gap-y-1.5">
         <div className="flex items-center gap-1">
           <div className="w-2 h-2 bg-lime-400 rounded-full" />
-          <span className="text-[10px] text-zinc-350 font-medium">Primario</span>
+          <span className="text-[10px] text-zinc-400 font-medium">Primario</span>
         </div>
         <div className="flex items-center gap-1">
           <div className="w-2 h-2 bg-lime-500/30 border border-lime-500/60 rounded-full" />
           <span className="text-[10px] text-zinc-300 font-medium">Secundario</span>
         </div>
         <div className="flex items-center gap-1">
-          <div className="w-2 h-2 bg-zinc-350 rounded-full" />
+          <div className="w-2 h-2 bg-zinc-400 rounded-full" />
           <span className="text-[10px] text-zinc-300 font-medium">Seleccionado</span>
         </div>
       </div>
 
       {hoveredGroup && (
-        <div className="text-center mt-2 bg-zinc-950 border border-zinc-850 py-1 rounded text-xs font-medium text-zinc-250">
+        <div className="text-center mt-2 bg-zinc-950 border border-zinc-800 py-1 rounded text-xs font-medium text-zinc-300">
           Enfoque: {muscles.find((m) => m.id === hoveredGroup)?.nameEs || hoveredGroup}
         </div>
       )}
