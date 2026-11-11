@@ -1,6 +1,6 @@
 {
   "version": "2.1.0",
-  "updatedAt": "2026-11-11T17:23:23.766Z",
+  "updatedAt": "2026-11-11T18:06:14.681Z",
   "totalExercises": 533,
   "endpoints": {
     "allExercises": "https://tm210608.github.io/DB-Gym/api/exercises.json",
