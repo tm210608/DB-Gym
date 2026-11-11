@@ -1,0 +1,54 @@
+name: SDD Validation & Static REST API Build
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'src/data/batches/**'
+      - 'scripts/**'
+      - 'build-full-animation-map.js'
+      - 'generate-html.js'
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  validate-and-build:
+    name: Validate SDD Invariants & Rebuild API v1
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 1. Consolidate Master Database from Batches
+        run: node scripts/consolidate-master-db.js
+
+      - name: 2. Match & Verify Biomechanical Animations (1,066 URLs)
+        run: node build-full-animation-map.js
+
+      - name: 3. Build Static REST API v1 Endpoints, Routines & SQL Dumps
+        run: node scripts/build-public-api.js
+
+      - name: 4. Build Interactive Web Explorer & Anatomical Map
+        run: node generate-html.js
+
+      - name: 5. Run Formal SDD Validator (INV-01 to INV-08)
+        run: node scripts/validate-db.js
+
+      - name: 6. Commit & Push Updated API Artifacts (if changed)
+        if: github.event_name == 'push'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add exercises.json src/data/exercises.ts animation_mappings.json visor_ejercicios.html docs/ sql/
+          git diff --staged --quiet || git commit -m "chore(ci): auto-rebuild static API v1, SQL dumps, and web explorer [skip ci]"
+          git push

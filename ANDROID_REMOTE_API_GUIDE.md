@@ -1,107 +1,143 @@
-# Guía de Conexión Remota Android (API Pública CDN + Caché Offline)
+# 📱 Guía de Integración Remota en Android (Kotlin + Jetpack Compose + API v2.2)
 
-Tu base de datos **DB-Gym v2.1 (533 ejercicios)** está publicada y accesible de forma remota y gratuita mediante CDN global.
-
----
-
-## 🌐 1. Endpoints Públicos Activos
-
-| Recurso | URL Remota (CDN jsDelivr - Alta Velocidad) |
-|---|---|
-| **Base de Datos Completa (533 ejercicios + imágenes + español)** | `https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/exercises.json` |
-| **Control de Versión (Ligero, <1 KB)** | `https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/version.json` |
-| **GitHub Raw (Alternativo directo)** | `https://raw.githubusercontent.com/tm210608/DB-Gym/main/exercises.json` |
+Esta guía documenta cómo conectar tu aplicación Android directamente a la **API REST Estática v2.2 de DB-Gym** alojada en **jsDelivr CDN** y **GitHub Pages**, o cómo pre-cargar la base de datos local con **Room / SQLite** usando `sql/exercises-sqlite.sql`.
 
 ---
 
-## 📦 2. Dependencias en `build.gradle.kts (Module: app)`
+## 🌐 1. URLs Base y Endpoints Remotos (v2.2)
 
-Añade Retrofit (para descargar el JSON remoto) y Coil (para cargar y cachear las imágenes del bucle animado):
+Usa **jsDelivr CDN** como URL base principal en producción (ofrece compresión Brotli automática, caché distribuido globalmente y 0 límites de peticiones):
 
 ```kotlin
-dependencies {
-    // Retrofit + Gson para conectar con la base de datos remota
-    implementation("com.squareup.retrofit2:retrofit:2.11.0")
-    implementation("com.squareup.retrofit2:converter-gson:2.11.0")
-
-    // Coil para cargar y cachear las imágenes animadas en Jetpack Compose
-    implementation("io.coil-kt:coil-compose:2.7.0")
-}
+const val DB_GYM_CDN_BASE = "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/"
 ```
 
-Asegúrate de tener el permiso de Internet en tu `AndroidManifest.xml`:
-```xml
-<uses-permission android:name="android.permission.INTERNET" />
-```
+| Endpoint Relativo | Descripción |
+| :--- | :--- |
+| `docs/api/v1/index.json` | Índice maestro con versión (`2.2.0`), conteos y catálogo de slugs de músculos, material y categorías. |
+| `docs/api/v1/exercises.json` | Catálogo completo de **533 ejercicios** con etiquetas en español, imágenes `0.jpg`/`1.jpg` y `substitutes`. |
+| `docs/api/v1/routines.json` | **8 Plantillas de Rutinas Oficiales** estructuradas en 3 bloques (`warmup`, `main`, `cooldown`). |
+| `docs/api/v1/muscles/{slug}.json` | Ejercicios filtrados por músculo (`chest`, `back`, `lats`, `shoulders`, `biceps`, `triceps`, `quads`, `hamstrings`, `glutes`, `calves`, `abs`, `lowerback`, `traps`, `forearms`, `adductors`, `abductors`, `hipflexors`, `serratus`, `cardio`). |
+| `docs/api/v1/equipment/{slug}.json` | Ejercicios filtrados por equipamiento (`dumbbell`, `barbell`, `cable`, `machine`, `bodyweight`, `kettlebell`, `trx`, `band`, `foamroller`, `ezbar`, `smithmachine`, `rings`, etc.). |
+| `docs/api/v1/categories/{slug}.json` | Ejercicios filtrados por categoría (`hipertrofia`, `fuerza`, `calistenia`, `movilidad`, `calentamiento`, `foamrolling`, `olimpico`, `pliometrico`, `rehabilitacion`, `cardio`, etc.). |
 
 ---
 
-## 📱 3. Modelos de Datos y Cliente Remoto (`GymRemoteApi.kt`)
+## 📦 2. Modelos de Datos (Kotlin + Kotlinx Serialization / Gson)
 
 ```kotlin
-package com.tuapp.gym.data.remote
+package com.tuapp.gym.data.remote.dto
 
-import retrofit2.Retrofit
-import retrofit2.converter.gson.GsonConverterFactory
-import retrofit2.http.GET
+import kotlinx.serialization.Serializable
 
+@Serializable
+data class SubstituteDto(
+    val id: String,
+    val name: String,
+    val nameEn: String? = null,
+    val equipment: String,
+    val equipmentEs: String,
+    val primaryMuscle: String,
+    val primaryMuscleEs: String,
+    val images: List<String> = emptyList()
+)
+
+@Serializable
 data class ExerciseDto(
     val id: String,
     val name: String,
-    val nameEn: String?,
+    val nameEn: String? = null,
+    val category: String,
     val primaryMuscle: String,
     val primaryMuscleEs: String,
     val secondaryMuscles: List<String> = emptyList(),
     val secondaryMusclesEs: List<String> = emptyList(),
+    val stabilizers: List<String> = emptyList(),
     val stabilizersEs: List<String> = emptyList(),
     val equipment: String,
     val equipmentEs: String,
     val difficulty: String,
-    val category: String,
-    val mechanics: String?,
-    val movementPattern: String?,
-    val isUnilateral: Boolean = false,
-    val trackingType: String?,
+    val mechanics: String,
+    val movementPattern: String,
+    val forceType: String,
+    val unilateral: Boolean = false,
+    val description: String = "",
     val instructions: List<String> = emptyList(),
-    val tips: List<String> = emptyList(),
-    val breathingCue: String?,
-    val alternatives: List<String> = emptyList(),
-    val images: List<String> = emptyList() // Contiene las 2 URLs [0.jpg, 1.jpg] para el bucle
+    val commonMistakes: List<String> = emptyList(),
+    val images: List<String> = emptyList(),
+    val substitutes: List<SubstituteDto> = emptyList()
 )
 
-data class DbVersionDto(
-    val version: String,
-    val updatedAt: String,
-    val totalExercises: Int
+@Serializable
+data class RoutineExerciseItemDto(
+    val exerciseId: String,
+    val name: String,
+    val primaryMuscleEs: String,
+    val equipmentEs: String,
+    val sets: Int,
+    val reps: String,
+    val restSeconds: Int,
+    val rpe: Int,
+    val images: List<String> = emptyList(),
+    val substitutes: List<SubstituteDto> = emptyList()
 )
 
-interface GymRemoteApi {
+@Serializable
+data class RoutineBlocksDto(
+    val warmup: List<RoutineExerciseItemDto> = emptyList(),
+    val main: List<RoutineExerciseItemDto> = emptyList(),
+    val cooldown: List<RoutineExerciseItemDto> = emptyList()
+)
 
-    @GET("docs/api/version.json")
-    suspend fun getVersion(): DbVersionDto
+@Serializable
+data class OfficialRoutineDto(
+    val id: String,
+    val name: String,
+    val nameEn: String,
+    val goal: String,
+    val level: String,
+    val durationMinutes: Int,
+    val targetMusclesEs: List<String> = emptyList(),
+    val blocks: RoutineBlocksDto
+)
+```
 
-    @GET("exercises.json")
+---
+
+## 🔌 3. Interfaz Retrofit (`GymApiService.kt`)
+
+```kotlin
+package com.tuapp.gym.data.remote
+
+import com.tuapp.gym.data.remote.dto.ExerciseDto
+import com.tuapp.gym.data.remote.dto.OfficialRoutineDto
+import retrofit2.http.GET
+import retrofit2.http.Path
+
+interface GymApiService {
+
+    @GET("docs/api/v1/exercises.json")
     suspend fun getAllExercises(): List<ExerciseDto>
 
-    companion object {
-        private const val BASE_URL = "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/"
+    @GET("docs/api/v1/muscles/{slug}.json")
+    suspend fun getExercisesByMuscle(@Path("slug") muscleSlug: String): List<ExerciseDto>
 
-        fun create(): GymRemoteApi {
-            return Retrofit.Builder()
-                .baseUrl(BASE_URL)
-                .addConverterFactory(GsonConverterFactory.create())
-                .build()
-                .create(GymRemoteApi::class.java)
-        }
-    }
+    @GET("docs/api/v1/equipment/{slug}.json")
+    suspend fun getExercisesByEquipment(@Path("slug") equipmentSlug: String): List<ExerciseDto>
+
+    @GET("docs/api/v1/categories/{slug}.json")
+    suspend fun getExercisesByCategory(@Path("slug") categorySlug: String): List<ExerciseDto>
+
+    @GET("docs/api/v1/routines.json")
+    suspend fun getOfficialRoutines(): List<OfficialRoutineDto>
 }
 ```
 
 ---
 
-## 🎬 4. Componente Jetpack Compose para Animación en Bucle (`ExerciseAnimatedImage.kt`)
+## 🎬 4. Componente Jetpack Compose para la Animación en Bucle (`0.jpg` ⇄ `1.jpg`)
 
-Este Composable descarga y guarda en caché las 2 fases del ejercicio y las alterna cada segundo exactamente igual que en el visor web:
+Cada ejercicio trae 2 fotogramas verificados en `images`. Este Composable alterna automáticamente cada `1000ms` usando **Coil (`AsyncImage`)**:
 
 ```kotlin
 package com.tuapp.gym.ui.components
@@ -109,40 +145,31 @@ package com.tuapp.gym.ui.components
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.layout.ContentScale
-import androidx.compose.ui.platform.LocalContext
 import coil.compose.AsyncImage
-import coil.request.CachePolicy
-import coil.request.ImageRequest
 import kotlinx.coroutines.delay
 
 @Composable
 fun ExerciseAnimatedImage(
     images: List<String>,
-    contentDescription: String,
-    modifier: Modifier = Modifier
+    contentDescription: String?,
+    modifier: Modifier = Modifier,
+    intervalMs: Long = 1000L
 ) {
-    if (images.isEmpty()) return
+    var frameIndex by remember(images) { mutableIntStateOf(0) }
 
-    var currentFrame by remember { mutableIntStateOf(0) }
-    val context = LocalContext.current
-
-    // Alterna entre 0.jpg y 1.jpg cada 1000 ms
     LaunchedEffect(images) {
-        if (images.size > 1) {
+        if (images.size >= 2) {
             while (true) {
-                delay(1000L)
-                currentFrame = (currentFrame + 1) % images.size
+                delay(intervalMs)
+                frameIndex = (frameIndex + 1) % images.size
             }
         }
     }
 
+    val currentUrl = images.getOrNull(frameIndex) ?: images.firstOrNull()
+
     AsyncImage(
-        model = ImageRequest.Builder(context)
-            .data(images[currentFrame])
-            .diskCachePolicy(CachePolicy.ENABLED)
-            .memoryCachePolicy(CachePolicy.ENABLED)
-            .crossfade(false)
-            .build(),
+        model = currentUrl,
         contentDescription = contentDescription,
         contentScale = ContentScale.Crop,
         modifier = modifier
@@ -152,29 +179,16 @@ fun ExerciseAnimatedImage(
 
 ---
 
-## 🔄 5. Sincronización Inteligente (Remoto + Caché Local)
+## 🔄 5. Cómo implementar el botón «Máquina Ocupada / Sustituir» en tu App
 
-Para que tu app no descargue el archivo cada vez que se abre, comprueba primero `getVersion()`:
+Gracias al campo pre-calculado `exercise.substitutes`, cambiar un ejercicio cuando una máquina está ocupada en el gimnasio no requiere cálculos complejos en el cliente:
 
 ```kotlin
-class ExerciseSyncManager(
-    private val api: GymRemoteApi,
-    private val prefs: SharedPreferences
-) {
-    suspend fun syncIfNeeded(onNewData: suspend (List<ExerciseDto>) -> Unit) {
-        try {
-            val remoteVersion = api.getVersion()
-            val localVersion = prefs.getString("db_version", "")
-
-            if (remoteVersion.version != localVersion) {
-                val exercises = api.getAllExercises()
-                onNewData(exercises)
-                prefs.edit().putString("db_version", remoteVersion.version).apply()
-            }
-        } catch (e: Exception) {
-            // Si no hay internet, la app sigue funcionando con los datos guardados localmente
-            e.printStackTrace()
-        }
+fun onBusyMachineClicked(currentExercise: ExerciseDto, onSwap: (String) -> Unit) {
+    val bestSubstitute = currentExercise.substitutes.firstOrNull()
+    if (bestSubstitute != null) {
+        // Reemplaza por la alternativa número 1 con distinto equipamiento
+        onSwap(bestSubstitute.id)
     }
 }
 ```

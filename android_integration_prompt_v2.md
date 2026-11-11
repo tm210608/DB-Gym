@@ -1,67 +1,40 @@
-# Prompt de Integración para Android Studio / Google AI Studio (DB-Gym v2.0)
+# 🤖 Prompt Maestro para Integrar DB-Gym API v2.2 en Android Studio
 
-Copia y pega el siguiente prompt en el agente de **Android Studio** (Gemini en Android Studio) o **Google AI Studio** para generar todo el código de integración de la base de datos de ejercicios:
+Copia y pega este bloque en el asistente de IA de tu proyecto Android (o úsalo como especificación técnica) para integrar la base de datos remota **DB-Gym v2.2**:
 
 ---
 
 ```markdown
-Eres un Arquitecto Senior de Android especializado en Kotlin, Jetpack Compose y Room Database.
-Necesito integrar una base de datos local pre-empaquetada de 533 ejercicios de gimnasio en mi aplicación Android nativa.
+Quiero integrar en mi app Android (Kotlin + Jetpack Compose + Retrofit + Coil + Room) la API pública estática **DB-Gym v2.2** alojada en `https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/`.
 
-El archivo de datos es un JSON estructurado ubicado en `app/src/main/assets/exercises.json` que sigue la especificación SDD v2.0.
+### 1. Endpoints disponibles en la API (Base URL: `https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/`):
+- `GET docs/api/v1/index.json` -> Índice con versión `2.2.0`, conteos y lista de slugs de músculos, equipamiento y categorías.
+- `GET docs/api/v1/exercises.json` -> Catálogo completo de 533 ejercicios bilingües.
+- `GET docs/api/v1/muscles/{slug}.json` -> Ejercicios por músculo (`chest`, `back`, `lats`, `shoulders`, `biceps`, `triceps`, `quads`, `hamstrings`, `glutes`, `calves`, `abs`, `lowerback`, `traps`, `forearms`, `adductors`, `abductors`, `hipflexors`, `serratus`, `cardio`).
+- `GET docs/api/v1/equipment/{slug}.json` -> Ejercicios por material (`dumbbell`, `barbell`, `cable`, `machine`, `bodyweight`, `kettlebell`, `trx`, `band`, `foamroller`, `ezbar`, `smithmachine`, `rings`, etc.).
+- `GET docs/api/v1/categories/{slug}.json` -> Ejercicios por categoría (`hipertrofia`, `fuerza`, `calistenia`, `movilidad`, `calentamiento`, `foamrolling`, `olimpico`, `pliometrico`, `rehabilitacion`, `cardio`).
+- `GET docs/api/v1/routines.json` -> 8 plantillas de rutinas oficiales divididas en 3 bloques (`warmup`, `main`, `cooldown`).
 
-Cada ejercicio tiene la siguiente estructura JSON de ejemplo:
-{
-  "id": "barbell-bench-press",
-  "name": "Press de Banca con Barra",
-  "nameEn": "Barbell Bench Press",
-  "primaryMuscle": "Chest",
-  "secondaryMuscles": ["Shoulders", "Triceps"],
-  "stabilizers": ["Abs", "Lats"],
-  "equipment": "Barbell",
-  "difficulty": "Intermedio",
-  "category": "Fuerza",
-  "mechanics": "Compuesto",
-  "movementPattern": "Empuje Horizontal",
-  "isUnilateral": false,
-  "trackingType": "Peso×Reps",
-  "planeOfMotion": "Sagital",
-  "forceType": "Empuje",
-  "instructions": [
-    "Acuéstate sobre el banco plano...",
-    "Sujeta la barra con agarre prono...",
-    "Desciende la barra controladamente...",
-    "Empuja con fuerza de regreso..."
-  ],
-  "tips": ["Mantén los codos en un ángulo aproximado de 45° a 75°."],
-  "breathingCue": "Inhala en el descenso; exhala al empujar.",
-  "alternatives": ["dumbbell-bench-press"]
-}
+### 2. Estructura JSON de cada ejercicio (`ExerciseDto`):
+- `id`: String (ej. `"barbell-bench-press"`)
+- `name`: String en español (ej. `"Press de Banca con Barra"`)
+- `nameEn`: String en inglés (ej. `"Barbell Bench Press"`)
+- `category`: String (`"Fuerza"`, `"Hipertrofia"`, `"Calistenia"`, `"Movilidad"`, `"Calentamiento"`, `"FoamRolling"`, etc.)
+- `primaryMuscle`: String (`"Chest"`, `"Back"`, `"Quads"`, etc.)
+- `primaryMuscleEs`: String en español (`"Pecho / Pectoral"`, `"Espalda / Dorsal"`, etc.)
+- `secondaryMuscles` / `secondaryMusclesEs`: List<String>
+- `equipment`: String / `equipmentEs`: String en español (`"Barra Olímpica"`, `"Mancuernas"`, `"Polea con Cable"`, etc.)
+- `difficulty`: String (`"Principiante"`, `"Intermedio"`, `"Avanzado"`)
+- `mechanics`: String (`"Compuesto"`, `"Aislamiento"`)
+- `movementPattern`: String
+- `instructions`: List<String> (pasos en español)
+- `commonMistakes`: List<String> (errores comunes a evitar)
+- `images`: List<String> (2 URLs verificadas `0.jpg` y `1.jpg` que deben alternarse cada 1000ms en un Composable para mostrar el ejercicio en movimiento)
+- `substitutes`: List<SubstituteDto> (3 ejercicios alternativos pre-calculados con distinto equipamiento para el botón "🔄 Máquina Ocupada / Sustituir")
 
-Por favor, genera el código completo, modular y listo para compilar con la arquitectura Clean / MVI recomendada por Google:
-
-1. **Entity de Room (`ExerciseEntity.kt`)**:
-   - Clave primaria: `id: String`.
-   - Campos para todos los atributos del JSON con tipos seguros (Enums de Kotlin para `MuscleGroup`, `EquipmentType`, `DifficultyLevel`, `ExerciseCategory`, `MovementPattern`, `TrackingType`).
-   - `TypeConverters` con Gson o kotlinx.serialization para serializar listas de strings (`instructions`, `tips`, `alternatives`, `secondaryMuscles`, `stabilizers`).
-
-2. **DAO (`ExerciseDao.kt`)**:
-   - `getAllExercises(): Flow<List<ExerciseEntity>>`
-   - `getExerciseById(id: String): Flow<ExerciseEntity?>`
-   - `getExercisesByCategory(category: String): Flow<List<ExerciseEntity>>`
-   - `getExercisesByPrimaryMuscle(muscle: String): Flow<List<ExerciseEntity>>`
-   - `searchExercises(query: String): Flow<List<ExerciseEntity>>`
-   - `getAlternativesForExercise(altIds: List<String>): Flow<List<ExerciseEntity>>`
-   - Inserción masiva: `@Insert(onConflict = OnConflictStrategy.REPLACE) suspend fun insertAll(exercises: List<ExerciseEntity>)`
-
-3. **Database Pre-populate Callback (`GymDatabase.kt`)**:
-   - Configuración de RoomDatabase con un `RoomDatabase.Callback()` que, en el método `onCreate`, lea de forma asíncrona mediante corrutinas el archivo `exercises.json` desde `context.assets` y haga el seed inicial masivo en la tabla.
-
-4. **Repository (`ExerciseRepository.kt` e `ExerciseRepositoryImpl.kt`)**:
-   - Expone los flujos (`Flow`) con estados limpios.
-
-5. **Pantalla en Jetpack Compose (`ExerciseCatalogScreen.kt`)**:
-   - Barra de búsqueda con filtrado en tiempo real.
-   - Chips deslizables horizontales para filtrar por Categoría (Fuerza, Hipertrofia, Calistenia, Movilidad, Kettlebell, etc.).
-   - Tarjetas de ejercicio modernas con Material3 que muestren nombre, músculo primario, equipamiento, dificultad y badges para "Compuesto" / "Unilateral".
+### 3. Tareas a implementar:
+1. Crear los DTOs (`ExerciseDto`, `SubstituteDto`, `OfficialRoutineDto`), la interfaz `GymApiService` con Retrofit y un repositorio con caché offline en Room.
+2. Crear el Composable `ExerciseAnimatedImage(images: List<String>)` que alterne entre `images[0]` e `images[1]` cada 1000ms usando Coil.
+3. Crear la pantalla de Catálogo con filtro por Músculo (`primaryMuscleEs`), Equipamiento (`equipmentEs`) y buscador.
+4. Crear la pantalla de Rutinas que permita cargar las plantillas de `docs/api/v1/routines.json` y pulsar el botón "🔄 Máquina Ocupada" en cualquier ejercicio para reemplazarlo instantáneamente por `exercise.substitutes.first()`.
 ```
