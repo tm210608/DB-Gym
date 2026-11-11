@@ -1,0 +1,815 @@
+[
+  {
+    "id": "adductor-machine",
+    "name": "Aductores en Máquina Sentado",
+    "nameEn": "Seated Hip Adductor Machine",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Empuje",
+    "instructions": [
+      "Siéntate en la máquina de aducción ajustando las almohadillas por la parte interna de las rodillas.",
+      "Abre las piernas a un rango cómodo donde sientas un estiramiento suave en la cara interna de los muslos.",
+      "Junta las rodillas empujando hacia el centro contrayendo los aductores de forma controlada.",
+      "Pausa un segundo en el cierre y abre las piernas despacio resistiendo el peso."
+    ],
+    "tips": [
+      "Refuerza la estabilidad de la pelvis en sentadillas pesadas y cambios de dirección deportivos."
+    ],
+    "breathingCue": "Exhala al cerrar las piernas al centro; inhala al abrir.",
+    "alternatives": [
+      "abductor-machine"
+    ],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "foam-roll-adductors",
+        "name": "Liberación de Aductores en Posición de Rana",
+        "nameEn": "Foam Rolling Adductor Complex",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-hip-adduction-cable",
+        "name": "Aducción de Cadera de Pie en Polea",
+        "nameEn": "Standing Cable Hip Adduction",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+        ]
+      },
+      {
+        "id": "frog-stretch-mobility",
+        "name": "Postura de la Rana (Frog Stretch)",
+        "nameEn": "Frog Mobility Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "copenhagen-plank",
+    "name": "Plancha Copenhague para Aductores",
+    "nameEn": "Copenhagen Adductor Plank",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [
+      "Abs"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "LowerBack"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Inicia en la posición base de plancha copenhague para aductores asegurando el anclaje firme.",
+      "Ejecuta el desplazamiento o flexión activa contrayendo con intención el músculo principal.",
+      "Retorna bajo control excéntrico sin rebotes articulares."
+    ],
+    "tips": [
+      "Evita el balanceo por inercia para aislar el trabajo en la musculatura diana."
+    ],
+    "breathingCue": "Exhala en el esfuerzo de cierre; inhala en la fase de extensión.",
+    "alternatives": [],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Antebrazos",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "frog-stretch-mobility",
+    "name": "Postura de la Rana (Frog Stretch)",
+    "nameEn": "Frog Mobility Stretch",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [
+      "HipFlexors",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de postura de la rana (frog stretch) sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "adductor-machine",
+        "name": "Aductores en Máquina Sentado",
+        "nameEn": "Seated Hip Adductor Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-adductors",
+        "name": "Liberación de Aductores en Posición de Rana",
+        "nameEn": "Foam Rolling Adductor Complex",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-hip-adduction-cable",
+        "name": "Aducción de Cadera de Pie en Polea",
+        "nameEn": "Standing Cable Hip Adduction",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-straddle-stretch",
+    "name": "Apertura Sentada en Straddle",
+    "nameEn": "Seated Straddle Pancake Stretch",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de apertura sentada en straddle sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/The_Straddle/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/The_Straddle/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "seated-butterfly-stretch",
+        "name": "Postura de la Mariposa Sentado",
+        "nameEn": "Seated Butterfly Adductor Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cossack-squat-mobility",
+    "name": "Sentadilla Cosaca de Movilidad Lateral",
+    "nameEn": "Cossack Squat Mobility Flow",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [
+      "Quads",
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de sentadilla cosaca de movilidad lateral sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Glúteos",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groin_and_Back_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groin_and_Back_Stretch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-cossack-press",
+        "name": "Sentadilla Cosaca con Press Frontal de Pesa Rusa",
+        "nameEn": "Kettlebell Cossack Squat with Press-Out",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "trx-cossack-squat-assisted",
+        "name": "Sentadilla Cosaca Lateral Asistida en TRX",
+        "nameEn": "TRX Assisted Lateral Cossack Squat",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-butterfly-stretch",
+    "name": "Postura de la Mariposa Sentado",
+    "nameEn": "Seated Butterfly Adductor Stretch",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de postura de la mariposa sentado sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "seated-straddle-stretch",
+        "name": "Apertura Sentada en Straddle",
+        "nameEn": "Seated Straddle Pancake Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/The_Straddle/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/The_Straddle/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leg-swings-side-to-side",
+    "name": "Balanceos de Pierna Laterales",
+    "nameEn": "Side-to-Side Dynamic Leg Swings",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [
+      "Abductors",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de balanceos de pierna laterales a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [
+      "Abductores (Glúteo Medio)",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "adductor-machine",
+        "name": "Aductores en Máquina Sentado",
+        "nameEn": "Seated Hip Adductor Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-adductors",
+        "name": "Liberación de Aductores en Posición de Rana",
+        "nameEn": "Foam Rolling Adductor Complex",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-hip-adduction-cable",
+        "name": "Aducción de Cadera de Pie en Polea",
+        "nameEn": "Standing Cable Hip Adduction",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foam-roll-adductors",
+    "name": "Liberación de Aductores en Posición de Rana",
+    "nameEn": "Foam Rolling Adductor Complex",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "FoamRoller",
+    "difficulty": "Principiante",
+    "category": "FoamRolling",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Coloca el rodillo o pelota bajo el área muscular diana de liberación de aductores en posición de rana.",
+      "Rueda lentamente buscando zonas de mayor tensión o nudos musculares (puntos gatillo).",
+      "Al localizar un punto sensible, sostén la presión fija durante 30 a 60 segundos respirando hondo."
+    ],
+    "tips": [
+      "Nunca ruedes directamente sobre articulaciones, huesos prominentes o la zona lumbar sin apoyo pélvico."
+    ],
+    "breathingCue": "Exhala largo y relajado mientras permites que el músculo ceda a la presión del rodillo.",
+    "alternatives": [
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Rodillo de Espuma",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "adductor-machine",
+        "name": "Aductores en Máquina Sentado",
+        "nameEn": "Seated Hip Adductor Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-hip-adduction-cable",
+        "name": "Aducción de Cadera de Pie en Polea",
+        "nameEn": "Standing Cable Hip Adduction",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+        ]
+      },
+      {
+        "id": "frog-stretch-mobility",
+        "name": "Postura de la Rana (Frog Stretch)",
+        "nameEn": "Frog Mobility Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-cossack-press",
+    "name": "Sentadilla Cosaca con Press Frontal de Pesa Rusa",
+    "nameEn": "Kettlebell Cossack Squat with Press-Out",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [
+      "Quads",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para sentadilla cosaca con press frontal de pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "cossack-squat-mobility",
+        "name": "Sentadilla Cosaca de Movilidad Lateral",
+        "nameEn": "Cossack Squat Mobility Flow",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groin_and_Back_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groin_and_Back_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "trx-cossack-squat-assisted",
+        "name": "Sentadilla Cosaca Lateral Asistida en TRX",
+        "nameEn": "TRX Assisted Lateral Cossack Squat",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "standing-hip-adduction-cable",
+    "name": "Aducción de Cadera de Pie en Polea",
+    "nameEn": "Standing Cable Hip Adduction",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para aducción de cadera de pie en polea con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en adductors.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "adductor-machine",
+        "name": "Aductores en Máquina Sentado",
+        "nameEn": "Seated Hip Adductor Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-adductors",
+        "name": "Liberación de Aductores en Posición de Rana",
+        "nameEn": "Foam Rolling Adductor Complex",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/1.jpg"
+        ]
+      },
+      {
+        "id": "frog-stretch-mobility",
+        "name": "Postura de la Rana (Frog Stretch)",
+        "nameEn": "Frog Mobility Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-cossack-squat-assisted",
+    "name": "Sentadilla Cosaca Lateral Asistida en TRX",
+    "nameEn": "TRX Assisted Lateral Cossack Squat",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [
+      "Quads",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para sentadilla cosaca lateral asistida en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "cossack-squat-mobility",
+        "name": "Sentadilla Cosaca de Movilidad Lateral",
+        "nameEn": "Cossack Squat Mobility Flow",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groin_and_Back_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groin_and_Back_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "kettlebell-cossack-press",
+        "name": "Sentadilla Cosaca con Press Frontal de Pesa Rusa",
+        "nameEn": "Kettlebell Cossack Squat with Press-Out",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/1.jpg"
+        ]
+      }
+    ]
+  }
+]

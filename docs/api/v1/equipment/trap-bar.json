@@ -1,0 +1,273 @@
+[
+  {
+    "id": "trap-bar-jump-shrug",
+    "name": "Salto con Encogimiento en Barra Hexagonal (Jump Shrug)",
+    "nameEn": "Trap Bar Jump Shrug Power Pull",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Quads",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Trap Bar",
+    "difficulty": "Avanzado",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para salto con encogimiento en barra hexagonal (jump shrug).",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Hexagonal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "clean-pull-barbell",
+        "name": "Tirón de Cargada Pesado (Clean Pull)",
+        "nameEn": "Barbell Heavy Clean Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "snatch-pull-barbell",
+        "name": "Tirón de Arrancada con Agarre Ancho",
+        "nameEn": "Barbell Snatch Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "muscle-clean-barbell",
+        "name": "Muscle Clean de Calentamiento sin Flexión de Rodillas",
+        "nameEn": "Barbell Muscle Clean Warmup Drill",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trap-bar-deadlift-high-handles",
+    "name": "Peso Muerto en Barra Hexagonal (Asas Altas)",
+    "nameEn": "Trap Bar Deadlift High Handles",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings",
+      "Traps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Trap Bar",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para peso muerto en barra hexagonal (asas altas).",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Isquiotibiales / Femoral",
+      "Trapecio",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Hexagonal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "hack-squat",
+        "name": "Sentadilla Hack en Máquina",
+        "nameEn": "Hack Squat Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "leg-press",
+        "name": "Prensa de Pierna de 45 Grados",
+        "nameEn": "Leg Press",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trap-bar-deadlift-low-handles",
+    "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+    "nameEn": "Trap Bar Deadlift Low Handles",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Quads",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Trap Bar",
+    "difficulty": "Intermedio",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para peso muerto en barra hexagonal (asas bajas).",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Cuádriceps",
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Hexagonal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "stiff-leg-deadlift-deficit",
+        "name": "Peso Muerto Piernas Semirrígidas con Déficit",
+        "nameEn": "Deficit Stiff-Legged Barbell Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Barbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Barbell_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  }
+]

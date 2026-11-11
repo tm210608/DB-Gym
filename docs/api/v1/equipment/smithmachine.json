@@ -1,0 +1,346 @@
+[
+  {
+    "id": "smith-machine-incline-press",
+    "name": "Press Inclinado en Máquina Smith",
+    "nameEn": "Smith Machine Incline Bench Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "SmithMachine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para press inclinado en máquina smith.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina Smith / Multipower",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Incline_Bench_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Incline_Bench_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "smith-machine-flat-press",
+    "name": "Press Plano en Máquina Smith",
+    "nameEn": "Smith Machine Flat Bench Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "SmithMachine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para press plano en máquina smith.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina Smith / Multipower",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Bench_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Bench_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reverse-lunge-smith-machine",
+    "name": "Zancada Inversa en Máquina Smith",
+    "nameEn": "Smith Machine Reverse Lunge",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "SmithMachine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para zancada inversa en máquina smith.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina Smith / Multipower",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "step-up-dumbbells-high-box",
+        "name": "Subidas a Cajón Alto con Mancuernas",
+        "nameEn": "High Box Step-Up with Dumbbells",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/1.jpg"
+        ]
+      },
+      {
+        "id": "banded-lateral-monster-walk",
+        "name": "Caminata Lateral de Monstruo con Banda en Rodillas",
+        "nameEn": "Banded Lateral Monster Walk",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/1.jpg"
+        ]
+      },
+      {
+        "id": "kettlebell-curtsy-lunge",
+        "name": "Zancada de Reverencia con Pesa Rusa",
+        "nameEn": "Kettlebell Curtsy Lunge",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "smith-machine-standing-calf-raise",
+    "name": "Elevación de Talones de Pie en Máquina Smith",
+    "nameEn": "Smith Machine Standing Calf Raise on Block",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "SmithMachine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para elevación de talones de pie en máquina smith.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina Smith / Multipower",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "donkey-calf-raise-machine",
+        "name": "Elevación de Gemelos Estilo Burro (Donkey Calf)",
+        "nameEn": "Donkey Calf Raise Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/1.jpg"
+        ]
+      },
+      {
+        "id": "leg-press-calf-raise",
+        "name": "Elevación de Talones en Prensa de Piernas",
+        "nameEn": "Leg Press Toe Press / Calf Raise",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press_On_The_Leg_Press_Machine/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press_On_The_Leg_Press_Machine/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-calf-raise",
+        "name": "Elevación de Gemelos de Pie con Barra",
+        "nameEn": "Standing Barbell Calf Raise",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/1.jpg"
+        ]
+      }
+    ]
+  }
+]

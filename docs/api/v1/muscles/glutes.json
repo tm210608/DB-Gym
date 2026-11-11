@@ -1,0 +1,3926 @@
+[
+  {
+    "id": "barbell-hip-thrust",
+    "name": "Hip Thrust con Barra",
+    "nameEn": "Barbell Hip Thrust",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Principiante",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Apoya tu espalda escapular alta firmemente contra el borde largo de un banco resistente.",
+      "Coloca la barra acolchada justo sobre el pliegue de tu pelvis.",
+      "Posiciona las rodillas de tal manera que a 90 grados apoyes firmemente la planta entera sobre el suelo.",
+      "Empuja la cadera hacia arriba apretando los glúteos de manera que queden alineados con rodillas e inserciones.",
+      "Baja controlando el peso a escasos centímetros del suelo."
+    ],
+    "alternatives": [
+      "dumbbell-glute-bridge",
+      "romanian-deadlift"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "cable-pull-through-glutes",
+        "name": "Pull-Through en Polea Baja con Cuerda para Glúteos",
+        "nameEn": "Low Cable Pull-Through for Glutes",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/1.jpg"
+        ]
+      },
+      {
+        "id": "single-leg-hip-thrust-bench",
+        "name": "Hip Thrust a Una Pierna en Banco con Mancuerna",
+        "nameEn": "Single-Leg Dumbbell Hip Thrust",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dumbbell-glute-bridge",
+    "name": "Puente de Glúteos con Mancuerna",
+    "nameEn": "Dumbbell Glute Bridge",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Acuéstate boca arriba con rodillas dobladas y pies apoyados en el suelo.",
+      "Coloca una mancuerna sobre tu pelvis.",
+      "Eleva la pelvis contrayendo los glúteos formando una línea recta desde los hombros a las rodillas.",
+      "Baja despacio."
+    ],
+    "alternatives": [
+      "barbell-hip-thrust"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "cable-pull-through-glutes",
+        "name": "Pull-Through en Polea Baja con Cuerda para Glúteos",
+        "nameEn": "Low Cable Pull-Through for Glutes",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cable-kickback",
+    "name": "Patada de Glúteo en Polea",
+    "nameEn": "Cable Glute Kickback",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Intermedio",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Coloca una tobillera a tu pie y conéctala a la polea baja.",
+      "Sostén el marco de la polea inclinado un poco adelante.",
+      "Patea el pie hacia atrás y hacia arriba contrayendo el glúteo.",
+      "Regresa despacio."
+    ],
+    "alternatives": [
+      "barbell-hip-thrust",
+      "dumbbell-glute-bridge"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Kickback/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Kickback/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hip-thrust-barbell",
+    "name": "Hip Thrust con Barra (Empuje de Cadera)",
+    "nameEn": "Barbell Hip Thrust",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack",
+      "Adductors"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Siéntate en el suelo con la espalda alta (borde inferior de las escápulas) apoyada contra un banco acolchado firme.",
+      "Haz rodar una barra cargada con protector sobre tus muslos hasta ubicarla sobre el pliegue de las caderas.",
+      "Coloca los pies firmes en el suelo de modo que, al elevar la cadera, las espinillas queden totalmente verticales a 90 grados.",
+      "Empuja a través de los talones extendiendo las caderas hacia arriba hasta alinear torso y muslos paralelos al suelo.",
+      "Aprieta los glúteos en la cima un segundo con retroversión pélvica y desciende controladamente sin arquear el cuello."
+    ],
+    "tips": [
+      "Mantén la mirada al frente hacia las rodillas, no mires al techo para evitar la hiperextensión lumbar."
+    ],
+    "breathingCue": "Exhala con fuerza al empujar la cadera hacia arriba; inhala al bajar al suelo.",
+    "alternatives": [
+      "glute-bridge-barbell"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar",
+      "Aductores (Cara Interna)"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "cable-pull-through-glutes",
+        "name": "Pull-Through en Polea Baja con Cuerda para Glúteos",
+        "nameEn": "Low Cable Pull-Through for Glutes",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/1.jpg"
+        ]
+      },
+      {
+        "id": "single-leg-hip-thrust-bench",
+        "name": "Hip Thrust a Una Pierna en Banco con Mancuerna",
+        "nameEn": "Single-Leg Dumbbell Hip Thrust",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glute-bridge-barbell",
+    "name": "Puente de Glúteos con Barra en el Suelo",
+    "nameEn": "Barbell Glute Bridge",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Principiante",
+    "category": "Fuerza",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Acuéstate boca arriba en el suelo con las rodillas dobladas y los pies planos al suelo a la anchura de las caderas.",
+      "Coloca la barra protegida sobre las caderas sosteniéndola con ambas manos para evitar que ruede.",
+      "Eleva las caderas despegando los glúteos del piso hasta que los muslos queden en línea con el torso.",
+      "Contrae intensamente los glúteos en el punto alto y baja la cadera rozando apenas el suelo antes de repetir."
+    ],
+    "tips": [
+      "Rango de recorrido más corto que el hip thrust pero muy seguro para aislar el glúteo mayor."
+    ],
+    "breathingCue": "Exhala al subir la pelvis; inhala al apoyar suavemente en el piso.",
+    "alternatives": [
+      "hip-thrust-barbell"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "single-leg-glute-bridge",
+        "name": "Puente de Glúteos a Una Pierna",
+        "nameEn": "Single-Leg Glute Bridge",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "glute-bridge-activation-bodyweight",
+        "name": "Puente de Glúteos de Activación con Doble Apoyo",
+        "nameEn": "Bodyweight Glute Bridge Holds",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butt_Lift_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butt_Lift_Bridge/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "single-leg-glute-bridge",
+    "name": "Puente de Glúteos a Una Pierna",
+    "nameEn": "Single-Leg Glute Bridge",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para puente de glúteos a una pierna equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en glutes.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "crab-walk",
+    "name": "Caminata de Cangrejo (Crab Walk)",
+    "nameEn": "Crab Walk",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "LowerBack"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Inicia en la posición base de caminata de cangrejo (crab walk) asegurando el anclaje firme.",
+      "Ejecuta el desplazamiento o flexión activa contrayendo con intención el músculo principal.",
+      "Retorna bajo control excéntrico sin rebotes articulares."
+    ],
+    "tips": [
+      "Evita el balanceo por inercia para aislar el trabajo en la musculatura diana."
+    ],
+    "breathingCue": "Exhala en el esfuerzo de cierre; inhala en la fase de extensión.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Antebrazos",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ankle_On_The_Knee/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ankle_On_The_Knee/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "hip-90-90-mobility",
+    "name": "Movilidad de Cadera 90/90",
+    "nameEn": "90/90 Hip Mobility Flow",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "HipFlexors",
+      "Adductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de movilidad de cadera 90/90 sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas",
+      "Aductores (Cara Interna)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "banded-clamshell",
+        "name": "La Almeja con Banda Elástica (Clamshell)",
+        "nameEn": "Banded Clamshell",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-90-90-transitions",
+        "name": "Transiciones de Cadera 90/90 sin Manos",
+        "nameEn": "Hands-Free 90/90 Hip Switches",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-circles-fire-hydrant",
+        "name": "Círculos Articulares de Cadera (Fire Hydrant CARs)",
+        "nameEn": "Quadruped Hip CARs (Controlled Articular Rotations)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Circles_prone/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Circles_prone/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hip-90-90-transitions",
+    "name": "Transiciones de Cadera 90/90 sin Manos",
+    "nameEn": "Hands-Free 90/90 Hip Switches",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "HipFlexors",
+      "Adductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de transiciones de cadera 90/90 sin manos sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas",
+      "Aductores (Cara Interna)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "banded-clamshell",
+        "name": "La Almeja con Banda Elástica (Clamshell)",
+        "nameEn": "Banded Clamshell",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-90-90-mobility",
+        "name": "Movilidad de Cadera 90/90",
+        "nameEn": "90/90 Hip Mobility Flow",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-circles-fire-hydrant",
+        "name": "Círculos Articulares de Cadera (Fire Hydrant CARs)",
+        "nameEn": "Quadruped Hip CARs (Controlled Articular Rotations)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Circles_prone/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Circles_prone/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "deep-squat-prying",
+    "name": "Apertura de Cadera en Sentadilla Profunda",
+    "nameEn": "Deep Squat Pry and Hold",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Adductors",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de apertura de cadera en sentadilla profunda sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Aductores (Cara Interna)",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sit_Squats/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sit_Squats/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "box-squat-barbell",
+        "name": "Sentadilla a Cajón con Barra Olímpica",
+        "nameEn": "Barbell Box Squat with Pause",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pigeon-pose-glute",
+    "name": "Postura de la Paloma para Glúteo y Piramidal",
+    "nameEn": "Pigeon Pose for Glutes",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de postura de la paloma para glúteo y piramidal sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "supine-figure-four-glute-stretch",
+        "name": "Estiramiento del Número Cuatro Boca Arriba",
+        "nameEn": "Supine Figure Four Piriformis Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ankle_On_The_Knee/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ankle_On_The_Knee/1.jpg"
+        ]
+      },
+      {
+        "id": "knee-hug-glute-march",
+        "name": "Abrazo de Rodilla en Marcha con Elevación",
+        "nameEn": "Walking Knee Hug to Glute Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Knee_To_Chest/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Knee_To_Chest/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "knee-hug-glute-march",
+    "name": "Abrazo de Rodilla en Marcha con Elevación",
+    "nameEn": "Walking Knee Hug to Glute Stretch",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de abrazo de rodilla en marcha con elevación sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Knee_To_Chest/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Knee_To_Chest/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "banded-lateral-monster-walk",
+        "name": "Caminata Lateral de Monstruo con Banda en Rodillas",
+        "nameEn": "Banded Lateral Monster Walk",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/1.jpg"
+        ]
+      },
+      {
+        "id": "banded-clamshell",
+        "name": "La Almeja con Banda Elástica (Clamshell)",
+        "nameEn": "Banded Clamshell",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/1.jpg"
+        ]
+      },
+      {
+        "id": "pigeon-pose-glute",
+        "name": "Postura de la Paloma para Glúteo y Piramidal",
+        "nameEn": "Pigeon Pose for Glutes",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hip-circles-fire-hydrant",
+    "name": "Círculos Articulares de Cadera (Fire Hydrant CARs)",
+    "nameEn": "Quadruped Hip CARs (Controlled Articular Rotations)",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abductors",
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de círculos articulares de cadera (fire hydrant cars) sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abductores (Glúteo Medio)",
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Circles_prone/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Circles_prone/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "banded-clamshell",
+        "name": "La Almeja con Banda Elástica (Clamshell)",
+        "nameEn": "Banded Clamshell",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-90-90-mobility",
+        "name": "Movilidad de Cadera 90/90",
+        "nameEn": "90/90 Hip Mobility Flow",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-90-90-transitions",
+        "name": "Transiciones de Cadera 90/90 sin Manos",
+        "nameEn": "Hands-Free 90/90 Hip Switches",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shin-box-get-up",
+    "name": "Levantamiento desde Posición de Shin Box",
+    "nameEn": "Shin Box Hip Extension and Get-Up",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "HipFlexors",
+      "Adductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de levantamiento desde posición de shin box sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas",
+      "Aductores (Cara Interna)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "banded-clamshell",
+        "name": "La Almeja con Banda Elástica (Clamshell)",
+        "nameEn": "Banded Clamshell",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-90-90-mobility",
+        "name": "Movilidad de Cadera 90/90",
+        "nameEn": "90/90 Hip Mobility Flow",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-90-90-transitions",
+        "name": "Transiciones de Cadera 90/90 sin Manos",
+        "nameEn": "Hands-Free 90/90 Hip Switches",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "supine-figure-four-glute-stretch",
+    "name": "Estiramiento del Número Cuatro Boca Arriba",
+    "nameEn": "Supine Figure Four Piriformis Stretch",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de estiramiento del número cuatro boca arriba sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ankle_On_The_Knee/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ankle_On_The_Knee/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pigeon-pose-glute",
+        "name": "Postura de la Paloma para Glúteo y Piramidal",
+        "nameEn": "Pigeon Pose for Glutes",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/1.jpg"
+        ]
+      },
+      {
+        "id": "knee-hug-glute-march",
+        "name": "Abrazo de Rodilla en Marcha con Elevación",
+        "nameEn": "Walking Knee Hug to Glute Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Knee_To_Chest/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Knee_To_Chest/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "banded-lateral-monster-walk",
+    "name": "Caminata Lateral de Monstruo con Banda en Rodillas",
+    "nameEn": "Banded Lateral Monster Walk",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abductors",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Band",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de caminata lateral de monstruo con banda en rodillas a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abductores (Glúteo Medio)",
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Banda Elástica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-curtsy-lunge",
+        "name": "Zancada de Reverencia con Pesa Rusa",
+        "nameEn": "Kettlebell Curtsy Lunge",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+        ]
+      },
+      {
+        "id": "reverse-lunge-smith-machine",
+        "name": "Zancada Inversa en Máquina Smith",
+        "nameEn": "Smith Machine Reverse Lunge",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "step-up-dumbbells-high-box",
+        "name": "Subidas a Cajón Alto con Mancuernas",
+        "nameEn": "High Box Step-Up with Dumbbells",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "banded-clamshell",
+    "name": "La Almeja con Banda Elástica (Clamshell)",
+    "nameEn": "Banded Clamshell",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Band",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de la almeja con banda elástica (clamshell) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abductores (Glúteo Medio)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Banda Elástica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "hip-90-90-mobility",
+        "name": "Movilidad de Cadera 90/90",
+        "nameEn": "90/90 Hip Mobility Flow",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-90-90-transitions",
+        "name": "Transiciones de Cadera 90/90 sin Manos",
+        "nameEn": "Hands-Free 90/90 Hip Switches",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-circles-fire-hydrant",
+        "name": "Círculos Articulares de Cadera (Fire Hydrant CARs)",
+        "nameEn": "Quadruped Hip CARs (Controlled Articular Rotations)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Circles_prone/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Circles_prone/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glute-bridge-activation-bodyweight",
+    "name": "Puente de Glúteos de Activación con Doble Apoyo",
+    "nameEn": "Bodyweight Glute Bridge Holds",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de puente de glúteos de activación con doble apoyo a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butt_Lift_Bridge/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butt_Lift_Bridge/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "skater-jumps-warmup",
+    "name": "Saltos de Patinador Laterales (Skater Hops)",
+    "nameEn": "Lateral Skater Hops",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abductors",
+      "Calves",
+      "Cardio"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de saltos de patinador laterales (skater hops) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abductores (Glúteo Medio)",
+      "Gemelos / Pantorrillas",
+      "Sistema Cardiovascular"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "power-clean-barbell",
+        "name": "Power Clean con Barra desde el Suelo",
+        "nameEn": "Barbell Power Clean from Floor",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+        ]
+      },
+      {
+        "id": "hang-clean-barbell",
+        "name": "Hang Clean con Barra desde Rodillas",
+        "nameEn": "Barbell Hang Clean (Hang Power Clean)",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Clean/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "carioca-grapevine-warmup",
+    "name": "Carioca / Pasos Cruzados Dinámicos de Cadera",
+    "nameEn": "Carioca Grapevine Hip Warmup Drill",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Adductors",
+      "Cardio"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de carioca / pasos cruzados dinámicos de cadera a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Aductores (Cara Interna)",
+      "Sistema Cardiovascular"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Carioca_Quick_Step/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Carioca_Quick_Step/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-lateral-swing",
+        "name": "Swing Lateral Controlado en el Plano Frontal",
+        "nameEn": "Kettlebell Lateral Plane Swing",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+        ]
+      },
+      {
+        "id": "banded-lateral-monster-walk",
+        "name": "Caminata Lateral de Monstruo con Banda en Rodillas",
+        "nameEn": "Banded Lateral Monster Walk",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/1.jpg"
+        ]
+      },
+      {
+        "id": "banded-clamshell",
+        "name": "La Almeja con Banda Elástica (Clamshell)",
+        "nameEn": "Banded Clamshell",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foam-roll-glutes-piriformis",
+    "name": "Autoliberación de Glúteo y Piramidal con Rodillo",
+    "nameEn": "Foam Rolling Gluteus and Piriformis",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "FoamRoller",
+    "difficulty": "Principiante",
+    "category": "FoamRolling",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Coloca el rodillo o pelota bajo el área muscular diana de autoliberación de glúteo y piramidal con rodillo.",
+      "Rueda lentamente buscando zonas de mayor tensión o nudos musculares (puntos gatillo).",
+      "Al localizar un punto sensible, sostén la presión fija durante 30 a 60 segundos respirando hondo."
+    ],
+    "tips": [
+      "Nunca ruedes directamente sobre articulaciones, huesos prominentes o la zona lumbar sin apoyo pélvico."
+    ],
+    "breathingCue": "Exhala largo y relajado mientras permites que el músculo ceda a la presión del rodillo.",
+    "alternatives": [
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abductores (Glúteo Medio)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Rodillo de Espuma",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Piriformis-SMR/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Piriformis-SMR/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "banded-clamshell-tempo",
+        "name": "Almejas con Banda y Pausa Isométrica para Glúteo Medio",
+        "nameEn": "Banded Tempo Clamshell Holds",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-90-90-mobility",
+        "name": "Movilidad de Cadera 90/90",
+        "nameEn": "90/90 Hip Mobility Flow",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-90-90-transitions",
+        "name": "Transiciones de Cadera 90/90 sin Manos",
+        "nameEn": "Hands-Free 90/90 Hip Switches",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-clean-single-arm",
+    "name": "Clean con Pesa Rusa a Una Mano",
+    "nameEn": "Single-Arm Kettlebell Clean",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Traps",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para clean con pesa rusa a una mano.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Trapecio",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Clean/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Clean/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-snatch-single-arm",
+    "name": "Snatch (Arrancada) con Pesa Rusa a Una Mano",
+    "nameEn": "Single-Arm Kettlebell Snatch",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Shoulders",
+      "Lats"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para snatch (arrancada) con pesa rusa a una mano.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Hombros / Deltoides",
+      "Dorsal Ancho"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Snatch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Snatch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-curtsy-lunge",
+    "name": "Zancada de Reverencia con Pesa Rusa",
+    "nameEn": "Kettlebell Curtsy Lunge",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Quads",
+      "Adductors"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para zancada de reverencia con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Aductores (Cara Interna)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "banded-lateral-monster-walk",
+        "name": "Caminata Lateral de Monstruo con Banda en Rodillas",
+        "nameEn": "Banded Lateral Monster Walk",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/1.jpg"
+        ]
+      },
+      {
+        "id": "reverse-lunge-smith-machine",
+        "name": "Zancada Inversa en Máquina Smith",
+        "nameEn": "Smith Machine Reverse Lunge",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "step-up-dumbbells-high-box",
+        "name": "Subidas a Cajón Alto con Mancuernas",
+        "nameEn": "High Box Step-Up with Dumbbells",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-cross-body-clean",
+    "name": "Clean Cruzado Diagonal con Pesa Rusa",
+    "nameEn": "Cross-Body Kettlebell Clean",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abs",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para clean cruzado diagonal con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Dead_Clean/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Dead_Clean/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-lateral-swing",
+    "name": "Swing Lateral Controlado en el Plano Frontal",
+    "nameEn": "Kettlebell Lateral Plane Swing",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abs",
+      "Adductors"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para swing lateral controlado en el plano frontal.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Aductores (Cara Interna)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "carioca-grapevine-warmup",
+        "name": "Carioca / Pasos Cruzados Dinámicos de Cadera",
+        "nameEn": "Carioca Grapevine Hip Warmup Drill",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Carioca_Quick_Step/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Carioca_Quick_Step/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "double-kettlebell-snatch",
+    "name": "Snatch Simultáneo con Dos Pesas Rusas",
+    "nameEn": "Double Kettlebell Snatch",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Back",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para snatch simultáneo con dos pesas rusas.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skater-jumps-warmup",
+        "name": "Saltos de Patinador Laterales (Skater Hops)",
+        "nameEn": "Lateral Skater Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      },
+      {
+        "id": "broad-jump-standing",
+        "name": "Salto Horizontal de Longitud a Dos Pies",
+        "nameEn": "Standing Long Jump (Broad Jump)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "lateral-bound-heiden",
+        "name": "Salto Lateral a Una Pierna (Heiden Jump)",
+        "nameEn": "Lateral Bound Heiden Jump",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "broad-jump-standing",
+    "name": "Salto Horizontal de Longitud a Dos Pies",
+    "nameEn": "Standing Long Jump (Broad Jump)",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Quads",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para salto horizontal de longitud a dos pies.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "power-clean-barbell",
+        "name": "Power Clean con Barra desde el Suelo",
+        "nameEn": "Barbell Power Clean from Floor",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+        ]
+      },
+      {
+        "id": "hang-clean-barbell",
+        "name": "Hang Clean con Barra desde Rodillas",
+        "nameEn": "Barbell Hang Clean (Hang Power Clean)",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Clean/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lateral-bound-heiden",
+    "name": "Salto Lateral a Una Pierna (Heiden Jump)",
+    "nameEn": "Lateral Bound Heiden Jump",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abductors",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para salto lateral a una pierna (heiden jump).",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abductores (Glúteo Medio)",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "power-clean-barbell",
+        "name": "Power Clean con Barra desde el Suelo",
+        "nameEn": "Barbell Power Clean from Floor",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+        ]
+      },
+      {
+        "id": "hang-clean-barbell",
+        "name": "Hang Clean con Barra desde Rodillas",
+        "nameEn": "Barbell Hang Clean (Hang Power Clean)",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Clean/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "skater-bounds-reactive",
+    "name": "Patinadores Laterales Reactivos con Palo o Cono",
+    "nameEn": "Reactive Lateral Skater Bounds",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para patinadores laterales reactivos con palo o cono.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abductores (Glúteo Medio)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "power-clean-barbell",
+        "name": "Power Clean con Barra desde el Suelo",
+        "nameEn": "Barbell Power Clean from Floor",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+        ]
+      },
+      {
+        "id": "hang-clean-barbell",
+        "name": "Hang Clean con Barra desde Rodillas",
+        "nameEn": "Barbell Hang Clean (Hang Power Clean)",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Clean/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "power-clean-barbell",
+    "name": "Power Clean con Barra desde el Suelo",
+    "nameEn": "Barbell Power Clean from Floor",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Traps",
+      "Back",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para power clean con barra desde el suelo.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Trapecio",
+      "Espalda / Dorsal",
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skater-jumps-warmup",
+        "name": "Saltos de Patinador Laterales (Skater Hops)",
+        "nameEn": "Lateral Skater Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      },
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "broad-jump-standing",
+        "name": "Salto Horizontal de Longitud a Dos Pies",
+        "nameEn": "Standing Long Jump (Broad Jump)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hang-clean-barbell",
+    "name": "Hang Clean con Barra desde Rodillas",
+    "nameEn": "Barbell Hang Clean (Hang Power Clean)",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para hang clean con barra desde rodillas.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Clean/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Clean/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skater-jumps-warmup",
+        "name": "Saltos de Patinador Laterales (Skater Hops)",
+        "nameEn": "Lateral Skater Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      },
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "broad-jump-standing",
+        "name": "Salto Horizontal de Longitud a Dos Pies",
+        "nameEn": "Standing Long Jump (Broad Jump)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "power-snatch-barbell",
+    "name": "Power Snatch (Arrancada de Potencia)",
+    "nameEn": "Barbell Power Snatch from Floor",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Shoulders",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para power snatch (arrancada de potencia).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Hombros / Deltoides",
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Snatch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Snatch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skater-jumps-warmup",
+        "name": "Saltos de Patinador Laterales (Skater Hops)",
+        "nameEn": "Lateral Skater Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      },
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "broad-jump-standing",
+        "name": "Salto Horizontal de Longitud a Dos Pies",
+        "nameEn": "Standing Long Jump (Broad Jump)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hang-snatch-barbell",
+    "name": "Hang Snatch desde los Muslos",
+    "nameEn": "Barbell Hang Power Snatch",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Traps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para hang snatch desde los muslos.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Trapecio",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Snatch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Snatch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skater-jumps-warmup",
+        "name": "Saltos de Patinador Laterales (Skater Hops)",
+        "nameEn": "Lateral Skater Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      },
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "broad-jump-standing",
+        "name": "Salto Horizontal de Longitud a Dos Pies",
+        "nameEn": "Standing Long Jump (Broad Jump)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "block-clean-power",
+    "name": "Clean desde Bloques Altos (Block Clean)",
+    "nameEn": "Clean from High Pulling Blocks",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para clean desde bloques altos (block clean).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Clean_from_Blocks/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Clean_from_Blocks/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skater-jumps-warmup",
+        "name": "Saltos de Patinador Laterales (Skater Hops)",
+        "nameEn": "Lateral Skater Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      },
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "broad-jump-standing",
+        "name": "Salto Horizontal de Longitud a Dos Pies",
+        "nameEn": "Standing Long Jump (Broad Jump)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "block-snatch-power",
+    "name": "Snatch desde Bloques (Block Snatch)",
+    "nameEn": "Snatch from Pulling Blocks",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para snatch desde bloques (block snatch).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Snatch_from_Blocks/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Snatch_from_Blocks/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skater-jumps-warmup",
+        "name": "Saltos de Patinador Laterales (Skater Hops)",
+        "nameEn": "Lateral Skater Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      },
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "broad-jump-standing",
+        "name": "Salto Horizontal de Longitud a Dos Pies",
+        "nameEn": "Standing Long Jump (Broad Jump)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "banded-clamshell-tempo",
+    "name": "Almejas con Banda y Pausa Isométrica para Glúteo Medio",
+    "nameEn": "Banded Tempo Clamshell Holds",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Band",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para almejas con banda y pausa isométrica para glúteo medio con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en glutes.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abductores (Glúteo Medio)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Banda Elástica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "foam-roll-glutes-piriformis",
+        "name": "Autoliberación de Glúteo y Piramidal con Rodillo",
+        "nameEn": "Foam Rolling Gluteus and Piriformis",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Piriformis-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Piriformis-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-90-90-mobility",
+        "name": "Movilidad de Cadera 90/90",
+        "nameEn": "90/90 Hip Mobility Flow",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-90-90-transitions",
+        "name": "Transiciones de Cadera 90/90 sin Manos",
+        "nameEn": "Hands-Free 90/90 Hip Switches",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glute-kickback-cable",
+    "name": "Patada de Glúteo en Polea Baja con Tobillera",
+    "nameEn": "Standing Cable Glute Kickback",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para patada de glúteo en polea baja con tobillera con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en glutes.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Kickback/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Kickback/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "box-squat-barbell",
+    "name": "Sentadilla a Cajón con Barra Olímpica",
+    "nameEn": "Barbell Box Squat with Pause",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Quads",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para sentadilla a cajón con barra olímpica.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Box_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "deep-squat-prying",
+        "name": "Apertura de Cadera en Sentadilla Profunda",
+        "nameEn": "Deep Squat Pry and Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sit_Squats/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sit_Squats/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "reverse-lunge-smith-machine",
+        "name": "Zancada Inversa en Máquina Smith",
+        "nameEn": "Smith Machine Reverse Lunge",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reverse-lunge-smith-machine",
+    "name": "Zancada Inversa en Máquina Smith",
+    "nameEn": "Smith Machine Reverse Lunge",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "SmithMachine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para zancada inversa en máquina smith.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina Smith / Multipower",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "step-up-dumbbells-high-box",
+        "name": "Subidas a Cajón Alto con Mancuernas",
+        "nameEn": "High Box Step-Up with Dumbbells",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/1.jpg"
+        ]
+      },
+      {
+        "id": "banded-lateral-monster-walk",
+        "name": "Caminata Lateral de Monstruo con Banda en Rodillas",
+        "nameEn": "Banded Lateral Monster Walk",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/1.jpg"
+        ]
+      },
+      {
+        "id": "kettlebell-curtsy-lunge",
+        "name": "Zancada de Reverencia con Pesa Rusa",
+        "nameEn": "Kettlebell Curtsy Lunge",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "step-up-dumbbells-high-box",
+    "name": "Subidas a Cajón Alto con Mancuernas",
+    "nameEn": "High Box Step-Up with Dumbbells",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para subidas a cajón alto con mancuernas.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "reverse-lunge-smith-machine",
+        "name": "Zancada Inversa en Máquina Smith",
+        "nameEn": "Smith Machine Reverse Lunge",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "banded-lateral-monster-walk",
+        "name": "Caminata Lateral de Monstruo con Banda en Rodillas",
+        "nameEn": "Banded Lateral Monster Walk",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/1.jpg"
+        ]
+      },
+      {
+        "id": "kettlebell-curtsy-lunge",
+        "name": "Zancada de Reverencia con Pesa Rusa",
+        "nameEn": "Kettlebell Curtsy Lunge",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cable-pull-through-glutes",
+    "name": "Pull-Through en Polea Baja con Cuerda para Glúteos",
+    "nameEn": "Low Cable Pull-Through for Glutes",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para pull-through en polea baja con cuerda para glúteos.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "frog-pump-glute-bodyweight",
+    "name": "Frog Pumps para Glúteo Mayor en Suelo",
+    "nameEn": "High-Rep Bodyweight Frog Pumps",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Adductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para frog pumps para glúteo mayor en suelo.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Aductores (Cara Interna)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "cable-pull-through-glutes",
+        "name": "Pull-Through en Polea Baja con Cuerda para Glúteos",
+        "nameEn": "Low Cable Pull-Through for Glutes",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/1.jpg"
+        ]
+      },
+      {
+        "id": "single-leg-hip-thrust-bench",
+        "name": "Hip Thrust a Una Pierna en Banco con Mancuerna",
+        "nameEn": "Single-Leg Dumbbell Hip Thrust",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "single-leg-hip-thrust-bench",
+    "name": "Hip Thrust a Una Pierna en Banco con Mancuerna",
+    "nameEn": "Single-Leg Dumbbell Hip Thrust",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Intermedio",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para hip thrust a una pierna en banco con mancuerna.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "cable-pull-through-glutes",
+        "name": "Pull-Through en Polea Baja con Cuerda para Glúteos",
+        "nameEn": "Low Cable Pull-Through for Glutes",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-curtsy-lunge-balance",
+    "name": "Zancada Cruzada de Reverencia con TRX",
+    "nameEn": "TRX Balance Curtsy Lunge",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Quads",
+      "Abductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para zancada cruzada de reverencia con trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Abductores (Glúteo Medio)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "banded-lateral-monster-walk",
+        "name": "Caminata Lateral de Monstruo con Banda en Rodillas",
+        "nameEn": "Banded Lateral Monster Walk",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/1.jpg"
+        ]
+      },
+      {
+        "id": "kettlebell-curtsy-lunge",
+        "name": "Zancada de Reverencia con Pesa Rusa",
+        "nameEn": "Kettlebell Curtsy Lunge",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+        ]
+      },
+      {
+        "id": "reverse-lunge-smith-machine",
+        "name": "Zancada Inversa en Máquina Smith",
+        "nameEn": "Smith Machine Reverse Lunge",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-hip-press-bridge",
+    "name": "Puente de Caderas con Talones en TRX",
+    "nameEn": "TRX Suspended Glute Bridge Press",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para puente de caderas con talones en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Physioball_Hip_Bridge/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Physioball_Hip_Bridge/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  }
+]

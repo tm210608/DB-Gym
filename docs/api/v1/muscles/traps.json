@@ -1,0 +1,1348 @@
+[
+  {
+    "id": "scapular-wall-slides",
+    "name": "Deslizamientos Escapulares en Pared (Wall Slides)",
+    "nameEn": "Scapular Wall Slides",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Serratus"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de deslizamientos escapulares en pared (wall slides) sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Serrato Anterior"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chair_Upper_Body_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chair_Upper_Body_Stretch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "prone-ytw-raises",
+        "name": "Elevaciones Y-T-W en Decúbito Prono",
+        "nameEn": "Prone Y-T-W Scapular Raises",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Neck_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Neck_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "neck-controlled-articular-rotations",
+        "name": "Rotaciones Controladas del Cuello y Columna Cervical",
+        "nameEn": "Cervical Spine CARs",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Neck_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Neck_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-neck-suboccipital",
+        "name": "Descompresión Suboccipital con Rodillo Suave",
+        "nameEn": "Suboccipital Neck Release on Foam Roller",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Neck-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Neck-SMR/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prone-ytw-raises",
+    "name": "Elevaciones Y-T-W en Decúbito Prono",
+    "nameEn": "Prone Y-T-W Scapular Raises",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de elevaciones y-t-w en decúbito prono sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Neck_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Neck_Stretch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "scapular-wall-slides",
+        "name": "Deslizamientos Escapulares en Pared (Wall Slides)",
+        "nameEn": "Scapular Wall Slides",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chair_Upper_Body_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chair_Upper_Body_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "neck-controlled-articular-rotations",
+        "name": "Rotaciones Controladas del Cuello y Columna Cervical",
+        "nameEn": "Cervical Spine CARs",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Neck_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Neck_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-neck-suboccipital",
+        "name": "Descompresión Suboccipital con Rodillo Suave",
+        "nameEn": "Suboccipital Neck Release on Foam Roller",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Neck-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Neck-SMR/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "neck-controlled-articular-rotations",
+    "name": "Rotaciones Controladas del Cuello y Columna Cervical",
+    "nameEn": "Cervical Spine CARs",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de rotaciones controladas del cuello y columna cervical sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Neck_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Neck_Stretch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "scapular-wall-slides",
+        "name": "Deslizamientos Escapulares en Pared (Wall Slides)",
+        "nameEn": "Scapular Wall Slides",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chair_Upper_Body_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chair_Upper_Body_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "prone-ytw-raises",
+        "name": "Elevaciones Y-T-W en Decúbito Prono",
+        "nameEn": "Prone Y-T-W Scapular Raises",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Neck_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Neck_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-neck-suboccipital",
+        "name": "Descompresión Suboccipital con Rodillo Suave",
+        "nameEn": "Suboccipital Neck Release on Foam Roller",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Neck-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Neck-SMR/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foam-roll-neck-suboccipital",
+    "name": "Descompresión Suboccipital con Rodillo Suave",
+    "nameEn": "Suboccipital Neck Release on Foam Roller",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "FoamRoller",
+    "difficulty": "Principiante",
+    "category": "FoamRolling",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Coloca el rodillo o pelota bajo el área muscular diana de descompresión suboccipital con rodillo suave.",
+      "Rueda lentamente buscando zonas de mayor tensión o nudos musculares (puntos gatillo).",
+      "Al localizar un punto sensible, sostén la presión fija durante 30 a 60 segundos respirando hondo."
+    ],
+    "tips": [
+      "Nunca ruedes directamente sobre articulaciones, huesos prominentes o la zona lumbar sin apoyo pélvico."
+    ],
+    "breathingCue": "Exhala largo y relajado mientras permites que el músculo ceda a la presión del rodillo.",
+    "alternatives": [
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Rodillo de Espuma",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Neck-SMR/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Neck-SMR/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "prone-cobra-hold",
+        "name": "Cobra Prona Isométrica para Cadena Posterior Alta",
+        "nameEn": "Prone Cobra Scapular Retraction Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+        ]
+      },
+      {
+        "id": "chin-tuck-neck-flexion",
+        "name": "Retracción Cervical (Chin Tuck contra la Pared)",
+        "nameEn": "Chin Tuck Neck Deep Flexor Activation",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin_To_Chest_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin_To_Chest_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "scapular-wall-slides",
+        "name": "Deslizamientos Escapulares en Pared (Wall Slides)",
+        "nameEn": "Scapular Wall Slides",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chair_Upper_Body_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chair_Upper_Body_Stretch/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-high-pull",
+    "name": "Tirón Alto con Pesa Rusa (High Pull)",
+    "nameEn": "Kettlebell High Pull",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para tirón alto con pesa rusa (high pull).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Isquiotibiales / Femoral",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Sumo_High_Pull/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Sumo_High_Pull/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "snatch-grip-barbell-shrug",
+        "name": "Encogimientos con Barra Agarre de Arrancada",
+        "nameEn": "Snatch-Grip Barbell Shrug",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Shrug/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Shrug/1.jpg"
+        ]
+      },
+      {
+        "id": "prone-y-raise-bench",
+        "name": "Elevaciones en Y Boca Abajo para Trapecio Inferior",
+        "nameEn": "Prone Incline Bench Y-Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Shoulder_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Shoulder_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trap-bar-jump-shrug",
+    "name": "Salto con Encogimiento en Barra Hexagonal (Jump Shrug)",
+    "nameEn": "Trap Bar Jump Shrug Power Pull",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Quads",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Trap Bar",
+    "difficulty": "Avanzado",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para salto con encogimiento en barra hexagonal (jump shrug).",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Hexagonal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "clean-pull-barbell",
+        "name": "Tirón de Cargada Pesado (Clean Pull)",
+        "nameEn": "Barbell Heavy Clean Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "snatch-pull-barbell",
+        "name": "Tirón de Arrancada con Agarre Ancho",
+        "nameEn": "Barbell Snatch Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "muscle-clean-barbell",
+        "name": "Muscle Clean de Calentamiento sin Flexión de Rodillas",
+        "nameEn": "Barbell Muscle Clean Warmup Drill",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "clean-pull-barbell",
+    "name": "Tirón de Cargada Pesado (Clean Pull)",
+    "nameEn": "Barbell Heavy Clean Pull",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Glutes",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para tirón de cargada pesado (clean pull).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Glúteos",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trap-bar-jump-shrug",
+        "name": "Salto con Encogimiento en Barra Hexagonal (Jump Shrug)",
+        "nameEn": "Trap Bar Jump Shrug Power Pull",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/1.jpg"
+        ]
+      },
+      {
+        "id": "snatch-pull-barbell",
+        "name": "Tirón de Arrancada con Agarre Ancho",
+        "nameEn": "Barbell Snatch Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "muscle-clean-barbell",
+        "name": "Muscle Clean de Calentamiento sin Flexión de Rodillas",
+        "nameEn": "Barbell Muscle Clean Warmup Drill",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "snatch-pull-barbell",
+    "name": "Tirón de Arrancada con Agarre Ancho",
+    "nameEn": "Barbell Snatch Pull",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para tirón de arrancada con agarre ancho.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trap-bar-jump-shrug",
+        "name": "Salto con Encogimiento en Barra Hexagonal (Jump Shrug)",
+        "nameEn": "Trap Bar Jump Shrug Power Pull",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/1.jpg"
+        ]
+      },
+      {
+        "id": "clean-pull-barbell",
+        "name": "Tirón de Cargada Pesado (Clean Pull)",
+        "nameEn": "Barbell Heavy Clean Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "muscle-clean-barbell",
+        "name": "Muscle Clean de Calentamiento sin Flexión de Rodillas",
+        "nameEn": "Barbell Muscle Clean Warmup Drill",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "muscle-clean-barbell",
+    "name": "Muscle Clean de Calentamiento sin Flexión de Rodillas",
+    "nameEn": "Barbell Muscle Clean Warmup Drill",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Biceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para muscle clean de calentamiento sin flexión de rodillas.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trap-bar-jump-shrug",
+        "name": "Salto con Encogimiento en Barra Hexagonal (Jump Shrug)",
+        "nameEn": "Trap Bar Jump Shrug Power Pull",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/1.jpg"
+        ]
+      },
+      {
+        "id": "clean-pull-barbell",
+        "name": "Tirón de Cargada Pesado (Clean Pull)",
+        "nameEn": "Barbell Heavy Clean Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "snatch-pull-barbell",
+        "name": "Tirón de Arrancada con Agarre Ancho",
+        "nameEn": "Barbell Snatch Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tall-clean-barbell",
+    "name": "Tall Clean desde Bipedestación",
+    "nameEn": "Barbell Tall Clean Turnover Drill",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para tall clean desde bipedestación.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trap-bar-jump-shrug",
+        "name": "Salto con Encogimiento en Barra Hexagonal (Jump Shrug)",
+        "nameEn": "Trap Bar Jump Shrug Power Pull",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/1.jpg"
+        ]
+      },
+      {
+        "id": "clean-pull-barbell",
+        "name": "Tirón de Cargada Pesado (Clean Pull)",
+        "nameEn": "Barbell Heavy Clean Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "snatch-pull-barbell",
+        "name": "Tirón de Arrancada con Agarre Ancho",
+        "nameEn": "Barbell Snatch Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prone-y-raise-bench",
+    "name": "Elevaciones en Y Boca Abajo para Trapecio Inferior",
+    "nameEn": "Prone Incline Bench Y-Raise",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para elevaciones en y boca abajo para trapecio inferior con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en traps.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Shoulder_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Shoulder_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-high-pull",
+        "name": "Tirón Alto con Pesa Rusa (High Pull)",
+        "nameEn": "Kettlebell High Pull",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Sumo_High_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Sumo_High_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "prone-cobra-hold",
+        "name": "Cobra Prona Isométrica para Cadena Posterior Alta",
+        "nameEn": "Prone Cobra Scapular Retraction Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+        ]
+      },
+      {
+        "id": "chin-tuck-neck-flexion",
+        "name": "Retracción Cervical (Chin Tuck contra la Pared)",
+        "nameEn": "Chin Tuck Neck Deep Flexor Activation",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin_To_Chest_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin_To_Chest_Stretch/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "prone-cobra-hold",
+    "name": "Cobra Prona Isométrica para Cadena Posterior Alta",
+    "nameEn": "Prone Cobra Scapular Retraction Hold",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Back",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para cobra prona isométrica para cadena posterior alta con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en traps.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "foam-roll-neck-suboccipital",
+        "name": "Descompresión Suboccipital con Rodillo Suave",
+        "nameEn": "Suboccipital Neck Release on Foam Roller",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Neck-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Neck-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "chin-tuck-neck-flexion",
+        "name": "Retracción Cervical (Chin Tuck contra la Pared)",
+        "nameEn": "Chin Tuck Neck Deep Flexor Activation",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin_To_Chest_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin_To_Chest_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "prone-y-raise-bench",
+        "name": "Elevaciones en Y Boca Abajo para Trapecio Inferior",
+        "nameEn": "Prone Incline Bench Y-Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Shoulder_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Shoulder_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chin-tuck-neck-flexion",
+    "name": "Retracción Cervical (Chin Tuck contra la Pared)",
+    "nameEn": "Chin Tuck Neck Deep Flexor Activation",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para retracción cervical (chin tuck contra la pared) con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en traps.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin_To_Chest_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin_To_Chest_Stretch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "foam-roll-neck-suboccipital",
+        "name": "Descompresión Suboccipital con Rodillo Suave",
+        "nameEn": "Suboccipital Neck Release on Foam Roller",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Neck-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Neck-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "prone-cobra-hold",
+        "name": "Cobra Prona Isométrica para Cadena Posterior Alta",
+        "nameEn": "Prone Cobra Scapular Retraction Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+        ]
+      },
+      {
+        "id": "prone-y-raise-bench",
+        "name": "Elevaciones en Y Boca Abajo para Trapecio Inferior",
+        "nameEn": "Prone Incline Bench Y-Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Shoulder_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Shoulder_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rack-pull-above-knee",
+    "name": "Rack Pull por Encima de las Rodillas",
+    "nameEn": "Above-the-Knee Barbell Rack Pull",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Back",
+      "Glutes",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para rack pull por encima de las rodillas.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Glúteos",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rack_Pulls/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rack_Pulls/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-incline-shrug",
+        "name": "Encogimientos con Mancuernas en Banco Inclinado",
+        "nameEn": "Prone Incline Dumbbell Shrug",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shrug/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shrug/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "snatch-grip-barbell-shrug",
+    "name": "Encogimientos con Barra Agarre de Arrancada",
+    "nameEn": "Snatch-Grip Barbell Shrug",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para encogimientos con barra agarre de arrancada.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Shrug/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Shrug/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-high-pull",
+        "name": "Tirón Alto con Pesa Rusa (High Pull)",
+        "nameEn": "Kettlebell High Pull",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Sumo_High_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Sumo_High_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "prone-y-raise-bench",
+        "name": "Elevaciones en Y Boca Abajo para Trapecio Inferior",
+        "nameEn": "Prone Incline Bench Y-Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Shoulder_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Shoulder_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-incline-shrug",
+        "name": "Encogimientos con Mancuernas en Banco Inclinado",
+        "nameEn": "Prone Incline Dumbbell Shrug",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shrug/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shrug/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dumbbell-incline-shrug",
+    "name": "Encogimientos con Mancuernas en Banco Inclinado",
+    "nameEn": "Prone Incline Dumbbell Shrug",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para encogimientos con mancuernas en banco inclinado.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shrug/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shrug/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "rack-pull-above-knee",
+        "name": "Rack Pull por Encima de las Rodillas",
+        "nameEn": "Above-the-Knee Barbell Rack Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rack_Pulls/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rack_Pulls/1.jpg"
+        ]
+      },
+      {
+        "id": "snatch-grip-barbell-shrug",
+        "name": "Encogimientos con Barra Agarre de Arrancada",
+        "nameEn": "Snatch-Grip Barbell Shrug",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Shrug/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Shrug/1.jpg"
+        ]
+      }
+    ]
+  }
+]

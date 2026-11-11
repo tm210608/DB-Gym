@@ -1,0 +1,603 @@
+[
+  {
+    "id": "abductor-machine",
+    "name": "Abductores en Máquina Sentado (Glúteo Medio)",
+    "nameEn": "Seated Hip Abductor Machine",
+    "primaryMuscle": "Abductors",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Empuje",
+    "instructions": [
+      "Siéntate apoyando la espalda contra el respaldo y coloca la parte externa de las rodillas contra los rodillos.",
+      "Empuja hacia afuera separando las piernas con fuerza del glúteo medio y abductores.",
+      "Mantén la apertura máxima un segundo y regresa despacio hasta la posición inicial sin dejar caer las placas."
+    ],
+    "tips": [
+      "Inclinarse levemente hacia adelante suele enfocar mejor las fibras superiores del glúteo."
+    ],
+    "breathingCue": "Exhala al separar las piernas hacia afuera; inhala al cerrar.",
+    "alternatives": [
+      "adductor-machine"
+    ],
+    "primaryMuscleEs": "Abductores (Glúteo Medio)",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "foam-roll-it-band-tfl",
+        "name": "Liberación del Tensor de la Fascia Lata y Banda Iliotibial",
+        "nameEn": "Foam Rolling IT Band and Tensor Fasciae Latae",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-hip-abduction-cable",
+        "name": "Abducción de Cadera de Pie en Polea",
+        "nameEn": "Standing Cable Hip Abduction",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+        ]
+      },
+      {
+        "id": "side-lying-hip-abduction-straight-leg",
+        "name": "Elevación Lateral de Pierna Recta Tumbado",
+        "nameEn": "Side-Lying Straight Leg Hip Abduction",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "side-plank-hip-abduction",
+    "name": "Plancha Lateral con Elevación de Pierna",
+    "nameEn": "Side Plank with Hip Abduction",
+    "primaryMuscle": "Abductors",
+    "secondaryMuscles": [
+      "Abs",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "LowerBack"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Inicia en la posición base de plancha lateral con elevación de pierna asegurando el anclaje firme.",
+      "Ejecuta el desplazamiento o flexión activa contrayendo con intención el músculo principal.",
+      "Retorna bajo control excéntrico sin rebotes articulares."
+    ],
+    "tips": [
+      "Evita el balanceo por inercia para aislar el trabajo en la musculatura diana."
+    ],
+    "breathingCue": "Exhala en el esfuerzo de cierre; inhala en la fase de extensión.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abductores (Glúteo Medio)",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Antebrazos",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "standing-it-band-cross-stretch",
+    "name": "Estiramiento de Banda Iliotibial Cruzando Piernas",
+    "nameEn": "Standing IT Band and Lateral Line Stretch",
+    "primaryMuscle": "Abductors",
+    "secondaryMuscles": [
+      "Glutes",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de estiramiento de banda iliotibial cruzando piernas sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abductores (Glúteo Medio)",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/IT_Band_and_Glute_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/IT_Band_and_Glute_Stretch/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "foam-roll-it-band-tfl",
+    "name": "Liberación del Tensor de la Fascia Lata y Banda Iliotibial",
+    "nameEn": "Foam Rolling IT Band and Tensor Fasciae Latae",
+    "primaryMuscle": "Abductors",
+    "secondaryMuscles": [
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "FoamRoller",
+    "difficulty": "Principiante",
+    "category": "FoamRolling",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Coloca el rodillo o pelota bajo el área muscular diana de liberación del tensor de la fascia lata y banda iliotibial.",
+      "Rueda lentamente buscando zonas de mayor tensión o nudos musculares (puntos gatillo).",
+      "Al localizar un punto sensible, sostén la presión fija durante 30 a 60 segundos respirando hondo."
+    ],
+    "tips": [
+      "Nunca ruedes directamente sobre articulaciones, huesos prominentes o la zona lumbar sin apoyo pélvico."
+    ],
+    "breathingCue": "Exhala largo y relajado mientras permites que el músculo ceda a la presión del rodillo.",
+    "alternatives": [
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Abductores (Glúteo Medio)",
+    "secondaryMusclesEs": [
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Rodillo de Espuma",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "abductor-machine",
+        "name": "Abductores en Máquina Sentado (Glúteo Medio)",
+        "nameEn": "Seated Hip Abductor Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-hip-abduction-cable",
+        "name": "Abducción de Cadera de Pie en Polea",
+        "nameEn": "Standing Cable Hip Abduction",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+        ]
+      },
+      {
+        "id": "side-lying-hip-abduction-straight-leg",
+        "name": "Elevación Lateral de Pierna Recta Tumbado",
+        "nameEn": "Side-Lying Straight Leg Hip Abduction",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "standing-hip-abduction-cable",
+    "name": "Abducción de Cadera de Pie en Polea",
+    "nameEn": "Standing Cable Hip Abduction",
+    "primaryMuscle": "Abductors",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para abducción de cadera de pie en polea con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en abductors.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Abductores (Glúteo Medio)",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "side-lying-hip-abduction-straight-leg",
+        "name": "Elevación Lateral de Pierna Recta Tumbado",
+        "nameEn": "Side-Lying Straight Leg Hip Abduction",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/1.jpg"
+        ]
+      },
+      {
+        "id": "abductor-machine",
+        "name": "Abductores en Máquina Sentado (Glúteo Medio)",
+        "nameEn": "Seated Hip Abductor Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-it-band-tfl",
+        "name": "Liberación del Tensor de la Fascia Lata y Banda Iliotibial",
+        "nameEn": "Foam Rolling IT Band and Tensor Fasciae Latae",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-hip-internal-rotation-band",
+    "name": "Rotación Interna de Cadera Sentado con Banda",
+    "nameEn": "Seated Hip Internal Rotation with Band",
+    "primaryMuscle": "Abductors",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Band",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para rotación interna de cadera sentado con banda con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en abductors.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Abductores (Glúteo Medio)",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Banda Elástica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Flexion_with_Band/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Flexion_with_Band/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "standing-hip-abduction-cable",
+        "name": "Abducción de Cadera de Pie en Polea",
+        "nameEn": "Standing Cable Hip Abduction",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+        ]
+      },
+      {
+        "id": "side-lying-hip-abduction-straight-leg",
+        "name": "Elevación Lateral de Pierna Recta Tumbado",
+        "nameEn": "Side-Lying Straight Leg Hip Abduction",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "side-lying-hip-abduction-straight-leg",
+    "name": "Elevación Lateral de Pierna Recta Tumbado",
+    "nameEn": "Side-Lying Straight Leg Hip Abduction",
+    "primaryMuscle": "Abductors",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para elevación lateral de pierna recta tumbado con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en abductors.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Abductores (Glúteo Medio)",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "standing-hip-abduction-cable",
+        "name": "Abducción de Cadera de Pie en Polea",
+        "nameEn": "Standing Cable Hip Abduction",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+        ]
+      },
+      {
+        "id": "abductor-machine",
+        "name": "Abductores en Máquina Sentado (Glúteo Medio)",
+        "nameEn": "Seated Hip Abductor Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-it-band-tfl",
+        "name": "Liberación del Tensor de la Fascia Lata y Banda Iliotibial",
+        "nameEn": "Foam Rolling IT Band and Tensor Fasciae Latae",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-hip-abduction-supine",
+    "name": "Abducción de Cadera con Pies Suspendidos",
+    "nameEn": "TRX Supine Suspended Hip Abduction",
+    "primaryMuscle": "Abductors",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para abducción de cadera con pies suspendidos.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Abductores (Glúteo Medio)",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "abductor-machine",
+        "name": "Abductores en Máquina Sentado (Glúteo Medio)",
+        "nameEn": "Seated Hip Abductor Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-it-band-tfl",
+        "name": "Liberación del Tensor de la Fascia Lata y Banda Iliotibial",
+        "nameEn": "Foam Rolling IT Band and Tensor Fasciae Latae",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-hip-abduction-cable",
+        "name": "Abducción de Cadera de Pie en Polea",
+        "nameEn": "Standing Cable Hip Abduction",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+        ]
+      }
+    ]
+  }
+]

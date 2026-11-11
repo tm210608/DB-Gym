@@ -1,0 +1,4024 @@
+[
+  {
+    "id": "barbell-bench-press",
+    "name": "Press de Banca con Barra",
+    "nameEn": "Barbell Bench Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "forceType": "Empuje",
+    "instructions": [
+      "Acuéstate libremente en el banco plano, con la cabeza, espalda alta y glúteos apoyados.",
+      "Sujeta la barra con las manos un poco más anchas que los hombros.",
+      "Desengancha la barra de forma controlada y colócala sobre el centro del pecho.",
+      "Baja la barra lentamente doblando los codos a unos 45 grados de tu torso hasta rozar la línea media del pecho.",
+      "Empuja la barra con fuerza y estabilidad de regreso a la posición de brazos extendidos, sin bloquear los codos por completo."
+    ],
+    "alternatives": [
+      "dumbbell-bench-press",
+      "chest-press-machine",
+      "incline-barbell-bench-press"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-bench-press",
+        "name": "Press de Banca Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "decline-dumbbell-bench-press",
+        "name": "Press de Banca Declinado con Mancuernas",
+        "nameEn": "Decline Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dumbbell-bench-press",
+    "name": "Press de Banca con Mancuernas",
+    "nameEn": "Dumbbell Bench Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "forceType": "Empuje",
+    "instructions": [
+      "Siéntate en un banco plano con una mancuerna en cada rodilla.",
+      "Acuéstate hacia atrás mientras llevas las mancuernas al pecho con la ayuda de tus piernas.",
+      "Sostén las mancuernas sobre tu pecho alineadas con tus codos bajando a unos 90 grados.",
+      "Empuja las mancuernas hacia arriba en un movimiento semicircular controlado hacia el centro.",
+      "Baja de regreso estirando el pecho de forma constante."
+    ],
+    "alternatives": [
+      "barbell-bench-press",
+      "incline-dumbbell-bench-press",
+      "chest-press-machine"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "decline-barbell-bench-press",
+        "name": "Press de Banca Declinado con Barra",
+        "nameEn": "Decline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "incline-barbell-bench-press",
+    "name": "Press de Banca Inclinado con Barra",
+    "nameEn": "Incline Barbell Bench Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "forceType": "Empuje",
+    "instructions": [
+      "Alinea el banco a unos 30 o 45 grados de inclinación.",
+      "Acuéstate bocarriba y toma la barra un poco más ancha que tus hombros.",
+      "Retira la barra del soporte y bájala lentamente hacia la parte alta del pecho.",
+      "Empuja con los tríceps y el pecho alto para subir el peso verticalmente.",
+      "Inhala al bajar, exhala con fuerza al empujar el peso."
+    ],
+    "alternatives": [
+      "incline-dumbbell-bench-press",
+      "barbell-bench-press"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-bench-press",
+        "name": "Press de Banca Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "decline-dumbbell-bench-press",
+        "name": "Press de Banca Declinado con Mancuernas",
+        "nameEn": "Decline Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "incline-dumbbell-bench-press",
+    "name": "Press de Banca Inclinado con Mancuernas",
+    "nameEn": "Incline Dumbbell Bench Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "forceType": "Empuje",
+    "instructions": [
+      "Asegura una inclinación del banco entre 30 y 45 grados.",
+      "Empuja las mancuernas hacia arriba empezando desde los lados de tus hombros superiores.",
+      "Controla el descenso de manera que tus codos formen un ángulo cómodo e higiénico.",
+      "Asegúrate de no chocar las mancuernas al tope de la fase de ascenso para mantener tensión."
+    ],
+    "alternatives": [
+      "incline-barbell-bench-press",
+      "dumbbell-bench-press"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "decline-barbell-bench-press",
+        "name": "Press de Banca Declinado con Barra",
+        "nameEn": "Decline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "decline-barbell-bench-press",
+    "name": "Press de Banca Declinado con Barra",
+    "nameEn": "Decline Barbell Bench Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "forceType": "Empuje",
+    "instructions": [
+      "Asegura tus piernas en el soporte del banco declinado y acuéstate.",
+      "Toma la barra con un agarre prono un poco más ancho que los hombros.",
+      "Saca la barra del rack y bájala controladamente hacia la parte inferior del pecho.",
+      "Empuja verticalmente hacia arriba contrayendo el pectoral inferior."
+    ],
+    "alternatives": [
+      "decline-dumbbell-bench-press",
+      "barbell-bench-press"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-bench-press",
+        "name": "Press de Banca Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "decline-dumbbell-bench-press",
+        "name": "Press de Banca Declinado con Mancuernas",
+        "nameEn": "Decline Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "decline-dumbbell-bench-press",
+    "name": "Press de Banca Declinado con Mancuernas",
+    "nameEn": "Decline Dumbbell Bench Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "forceType": "Empuje",
+    "instructions": [
+      "Siéntate en el banco declinado sosteniendo las mancuernas sobre los muslos.",
+      "Acuéstate hacia atrás controlando el peso a los lados del pecho inferior.",
+      "Empuja las mancuernas hacia arriba bloqueando suavemente arriba.",
+      "Baja sintiendo el estiramiento en la porción inferior del pectoral."
+    ],
+    "alternatives": [
+      "decline-barbell-bench-press",
+      "dumbbell-bench-press"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Bench_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Bench_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "decline-barbell-bench-press",
+        "name": "Press de Banca Declinado con Barra",
+        "nameEn": "Decline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chest-press-machine",
+    "name": "Press de Pecho en Máquina",
+    "nameEn": "Machine Chest Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la altura del asiento para que los agarres queden alineados con la mitad del pecho.",
+      "Apoya la espalda firmemente contra el respaldo y toma los agarres.",
+      "Empuja hacia adelante extendiendo los brazos sin bloquear por completo los codos.",
+      "Regresa lentamente sintiendo la tensión constante en los pectorales."
+    ],
+    "alternatives": [
+      "barbell-bench-press",
+      "dumbbell-bench-press"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leverage_Chest_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leverage_Chest_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cable-crossover",
+    "name": "Cruces de Polea Alta",
+    "nameEn": "Cable Crossover",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Intermedio",
+    "forceType": "Empuje",
+    "instructions": [
+      "Coloca las poleas a una altura superior a tu cabeza en ambas columnas del crossover.",
+      "Sujeta los agarres D, da un paso adelante para tensar el cable y flexiona levemente las rodillas y codos.",
+      "Lleva los brazos hacia adelante y abajo en un arco de círculo encontrando tus manos al frente del abdomen bajo.",
+      "Regresa lentamente abriendo los brazos controlando el tirón del cable."
+    ],
+    "alternatives": [
+      "dumbbell-fly",
+      "low-cable-crossover"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Crossover/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Crossover/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "low-cable-crossover",
+    "name": "Cruces de Polea Baja",
+    "nameEn": "Low Cable Crossover",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Intermedio",
+    "forceType": "Empuje",
+    "instructions": [
+      "Coloca las poleas en la posición más baja de las columnas.",
+      "Toma los agarres D, da un paso adelante e inclina ligeramente el torso hacia el frente.",
+      "Lleva las manos hacia adelante y hacia arriba hasta que se junten a la altura del pecho superior.",
+      "Baja controladamente los brazos al punto de inicio."
+    ],
+    "alternatives": [
+      "cable-crossover",
+      "incline-dumbbell-fly"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Low_Cable_Crossover/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Low_Cable_Crossover/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dumbbell-fly",
+    "name": "Aperturas con Mancuernas",
+    "nameEn": "Dumbbell Fly",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "forceType": "Empuje",
+    "instructions": [
+      "Acuéstate en un banco plano sosteniendo las mancuernas sobre tu pecho con las palmas mirándose.",
+      "Abre los brazos de forma lateral formando un arco amplio, doblando ligeramente los codos.",
+      "Baja hasta sentir un estiramiento cómodo en el pecho.",
+      "Contrae el pectoral para regresar las mancuernas a la posición de inicio."
+    ],
+    "alternatives": [
+      "cable-crossover",
+      "pec-deck-fly"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pec-deck-fly",
+        "name": "Aperturas en Contratora (Pec Deck)",
+        "nameEn": "Pec Deck Fly",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-cable-flyes",
+        "name": "Cruces en Polea Sentado en Banco",
+        "nameEn": "Seated Cable Flyes",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Cable_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Cable_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "incline-dumbbell-fly",
+    "name": "Aperturas Inclinadas con Mancuernas",
+    "nameEn": "Incline Dumbbell Fly",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "forceType": "Empuje",
+    "instructions": [
+      "Acuéstate en un banco inclinado (30-45 grados) con las mancuernas en vertical sobre los hombros.",
+      "Baja las mancuernas hacia los lados manteniendo una ligera flexión de codo.",
+      "Sube contrayendo la parte alta de los pectorales."
+    ],
+    "alternatives": [
+      "dumbbell-fly",
+      "low-cable-crossover"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pec-deck-fly",
+        "name": "Aperturas en Contratora (Pec Deck)",
+        "nameEn": "Pec Deck Fly",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-cable-flyes",
+        "name": "Cruces en Polea Sentado en Banco",
+        "nameEn": "Seated Cable Flyes",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Cable_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Cable_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pec-deck-fly",
+    "name": "Aperturas en Contratora (Pec Deck)",
+    "nameEn": "Pec Deck Fly",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Empuje",
+    "instructions": [
+      "Siéntate con la espalda apoyada y los brazos extendidos hacia los lados tomando los agarres.",
+      "Junta los agarres en el centro contrayendo activamente el pecho.",
+      "Regresa lentamente al punto de inicio sin permitir que las pesas toquen el bloque."
+    ],
+    "alternatives": [
+      "dumbbell-fly",
+      "cable-crossover"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-fly",
+        "name": "Aperturas con Mancuernas",
+        "nameEn": "Dumbbell Fly",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-fly",
+        "name": "Aperturas Inclinadas con Mancuernas",
+        "nameEn": "Incline Dumbbell Fly",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-flyes",
+        "name": "Aperturas Inclinadas con Mancuernas",
+        "nameEn": "Incline Dumbbell Flyes",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chest-dips",
+    "name": "Fondos en Paralelas para Pecho",
+    "nameEn": "Chest Dips",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sujétate de las barras paralelas y elévate extendiendo los brazos.",
+      "Inclina el torso ligeramente hacia adelante y dobla las rodillas si es necesario.",
+      "Baja el cuerpo doblando los codos hacia afuera hasta que tus hombros estén debajo de los codos.",
+      "Empuja hacia arriba con fuerza focalizando el pectoral inferior."
+    ],
+    "alternatives": [
+      "decline-barbell-bench-press",
+      "push-up"
+    ],
+    "category": "Fuerza",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dips_-_Chest_Version/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dips_-_Chest_Version/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "push-up",
+    "name": "Flexiones de Pecho",
+    "nameEn": "Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps",
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "forceType": "Empuje",
+    "instructions": [
+      "Colócate boca abajo en el suelo apoyando manos a ancho de hombros y las puntas de tus pies.",
+      "Mantén todo tu cuerpo en línea recta sin doblar la cadera.",
+      "Baja doblando los codos hacia atrás formando una flecha con tu cabeza (no codos de 90 grados).",
+      "Empuja el suelo con fuerza regresando a la plancha de inicio."
+    ],
+    "alternatives": [
+      "barbell-bench-press",
+      "chest-press-machine"
+    ],
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pushup",
+        "name": "Flexiones en Anillas de Gimnasia",
+        "nameEn": "Gymnastic Ring Push-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "decline-push-up",
+    "name": "Flexiones Declina (Pies Elevados)",
+    "nameEn": "Decline Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "forceType": "Empuje",
+    "instructions": [
+      "Coloca los pies sobre un banco o superficie elevada y las manos en el suelo.",
+      "Mantén el torso y las piernas en línea recta.",
+      "Baja el pecho hacia el suelo doblando los codos.",
+      "Empuja con fuerza hacia arriba para volver a la posición inicial."
+    ],
+    "alternatives": [
+      "push-up",
+      "incline-dumbbell-bench-press"
+    ],
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Push-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Push-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pushup",
+        "name": "Flexiones en Anillas de Gimnasia",
+        "nameEn": "Gymnastic Ring Push-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "incline-dumbbell-flyes",
+    "name": "Aperturas Inclinadas con Mancuernas",
+    "nameEn": "Incline Dumbbell Flyes",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Biceps"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Intermedio",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta un banco inclinado entre 30 y 45 grados y siéntate apoyando la espalda por completo.",
+      "Sujeta dos mancuernas con agarre neutro y elévalas sobre el pecho con los codos ligeramente flexionados.",
+      "Abre los brazos en un arco amplio descendiendo las mancuernas hasta sentir un estiramiento profundo en el pectoral superior.",
+      "Cierra los brazos contrayendo el pecho por la misma trayectoria hasta la posición inicial sin chocar las mancuernas."
+    ],
+    "tips": [
+      "Mantén un ángulo de flexión constante en los codos durante todo el recorrido; no conviertas el ejercicio en un press."
+    ],
+    "breathingCue": "Inhala al descender abriendo los brazos; exhala al cerrar al centro.",
+    "alternatives": [
+      "cable-crossover",
+      "incline-dumbbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Bíceps"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pec-deck-fly",
+        "name": "Aperturas en Contratora (Pec Deck)",
+        "nameEn": "Pec Deck Fly",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-cable-flyes",
+        "name": "Cruces en Polea Sentado en Banco",
+        "nameEn": "Seated Cable Flyes",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Cable_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Cable_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "svend-press",
+    "name": "Press Svend con Discos",
+    "nameEn": "Svend Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ponte de pie con los pies a la anchura de las caderas y la espalda erguida.",
+      "Coloca uno o dos discos pequeños (o una mancuerna) entre las palmas de las manos a la altura del esternón.",
+      "Presiona activamente las palmas entre sí con fuerza isométrica máxima apretando el pecho.",
+      "Empuja las manos hacia adelante hasta estirar los brazos por completo sin aflojar la presión entre las palmas.",
+      "Regresa controladamente al esternón manteniendo la compresión continua."
+    ],
+    "tips": [
+      "El estímulo no depende del peso levantado, sino de la fuerza con la que aplastas los discos entre sí."
+    ],
+    "breathingCue": "Exhala al extender los brazos al frente; inhala al recoger al esternón.",
+    "alternatives": [],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Antebrazos",
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Isometric_Chest_Squeezes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Isometric_Chest_Squeezes/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pec-deck-fly",
+        "name": "Aperturas en Contratora (Pec Deck)",
+        "nameEn": "Pec Deck Fly",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-cable-flyes",
+        "name": "Cruces en Polea Sentado en Banco",
+        "nameEn": "Seated Cable Flyes",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Cable_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Cable_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-cable-flyes",
+    "name": "Cruces en Polea Sentado en Banco",
+    "nameEn": "Seated Cable Flyes",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Empuje",
+    "instructions": [
+      "Coloca un banco con respaldo a 90 grados en medio de una estación de poleas dobles ajustadas a la altura del pecho.",
+      "Siéntate apoyando firmemente la espalda y toma los agarres individuales.",
+      "Junta las manos hacia el frente en un arco amplio con los codos ligeramente doblados.",
+      "Aguanta un segundo la contracción máxima en el centro y abre los brazos despacio sintiendo la tensión continua del cable."
+    ],
+    "tips": [
+      "Al estar sentado se anula el balanceo del tronco, aislando el trabajo en el pectoral mayor."
+    ],
+    "breathingCue": "Exhala al juntar los agarres al frente; inhala al abrir los brazos.",
+    "alternatives": [
+      "cable-crossover"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Cable_Flyes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Cable_Flyes/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-fly",
+        "name": "Aperturas con Mancuernas",
+        "nameEn": "Dumbbell Fly",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-fly",
+        "name": "Aperturas Inclinadas con Mancuernas",
+        "nameEn": "Incline Dumbbell Fly",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "pec-deck-fly",
+        "name": "Aperturas en Contratora (Pec Deck)",
+        "nameEn": "Pec Deck Fly",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "single-arm-cable-chest-press",
+    "name": "Press de Pecho en Polea a Una Mano",
+    "nameEn": "Single-Arm Cable Chest Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Intermedio",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la polea a la altura del pecho y toma el agarre con una mano situándote de espaldas a la torre en posición de zancada firme.",
+      "Comienza con la mano al lado del pecho y el core completamente rígido para resistir la rotación.",
+      "Empuja el agarre hacia el frente en línea recta hasta extender el brazo.",
+      "Regresa lentamente sin permitir que el peso rote tu tronco hacia atrás."
+    ],
+    "tips": [
+      "Excelente para transferir fuerza rotacional y estabilidad del core a deportes de contacto o golpeo."
+    ],
+    "breathingCue": "Exhala al empujar al frente; inhala al regresar reteniendo el peso.",
+    "alternatives": [
+      "dumbbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trx-chest-press",
+        "name": "Press de Pecho en Suspensión (TRX Chest Press)",
+        "nameEn": "TRX Suspension Chest Press",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "trx-chest-flye",
+        "name": "Aperturas de Pecho en Suspensión (TRX Flye)",
+        "nameEn": "TRX Suspension Chest Flye",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "trx-atomic-push-up",
+        "name": "Flexión Atómica con Pies en TRX (Push-Up + Crunch)",
+        "nameEn": "TRX Atomic Push-Up to Pike",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wide-grip-pushup",
+    "name": "Flexiones con Agarre Ancho",
+    "nameEn": "Wide Grip Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones con agarre ancho asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push-Up_Wide/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push-Up_Wide/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pushup",
+        "name": "Flexiones en Anillas de Gimnasia",
+        "nameEn": "Gymnastic Ring Push-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "decline-pushup",
+    "name": "Flexiones Declinadas con Pies Elevados",
+    "nameEn": "Decline Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones declinadas con pies elevados asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Push-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Push-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pushup",
+        "name": "Flexiones en Anillas de Gimnasia",
+        "nameEn": "Gymnastic Ring Push-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "incline-pushup",
+    "name": "Flexiones Inclinadas con Manos Elevadas",
+    "nameEn": "Incline Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones inclinadas con manos elevadas asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pushup",
+        "name": "Flexiones en Anillas de Gimnasia",
+        "nameEn": "Gymnastic Ring Push-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "archer-pushup",
+    "name": "Flexiones de Arquero",
+    "nameEn": "Archer Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones de arquero asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push-Up_Wide/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push-Up_Wide/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pushup",
+        "name": "Flexiones en Anillas de Gimnasia",
+        "nameEn": "Gymnastic Ring Push-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "spiderman-pushup",
+    "name": "Flexiones Spiderman",
+    "nameEn": "Spiderman Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Abs",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones spiderman asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pushup",
+        "name": "Flexiones en Anillas de Gimnasia",
+        "nameEn": "Gymnastic Ring Push-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "clap-pushup",
+    "name": "Flexiones con Palmada Pliométricas",
+    "nameEn": "Clap Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones con palmada pliométricas asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ring-pushup",
+    "name": "Flexiones en Anillas de Gimnasia",
+    "nameEn": "Gymnastic Ring Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Rings",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones en anillas de gimnasia asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Anillas de Gimnasia",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "push-up",
+        "name": "Flexiones de Pecho",
+        "nameEn": "Push-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/1.jpg"
+        ]
+      },
+      {
+        "id": "decline-push-up",
+        "name": "Flexiones Declina (Pies Elevados)",
+        "nameEn": "Decline Push-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pushup",
+        "name": "Flexiones con Agarre Ancho",
+        "nameEn": "Wide Grip Push-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push-Up_Wide/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push-Up_Wide/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "parallel-bar-dips",
+    "name": "Fondos en Barras Paralelas",
+    "nameEn": "Parallel Bar Dips",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para fondos en barras paralelas equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en chest.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dips_-_Triceps_Version/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dips_-_Triceps_Version/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-dips",
+        "name": "Fondos en Anillas",
+        "nameEn": "Ring Dips",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ring_Dips/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ring_Dips/1.jpg"
+        ]
+      },
+      {
+        "id": "ring-pushup",
+        "name": "Flexiones en Anillas de Gimnasia",
+        "nameEn": "Gymnastic Ring Push-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ring-dips",
+    "name": "Fondos en Anillas",
+    "nameEn": "Ring Dips",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Rings",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para fondos en anillas equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en chest.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Anillas de Gimnasia",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ring_Dips/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ring_Dips/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "parallel-bar-dips",
+        "name": "Fondos en Barras Paralelas",
+        "nameEn": "Parallel Bar Dips",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dips_-_Triceps_Version/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dips_-_Triceps_Version/1.jpg"
+        ]
+      },
+      {
+        "id": "push-up",
+        "name": "Flexiones de Pecho",
+        "nameEn": "Push-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/1.jpg"
+        ]
+      },
+      {
+        "id": "decline-push-up",
+        "name": "Flexiones Declina (Pies Elevados)",
+        "nameEn": "Decline Push-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Push-Up/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "doorway-pec-stretch",
+    "name": "Estiramiento Pectoral en Marco de Puerta",
+    "nameEn": "Doorway Chest and Biceps Stretch",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Biceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de estiramiento pectoral en marco de puerta sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Bíceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chest_And_Front_Of_Shoulder_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chest_And_Front_Of_Shoulder_Stretch/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "foam-roll-pec-minor-ball",
+    "name": "Presión en Pectoral Menor con Pelota de Lacrosse",
+    "nameEn": "Lacrosse Ball Trigger Point Release for Pec Minor",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "MedicineBall",
+    "difficulty": "Principiante",
+    "category": "FoamRolling",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Coloca el rodillo o pelota bajo el área muscular diana de presión en pectoral menor con pelota de lacrosse.",
+      "Rueda lentamente buscando zonas de mayor tensión o nudos musculares (puntos gatillo).",
+      "Al localizar un punto sensible, sostén la presión fija durante 30 a 60 segundos respirando hondo."
+    ],
+    "tips": [
+      "Nunca ruedes directamente sobre articulaciones, huesos prominentes o la zona lumbar sin apoyo pélvico."
+    ],
+    "breathingCue": "Exhala largo y relajado mientras permites que el músculo ceda a la presión del rodillo.",
+    "alternatives": [
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Medicinal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Behind_Head_Chest_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Behind_Head_Chest_Stretch/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "kettlebell-floor-press-single",
+    "name": "Press en el Suelo a Una Mano con Pesa Rusa",
+    "nameEn": "Single-Arm Kettlebell Floor Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para press en el suelo a una mano con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Floor_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Floor_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-man-maker",
+    "name": "Man Maker con Pesas Rusas (Flexión + Remo + Thruster)",
+    "nameEn": "Kettlebell Man Maker Complex",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Back",
+      "Shoulders",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Multi-plano",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para man maker con pesas rusas (flexión + remo + thruster).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Hombros / Deltoides",
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Floor_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Floor_Press/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "med-ball-chest-pass-explosive",
+    "name": "Pase Pectoral Explosivo de Balón contra Pared",
+    "nameEn": "Explosive Medicine Ball Chest Pass to Wall",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "MedicineBall",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para pase pectoral explosivo de balón contra pared.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Medicinal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "plyometric-push-up-box",
+        "name": "Flexión Pliométrica con Manos al Cajón",
+        "nameEn": "Incline Plyometric Push-Up on Box",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up_Depth_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up_Depth_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "depth-pushup-blocks",
+        "name": "Flexión con Caída Reactiva desde Bloques",
+        "nameEn": "Depth Push-Up from Drop Blocks",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/1.jpg"
+        ]
+      },
+      {
+        "id": "clap-pushup",
+        "name": "Flexiones con Palmada Pliométricas",
+        "nameEn": "Clap Push-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plyometric-push-up-box",
+    "name": "Flexión Pliométrica con Manos al Cajón",
+    "nameEn": "Incline Plyometric Push-Up on Box",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Box",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para flexión pliométrica con manos al cajón.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Cajón Pliométrico",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up_Depth_Jump/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up_Depth_Jump/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "med-ball-chest-pass-explosive",
+        "name": "Pase Pectoral Explosivo de Balón contra Pared",
+        "nameEn": "Explosive Medicine Ball Chest Pass to Wall",
+        "equipment": "MedicineBall",
+        "equipmentEs": "Balón Medicinal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/1.jpg"
+        ]
+      },
+      {
+        "id": "depth-pushup-blocks",
+        "name": "Flexión con Caída Reactiva desde Bloques",
+        "nameEn": "Depth Push-Up from Drop Blocks",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/1.jpg"
+        ]
+      },
+      {
+        "id": "clap-pushup",
+        "name": "Flexiones con Palmada Pliométricas",
+        "nameEn": "Clap Push-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "depth-pushup-blocks",
+    "name": "Flexión con Caída Reactiva desde Bloques",
+    "nameEn": "Depth Push-Up from Drop Blocks",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para flexión con caída reactiva desde bloques.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plyo_Push-up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "med-ball-chest-pass-explosive",
+        "name": "Pase Pectoral Explosivo de Balón contra Pared",
+        "nameEn": "Explosive Medicine Ball Chest Pass to Wall",
+        "equipment": "MedicineBall",
+        "equipmentEs": "Balón Medicinal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Chest_Pass/1.jpg"
+        ]
+      },
+      {
+        "id": "plyometric-push-up-box",
+        "name": "Flexión Pliométrica con Manos al Cajón",
+        "nameEn": "Incline Plyometric Push-Up on Box",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up_Depth_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Push-Up_Depth_Jump/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "guillotine-bench-press",
+    "name": "Press Guillotina con Barra al Cuello",
+    "nameEn": "Guillotine Neck Bench Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para press guillotina con barra al cuello.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Guillotine_Bench_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Guillotine_Bench_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-bench-press",
+        "name": "Press de Banca Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "decline-dumbbell-bench-press",
+        "name": "Press de Banca Declinado con Mancuernas",
+        "nameEn": "Decline Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "incline-cable-chest-press",
+    "name": "Press de Pecho Inclinado en Poleas Bajas",
+    "nameEn": "Incline Low-to-High Cable Chest Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para press de pecho inclinado en poleas bajas.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Cable_Chest_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Cable_Chest_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "decline-cable-flyes",
+    "name": "Cruces Declinados de Polea Alta hacia Abajo",
+    "nameEn": "Decline High-to-Low Cable Flyes",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para cruces declinados de polea alta hacia abajo.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Low_Cable_Crossover/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Low_Cable_Crossover/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "floor-press-barbell",
+    "name": "Press en el Suelo con Barra Olímpica",
+    "nameEn": "Barbell Floor Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para press en el suelo con barra olímpica.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Floor_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Alternating_Floor_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-bench-press",
+        "name": "Press de Banca Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "decline-dumbbell-bench-press",
+        "name": "Press de Banca Declinado con Mancuernas",
+        "nameEn": "Decline Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dumbbell-pullover-chest",
+    "name": "Pull-Over con Mancuerna Cruzado en Banco",
+    "nameEn": "Cross-Bench Dumbbell Pullover",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Lats",
+      "Triceps",
+      "Serratus"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para pull-over con mancuerna cruzado en banco.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Dorsal Ancho",
+      "Tríceps",
+      "Serrato Anterior"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent-Arm_Dumbbell_Pullover/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent-Arm_Dumbbell_Pullover/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "decline-barbell-bench-press",
+        "name": "Press de Banca Declinado con Barra",
+        "nameEn": "Decline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "smith-machine-incline-press",
+    "name": "Press Inclinado en Máquina Smith",
+    "nameEn": "Smith Machine Incline Bench Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "SmithMachine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para press inclinado en máquina smith.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina Smith / Multipower",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Incline_Bench_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Incline_Bench_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "smith-machine-flat-press",
+    "name": "Press Plano en Máquina Smith",
+    "nameEn": "Smith Machine Flat Bench Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "SmithMachine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para press plano en máquina smith.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina Smith / Multipower",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Bench_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Bench_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "neutral-grip-dumbbell-bench-press",
+    "name": "Press de Banca con Mancuernas en Agarre Neutro",
+    "nameEn": "Neutral Grip Dumbbell Bench Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para press de banca con mancuernas en agarre neutro.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press_with_Neutral_Grip/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press_with_Neutral_Grip/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "decline-barbell-bench-press",
+        "name": "Press de Banca Declinado con Barra",
+        "nameEn": "Decline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Barbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-chest-press",
+    "name": "Press de Pecho en Suspensión (TRX Chest Press)",
+    "nameEn": "TRX Suspension Chest Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para press de pecho en suspensión (trx chest press).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "single-arm-cable-chest-press",
+        "name": "Press de Pecho en Polea a Una Mano",
+        "nameEn": "Single-Arm Cable Chest Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-chest-flye",
+    "name": "Aperturas de Pecho en Suspensión (TRX Flye)",
+    "nameEn": "TRX Suspension Chest Flye",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para aperturas de pecho en suspensión (trx flye).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "single-arm-cable-chest-press",
+        "name": "Press de Pecho en Polea a Una Mano",
+        "nameEn": "Single-Arm Cable Chest Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-atomic-push-up",
+    "name": "Flexión Atómica con Pies en TRX (Push-Up + Crunch)",
+    "nameEn": "TRX Atomic Push-Up to Pike",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Abs",
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para flexión atómica con pies en trx (push-up + crunch).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "single-arm-cable-chest-press",
+        "name": "Press de Pecho en Polea a Una Mano",
+        "nameEn": "Single-Arm Cable Chest Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-clock-press",
+    "name": "Press del Reloj Asimétrico en Suspensión",
+    "nameEn": "TRX Clock Press Multi-Angle Chest",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para press del reloj asimétrico en suspensión.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "single-arm-cable-chest-press",
+        "name": "Press de Pecho en Polea a Una Mano",
+        "nameEn": "Single-Arm Cable Chest Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  }
+]

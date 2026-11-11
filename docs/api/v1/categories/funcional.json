@@ -1,0 +1,3279 @@
+[
+  {
+    "id": "single-arm-cable-chest-press",
+    "name": "Press de Pecho en Polea a Una Mano",
+    "nameEn": "Single-Arm Cable Chest Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Intermedio",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la polea a la altura del pecho y toma el agarre con una mano situándote de espaldas a la torre en posición de zancada firme.",
+      "Comienza con la mano al lado del pecho y el core completamente rígido para resistir la rotación.",
+      "Empuja el agarre hacia el frente en línea recta hasta extender el brazo.",
+      "Regresa lentamente sin permitir que el peso rote tu tronco hacia atrás."
+    ],
+    "tips": [
+      "Excelente para transferir fuerza rotacional y estabilidad del core a deportes de contacto o golpeo."
+    ],
+    "breathingCue": "Exhala al empujar al frente; inhala al regresar reteniendo el peso.",
+    "alternatives": [
+      "dumbbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trx-chest-press",
+        "name": "Press de Pecho en Suspensión (TRX Chest Press)",
+        "nameEn": "TRX Suspension Chest Press",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "trx-chest-flye",
+        "name": "Aperturas de Pecho en Suspensión (TRX Flye)",
+        "nameEn": "TRX Suspension Chest Flye",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "trx-atomic-push-up",
+        "name": "Flexión Atómica con Pies en TRX (Push-Up + Crunch)",
+        "nameEn": "TRX Atomic Push-Up to Pike",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sled-push-prowler",
+    "name": "Empuje de Trineo Pesado (Prowler Sled Push)",
+    "nameEn": "Heavy Prowler Sled Push",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves",
+      "Cardio"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Sled",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para empuje de trineo pesado (prowler sled push) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Gemelos / Pantorrillas",
+      "Sistema Cardiovascular"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Trineo de Empuje (Prowler)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trx-pistol-squat-assisted",
+        "name": "Sentadilla Pistola Asistida con TRX",
+        "nameEn": "TRX Assisted Single-Leg Pistol Squat",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "trx-overhead-squat",
+        "name": "Sentadilla Profunda con Brazos en Y en TRX",
+        "nameEn": "TRX Overhead Deep Squat Mobility",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sled-drag-backward",
+    "name": "Arrastre de Trineo Marchando hacia Atrás",
+    "nameEn": "Backward Sled Drag for Knee Resilience",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Sled",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para arrastre de trineo marchando hacia atrás con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Trineo de Empuje (Prowler)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Drag/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Drag/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trx-pistol-squat-assisted",
+        "name": "Sentadilla Pistola Asistida con TRX",
+        "nameEn": "TRX Assisted Single-Leg Pistol Squat",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "trx-overhead-squat",
+        "name": "Sentadilla Profunda con Brazos en Y en TRX",
+        "nameEn": "TRX Overhead Deep Squat Mobility",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-chest-press",
+    "name": "Press de Pecho en Suspensión (TRX Chest Press)",
+    "nameEn": "TRX Suspension Chest Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para press de pecho en suspensión (trx chest press).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "single-arm-cable-chest-press",
+        "name": "Press de Pecho en Polea a Una Mano",
+        "nameEn": "Single-Arm Cable Chest Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-chest-flye",
+    "name": "Aperturas de Pecho en Suspensión (TRX Flye)",
+    "nameEn": "TRX Suspension Chest Flye",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para aperturas de pecho en suspensión (trx flye).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "single-arm-cable-chest-press",
+        "name": "Press de Pecho en Polea a Una Mano",
+        "nameEn": "Single-Arm Cable Chest Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-inverted-row-high",
+    "name": "Remo Invertido en TRX Agarre Alto",
+    "nameEn": "TRX High Inverted Row",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Traps",
+      "Biceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para remo invertido en trx agarre alto.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Trapecio",
+      "Bíceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-row",
+        "name": "Remo con Barra",
+        "nameEn": "Barbell Row",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/1.jpg"
+        ]
+      },
+      {
+        "id": "t-bar-row",
+        "name": "Remo en Barra T",
+        "nameEn": "T-Bar Row",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-single-row",
+        "name": "Remo a una Mano con Mancuerna",
+        "nameEn": "Dumbbell Single-Arm Row",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-low-row-neutral",
+    "name": "Remo en TRX con Agarre Neutro al Torso",
+    "nameEn": "TRX Low Neutral Grip Row",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Biceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para remo en trx con agarre neutro al torso.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "trx-single-arm-power-pull",
+    "name": "Tirón de Potencia con Rotación en TRX (Power Pull)",
+    "nameEn": "TRX Single-Arm Rotational Power Pull",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Abs",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para tirón de potencia con rotación en trx (power pull).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "thoracic-spine-rotations-quadruped",
+        "name": "Rotación Torácica en Cuadrupedia",
+        "nameEn": "Quadruped Thoracic Rotation",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spinal_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spinal_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "thread-the-needle",
+        "name": "Enhebrar la Aguja (Thread the Needle)",
+        "nameEn": "Thread the Needle Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spinal_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spinal_Stretch/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-y-flye-deltoids",
+    "name": "Aperturas en Y en Suspensión para Deltoides Posterior",
+    "nameEn": "TRX Y-Deltoid Flye",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para aperturas en y en suspensión para deltoides posterior.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "face-pull-rope",
+        "name": "Face Pull con Cuerda en Polea",
+        "nameEn": "Rope Cable Face Pull",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "band-pull-apart-warmup",
+        "name": "Separaciones de Banda Elástica al Pecho (Pull-Apart)",
+        "nameEn": "Band Pull-Apart Warmup",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+        ]
+      },
+      {
+        "id": "face-pull-band-warmup",
+        "name": "Face Pull con Banda Elástica en Anclaje",
+        "nameEn": "Banded Face Pull Warmup",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-t-flye-rhomboids",
+    "name": "Aperturas en T en Suspensión para Romboides",
+    "nameEn": "TRX T-Flye for Upper Back and Rhomboids",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Traps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para aperturas en t en suspensión para romboides.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Trapecio",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Back_Flyes_-_With_Bands/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Back_Flyes_-_With_Bands/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-row",
+        "name": "Remo con Barra",
+        "nameEn": "Barbell Row",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/1.jpg"
+        ]
+      },
+      {
+        "id": "t-bar-row",
+        "name": "Remo en Barra T",
+        "nameEn": "T-Bar Row",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-single-row",
+        "name": "Remo a una Mano con Mancuerna",
+        "nameEn": "Dumbbell Single-Arm Row",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-biceps-curl-overhead",
+    "name": "Curl de Bíceps en Suspensión",
+    "nameEn": "TRX Suspension Biceps Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para curl de bíceps en suspensión.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Cable_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Cable_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-crush-curl",
+        "name": "Curl de Bíceps Comprimiendo Pesa Rusa (Crush Curl)",
+        "nameEn": "Kettlebell Crush Grip Biceps Curl",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Clean/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-curl",
+        "name": "Curl de Bíceps alterno con Mancuernas",
+        "nameEn": "Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-triceps-pressdown",
+    "name": "Extensión de Tríceps sobre Cabeza en TRX",
+    "nameEn": "TRX Overhead Triceps Extension",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para extensión de tríceps sobre cabeza en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Tríceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Overhead_Triceps_Extension/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Overhead_Triceps_Extension/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-overhead-triceps-extension",
+        "name": "Extensión de Tríceps sobre Cabeza con Pesa Rusa",
+        "nameEn": "Kettlebell Overhead Triceps Extension",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Triceps_Extension/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Triceps_Extension/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-triceps-dip-machine",
+        "name": "Fondos de Tríceps Sentado en Máquina",
+        "nameEn": "Seated Dip Machine for Triceps",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/1.jpg"
+        ]
+      },
+      {
+        "id": "diamond-pushdown-cable",
+        "name": "Extensión de Tríceps con Agarre en V en Polea",
+        "nameEn": "V-Bar Cable Triceps Pushdown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown_-_V-Bar_Attachment/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown_-_V-Bar_Attachment/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-pistol-squat-assisted",
+    "name": "Sentadilla Pistola Asistida con TRX",
+    "nameEn": "TRX Assisted Single-Leg Pistol Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para sentadilla pistola asistida con trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "sled-push-prowler",
+        "name": "Empuje de Trineo Pesado (Prowler Sled Push)",
+        "nameEn": "Heavy Prowler Sled Push",
+        "equipment": "Sled",
+        "equipmentEs": "Trineo de Empuje (Prowler)",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/1.jpg"
+        ]
+      },
+      {
+        "id": "sled-drag-backward",
+        "name": "Arrastre de Trineo Marchando hacia Atrás",
+        "nameEn": "Backward Sled Drag for Knee Resilience",
+        "equipment": "Sled",
+        "equipmentEs": "Trineo de Empuje (Prowler)",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Drag/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Drag/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-hamstring-curl-supine",
+    "name": "Curl de Isquiotibiales en Suspensión Boca Arriba",
+    "nameEn": "TRX Supine Hamstring Runner Curl",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para curl de isquiotibiales en suspensión boca arriba.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Band_Hamstring_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Band_Hamstring_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "nordic-hamstring-curl",
+        "name": "Curl Nórdico de Isquiotibiales",
+        "nameEn": "Nordic Hamstring Curl",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-atomic-push-up",
+    "name": "Flexión Atómica con Pies en TRX (Push-Up + Crunch)",
+    "nameEn": "TRX Atomic Push-Up to Pike",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Abs",
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para flexión atómica con pies en trx (push-up + crunch).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "single-arm-cable-chest-press",
+        "name": "Press de Pecho en Polea a Una Mano",
+        "nameEn": "Single-Arm Cable Chest Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-plank-feet-suspended",
+    "name": "Plancha Isométrica con Pies en TRX",
+    "nameEn": "TRX Suspended Feet Forearm Plank",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para plancha isométrica con pies en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Reverse_Crunch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Reverse_Crunch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-side-plank-suspended",
+    "name": "Plancha Lateral con Pies Suspendidos en TRX",
+    "nameEn": "TRX Suspended Side Plank",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para plancha lateral con pies suspendidos en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-cable",
+        "name": "Press Pallof Antirrotación en Polea",
+        "nameEn": "Cable Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "half-kneeling-pallof-press",
+        "name": "Press Pallof en Posición de Caballero",
+        "nameEn": "Half-Kneeling Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-pikes-abdominals",
+    "name": "Pica Abdominal en Suspensión (TRX Pike)",
+    "nameEn": "TRX Abdominal Pike Drill",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para pica abdominal en suspensión (trx pike).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Reverse_Crunch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Reverse_Crunch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-mountain-climbers",
+    "name": "Escaladores Suspendidos en TRX",
+    "nameEn": "TRX Suspended Mountain Climbers",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders",
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para escaladores suspendidos en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Reverse_Crunch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Reverse_Crunch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-suspended-lunge",
+    "name": "Zancada Búlgara en Suspensión (TRX Suspended Lunge)",
+    "nameEn": "TRX Rear-Foot Suspended Lunge",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para zancada búlgara en suspensión (trx suspended lunge).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-lunge",
+        "name": "Zancadas con Mancuerna",
+        "nameEn": "Dumbbell Lunge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lunges/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lunges/1.jpg"
+        ]
+      },
+      {
+        "id": "bulgarian-split-squat",
+        "name": "Sentadilla Búlgara con Mancuerna",
+        "nameEn": "Bulgarian Split Squat",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/1.jpg"
+        ]
+      },
+      {
+        "id": "alternating-reverse-lunge-reach",
+        "name": "Zancada Inversa Alterna con Extensión de Brazos",
+        "nameEn": "Reverse Lunge with Overhead Lateral Reach",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crossover_Reverse_Lunge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crossover_Reverse_Lunge/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-cossack-squat-assisted",
+    "name": "Sentadilla Cosaca Lateral Asistida en TRX",
+    "nameEn": "TRX Assisted Lateral Cossack Squat",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [
+      "Quads",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para sentadilla cosaca lateral asistida en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "cossack-squat-mobility",
+        "name": "Sentadilla Cosaca de Movilidad Lateral",
+        "nameEn": "Cossack Squat Mobility Flow",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groin_and_Back_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groin_and_Back_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "kettlebell-cossack-press",
+        "name": "Sentadilla Cosaca con Press Frontal de Pesa Rusa",
+        "nameEn": "Kettlebell Cossack Squat with Press-Out",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-clock-press",
+    "name": "Press del Reloj Asimétrico en Suspensión",
+    "nameEn": "TRX Clock Press Multi-Angle Chest",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para press del reloj asimétrico en suspensión.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "single-arm-cable-chest-press",
+        "name": "Press de Pecho en Polea a Una Mano",
+        "nameEn": "Single-Arm Cable Chest Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-alligator-jaw-flye",
+    "name": "Apertura Cocodrilo Asimétrica en TRX",
+    "nameEn": "TRX Alligator Diagonal Shoulder Flye",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Back",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para apertura cocodrilo asimétrica en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "face-pull-rope",
+        "name": "Face Pull con Cuerda en Polea",
+        "nameEn": "Rope Cable Face Pull",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "band-pull-apart-warmup",
+        "name": "Separaciones de Banda Elástica al Pecho (Pull-Apart)",
+        "nameEn": "Band Pull-Apart Warmup",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+        ]
+      },
+      {
+        "id": "face-pull-band-warmup",
+        "name": "Face Pull con Banda Elástica en Anclaje",
+        "nameEn": "Banded Face Pull Warmup",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-curtsy-lunge-balance",
+    "name": "Zancada Cruzada de Reverencia con TRX",
+    "nameEn": "TRX Balance Curtsy Lunge",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Quads",
+      "Abductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para zancada cruzada de reverencia con trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Abductores (Glúteo Medio)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "banded-lateral-monster-walk",
+        "name": "Caminata Lateral de Monstruo con Banda en Rodillas",
+        "nameEn": "Banded Lateral Monster Walk",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/1.jpg"
+        ]
+      },
+      {
+        "id": "kettlebell-curtsy-lunge",
+        "name": "Zancada de Reverencia con Pesa Rusa",
+        "nameEn": "Kettlebell Curtsy Lunge",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+        ]
+      },
+      {
+        "id": "reverse-lunge-smith-machine",
+        "name": "Zancada Inversa en Máquina Smith",
+        "nameEn": "Smith Machine Reverse Lunge",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-sprinter-start",
+    "name": "Salida de Velocista en Suspensión (Sprinter Start)",
+    "nameEn": "TRX Sprinter Start Explosive Drive",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para salida de velocista en suspensión (sprinter start).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-lunge",
+        "name": "Zancadas con Mancuerna",
+        "nameEn": "Dumbbell Lunge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lunges/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lunges/1.jpg"
+        ]
+      },
+      {
+        "id": "bulgarian-split-squat",
+        "name": "Sentadilla Búlgara con Mancuerna",
+        "nameEn": "Bulgarian Split Squat",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/1.jpg"
+        ]
+      },
+      {
+        "id": "alternating-reverse-lunge-reach",
+        "name": "Zancada Inversa Alterna con Extensión de Brazos",
+        "nameEn": "Reverse Lunge with Overhead Lateral Reach",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crossover_Reverse_Lunge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crossover_Reverse_Lunge/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-single-leg-deadlift",
+    "name": "Peso Muerto Unilateral Asistido en TRX",
+    "nameEn": "TRX Assisted Single-Leg RDL",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para peso muerto unilateral asistido en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_One-Legged_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_One-Legged_Deadlift/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "nordic-hamstring-curl",
+        "name": "Curl Nórdico de Isquiotibiales",
+        "nameEn": "Nordic Hamstring Curl",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-body-saw-plank",
+    "name": "Sierra Corporal Suspendida en TRX",
+    "nameEn": "TRX Suspended Body Saw Plank",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para sierra corporal suspendida en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Fallout/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Fallout/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-pendulum-oblique-swings",
+    "name": "Péndulo de Piernas Suspendidas para Oblicuos",
+    "nameEn": "TRX Suspended Oblique Pendulum Swings",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para péndulo de piernas suspendidas para oblicuos.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Reverse_Crunch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Reverse_Crunch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "windshield-wipers-hanging",
+        "name": "Limpiaparabrisas Colgado en Barra",
+        "nameEn": "Hanging Windshield Wipers",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "torso-rotations-standing",
+        "name": "Rotaciones de Tronco de Pie con Pivote",
+        "nameEn": "Standing Torso Twists with Foot Pivot",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Torso_Rotation/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Torso_Rotation/1.jpg"
+        ]
+      },
+      {
+        "id": "kettlebell-figure-eight",
+        "name": "El Ocho entre Piernas con Pesa Rusa (Figure 8)",
+        "nameEn": "Kettlebell Figure 8 Dynamic Core Flow",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Figure_8/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Figure_8/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-face-pull-high",
+    "name": "Face Pull en TRX con Rotación Externa",
+    "nameEn": "TRX High Face Pull and External Rotate",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para face pull en trx con rotación externa.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "face-pull-rope",
+        "name": "Face Pull con Cuerda en Polea",
+        "nameEn": "Rope Cable Face Pull",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "band-pull-apart-warmup",
+        "name": "Separaciones de Banda Elástica al Pecho (Pull-Apart)",
+        "nameEn": "Band Pull-Apart Warmup",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+        ]
+      },
+      {
+        "id": "face-pull-band-warmup",
+        "name": "Face Pull con Banda Elástica en Anclaje",
+        "nameEn": "Banded Face Pull Warmup",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-w-flye-external-rotation",
+    "name": "Aperturas en W en Suspensión",
+    "nameEn": "TRX W-Flye for Rotator Cuff and Mid Back",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para aperturas en w en suspensión.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Band/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Band/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "face-pull-rope",
+        "name": "Face Pull con Cuerda en Polea",
+        "nameEn": "Rope Cable Face Pull",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "band-pull-apart-warmup",
+        "name": "Separaciones de Banda Elástica al Pecho (Pull-Apart)",
+        "nameEn": "Band Pull-Apart Warmup",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+        ]
+      },
+      {
+        "id": "face-pull-band-warmup",
+        "name": "Face Pull con Banda Elástica en Anclaje",
+        "nameEn": "Banded Face Pull Warmup",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-squat-jump-power",
+    "name": "Sentadilla con Salto Asistida por TRX",
+    "nameEn": "TRX Assisted Plyometric Squat Jump",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para sentadilla con salto asistida por trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "box-jump-standard",
+        "name": "Salto al Cajón Pliométrico",
+        "nameEn": "Standard Plyometric Box Jump",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "box-jump-step-down",
+        "name": "Salto al Cajón con Bajada Caminando",
+        "nameEn": "Box Jump with Step-Down",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "depth-jump-reactive",
+        "name": "Salto de Profundidad Reactivo (Depth Jump)",
+        "nameEn": "Depth Jump for Reactive Elastic Power",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Depth_Jump_Leap/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Depth_Jump_Leap/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-hip-abduction-supine",
+    "name": "Abducción de Cadera con Pies Suspendidos",
+    "nameEn": "TRX Supine Suspended Hip Abduction",
+    "primaryMuscle": "Abductors",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para abducción de cadera con pies suspendidos.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Abductores (Glúteo Medio)",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "abductor-machine",
+        "name": "Abductores en Máquina Sentado (Glúteo Medio)",
+        "nameEn": "Seated Hip Abductor Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-it-band-tfl",
+        "name": "Liberación del Tensor de la Fascia Lata y Banda Iliotibial",
+        "nameEn": "Foam Rolling IT Band and Tensor Fasciae Latae",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-hip-abduction-cable",
+        "name": "Abducción de Cadera de Pie en Polea",
+        "nameEn": "Standing Cable Hip Abduction",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-hip-press-bridge",
+    "name": "Puente de Caderas con Talones en TRX",
+    "nameEn": "TRX Suspended Glute Bridge Press",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para puente de caderas con talones en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Physioball_Hip_Bridge/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Physioball_Hip_Bridge/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-rollout-core",
+    "name": "Rollout Abdominal en TRX de Pie",
+    "nameEn": "TRX Standing Abdominal Rollout",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Lats",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para rollout abdominal en trx de pie.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Dorsal Ancho",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Fallout/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Fallout/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-overhead-squat",
+    "name": "Sentadilla Profunda con Brazos en Y en TRX",
+    "nameEn": "TRX Overhead Deep Squat Mobility",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para sentadilla profunda con brazos en y en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "sled-push-prowler",
+        "name": "Empuje de Trineo Pesado (Prowler Sled Push)",
+        "nameEn": "Heavy Prowler Sled Push",
+        "equipment": "Sled",
+        "equipmentEs": "Trineo de Empuje (Prowler)",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/1.jpg"
+        ]
+      },
+      {
+        "id": "sled-drag-backward",
+        "name": "Arrastre de Trineo Marchando hacia Atrás",
+        "nameEn": "Backward Sled Drag for Knee Resilience",
+        "equipment": "Sled",
+        "equipmentEs": "Trineo de Empuje (Prowler)",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Drag/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Drag/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-swimmer-pull",
+    "name": "Tirón de Nadador con Brazos Rectos en TRX",
+    "nameEn": "TRX Straight-Arm Swimmer Lat Pull",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Triceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para tirón de nadador con brazos rectos en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "neutral-grip-pullup",
+        "name": "Dominadas con Agarre Neutro",
+        "nameEn": "Neutral Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pullup",
+        "name": "Dominadas Pronas con Agarre Ancho",
+        "nameEn": "Wide Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "archer-pullup",
+        "name": "Dominadas de Arquero",
+        "nameEn": "Archer Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-side-lunge-assisted",
+    "name": "Zancada Lateral Asistida con TRX",
+    "nameEn": "TRX Assisted Lateral Lunge",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Adductors",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para zancada lateral asistida con trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Aductores (Cara Interna)",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-lunge",
+        "name": "Zancadas con Mancuerna",
+        "nameEn": "Dumbbell Lunge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lunges/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lunges/1.jpg"
+        ]
+      },
+      {
+        "id": "bulgarian-split-squat",
+        "name": "Sentadilla Búlgara con Mancuerna",
+        "nameEn": "Bulgarian Split Squat",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/1.jpg"
+        ]
+      },
+      {
+        "id": "alternating-reverse-lunge-reach",
+        "name": "Zancada Inversa Alterna con Extensión de Brazos",
+        "nameEn": "Reverse Lunge with Overhead Lateral Reach",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crossover_Reverse_Lunge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crossover_Reverse_Lunge/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-burpee-single-leg",
+    "name": "Burpee Unilateral con Pie en TRX (Avanzado)",
+    "nameEn": "TRX Single-Leg Suspended Burpee",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Chest",
+      "Quads",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Avanzado",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para burpee unilateral con pie en trx (avanzado).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Pecho / Pectoral",
+      "Cuádriceps",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "burpee-chest-to-ground",
+        "name": "Burpee Completo con Pecho a Tierra",
+        "nameEn": "Full Chest-to-Ground Burpee",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/1.jpg"
+        ]
+      },
+      {
+        "id": "squat-thrust-burpee",
+        "name": "Squat Thrust sin Flexión (Sprawl)",
+        "nameEn": "Squat Thrust / Sprawl",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/1.jpg"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "id": "sled-push-prowler",
+    "name": "Empuje de Trineo Pesado (Prowler Sled Push)",
+    "nameEn": "Heavy Prowler Sled Push",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves",
+      "Cardio"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Sled",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para empuje de trineo pesado (prowler sled push) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Gemelos / Pantorrillas",
+      "Sistema Cardiovascular"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Trineo de Empuje (Prowler)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Push/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trx-pistol-squat-assisted",
+        "name": "Sentadilla Pistola Asistida con TRX",
+        "nameEn": "TRX Assisted Single-Leg Pistol Squat",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "trx-overhead-squat",
+        "name": "Sentadilla Profunda con Brazos en Y en TRX",
+        "nameEn": "TRX Overhead Deep Squat Mobility",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sled-drag-backward",
+    "name": "Arrastre de Trineo Marchando hacia Atrás",
+    "nameEn": "Backward Sled Drag for Knee Resilience",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Sled",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para arrastre de trineo marchando hacia atrás con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Trineo de Empuje (Prowler)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Drag/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Backward_Drag/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trx-pistol-squat-assisted",
+        "name": "Sentadilla Pistola Asistida con TRX",
+        "nameEn": "TRX Assisted Single-Leg Pistol Squat",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "trx-overhead-squat",
+        "name": "Sentadilla Profunda con Brazos en Y en TRX",
+        "nameEn": "TRX Overhead Deep Squat Mobility",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sled-sprint-high-speed",
+    "name": "Sprint con Empuje de Trineo Ligero",
+    "nameEn": "High-Speed Sled Push Sprint",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Quads",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Sled",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de sprint con empuje de trineo ligero a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Trineo de Empuje (Prowler)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Prowler_Sprint/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Prowler_Sprint/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "treadmill-run",
+        "name": "Carrera en Cinta",
+        "nameEn": "Treadmill Run",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/1.jpg"
+        ]
+      },
+      {
+        "id": "stationary-bike",
+        "name": "Bicicleta Estática",
+        "nameEn": "Stationary Bike",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      },
+      {
+        "id": "rowing-machine",
+        "name": "Máquina de Remo (Ergómetro)",
+        "nameEn": "Rowing Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1530 @@
+[
+  {
+    "id": "straight-arm-cable-pulldown",
+    "name": "Pull-Over en Polea Alta con Brazos Rectos",
+    "nameEn": "Straight-Arm Cable Pulldown",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Triceps",
+      "Chest"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Coloca una barra recta o cuerda en la polea alta y tómala con las palmas hacia abajo.",
+      "Da un paso hacia atrás, inclina el tronco unos 30 grados con caderas flexionadas y mantén los brazos semirrectos.",
+      "Tracciona la barra en un arco descendente hacia los muslos exclusivamente contrayendo los dorsales.",
+      "Aprieta los dorsales abajo durante un segundo y regresa despacio hasta sentir el estiramiento completo arriba."
+    ],
+    "tips": [
+      "Mantén los codos fijados con un ángulo casi recto para que no intervengan los tríceps."
+    ],
+    "breathingCue": "Exhala al llevar la barra hacia los muslos; inhala al permitir que suba controladamente.",
+    "alternatives": [
+      "lat-pulldown"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Pecho / Pectoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight-Arm_Pulldown/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight-Arm_Pulldown/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "neutral-grip-pullup",
+        "name": "Dominadas con Agarre Neutro",
+        "nameEn": "Neutral Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pullup",
+        "name": "Dominadas Pronas con Agarre Ancho",
+        "nameEn": "Wide Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "archer-pullup",
+        "name": "Dominadas de Arquero",
+        "nameEn": "Archer Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "neutral-grip-pullup",
+    "name": "Dominadas con Agarre Neutro",
+    "nameEn": "Neutral Grip Pull-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Biceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas con agarre neutro con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Trapecio"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pullup",
+        "name": "Dominadas en Anillas",
+        "nameEn": "Ring Pull-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/1.jpg"
+        ]
+      },
+      {
+        "id": "muscle-up-rings",
+        "name": "Muscle-Up en Anillas",
+        "nameEn": "Ring Muscle-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/1.jpg"
+        ]
+      },
+      {
+        "id": "mag-grip-lat-pulldown",
+        "name": "Jalón al Pecho con Agarre Neutro Ergonómico (MAG)",
+        "nameEn": "MAG Grip Neutral Lat Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wide-grip-pullup",
+    "name": "Dominadas Pronas con Agarre Ancho",
+    "nameEn": "Wide Grip Pull-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Back",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas pronas con agarre ancho con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Trapecio"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pullup",
+        "name": "Dominadas en Anillas",
+        "nameEn": "Ring Pull-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/1.jpg"
+        ]
+      },
+      {
+        "id": "muscle-up-rings",
+        "name": "Muscle-Up en Anillas",
+        "nameEn": "Ring Muscle-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/1.jpg"
+        ]
+      },
+      {
+        "id": "mag-grip-lat-pulldown",
+        "name": "Jalón al Pecho con Agarre Neutro Ergonómico (MAG)",
+        "nameEn": "MAG Grip Neutral Lat Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "archer-pullup",
+    "name": "Dominadas de Arquero",
+    "nameEn": "Archer Pull-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Biceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas de arquero con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Trapecio"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pullup",
+        "name": "Dominadas en Anillas",
+        "nameEn": "Ring Pull-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/1.jpg"
+        ]
+      },
+      {
+        "id": "muscle-up-rings",
+        "name": "Muscle-Up en Anillas",
+        "nameEn": "Ring Muscle-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/1.jpg"
+        ]
+      },
+      {
+        "id": "mag-grip-lat-pulldown",
+        "name": "Jalón al Pecho con Agarre Neutro Ergonómico (MAG)",
+        "nameEn": "MAG Grip Neutral Lat Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-sit-pullup",
+    "name": "Dominadas en L-Sit",
+    "nameEn": "L-Sit Pull-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Abs",
+      "HipFlexors",
+      "Biceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas en l-sit con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Flexores de Cadera / Psoas",
+      "Bíceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Trapecio"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pullup",
+        "name": "Dominadas en Anillas",
+        "nameEn": "Ring Pull-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/1.jpg"
+        ]
+      },
+      {
+        "id": "muscle-up-rings",
+        "name": "Muscle-Up en Anillas",
+        "nameEn": "Ring Muscle-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/1.jpg"
+        ]
+      },
+      {
+        "id": "mag-grip-lat-pulldown",
+        "name": "Jalón al Pecho con Agarre Neutro Ergonómico (MAG)",
+        "nameEn": "MAG Grip Neutral Lat Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ring-pullup",
+    "name": "Dominadas en Anillas",
+    "nameEn": "Ring Pull-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Biceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Rings",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas en anillas con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Trapecio"
+    ],
+    "equipmentEs": "Anillas de Gimnasia",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "neutral-grip-pullup",
+        "name": "Dominadas con Agarre Neutro",
+        "nameEn": "Neutral Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pullup",
+        "name": "Dominadas Pronas con Agarre Ancho",
+        "nameEn": "Wide Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "archer-pullup",
+        "name": "Dominadas de Arquero",
+        "nameEn": "Archer Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chest-to-bar-pullup",
+    "name": "Dominadas Pecho a la Barra",
+    "nameEn": "Chest-to-Bar Pull-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Back",
+      "Biceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas pecho a la barra con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Bíceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Trapecio"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pullup",
+        "name": "Dominadas en Anillas",
+        "nameEn": "Ring Pull-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/1.jpg"
+        ]
+      },
+      {
+        "id": "muscle-up-rings",
+        "name": "Muscle-Up en Anillas",
+        "nameEn": "Ring Muscle-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/1.jpg"
+        ]
+      },
+      {
+        "id": "mag-grip-lat-pulldown",
+        "name": "Jalón al Pecho con Agarre Neutro Ergonómico (MAG)",
+        "nameEn": "MAG Grip Neutral Lat Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "muscle-up-bar",
+    "name": "Muscle-Up en Barra",
+    "nameEn": "Bar Muscle-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Chest",
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para muscle-up en barra con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Pecho / Pectoral",
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Trapecio"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pullup",
+        "name": "Dominadas en Anillas",
+        "nameEn": "Ring Pull-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/1.jpg"
+        ]
+      },
+      {
+        "id": "muscle-up-rings",
+        "name": "Muscle-Up en Anillas",
+        "nameEn": "Ring Muscle-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/1.jpg"
+        ]
+      },
+      {
+        "id": "mag-grip-lat-pulldown",
+        "name": "Jalón al Pecho con Agarre Neutro Ergonómico (MAG)",
+        "nameEn": "MAG Grip Neutral Lat Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "muscle-up-rings",
+    "name": "Muscle-Up en Anillas",
+    "nameEn": "Ring Muscle-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Chest",
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Rings",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para muscle-up en anillas con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Pecho / Pectoral",
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Trapecio"
+    ],
+    "equipmentEs": "Anillas de Gimnasia",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "neutral-grip-pullup",
+        "name": "Dominadas con Agarre Neutro",
+        "nameEn": "Neutral Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pullup",
+        "name": "Dominadas Pronas con Agarre Ancho",
+        "nameEn": "Wide Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "archer-pullup",
+        "name": "Dominadas de Arquero",
+        "nameEn": "Archer Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "front-lever-tuck",
+    "name": "Tuck Front Lever en Barra",
+    "nameEn": "Tuck Front Lever",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Abs",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de tuck front lever en barra bloqueando articulaciones clave.",
+      "Genera tensión máxima en lats y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "childs-pose-lat-reach",
+    "name": "Postura del Niño con Inclinación Lateral",
+    "nameEn": "Extended Child’s Pose with Lat Reach",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "LowerBack",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de postura del niño con inclinación lateral sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Espalda Baja / Lumbar",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Childs_Pose/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Childs_Pose/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "tall-kneeling-lat-stretch-ball",
+        "name": "Estiramiento de Dorsal de Rodillas sobre Balón",
+        "nameEn": "Kneeling Lat Stretch on Stability Ball",
+        "equipment": "StabilityBall",
+        "equipmentEs": "Balón Suizo / Fitball",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chest_Stretch_on_Stability_Ball/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chest_Stretch_on_Stability_Ball/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tall-kneeling-lat-stretch-ball",
+    "name": "Estiramiento de Dorsal de Rodillas sobre Balón",
+    "nameEn": "Kneeling Lat Stretch on Stability Ball",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Back",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "StabilityBall",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de estiramiento de dorsal de rodillas sobre balón sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Suizo / Fitball",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chest_Stretch_on_Stability_Ball/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chest_Stretch_on_Stability_Ball/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "childs-pose-lat-reach",
+        "name": "Postura del Niño con Inclinación Lateral",
+        "nameEn": "Extended Child’s Pose with Lat Reach",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Childs_Pose/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Childs_Pose/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dead-hang-bar-warmup",
+    "name": "Cuelgue Pasivo en Barra para Descompresión Espinal",
+    "nameEn": "Passive Bar Dead Hang",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Forearms",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de cuelgue pasivo en barra para descompresión espinal a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Antebrazos",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Handed_Hang/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Handed_Hang/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pullup",
+        "name": "Dominadas en Anillas",
+        "nameEn": "Ring Pull-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/1.jpg"
+        ]
+      },
+      {
+        "id": "muscle-up-rings",
+        "name": "Muscle-Up en Anillas",
+        "nameEn": "Ring Muscle-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/1.jpg"
+        ]
+      },
+      {
+        "id": "mag-grip-lat-pulldown",
+        "name": "Jalón al Pecho con Agarre Neutro Ergonómico (MAG)",
+        "nameEn": "MAG Grip Neutral Lat Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foam-roll-lats",
+    "name": "Liberación de Dorsal Ancho con Foam Roller",
+    "nameEn": "Foam Rolling Latissimus Dorsi",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "FoamRoller",
+    "difficulty": "Principiante",
+    "category": "FoamRolling",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Coloca el rodillo o pelota bajo el área muscular diana de liberación de dorsal ancho con foam roller.",
+      "Rueda lentamente buscando zonas de mayor tensión o nudos musculares (puntos gatillo).",
+      "Al localizar un punto sensible, sostén la presión fija durante 30 a 60 segundos respirando hondo."
+    ],
+    "tips": [
+      "Nunca ruedes directamente sobre articulaciones, huesos prominentes o la zona lumbar sin apoyo pélvico."
+    ],
+    "breathingCue": "Exhala largo y relajado mientras permites que el músculo ceda a la presión del rodillo.",
+    "alternatives": [
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Rodillo de Espuma",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Latissimus_Dorsi-SMR/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Latissimus_Dorsi-SMR/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "mag-grip-lat-pulldown",
+    "name": "Jalón al Pecho con Agarre Neutro Ergonómico (MAG)",
+    "nameEn": "MAG Grip Neutral Lat Pulldown",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Biceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para jalón al pecho con agarre neutro ergonómico (mag).",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "neutral-grip-pullup",
+        "name": "Dominadas con Agarre Neutro",
+        "nameEn": "Neutral Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pullup",
+        "name": "Dominadas Pronas con Agarre Ancho",
+        "nameEn": "Wide Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "archer-pullup",
+        "name": "Dominadas de Arquero",
+        "nameEn": "Archer Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kneeling-single-arm-lat-pulldown",
+    "name": "Jalón Unilateral Arrodillado en Polea",
+    "nameEn": "Kneeling Single-Arm Cable Lat Pulldown",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Biceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para jalón unilateral arrodillado en polea.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Bíceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Arm_Lat_Pulldown/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Arm_Lat_Pulldown/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "neutral-grip-pullup",
+        "name": "Dominadas con Agarre Neutro",
+        "nameEn": "Neutral Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pullup",
+        "name": "Dominadas Pronas con Agarre Ancho",
+        "nameEn": "Wide Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "archer-pullup",
+        "name": "Dominadas de Arquero",
+        "nameEn": "Archer Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lat-prayer-pulldown-rope",
+    "name": "Oración Dorsal con Cuerda en Polea Alta",
+    "nameEn": "Kneeling Cable Lat Prayer Pullover",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Back",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para oración dorsal con cuerda en polea alta.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Straight-Arm_Pulldown/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Straight-Arm_Pulldown/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "neutral-grip-pullup",
+        "name": "Dominadas con Agarre Neutro",
+        "nameEn": "Neutral Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pullup",
+        "name": "Dominadas Pronas con Agarre Ancho",
+        "nameEn": "Wide Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "archer-pullup",
+        "name": "Dominadas de Arquero",
+        "nameEn": "Archer Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-low-row-neutral",
+    "name": "Remo en TRX con Agarre Neutro al Torso",
+    "nameEn": "TRX Low Neutral Grip Row",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Biceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para remo en trx con agarre neutro al torso.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "trx-swimmer-pull",
+    "name": "Tirón de Nadador con Brazos Rectos en TRX",
+    "nameEn": "TRX Straight-Arm Swimmer Lat Pull",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Triceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para tirón de nadador con brazos rectos en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Row/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "neutral-grip-pullup",
+        "name": "Dominadas con Agarre Neutro",
+        "nameEn": "Neutral Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pullup",
+        "name": "Dominadas Pronas con Agarre Ancho",
+        "nameEn": "Wide Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "archer-pullup",
+        "name": "Dominadas de Arquero",
+        "nameEn": "Archer Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+        ]
+      }
+    ]
+  }
+]

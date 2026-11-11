@@ -1,0 +1,1902 @@
+[
+  {
+    "id": "romanian-deadlift",
+    "name": "Peso Muerto Rumano con Barra",
+    "nameEn": "Barbell Romanian Deadlift",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Back"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Sostén la barra verticalmente estando de pie con los hombros relajados espalda recta.",
+      "Empieza a bajar la barra deslizando tus caderas directamente hacia atrás, como si quisieras empujar una puerta con los glúteos.",
+      "Mantén los hombros estables y la barra muy pegada a tus muslos doblando casi nada las rodillas.",
+      "Baja hasta que sientas el máximo estiramiento en los femorales traseros.",
+      "Haz fuerza con los glúteos para volver a enderezarte."
+    ],
+    "alternatives": [
+      "dumbbell-rdl",
+      "seated-leg-curl"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "lying-leg-curl",
+        "name": "Curl Femoral Acostado",
+        "nameEn": "Lying Leg Curl",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dumbbell-rdl",
+    "name": "Peso Muerto Rumano con Mancuernas",
+    "nameEn": "Dumbbell Romanian Deadlift",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Back"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Sostén las mancuernas delante de tus piernas de pie.",
+      "Envía las caderas hacia atrás bajando las mancuernas pegadas a tus espinillas.",
+      "Contrae isquiotibiales y glúteos para regresar arriba."
+    ],
+    "alternatives": [
+      "romanian-deadlift",
+      "lying-leg-curl"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "stiff-leg-deadlift-deficit",
+        "name": "Peso Muerto Piernas Semirrígidas con Déficit",
+        "nameEn": "Deficit Stiff-Legged Barbell Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Barbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Barbell_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lying-leg-curl",
+    "name": "Curl Femoral Acostado",
+    "nameEn": "Lying Leg Curl",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Acuéstate boca abajo en la máquina de curl femoral.",
+      "Ubica el rodillo sobre los talones superiores.",
+      "Flexiona las rodillas jalando el peso hacia los glúteos.",
+      "Extiende controladamente las piernas."
+    ],
+    "alternatives": [
+      "seated-leg-curl",
+      "dumbbell-rdl"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-leg-curl",
+    "name": "Curl Femoral Sentado",
+    "nameEn": "Seated Leg Curl",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Siéntate y asegura el soporte de rodillas firmemente.",
+      "Coloca los talones sobre el rodillo de resistencia.",
+      "Flexiona las piernas empujando el rodillo hacia abajo.",
+      "Regresa despacio estirando por completo."
+    ],
+    "alternatives": [
+      "lying-leg-curl",
+      "romanian-deadlift"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Leg_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Leg_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-leg-curl-machine",
+    "name": "Curl Femoral Sentado en Máquina",
+    "nameEn": "Seated Leg Curl Machine",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Ajusta el respaldo para que el eje de rotación de la máquina coincida con tus rodillas y asegura la almohadilla superior sobre tus muslos.",
+      "Coloca la parte posterior de los tobillos sobre el rodillo inferior acolchado.",
+      "Flexiona las piernas hacia abajo y atrás contrayendo los isquiotibiales hasta el tope de recorrido.",
+      "Aguanta un instante la contracción y permite que el rodillo suba despacio en 3 segundos sintiendo el estiramiento excéntrico."
+    ],
+    "tips": [
+      "Al tener la cadera flexionada en posición sentada, los isquiotibiales se estiran más, generando mayor hipertrofia."
+    ],
+    "breathingCue": "Exhala al flexionar las piernas hacia atrás; inhala al regresar a la extensión.",
+    "alternatives": [
+      "lying-leg-curl-machine",
+      "romanian-deadlift"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Leg_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Leg_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lying-leg-curl-machine",
+    "name": "Curl Femoral Tumbado en Máquina",
+    "nameEn": "Lying Leg Curl Machine",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Acuéstate boca abajo en el banco de la máquina encajando los tobillos bajo el rodillo acolchado.",
+      "Sujeta firmemente las asas laterales y mantén la pelvis pegada al tapizado.",
+      "Flexiona las rodillas llevando los talones hacia los glúteos de forma decidida.",
+      "Desciende despacio resistiendo la carga hasta estirar casi por completo las piernas."
+    ],
+    "tips": [
+      "No levantes las caderas del banco durante la flexión para evitar compensaciones con la zona lumbar."
+    ],
+    "breathingCue": "Exhala al doblar las rodillas; inhala al extender lentamente.",
+    "alternatives": [
+      "seated-leg-curl-machine"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nordic-hamstring-curl",
+    "name": "Curl Nórdico de Isquiotibiales",
+    "nameEn": "Nordic Hamstring Curl",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para curl nórdico de isquiotibiales equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en hamstrings.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "single-leg-kettlebell-rdl",
+        "name": "Peso Muerto Rumano Unilateral con Pesa Rusa",
+        "nameEn": "Single-Leg Kettlebell Romanian Deadlift",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_One-Legged_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_One-Legged_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "windmills-kettlebell-mobility",
+    "name": "Molino con Pesa Rusa (Windmill de Movilidad)",
+    "nameEn": "Kettlebell Windmill",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Abs",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de molino con pesa rusa (windmill de movilidad) sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "hamstring-sweep-dynamic-stretch",
+    "name": "Barrido Dinámico de Isquiotibiales en Marcha",
+    "nameEn": "Dynamic Walking Hamstring Sweeps",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Calves",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de barrido dinámico de isquiotibiales en marcha sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Leg_Raises/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Leg_Raises/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "inchworm-walkout",
+    "name": "El Gusano (Inchworm Walkout con Flexión Opcional)",
+    "nameEn": "Inchworm to Plank Walkout",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Abs",
+      "Chest"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de el gusano (inchworm walkout con flexión opcional) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Abdomen / Core",
+      "Pecho / Pectoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inchworm/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inchworm/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "leg-swings-front-back",
+        "name": "Balanceos de Pierna Frontales y Posteriores",
+        "nameEn": "Front-to-Back Dynamic Leg Swings",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Leg_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Leg_Raises/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-hamstrings",
+        "name": "Liberación de Isquiotibiales con Rodillo",
+        "nameEn": "Foam Rolling Hamstrings",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring-SMR/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leg-swings-front-back",
+    "name": "Balanceos de Pierna Frontales y Posteriores",
+    "nameEn": "Front-to-Back Dynamic Leg Swings",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "HipFlexors",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de balanceos de pierna frontales y posteriores a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Leg_Raises/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Leg_Raises/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "inchworm-walkout",
+        "name": "El Gusano (Inchworm Walkout con Flexión Opcional)",
+        "nameEn": "Inchworm to Plank Walkout",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inchworm/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inchworm/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-hamstrings",
+        "name": "Liberación de Isquiotibiales con Rodillo",
+        "nameEn": "Foam Rolling Hamstrings",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring-SMR/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b-skip-running-drill",
+    "name": "B-Skip con Extensión y Zarpazo",
+    "nameEn": "Dynamic B-Skip Hamstring Drill",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Calves",
+      "Cardio"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de b-skip con extensión y zarpazo a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas",
+      "Sistema Cardiovascular"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Fast_Skipping/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Fast_Skipping/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "squat-to-stand-hamstring",
+    "name": "De Sentadilla Profunda a Flexión Frontal (Squat to Stand)",
+    "nameEn": "Squat-to-Stand with Hamstring Stretch",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Quads",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de de sentadilla profunda a flexión frontal (squat to stand) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring_Stretch/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "foam-roll-hamstrings",
+    "name": "Liberación de Isquiotibiales con Rodillo",
+    "nameEn": "Foam Rolling Hamstrings",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "FoamRoller",
+    "difficulty": "Principiante",
+    "category": "FoamRolling",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Coloca el rodillo o pelota bajo el área muscular diana de liberación de isquiotibiales con rodillo.",
+      "Rueda lentamente buscando zonas de mayor tensión o nudos musculares (puntos gatillo).",
+      "Al localizar un punto sensible, sostén la presión fija durante 30 a 60 segundos respirando hondo."
+    ],
+    "tips": [
+      "Nunca ruedes directamente sobre articulaciones, huesos prominentes o la zona lumbar sin apoyo pélvico."
+    ],
+    "breathingCue": "Exhala largo y relajado mientras permites que el músculo ceda a la presión del rodillo.",
+    "alternatives": [
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Rodillo de Espuma",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring-SMR/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring-SMR/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "inchworm-walkout",
+        "name": "El Gusano (Inchworm Walkout con Flexión Opcional)",
+        "nameEn": "Inchworm to Plank Walkout",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inchworm/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inchworm/1.jpg"
+        ]
+      },
+      {
+        "id": "leg-swings-front-back",
+        "name": "Balanceos de Pierna Frontales y Posteriores",
+        "nameEn": "Front-to-Back Dynamic Leg Swings",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Leg_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Leg_Raises/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "single-leg-kettlebell-rdl",
+    "name": "Peso Muerto Rumano Unilateral con Pesa Rusa",
+    "nameEn": "Single-Leg Kettlebell Romanian Deadlift",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Forearms",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para peso muerto rumano unilateral con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Antebrazos",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_One-Legged_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_One-Legged_Deadlift/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "nordic-hamstring-curl",
+        "name": "Curl Nórdico de Isquiotibiales",
+        "nameEn": "Nordic Hamstring Curl",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-good-morning",
+    "name": "Buenos Días con Pesa Rusa Abrazada al Pecho",
+    "nameEn": "Kettlebell Hugged Good Morning",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para buenos días con pesa rusa abrazada al pecho.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "nordic-hamstring-curl",
+        "name": "Curl Nórdico de Isquiotibiales",
+        "nameEn": "Nordic Hamstring Curl",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hamstring-bridge-isometric-bench",
+    "name": "Puente de Isquiotibiales con Pies en Banco",
+    "nameEn": "Long-Lever Hamstring Bridge on Bench",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para puente de isquiotibiales con pies en banco con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en hamstrings.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butt_Lift_Bridge/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butt_Lift_Bridge/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "lying-leg-curl",
+        "name": "Curl Femoral Acostado",
+        "nameEn": "Lying Leg Curl",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-leg-curl",
+        "name": "Curl Femoral Sentado",
+        "nameEn": "Seated Leg Curl",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Leg_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Leg_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-leg-curl-machine",
+        "name": "Curl Femoral Sentado en Máquina",
+        "nameEn": "Seated Leg Curl Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Leg_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Leg_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trap-bar-deadlift-low-handles",
+    "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+    "nameEn": "Trap Bar Deadlift Low Handles",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Quads",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Trap Bar",
+    "difficulty": "Intermedio",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para peso muerto en barra hexagonal (asas bajas).",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Cuádriceps",
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Hexagonal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "stiff-leg-deadlift-deficit",
+        "name": "Peso Muerto Piernas Semirrígidas con Déficit",
+        "nameEn": "Deficit Stiff-Legged Barbell Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Barbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Barbell_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glute-ham-raise-ghd",
+    "name": "Elevación Glúteo-Femoral en GHD (Glute Ham Raise)",
+    "nameEn": "Glute Ham Raise on GHD Machine",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Avanzado",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para elevación glúteo-femoral en ghd (glute ham raise).",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Gemelos / Pantorrillas",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Ham_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Ham_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stiff-leg-deadlift-deficit",
+    "name": "Peso Muerto Piernas Semirrígidas con Déficit",
+    "nameEn": "Deficit Stiff-Legged Barbell Deadlift",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para peso muerto piernas semirrígidas con déficit.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Barbell_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Barbell_Deadlift/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "lying-leg-curl",
+        "name": "Curl Femoral Acostado",
+        "nameEn": "Lying Leg Curl",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "standing-single-leg-curl-machine",
+    "name": "Curl Femoral de Pie en Máquina Unilateral",
+    "nameEn": "Standing Single-Leg Hamstring Curl Machine",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para curl femoral de pie en máquina unilateral.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Leg_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Leg_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "good-morning-safety-bar",
+    "name": "Buenos Días con Barra de Seguridad (SSB)",
+    "nameEn": "Safety Squat Bar Good Morning",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para buenos días con barra de seguridad (ssb).",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Bar_Good_Morning/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Bar_Good_Morning/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "lying-leg-curl",
+        "name": "Curl Femoral Acostado",
+        "nameEn": "Lying Leg Curl",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-hamstring-curl-supine",
+    "name": "Curl de Isquiotibiales en Suspensión Boca Arriba",
+    "nameEn": "TRX Supine Hamstring Runner Curl",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para curl de isquiotibiales en suspensión boca arriba.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Band_Hamstring_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Band_Hamstring_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "nordic-hamstring-curl",
+        "name": "Curl Nórdico de Isquiotibiales",
+        "nameEn": "Nordic Hamstring Curl",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-single-leg-deadlift",
+    "name": "Peso Muerto Unilateral Asistido en TRX",
+    "nameEn": "TRX Assisted Single-Leg RDL",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para peso muerto unilateral asistido en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_One-Legged_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_One-Legged_Deadlift/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "nordic-hamstring-curl",
+        "name": "Curl Nórdico de Isquiotibiales",
+        "nameEn": "Nordic Hamstring Curl",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/1.jpg"
+        ]
+      }
+    ]
+  }
+]

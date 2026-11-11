@@ -1,0 +1,4836 @@
+[
+  {
+    "id": "ab-plank",
+    "name": "Plancha Abdominal",
+    "nameEn": "Abdominal Plank",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Back"
+    ],
+    "equipment": "None",
+    "difficulty": "Principiante",
+    "forceType": "Core",
+    "instructions": [
+      "Apoya tus antebrazos en el suelo alineando los codos justo bajo los hombros.",
+      "Estira tus piernas atrás apoyando las puntas de tus pies.",
+      "Contrae activamente el abdomen, los glúteos y las piernas creando fuerza en bloque.",
+      "Evita dejar caer la zona lumbar, mantén el cuello alineado neutro respirando rítmicamente."
+    ],
+    "alternatives": [
+      "hanging-leg-raise",
+      "ab-crunch"
+    ],
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Sin Equipamiento",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      },
+      {
+        "id": "l-sit-floor",
+        "name": "L-Sit en el Suelo",
+        "nameEn": "Floor L-Sit",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ab-crunch",
+    "name": "Crunch Abdominal",
+    "nameEn": "Abdominal Crunch",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [],
+    "equipment": "None",
+    "difficulty": "Principiante",
+    "forceType": "Core",
+    "instructions": [
+      "Acuéstate de espaldas con las rodillas flexionadas y pies en el suelo.",
+      "Coloca las manos ligeramente detrás de las orejas.",
+      "Eleva los hombros del suelo contrayendo el recto abdominal, sin tirar del cuello.",
+      "Baja con control."
+    ],
+    "alternatives": [
+      "ab-plank",
+      "hanging-leg-raise"
+    ],
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Sin Equipamiento",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      },
+      {
+        "id": "l-sit-floor",
+        "name": "L-Sit en el Suelo",
+        "nameEn": "Floor L-Sit",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hanging-leg-raise",
+    "name": "Elevación de Piernas Colgado",
+    "nameEn": "Hanging Leg Raise",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "forceType": "Core",
+    "instructions": [
+      "Cuelga de la barra de tracción con los brazos totalmente extendidos.",
+      "Usa tu fuerza abdominal sin balancear el torso para elevar los pies o rodillas hacia el nivel de tu pecho.",
+      "Baja con total lentitud controlando la fuerza excéntrica."
+    ],
+    "alternatives": [
+      "ab-plank",
+      "ab-crunch"
+    ],
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "russian-twist",
+    "name": "Giro Ruso con Disco/Mancuerna",
+    "nameEn": "Russian Twist",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "forceType": "Core",
+    "instructions": [
+      "Siéntate con rodillas dobladas, inclina el torso hacia atrás en 45 grados y despega los pies del suelo.",
+      "Sostén una mancuerna y gírala alternamente de lado a lado cruzando tu abdomen."
+    ],
+    "alternatives": [
+      "ab-plank"
+    ],
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "svend-press",
+    "name": "Press Svend con Discos",
+    "nameEn": "Svend Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ponte de pie con los pies a la anchura de las caderas y la espalda erguida.",
+      "Coloca uno o dos discos pequeños (o una mancuerna) entre las palmas de las manos a la altura del esternón.",
+      "Presiona activamente las palmas entre sí con fuerza isométrica máxima apretando el pecho.",
+      "Empuja las manos hacia adelante hasta estirar los brazos por completo sin aflojar la presión entre las palmas.",
+      "Regresa controladamente al esternón manteniendo la compresión continua."
+    ],
+    "tips": [
+      "El estímulo no depende del peso levantado, sino de la fuerza con la que aplastas los discos entre sí."
+    ],
+    "breathingCue": "Exhala al extender los brazos al frente; inhala al recoger al esternón.",
+    "alternatives": [],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Antebrazos",
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Isometric_Chest_Squeezes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Isometric_Chest_Squeezes/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pec-deck-fly",
+        "name": "Aperturas en Contratora (Pec Deck)",
+        "nameEn": "Pec Deck Fly",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-cable-flyes",
+        "name": "Cruces en Polea Sentado en Banco",
+        "nameEn": "Seated Cable Flyes",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Cable_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Cable_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-sit-floor",
+    "name": "L-Sit en el Suelo",
+    "nameEn": "Floor L-Sit",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de l-sit en el suelo bloqueando articulaciones clave.",
+      "Genera tensión máxima en abs y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "l-sit-parallettes",
+    "name": "L-Sit en Paralelas Bajas",
+    "nameEn": "Parallettes L-Sit",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de l-sit en paralelas bajas bloqueando articulaciones clave.",
+      "Genera tensión máxima en abs y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hollow-body-hold",
+    "name": "Posición Hueca (Hollow Body Hold)",
+    "nameEn": "Hollow Body Hold",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Quads",
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de posición hueca (hollow body hold) bloqueando articulaciones clave.",
+      "Genera tensión máxima en abs y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arch-body-hold-superman",
+    "name": "Posición de Arco / Superman Isométrico",
+    "nameEn": "Superman Arch Hold",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Glutes",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de posición de arco / superman isométrico bloqueando articulaciones clave.",
+      "Genera tensión máxima en lowerback y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "back-hyperextension-45-degree",
+        "name": "Hiperextensión a 45 Grados en Banco Romano",
+        "nameEn": "45-Degree Back Extension on Roman Chair",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/1.jpg"
+        ]
+      },
+      {
+        "id": "good-morning-barbell-heavy",
+        "name": "Buenos Días con Barra para Erectores Espinales",
+        "nameEn": "Barbell Good Morning",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/1.jpg"
+        ]
+      },
+      {
+        "id": "jefferson-curl-barbell",
+        "name": "Curl Jefferson con Barra para Flexión Vertebral Controlada",
+        "nameEn": "Jefferson Curl for Spinal Articulation",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "planche-lean",
+    "name": "Inclinación de Plancha (Planche Lean)",
+    "nameEn": "Planche Lean",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Chest",
+      "Abs",
+      "Serratus"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de inclinación de plancha (planche lean) bloqueando articulaciones clave.",
+      "Genera tensión máxima en shoulders y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Pecho / Pectoral",
+      "Abdomen / Core",
+      "Serrato Anterior"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "tuck-planche",
+        "name": "Tuck Planche en Paralelas",
+        "nameEn": "Tuck Planche",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+        ]
+      },
+      {
+        "id": "handstand-wall-hold",
+        "name": "Pino contra la Pared Isométrico",
+        "nameEn": "Wall Handstand Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+        ]
+      },
+      {
+        "id": "freestanding-handstand",
+        "name": "Pino Libre (Handstand)",
+        "nameEn": "Freestanding Handstand",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tuck-planche",
+    "name": "Tuck Planche en Paralelas",
+    "nameEn": "Tuck Planche",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Chest",
+      "Triceps",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de tuck planche en paralelas bloqueando articulaciones clave.",
+      "Genera tensión máxima en shoulders y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Pecho / Pectoral",
+      "Tríceps",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "planche-lean",
+        "name": "Inclinación de Plancha (Planche Lean)",
+        "nameEn": "Planche Lean",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+        ]
+      },
+      {
+        "id": "handstand-wall-hold",
+        "name": "Pino contra la Pared Isométrico",
+        "nameEn": "Wall Handstand Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+        ]
+      },
+      {
+        "id": "freestanding-handstand",
+        "name": "Pino Libre (Handstand)",
+        "nameEn": "Freestanding Handstand",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "front-lever-tuck",
+    "name": "Tuck Front Lever en Barra",
+    "nameEn": "Tuck Front Lever",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Abs",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de tuck front lever en barra bloqueando articulaciones clave.",
+      "Genera tensión máxima en lats y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "back-lever-tuck",
+    "name": "Tuck Back Lever en Barra",
+    "nameEn": "Tuck Back Lever",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Shoulders",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de tuck back lever en barra bloqueando articulaciones clave.",
+      "Genera tensión máxima en back y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "plank-cable-row",
+        "name": "Remo en Plancha Unilateral en Polea",
+        "nameEn": "Plank Single-Arm Cable Row",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_One-arm_Cable_Pulley_Rows/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_One-arm_Cable_Pulley_Rows/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "handstand-wall-hold",
+    "name": "Pino contra la Pared Isométrico",
+    "nameEn": "Wall Handstand Hold",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Triceps",
+      "Traps",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de pino contra la pared isométrico bloqueando articulaciones clave.",
+      "Genera tensión máxima en shoulders y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Trapecio",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "planche-lean",
+        "name": "Inclinación de Plancha (Planche Lean)",
+        "nameEn": "Planche Lean",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+        ]
+      },
+      {
+        "id": "tuck-planche",
+        "name": "Tuck Planche en Paralelas",
+        "nameEn": "Tuck Planche",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+        ]
+      },
+      {
+        "id": "freestanding-handstand",
+        "name": "Pino Libre (Handstand)",
+        "nameEn": "Freestanding Handstand",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "freestanding-handstand",
+    "name": "Pino Libre (Handstand)",
+    "nameEn": "Freestanding Handstand",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps",
+      "Forearms",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de pino libre (handstand) bloqueando articulaciones clave.",
+      "Genera tensión máxima en shoulders y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Trapecio",
+      "Antebrazos",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "planche-lean",
+        "name": "Inclinación de Plancha (Planche Lean)",
+        "nameEn": "Planche Lean",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+        ]
+      },
+      {
+        "id": "tuck-planche",
+        "name": "Tuck Planche en Paralelas",
+        "nameEn": "Tuck Planche",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+        ]
+      },
+      {
+        "id": "handstand-wall-hold",
+        "name": "Pino contra la Pared Isométrico",
+        "nameEn": "Wall Handstand Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pallof-press-cable",
+    "name": "Press Pallof Antirrotación en Polea",
+    "nameEn": "Cable Pallof Press",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para press pallof antirrotación en polea con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "stir-the-pot-stability-ball",
+        "name": "Remover la Olla sobre Balón Suizo (Stir the Pot)",
+        "nameEn": "Stability Ball Stir the Pot Plank",
+        "equipment": "StabilityBall",
+        "equipmentEs": "Balón Suizo / Fitball",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/1.jpg"
+        ]
+      },
+      {
+        "id": "side-plank-forearm-hold",
+        "name": "Plancha Lateral sobre Antebrazo",
+        "nameEn": "Side Plank Forearm Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pallof-press-band",
+    "name": "Press Pallof con Banda Elástica",
+    "nameEn": "Resistance Band Pallof Press",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Band",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para press pallof con banda elástica con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Banda Elástica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-cable",
+        "name": "Press Pallof Antirrotación en Polea",
+        "nameEn": "Cable Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "half-kneeling-pallof-press",
+        "name": "Press Pallof en Posición de Caballero",
+        "nameEn": "Half-Kneeling Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "stir-the-pot-stability-ball",
+        "name": "Remover la Olla sobre Balón Suizo (Stir the Pot)",
+        "nameEn": "Stability Ball Stir the Pot Plank",
+        "equipment": "StabilityBall",
+        "equipmentEs": "Balón Suizo / Fitball",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "half-kneeling-pallof-press",
+    "name": "Press Pallof en Posición de Caballero",
+    "nameEn": "Half-Kneeling Pallof Press",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para press pallof en posición de caballero con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "stir-the-pot-stability-ball",
+        "name": "Remover la Olla sobre Balón Suizo (Stir the Pot)",
+        "nameEn": "Stability Ball Stir the Pot Plank",
+        "equipment": "StabilityBall",
+        "equipmentEs": "Balón Suizo / Fitball",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/1.jpg"
+        ]
+      },
+      {
+        "id": "side-plank-forearm-hold",
+        "name": "Plancha Lateral sobre Antebrazo",
+        "nameEn": "Side Plank Forearm Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ab-wheel-rollout-knees",
+    "name": "Rueda Abdominal de Rodillas (Ab Wheel)",
+    "nameEn": "Kneeling Ab Wheel Rollout",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Lats",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para rueda abdominal de rodillas (ab wheel) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Dorsal Ancho",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Ab_Rollout_-_On_Knees/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Ab_Rollout_-_On_Knees/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ab-wheel-rollout-standing",
+    "name": "Rueda Abdominal de Pie (Avanzado)",
+    "nameEn": "Standing Ab Wheel Rollout",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Lats",
+      "Chest"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para rueda abdominal de pie (avanzado) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Dorsal Ancho",
+      "Pecho / Pectoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stir-the-pot-stability-ball",
+    "name": "Remover la Olla sobre Balón Suizo (Stir the Pot)",
+    "nameEn": "Stability Ball Stir the Pot Plank",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "StabilityBall",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para remover la olla sobre balón suizo (stir the pot) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Suizo / Fitball",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-cable",
+        "name": "Press Pallof Antirrotación en Polea",
+        "nameEn": "Cable Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "half-kneeling-pallof-press",
+        "name": "Press Pallof en Posición de Caballero",
+        "nameEn": "Half-Kneeling Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "suitcase-carry-dumbbell",
+    "name": "Paseo de la Maleta (Suitcase Carry Unilateral)",
+    "nameEn": "Single-Arm Dumbbell Suitcase Carry",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Forearms",
+      "Traps",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Carry",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para paseo de la maleta (suitcase carry unilateral) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Antebrazos",
+      "Trapecio",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-rack-carry",
+        "name": "Paseo en Posición de Rack con Pesa Rusa",
+        "nameEn": "Single-Arm Kettlebell Front Rack Carry",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "farmers-walk-heavy",
+    "name": "Paseo del Granjero Bilateral Pesado",
+    "nameEn": "Heavy Dumbbell Farmer’s Walk",
+    "primaryMuscle": "Forearms",
+    "secondaryMuscles": [
+      "Traps",
+      "Abs",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Carry",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para paseo del granjero bilateral pesado con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Antebrazos",
+    "secondaryMusclesEs": [
+      "Trapecio",
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "overhead-dumbbell-carry-dual",
+    "name": "Paseo con Mancuernas sobre la Cabeza",
+    "nameEn": "Dual Dumbbell Overhead Carry",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Carry",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para paseo con mancuernas sobre la cabeza con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Trapecio",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-overhead-carry",
+        "name": "Paseo con Pesa Rusa Bloqueada sobre la Cabeza",
+        "nameEn": "Single-Arm Kettlebell Overhead Carry",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Overhead_Kettlebell_Squats/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Overhead_Kettlebell_Squats/1.jpg"
+        ]
+      },
+      {
+        "id": "kettlebell-waiter-walk",
+        "name": "Paseo del Camarero con Pesa Rusa",
+        "nameEn": "Kettlebell Waiter’s Walk",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "planche-lean",
+        "name": "Inclinación de Plancha (Planche Lean)",
+        "nameEn": "Planche Lean",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Handstand_Push-Ups/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "side-plank-forearm-hold",
+    "name": "Plancha Lateral sobre Antebrazo",
+    "nameEn": "Side Plank Forearm Hold",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para plancha lateral sobre antebrazo con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-cable",
+        "name": "Press Pallof Antirrotación en Polea",
+        "nameEn": "Cable Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "half-kneeling-pallof-press",
+        "name": "Press Pallof en Posición de Caballero",
+        "nameEn": "Half-Kneeling Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rkc-plank-max-tension",
+    "name": "Plancha RKC de Tensión Máxima",
+    "nameEn": "RKC Maximum Tension Plank",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para plancha rkc de tensión máxima con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hollow-body-rocks",
+    "name": "Balanceos en Posición Hueca (Hollow Rocks)",
+    "nameEn": "Hollow Body Rocks",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para balanceos en posición hueca (hollow rocks) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "v-up-ab-crunch",
+    "name": "V-Ups Abdominales en V",
+    "nameEn": "Jackknife V-Up Crunch",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para v-ups abdominales en v con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jackknife_Sit-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jackknife_Sit-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bicycle-crunches-tempo",
+    "name": "Bicicleta Abdominal con Pausa Isométrica",
+    "nameEn": "Slow Tempo Bicycle Crunch",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para bicicleta abdominal con pausa isométrica con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "woodchopper-cable-high-to-low",
+        "name": "Leñador en Polea Alta hacia Abajo (Woodchopper)",
+        "nameEn": "High-to-Low Cable Woodchopper",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+        ]
+      },
+      {
+        "id": "woodchopper-cable-low-to-high",
+        "name": "Leñador en Polea Baja hacia Arriba",
+        "nameEn": "Low-to-High Cable Woodchopper",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+        ]
+      },
+      {
+        "id": "landmine-rotations-core",
+        "name": "Rotaciones en Landmine para Oblicuos",
+        "nameEn": "Barbell Landmine Core Rotations",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reverse-crunch-incline-bench",
+    "name": "Crunch Inverso en Banco Inclinado",
+    "nameEn": "Incline Bench Reverse Crunch",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para crunch inverso en banco inclinado con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Crunch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Crunch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "woodchopper-cable-high-to-low",
+    "name": "Leñador en Polea Alta hacia Abajo (Woodchopper)",
+    "nameEn": "High-to-Low Cable Woodchopper",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para leñador en polea alta hacia abajo (woodchopper) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "bicycle-crunches-tempo",
+        "name": "Bicicleta Abdominal con Pausa Isométrica",
+        "nameEn": "Slow Tempo Bicycle Crunch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/1.jpg"
+        ]
+      },
+      {
+        "id": "landmine-rotations-core",
+        "name": "Rotaciones en Landmine para Oblicuos",
+        "nameEn": "Barbell Landmine Core Rotations",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-oblique-knee-tuck",
+        "name": "Elevación de Rodillas Cruzada Colgado en Barra",
+        "nameEn": "Hanging Oblique Knee Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "woodchopper-cable-low-to-high",
+    "name": "Leñador en Polea Baja hacia Arriba",
+    "nameEn": "Low-to-High Cable Woodchopper",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para leñador en polea baja hacia arriba con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "bicycle-crunches-tempo",
+        "name": "Bicicleta Abdominal con Pausa Isométrica",
+        "nameEn": "Slow Tempo Bicycle Crunch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/1.jpg"
+        ]
+      },
+      {
+        "id": "landmine-rotations-core",
+        "name": "Rotaciones en Landmine para Oblicuos",
+        "nameEn": "Barbell Landmine Core Rotations",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-oblique-knee-tuck",
+        "name": "Elevación de Rodillas Cruzada Colgado en Barra",
+        "nameEn": "Hanging Oblique Knee Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "landmine-rotations-core",
+    "name": "Rotaciones en Landmine para Oblicuos",
+    "nameEn": "Barbell Landmine Core Rotations",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para rotaciones en landmine para oblicuos con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "bicycle-crunches-tempo",
+        "name": "Bicicleta Abdominal con Pausa Isométrica",
+        "nameEn": "Slow Tempo Bicycle Crunch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/1.jpg"
+        ]
+      },
+      {
+        "id": "woodchopper-cable-high-to-low",
+        "name": "Leñador en Polea Alta hacia Abajo (Woodchopper)",
+        "nameEn": "High-to-Low Cable Woodchopper",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+        ]
+      },
+      {
+        "id": "woodchopper-cable-low-to-high",
+        "name": "Leñador en Polea Baja hacia Arriba",
+        "nameEn": "Low-to-High Cable Woodchopper",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "landmine-anti-rotation",
+    "name": "Sostenimiento Antirrotación en Landmine",
+    "nameEn": "Landmine Anti-Rotation Hold",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para sostenimiento antirrotación en landmine con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-cable",
+        "name": "Press Pallof Antirrotación en Polea",
+        "nameEn": "Cable Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "half-kneeling-pallof-press",
+        "name": "Press Pallof en Posición de Caballero",
+        "nameEn": "Half-Kneeling Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hanging-oblique-knee-tuck",
+    "name": "Elevación de Rodillas Cruzada Colgado en Barra",
+    "nameEn": "Hanging Oblique Knee Raise",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para elevación de rodillas cruzada colgado en barra con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "woodchopper-cable-high-to-low",
+        "name": "Leñador en Polea Alta hacia Abajo (Woodchopper)",
+        "nameEn": "High-to-Low Cable Woodchopper",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+        ]
+      },
+      {
+        "id": "woodchopper-cable-low-to-high",
+        "name": "Leñador en Polea Baja hacia Arriba",
+        "nameEn": "Low-to-High Cable Woodchopper",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+        ]
+      },
+      {
+        "id": "landmine-rotations-core",
+        "name": "Rotaciones en Landmine para Oblicuos",
+        "nameEn": "Barbell Landmine Core Rotations",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plank-shoulder-taps",
+    "name": "Plancha Alta con Toques de Hombro Alternos",
+    "nameEn": "Plank Shoulder Taps",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para plancha alta con toques de hombro alternos con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-cable",
+        "name": "Press Pallof Antirrotación en Polea",
+        "nameEn": "Cable Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "half-kneeling-pallof-press",
+        "name": "Press Pallof en Posición de Caballero",
+        "nameEn": "Half-Kneeling Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bear-crawl-pull-through",
+    "name": "Arrastre de Saco o Pesa en Posición de Oso",
+    "nameEn": "Bear Crawl Sandbag Pull-Through",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para arrastre de saco o pesa en posición de oso con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-cable",
+        "name": "Press Pallof Antirrotación en Polea",
+        "nameEn": "Cable Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "half-kneeling-pallof-press",
+        "name": "Press Pallof en Posición de Caballero",
+        "nameEn": "Half-Kneeling Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plank-cable-row",
+    "name": "Remo en Plancha Unilateral en Polea",
+    "nameEn": "Plank Single-Arm Cable Row",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Abs",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para remo en plancha unilateral en polea con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_One-arm_Cable_Pulley_Rows/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_One-arm_Cable_Pulley_Rows/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-row",
+        "name": "Remo con Barra",
+        "nameEn": "Barbell Row",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/1.jpg"
+        ]
+      },
+      {
+        "id": "t-bar-row",
+        "name": "Remo en Barra T",
+        "nameEn": "T-Bar Row",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-single-row",
+        "name": "Remo a una Mano con Mancuerna",
+        "nameEn": "Dumbbell Single-Arm Row",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pot-stirrer-ab-wheel",
+    "name": "Círculos con Rueda Abdominal (Pot Stirrers)",
+    "nameEn": "Ab Wheel Circular Rollout",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para círculos con rueda abdominal (pot stirrers) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-cable",
+        "name": "Press Pallof Antirrotación en Polea",
+        "nameEn": "Cable Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "half-kneeling-pallof-press",
+        "name": "Press Pallof en Posición de Caballero",
+        "nameEn": "Half-Kneeling Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-med-ball-rotational-throw",
+    "name": "Lanzamiento Rotacional de Balón Medicinal Sentado",
+    "nameEn": "Seated Medicine Ball Rotational Wall Throw",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Chest",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "MedicineBall",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para lanzamiento rotacional de balón medicinal sentado con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Pecho / Pectoral",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Medicinal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Scoop_Throw/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Medicine_Ball_Scoop_Throw/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "bicycle-crunches-tempo",
+        "name": "Bicicleta Abdominal con Pausa Isométrica",
+        "nameEn": "Slow Tempo Bicycle Crunch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/1.jpg"
+        ]
+      },
+      {
+        "id": "woodchopper-cable-high-to-low",
+        "name": "Leñador en Polea Alta hacia Abajo (Woodchopper)",
+        "nameEn": "High-to-Low Cable Woodchopper",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+        ]
+      },
+      {
+        "id": "woodchopper-cable-low-to-high",
+        "name": "Leñador en Polea Baja hacia Arriba",
+        "nameEn": "Low-to-High Cable Woodchopper",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "standing-med-ball-side-slam",
+    "name": "Slam Lateral Rotacional de Balón al Suelo",
+    "nameEn": "Rotational Medicine Ball Side Slam",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "MedicineBall",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para slam lateral rotacional de balón al suelo con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Medicinal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "bicycle-crunches-tempo",
+        "name": "Bicicleta Abdominal con Pausa Isométrica",
+        "nameEn": "Slow Tempo Bicycle Crunch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/1.jpg"
+        ]
+      },
+      {
+        "id": "woodchopper-cable-high-to-low",
+        "name": "Leñador en Polea Alta hacia Abajo (Woodchopper)",
+        "nameEn": "High-to-Low Cable Woodchopper",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+        ]
+      },
+      {
+        "id": "woodchopper-cable-low-to-high",
+        "name": "Leñador en Polea Baja hacia Arriba",
+        "nameEn": "Low-to-High Cable Woodchopper",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "overhead-med-ball-slam",
+    "name": "Slam Balístico Frontal de Balón Medicinal",
+    "nameEn": "Overhead Medicine Ball Slam",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Lats",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "MedicineBall",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para slam balístico frontal de balón medicinal con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Dorsal Ancho",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Medicinal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Medicine_Ball_Slam/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "tuck-jump-plyo",
+        "name": "Salto con Rodillas al Pecho en el Aire (Tuck Jump)",
+        "nameEn": "Tuck Jump High Impact Drill",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Tuck_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Knee_Tuck_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cable-kneeling-crunch",
+    "name": "Crunch Abdominal Arrodillado en Polea Alta",
+    "nameEn": "Kneeling Cable Abdominal Crunch",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para crunch abdominal arrodillado en polea alta con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "captain-chair-leg-raise",
+    "name": "Elevación de Piernas en Silla del Capitán",
+    "nameEn": "Captain’s Chair Vertical Leg Raise",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para elevación de piernas en silla del capitán con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "decline-bench-sit-up-weighted",
+    "name": "Sit-Up en Banco Declinado con Disco al Pecho",
+    "nameEn": "Weighted Decline Bench Sit-Up",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para sit-up en banco declinado con disco al pecho con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "garhammer-raise-bench",
+    "name": "Elevación Garhammer de Pelvis en Banco",
+    "nameEn": "Garhammer Abdominal Bench Pulse",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para elevación garhammer de pelvis en banco con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Lying_Leg_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Lying_Leg_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "caterpillar-walk-plank",
+    "name": "Caminata de Oruga a Plancha Larga (Long Lever)",
+    "nameEn": "Long-Lever Extended Plank Walkouts",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para caminata de oruga a plancha larga (long lever) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "turkish-sit-up-dumbbell",
+    "name": "Sit-Up Turco con Mancuerna Vertical",
+    "nameEn": "Dumbbell Turkish Sit-Up",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para sit-up turco con mancuerna vertical con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "side-plank-star",
+    "name": "Plancha Lateral en Estrella con Brazo y Pierna Arriba",
+    "nameEn": "Side Plank Star Hold",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Abductors",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para plancha lateral en estrella con brazo y pierna arriba con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Abductores (Glúteo Medio)",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-cable",
+        "name": "Press Pallof Antirrotación en Polea",
+        "nameEn": "Cable Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "half-kneeling-pallof-press",
+        "name": "Press Pallof en Posición de Caballero",
+        "nameEn": "Half-Kneeling Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "body-saw-plank-sliders",
+    "name": "Sierra Corporal en Plancha con Deslizadores",
+    "nameEn": "Body Saw Plank on Sliders or Towel",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para sierra corporal en plancha con deslizadores con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ab-crunch-stability-ball",
+    "name": "Crunch Abdominal sobre Balón Suizo con Gran Recorrido",
+    "nameEn": "Stability Ball Extended Range Crunch",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "StabilityBall",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para crunch abdominal sobre balón suizo con gran recorrido con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Suizo / Fitball",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stability-ball-pike",
+    "name": "Pica en Balón Suizo desde Plancha",
+    "nameEn": "Stability Ball Plank to Pike",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "StabilityBall",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para pica en balón suizo desde plancha con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Suizo / Fitball",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stability-ball-knee-tuck",
+    "name": "Recogida de Rodillas al Pecho en Balón Suizo",
+    "nameEn": "Stability Ball Knee Tuck In",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "StabilityBall",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para recogida de rodillas al pecho en balón suizo con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Suizo / Fitball",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Pull-In/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Pull-In/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reverse-hyperextension-bench",
+    "name": "Hiperextensión Inversa en Banco para Cadena Posterior",
+    "nameEn": "Reverse Hyperextension on Flat Bench",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para hiperextensión inversa en banco para cadena posterior con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "back-hyperextension-45-degree",
+        "name": "Hiperextensión a 45 Grados en Banco Romano",
+        "nameEn": "45-Degree Back Extension on Roman Chair",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/1.jpg"
+        ]
+      },
+      {
+        "id": "good-morning-barbell-heavy",
+        "name": "Buenos Días con Barra para Erectores Espinales",
+        "nameEn": "Barbell Good Morning",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/1.jpg"
+        ]
+      },
+      {
+        "id": "jefferson-curl-barbell",
+        "name": "Curl Jefferson con Barra para Flexión Vertebral Controlada",
+        "nameEn": "Jefferson Curl for Spinal Articulation",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "back-hyperextension-45-degree",
+    "name": "Hiperextensión a 45 Grados en Banco Romano",
+    "nameEn": "45-Degree Back Extension on Roman Chair",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para hiperextensión a 45 grados en banco romano con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "reverse-hyperextension-bench",
+        "name": "Hiperextensión Inversa en Banco para Cadena Posterior",
+        "nameEn": "Reverse Hyperextension on Flat Bench",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
+        ]
+      },
+      {
+        "id": "good-morning-barbell-heavy",
+        "name": "Buenos Días con Barra para Erectores Espinales",
+        "nameEn": "Barbell Good Morning",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/1.jpg"
+        ]
+      },
+      {
+        "id": "arch-body-hold-superman",
+        "name": "Posición de Arco / Superman Isométrico",
+        "nameEn": "Superman Arch Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "good-morning-barbell-heavy",
+    "name": "Buenos Días con Barra para Erectores Espinales",
+    "nameEn": "Barbell Good Morning",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para buenos días con barra para erectores espinales con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "reverse-hyperextension-bench",
+        "name": "Hiperextensión Inversa en Banco para Cadena Posterior",
+        "nameEn": "Reverse Hyperextension on Flat Bench",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
+        ]
+      },
+      {
+        "id": "back-hyperextension-45-degree",
+        "name": "Hiperextensión a 45 Grados en Banco Romano",
+        "nameEn": "45-Degree Back Extension on Roman Chair",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/1.jpg"
+        ]
+      },
+      {
+        "id": "arch-body-hold-superman",
+        "name": "Posición de Arco / Superman Isométrico",
+        "nameEn": "Superman Arch Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jefferson-curl-barbell",
+    "name": "Curl Jefferson con Barra para Flexión Vertebral Controlada",
+    "nameEn": "Jefferson Curl for Spinal Articulation",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para curl jefferson con barra para flexión vertebral controlada con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "cat-cow-stretch",
+        "name": "Gato-Camello (Cat-Cow)",
+        "nameEn": "Cat-Cow Mobility Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cat_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cat_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "arch-body-hold-superman",
+        "name": "Posición de Arco / Superman Isométrico",
+        "nameEn": "Superman Arch Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+        ]
+      },
+      {
+        "id": "reverse-hyperextension-bench",
+        "name": "Hiperextensión Inversa en Banco para Cadena Posterior",
+        "nameEn": "Reverse Hyperextension on Flat Bench",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "standing-cable-anti-flexion-chop",
+    "name": "Bloqueo Antiflexión Lateral en Polea",
+    "nameEn": "Standing Lateral Anti-Flexion Cable Hold",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para bloqueo antiflexión lateral en polea con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "stir-the-pot-stability-ball",
+        "name": "Remover la Olla sobre Balón Suizo (Stir the Pot)",
+        "nameEn": "Stability Ball Stir the Pot Plank",
+        "equipment": "StabilityBall",
+        "equipmentEs": "Balón Suizo / Fitball",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/1.jpg"
+        ]
+      },
+      {
+        "id": "side-plank-forearm-hold",
+        "name": "Plancha Lateral sobre Antebrazo",
+        "nameEn": "Side Plank Forearm Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/1.jpg"
+        ]
+      }
+    ]
+  }
+]

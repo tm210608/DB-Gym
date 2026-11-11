@@ -1,0 +1,822 @@
+[
+  {
+    "id": "chest-dips",
+    "name": "Fondos en Paralelas para Pecho",
+    "nameEn": "Chest Dips",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sujétate de las barras paralelas y elévate extendiendo los brazos.",
+      "Inclina el torso ligeramente hacia adelante y dobla las rodillas si es necesario.",
+      "Baja el cuerpo doblando los codos hacia afuera hasta que tus hombros estén debajo de los codos.",
+      "Empuja hacia arriba con fuerza focalizando el pectoral inferior."
+    ],
+    "alternatives": [
+      "decline-barbell-bench-press",
+      "push-up"
+    ],
+    "category": "Fuerza",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dips_-_Chest_Version/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dips_-_Chest_Version/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "deadlift",
+    "name": "Peso Muerto con Barra",
+    "nameEn": "Barbell Deadlift",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Glutes",
+      "Forearms"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "forceType": "Tirón",
+    "instructions": [
+      "Párate frente a la barra con los pies al ancho de las caderas, la barra debe cruzar la mitad del pie.",
+      "Doble la cadera inclinándote hacia abajo para tomar la barra y acomoda la espalda de forma neutra y recta.",
+      "Mantén los hombros alineados con la barra y dobla un poco las rodillas hasta que la espinilla toque la barra.",
+      "Presiona el suelo con los talones y mantén la barra pegada a ti mientras te pones de pie de manera erguida.",
+      "Bloquea arriba con fuerza sin hiperextender excesivamente la espalda baja."
+    ],
+    "alternatives": [
+      "romanian-deadlift",
+      "sumo-deadlift"
+    ],
+    "category": "Fuerza",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Glúteos",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Deadlift/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "sumo-deadlift",
+        "name": "Peso Muerto Sumo",
+        "nameEn": "Sumo Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sumo_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sumo_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "pull-up",
+        "name": "Dominadas Prone",
+        "nameEn": "Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "behind-neck-pulldown",
+        "name": "Jalón Tras Nuca en Polea",
+        "nameEn": "Behind Neck Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sumo-deadlift",
+    "name": "Peso Muerto Sumo",
+    "nameEn": "Sumo Deadlift",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Glutes",
+      "Quads",
+      "Hamstrings"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "forceType": "Tirón",
+    "instructions": [
+      "Adopta una postura muy ancha con las puntas de los pies apuntando hacia afuera.",
+      "Baja las caderas y sujeta la barra por el centro con los brazos dentro de las piernas.",
+      "Mantén la espalda recta e impulsa con las piernas para ponerte erguido.",
+      "Bloquea la posición superior empujando las caderas hacia la barra."
+    ],
+    "alternatives": [
+      "deadlift",
+      "barbell-squat"
+    ],
+    "category": "Fuerza",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Cuádriceps",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sumo_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sumo_Deadlift/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "deadlift",
+        "name": "Peso Muerto con Barra",
+        "nameEn": "Barbell Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "pull-up",
+        "name": "Dominadas Prone",
+        "nameEn": "Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "behind-neck-pulldown",
+        "name": "Jalón Tras Nuca en Polea",
+        "nameEn": "Behind Neck Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pull-up",
+    "name": "Dominadas Prone",
+    "nameEn": "Pull-Up",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Biceps",
+      "Shoulders",
+      "Forearms"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "forceType": "Tirón",
+    "instructions": [
+      "Sujétate de la barra de dominadas con un agarre prono (palmas hacia adelante) más ancho que los hombros.",
+      "Cuelga con los brazos completamente estirados y saca pecho levemente.",
+      "Tira de tu cuerpo hacia arriba retrayendo los omóplatos, llevando tu pecho hacia la barra.",
+      "Llega con la barbilla sobre la barra sin balancear las piernas.",
+      "Baja suave y controladamente hasta la posición extendida de inicio."
+    ],
+    "alternatives": [
+      "lat-pulldown",
+      "chin-up",
+      "assisted-pull-up"
+    ],
+    "category": "Fuerza",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Hombros / Deltoides",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "behind-neck-pulldown",
+        "name": "Jalón Tras Nuca en Polea",
+        "nameEn": "Behind Neck Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck/1.jpg"
+        ]
+      },
+      {
+        "id": "assisted-pull-up",
+        "name": "Dominadas Asistidas en Máquina",
+        "nameEn": "Assisted Pull-Up",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "lat-pulldown",
+        "name": "Jalón al Pecho en Polea",
+        "nameEn": "Lat Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Lat_Pulldown/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Lat_Pulldown/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "behind-neck-pulldown",
+    "name": "Jalón Tras Nuca en Polea",
+    "nameEn": "Behind Neck Pulldown",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Biceps",
+      "Shoulders"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Avanzado",
+    "forceType": "Tirón",
+    "instructions": [
+      "Siéntate en la máquina de jalones con agarre amplio.",
+      "Mantén el torso erguido y baja la barra lentamente por detrás de la cabeza hasta la nuca.",
+      "Evita movimientos bruscos para no tensionar los rotadores del hombro.",
+      "Sube la barra controlando la fase excéntrica."
+    ],
+    "alternatives": [
+      "lat-pulldown",
+      "pull-up"
+    ],
+    "category": "Fuerza",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pull-up",
+        "name": "Dominadas Prone",
+        "nameEn": "Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "chin-up",
+        "name": "Dominadas Supinas",
+        "nameEn": "Chin-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "assisted-pull-up",
+        "name": "Dominadas Asistidas en Máquina",
+        "nameEn": "Assisted Pull-Up",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "overhead-press",
+    "name": "Press Militar con Barra",
+    "nameEn": "Barbell Overhead Press",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Triceps",
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "forceType": "Empuje",
+    "instructions": [
+      "Párate con los pies al ancho de tus caderas y descansa la barra sobre tus clavículas o pecho alto.",
+      "Aprieta fuerte tus glúteos y tu abdomen para dar estabilidad a tu espalda baja.",
+      "Empuja la barra rectamente hacia el techo pasando cerca de tu cara y bloqueando suave arriba.",
+      "Pasa la cabeza levemente hacia adelante una vez la barra libre tu frente.",
+      "Baja controladamente de vuelta a tus clavículas."
+    ],
+    "alternatives": [
+      "dumbbell-shoulder-press",
+      "seated-barbell-press"
+    ],
+    "category": "Fuerza",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Military_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Military_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-shoulder-press",
+        "name": "Press de Hombro con Mancuernas",
+        "nameEn": "Dumbbell Shoulder Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "arnold-press",
+        "name": "Press Arnold con Mancuernas",
+        "nameEn": "Arnold Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "rear-delt-fly",
+        "name": "Pájaros con Mancuernas (Hombro Posterior)",
+        "nameEn": "Dumbbell Rear Delt Fly",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Bent-Over_Rear_Delt_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Bent-Over_Rear_Delt_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "front-squat",
+    "name": "Sentadilla Frontal con Barra",
+    "nameEn": "Barbell Front Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Coloca la barra sobre los hombros delanteros y crúzale los dedos para asegurar el agarre.",
+      "Mantén los codos en posición alta durante todo el movimiento.",
+      "Baja las caderas controlando la posición y cuidando no inclinar el torso.",
+      "Sube empujando activamente con los cuádriceps."
+    ],
+    "alternatives": [
+      "barbell-squat",
+      "hack-squat"
+    ],
+    "category": "Fuerza",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "hack-squat",
+        "name": "Sentadilla Hack en Máquina",
+        "nameEn": "Hack Squat Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "leg-press",
+        "name": "Prensa de Pierna de 45 Grados",
+        "nameEn": "Leg Press",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "leg-extension",
+        "name": "Extensiones de Cuádriceps en Máquina",
+        "nameEn": "Leg Extension",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Extensions/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Extensions/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ab-wheel-rollout",
+    "name": "Rueda Abdominal",
+    "nameEn": "Ab Wheel Rollout",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Back",
+      "Shoulders"
+    ],
+    "equipment": "None",
+    "difficulty": "Avanzado",
+    "forceType": "Core",
+    "instructions": [
+      "Arrodíllate en el suelo y sostén la rueda abdominal delante de ti.",
+      "Rueda la rueda hacia el frente estirando el cuerpo en una línea recta horizontal.",
+      "Contrae fuertemente el abdomen para regresar a la posición vertical."
+    ],
+    "alternatives": [
+      "ab-plank"
+    ],
+    "category": "Fuerza",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Sin Equipamiento",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      },
+      {
+        "id": "l-sit-floor",
+        "name": "L-Sit en el Suelo",
+        "nameEn": "Floor L-Sit",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glute-bridge-barbell",
+    "name": "Puente de Glúteos con Barra en el Suelo",
+    "nameEn": "Barbell Glute Bridge",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Principiante",
+    "category": "Fuerza",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Acuéstate boca arriba en el suelo con las rodillas dobladas y los pies planos al suelo a la anchura de las caderas.",
+      "Coloca la barra protegida sobre las caderas sosteniéndola con ambas manos para evitar que ruede.",
+      "Eleva las caderas despegando los glúteos del piso hasta que los muslos queden en línea con el torso.",
+      "Contrae intensamente los glúteos en el punto alto y baja la cadera rozando apenas el suelo antes de repetir."
+    ],
+    "tips": [
+      "Rango de recorrido más corto que el hip thrust pero muy seguro para aislar el glúteo mayor."
+    ],
+    "breathingCue": "Exhala al subir la pelvis; inhala al apoyar suavemente en el piso.",
+    "alternatives": [
+      "hip-thrust-barbell"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "single-leg-glute-bridge",
+        "name": "Puente de Glúteos a Una Pierna",
+        "nameEn": "Single-Leg Glute Bridge",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single_Leg_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "glute-bridge-activation-bodyweight",
+        "name": "Puente de Glúteos de Activación con Doble Apoyo",
+        "nameEn": "Bodyweight Glute Bridge Holds",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butt_Lift_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butt_Lift_Bridge/1.jpg"
+        ]
+      }
+    ]
+  }
+]

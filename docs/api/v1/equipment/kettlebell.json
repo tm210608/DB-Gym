@@ -1,0 +1,3006 @@
+[
+  {
+    "id": "windmills-kettlebell-mobility",
+    "name": "Molino con Pesa Rusa (Windmill de Movilidad)",
+    "nameEn": "Kettlebell Windmill",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Abs",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de molino con pesa rusa (windmill de movilidad) sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "kettlebell-clean-single-arm",
+    "name": "Clean con Pesa Rusa a Una Mano",
+    "nameEn": "Single-Arm Kettlebell Clean",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Traps",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para clean con pesa rusa a una mano.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Trapecio",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Clean/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Clean/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-snatch-single-arm",
+    "name": "Snatch (Arrancada) con Pesa Rusa a Una Mano",
+    "nameEn": "Single-Arm Kettlebell Snatch",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Shoulders",
+      "Lats"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para snatch (arrancada) con pesa rusa a una mano.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Hombros / Deltoides",
+      "Dorsal Ancho"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Snatch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Snatch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "turkish-get-up-full",
+    "name": "Levantamiento Turco Completo (Turkish Get-Up)",
+    "nameEn": "Full Turkish Get-Up",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Abs",
+      "Glutes",
+      "Quads",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Multi-plano",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para levantamiento turco completo (turkish get-up).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Glúteos",
+      "Cuádriceps",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Turkish_Get-Up_Lunge_style/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Turkish_Get-Up_Lunge_style/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "hindu-pushup",
+        "name": "Flexiones Hindúes (Dand)",
+        "nameEn": "Hindu Push-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups_Close_and_Wide_Hand_Positions/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups_Close_and_Wide_Hand_Positions/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-strict-press",
+    "name": "Press Militar Estricto con Pesa Rusa",
+    "nameEn": "Single-Arm Kettlebell Military Press",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Triceps",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para press militar estricto con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Military_Press_To_The_Side/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Military_Press_To_The_Side/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "overhead-press",
+        "name": "Press Militar con Barra",
+        "nameEn": "Barbell Overhead Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-barbell-press",
+        "name": "Press Militar Sentado con Barra",
+        "nameEn": "Seated Barbell Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-shoulder-press",
+        "name": "Press de Hombro con Mancuernas",
+        "nameEn": "Dumbbell Shoulder Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-push-press",
+    "name": "Push Press con Pesa Rusa",
+    "nameEn": "Kettlebell Push Press",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Quads",
+      "Triceps",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para push press con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Tríceps",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Push_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Push_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "overhead-press",
+        "name": "Press Militar con Barra",
+        "nameEn": "Barbell Overhead Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-barbell-press",
+        "name": "Press Militar Sentado con Barra",
+        "nameEn": "Seated Barbell Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-shoulder-press",
+        "name": "Press de Hombro con Mancuernas",
+        "nameEn": "Dumbbell Shoulder Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-halo",
+    "name": "El Halo con Pesa Rusa alrededor de la Cabeza",
+    "nameEn": "Kettlebell Halo for Shoulder Mobility",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps",
+      "Forearms",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para el halo con pesa rusa alrededor de la cabeza.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Trapecio",
+      "Antebrazos",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-kneeling-windlass",
+        "name": "Giro de Molinete de Rodillas con Pesa Rusa",
+        "nameEn": "Half-Kneeling Kettlebell Windmill",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/1.jpg"
+        ]
+      },
+      {
+        "id": "external-rotation-cable-neutral",
+        "name": "Rotación Externa de Hombro en Polea a 0 Grados",
+        "nameEn": "Standing Cable Shoulder External Rotation",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/1.jpg"
+        ]
+      },
+      {
+        "id": "internal-rotation-cable-neutral",
+        "name": "Rotación Interna de Hombro en Polea",
+        "nameEn": "Standing Cable Shoulder Internal Rotation",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "double-kettlebell-front-squat",
+    "name": "Sentadilla Frontal con Doble Pesa Rusa en Rack",
+    "nameEn": "Double Kettlebell Front Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Abs",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para sentadilla frontal con doble pesa rusa en rack.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Abdomen / Core",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Squats_With_Two_Kettlebells/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Squats_With_Two_Kettlebells/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "front-squat",
+        "name": "Sentadilla Frontal con Barra",
+        "nameEn": "Barbell Front Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "hack-squat",
+        "name": "Sentadilla Hack en Máquina",
+        "nameEn": "Hack Squat Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-somersault-squat",
+    "name": "Sentadilla con Pesa Rusa Apoyada Tras Nuca",
+    "nameEn": "Kettlebell Somersault Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para sentadilla con pesa rusa apoyada tras nuca.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "front-squat",
+        "name": "Sentadilla Frontal con Barra",
+        "nameEn": "Barbell Front Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "hack-squat",
+        "name": "Sentadilla Hack en Máquina",
+        "nameEn": "Hack Squat Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "single-leg-kettlebell-rdl",
+    "name": "Peso Muerto Rumano Unilateral con Pesa Rusa",
+    "nameEn": "Single-Leg Kettlebell Romanian Deadlift",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Forearms",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para peso muerto rumano unilateral con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Antebrazos",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_One-Legged_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_One-Legged_Deadlift/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "nordic-hamstring-curl",
+        "name": "Curl Nórdico de Isquiotibiales",
+        "nameEn": "Nordic Hamstring Curl",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-gorilla-row",
+    "name": "Remo Gorila Alterno con Dos Pesas Rusas",
+    "nameEn": "Kettlebell Gorilla Row",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Lats",
+      "Abs",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para remo gorila alterno con dos pesas rusas.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Dorsal Ancho",
+      "Abdomen / Core",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Row/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Row/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-row",
+        "name": "Remo con Barra",
+        "nameEn": "Barbell Row",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/1.jpg"
+        ]
+      },
+      {
+        "id": "t-bar-row",
+        "name": "Remo en Barra T",
+        "nameEn": "T-Bar Row",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-single-row",
+        "name": "Remo a una Mano con Mancuerna",
+        "nameEn": "Dumbbell Single-Arm Row",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-high-pull",
+    "name": "Tirón Alto con Pesa Rusa (High Pull)",
+    "nameEn": "Kettlebell High Pull",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para tirón alto con pesa rusa (high pull).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Isquiotibiales / Femoral",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Sumo_High_Pull/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Sumo_High_Pull/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "snatch-grip-barbell-shrug",
+        "name": "Encogimientos con Barra Agarre de Arrancada",
+        "nameEn": "Snatch-Grip Barbell Shrug",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Shrug/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Shrug/1.jpg"
+        ]
+      },
+      {
+        "id": "prone-y-raise-bench",
+        "name": "Elevaciones en Y Boca Abajo para Trapecio Inferior",
+        "nameEn": "Prone Incline Bench Y-Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Shoulder_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Shoulder_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-bottoms-up-clean",
+    "name": "Clean con Base hacia Arriba (Bottoms-Up)",
+    "nameEn": "Bottoms-Up Kettlebell Clean",
+    "primaryMuscle": "Forearms",
+    "secondaryMuscles": [
+      "Biceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para clean con base hacia arriba (bottoms-up).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Antebrazos",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bottoms-Up_Clean_From_The_Hang_Position/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bottoms-Up_Clean_From_The_Hang_Position/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "kettlebell-bottoms-up-press",
+    "name": "Press con Base hacia Arriba para Estabilidad",
+    "nameEn": "Bottoms-Up Kettlebell Press",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Forearms",
+      "Triceps",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para press con base hacia arriba para estabilidad.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Antebrazos",
+      "Tríceps",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Arnold_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Arnold_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "overhead-press",
+        "name": "Press Militar con Barra",
+        "nameEn": "Barbell Overhead Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-barbell-press",
+        "name": "Press Militar Sentado con Barra",
+        "nameEn": "Seated Barbell Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-shoulder-press",
+        "name": "Press de Hombro con Mancuernas",
+        "nameEn": "Dumbbell Shoulder Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-figure-eight",
+    "name": "El Ocho entre Piernas con Pesa Rusa (Figure 8)",
+    "nameEn": "Kettlebell Figure 8 Dynamic Core Flow",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para el ocho entre piernas con pesa rusa (figure 8).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Figure_8/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Figure_8/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "windshield-wipers-hanging",
+        "name": "Limpiaparabrisas Colgado en Barra",
+        "nameEn": "Hanging Windshield Wipers",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "torso-rotations-standing",
+        "name": "Rotaciones de Tronco de Pie con Pivote",
+        "nameEn": "Standing Torso Twists with Foot Pivot",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Torso_Rotation/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Torso_Rotation/1.jpg"
+        ]
+      },
+      {
+        "id": "bicycle-crunches-tempo",
+        "name": "Bicicleta Abdominal con Pausa Isométrica",
+        "nameEn": "Slow Tempo Bicycle Crunch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-deck-squat",
+    "name": "Deck Squat con Impulso de Pesa Rusa",
+    "nameEn": "Kettlebell Deck Squat to Stand",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Abs",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para deck squat con impulso de pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "front-squat",
+        "name": "Sentadilla Frontal con Barra",
+        "nameEn": "Barbell Front Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "hack-squat",
+        "name": "Sentadilla Hack en Máquina",
+        "nameEn": "Hack Squat Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-curtsy-lunge",
+    "name": "Zancada de Reverencia con Pesa Rusa",
+    "nameEn": "Kettlebell Curtsy Lunge",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Quads",
+      "Adductors"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para zancada de reverencia con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Aductores (Cara Interna)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "banded-lateral-monster-walk",
+        "name": "Caminata Lateral de Monstruo con Banda en Rodillas",
+        "nameEn": "Banded Lateral Monster Walk",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/1.jpg"
+        ]
+      },
+      {
+        "id": "reverse-lunge-smith-machine",
+        "name": "Zancada Inversa en Máquina Smith",
+        "nameEn": "Smith Machine Reverse Lunge",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "step-up-dumbbells-high-box",
+        "name": "Subidas a Cajón Alto con Mancuernas",
+        "nameEn": "High Box Step-Up with Dumbbells",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-sots-press",
+    "name": "Press Sots en Sentadilla Profunda con Pesa Rusa",
+    "nameEn": "Kettlebell Sots Press in Deep Squat",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Quads",
+      "Back",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para press sots en sentadilla profunda con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Espalda / Dorsal",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Arnold_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Arnold_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "overhead-press",
+        "name": "Press Militar con Barra",
+        "nameEn": "Barbell Overhead Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-barbell-press",
+        "name": "Press Militar Sentado con Barra",
+        "nameEn": "Seated Barbell Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-shoulder-press",
+        "name": "Press de Hombro con Mancuernas",
+        "nameEn": "Dumbbell Shoulder Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-slingshot",
+    "name": "Vuelta al Mundo alrededor del Torso (Slingshot)",
+    "nameEn": "Kettlebell Slingshot / Around the World",
+    "primaryMuscle": "Forearms",
+    "secondaryMuscles": [
+      "Abs",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para vuelta al mundo alrededor del torso (slingshot).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Antebrazos",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Farmers_Walk/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "wrist-pronator-supinator-dumbbell",
+        "name": "Pronación y Supinación de Muñeca con Martillo",
+        "nameEn": "Forearm Pronation and Supination with Hammer",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Forearms",
+        "primaryMuscleEs": "Antebrazos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Palms-Down_Dumbbell_Wrist_Curl_Over_A_Bench/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-overhead-carry",
+    "name": "Paseo con Pesa Rusa Bloqueada sobre la Cabeza",
+    "nameEn": "Single-Arm Kettlebell Overhead Carry",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Abs",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Carry",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para paseo con pesa rusa bloqueada sobre la cabeza.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Overhead_Kettlebell_Squats/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Overhead_Kettlebell_Squats/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "overhead-dumbbell-carry-dual",
+        "name": "Paseo con Mancuernas sobre la Cabeza",
+        "nameEn": "Dual Dumbbell Overhead Carry",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "kettlebell-waiter-walk",
+        "name": "Paseo del Camarero con Pesa Rusa",
+        "nameEn": "Kettlebell Waiter’s Walk",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-rack-carry",
+    "name": "Paseo en Posición de Rack con Pesa Rusa",
+    "nameEn": "Single-Arm Kettlebell Front Rack Carry",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Forearms",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Carry",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para paseo en posición de rack con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Antebrazos",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "suitcase-carry-dumbbell",
+        "name": "Paseo de la Maleta (Suitcase Carry Unilateral)",
+        "nameEn": "Single-Arm Dumbbell Suitcase Carry",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-waiter-walk",
+    "name": "Paseo del Camarero con Pesa Rusa",
+    "nameEn": "Kettlebell Waiter’s Walk",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Forearms",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Carry",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para paseo del camarero con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Antebrazos",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "overhead-dumbbell-carry-dual",
+        "name": "Paseo con Mancuernas sobre la Cabeza",
+        "nameEn": "Dual Dumbbell Overhead Carry",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "kettlebell-overhead-carry",
+        "name": "Paseo con Pesa Rusa Bloqueada sobre la Cabeza",
+        "nameEn": "Single-Arm Kettlebell Overhead Carry",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Overhead_Kettlebell_Squats/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Overhead_Kettlebell_Squats/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-crush-curl",
+    "name": "Curl de Bíceps Comprimiendo Pesa Rusa (Crush Curl)",
+    "nameEn": "Kettlebell Crush Grip Biceps Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Chest",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para curl de bíceps comprimiendo pesa rusa (crush curl).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Pecho / Pectoral",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Clean/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Clean/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trx-biceps-curl-overhead",
+        "name": "Curl de Bíceps en Suspensión",
+        "nameEn": "TRX Suspension Biceps Curl",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Cable_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Cable_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-curl",
+        "name": "Curl de Bíceps alterno con Mancuernas",
+        "nameEn": "Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-overhead-triceps-extension",
+    "name": "Extensión de Tríceps sobre Cabeza con Pesa Rusa",
+    "nameEn": "Kettlebell Overhead Triceps Extension",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para extensión de tríceps sobre cabeza con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Tríceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Triceps_Extension/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Triceps_Extension/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "seated-triceps-dip-machine",
+        "name": "Fondos de Tríceps Sentado en Máquina",
+        "nameEn": "Seated Dip Machine for Triceps",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/1.jpg"
+        ]
+      },
+      {
+        "id": "diamond-pushdown-cable",
+        "name": "Extensión de Tríceps con Agarre en V en Polea",
+        "nameEn": "V-Bar Cable Triceps Pushdown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown_-_V-Bar_Attachment/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown_-_V-Bar_Attachment/1.jpg"
+        ]
+      },
+      {
+        "id": "trx-triceps-pressdown",
+        "name": "Extensión de Tríceps sobre Cabeza en TRX",
+        "nameEn": "TRX Overhead Triceps Extension",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Overhead_Triceps_Extension/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Sled_Overhead_Triceps_Extension/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-floor-press-single",
+    "name": "Press en el Suelo a Una Mano con Pesa Rusa",
+    "nameEn": "Single-Arm Kettlebell Floor Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para press en el suelo a una mano con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Floor_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Floor_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-cross-body-clean",
+    "name": "Clean Cruzado Diagonal con Pesa Rusa",
+    "nameEn": "Cross-Body Kettlebell Clean",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abs",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para clean cruzado diagonal con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Dead_Clean/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Dead_Clean/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-kneeling-windlass",
+    "name": "Giro de Molinete de Rodillas con Pesa Rusa",
+    "nameEn": "Half-Kneeling Kettlebell Windmill",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Abs",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para giro de molinete de rodillas con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-halo",
+        "name": "El Halo con Pesa Rusa alrededor de la Cabeza",
+        "nameEn": "Kettlebell Halo for Shoulder Mobility",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "external-rotation-cable-neutral",
+        "name": "Rotación Externa de Hombro en Polea a 0 Grados",
+        "nameEn": "Standing Cable Shoulder External Rotation",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/1.jpg"
+        ]
+      },
+      {
+        "id": "internal-rotation-cable-neutral",
+        "name": "Rotación Interna de Hombro en Polea",
+        "nameEn": "Standing Cable Shoulder Internal Rotation",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-lateral-swing",
+    "name": "Swing Lateral Controlado en el Plano Frontal",
+    "nameEn": "Kettlebell Lateral Plane Swing",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abs",
+      "Adductors"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para swing lateral controlado en el plano frontal.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Aductores (Cara Interna)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "carioca-grapevine-warmup",
+        "name": "Carioca / Pasos Cruzados Dinámicos de Cadera",
+        "nameEn": "Carioca Grapevine Hip Warmup Drill",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Carioca_Quick_Step/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Carioca_Quick_Step/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-pistol-box-squat",
+    "name": "Sentadilla Pistola a Cajón con Pesa Rusa Contrapeso",
+    "nameEn": "Counterbalance Kettlebell Pistol Squat to Box",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para sentadilla pistola a cajón con pesa rusa contrapeso.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "front-squat",
+        "name": "Sentadilla Frontal con Barra",
+        "nameEn": "Barbell Front Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "hack-squat",
+        "name": "Sentadilla Hack en Máquina",
+        "nameEn": "Hack Squat Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-good-morning",
+    "name": "Buenos Días con Pesa Rusa Abrazada al Pecho",
+    "nameEn": "Kettlebell Hugged Good Morning",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para buenos días con pesa rusa abrazada al pecho.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "nordic-hamstring-curl",
+        "name": "Curl Nórdico de Isquiotibiales",
+        "nameEn": "Nordic Hamstring Curl",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Natural_Glute_Ham_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-cossack-press",
+    "name": "Sentadilla Cosaca con Press Frontal de Pesa Rusa",
+    "nameEn": "Kettlebell Cossack Squat with Press-Out",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [
+      "Quads",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para sentadilla cosaca con press frontal de pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Pistol_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "cossack-squat-mobility",
+        "name": "Sentadilla Cosaca de Movilidad Lateral",
+        "nameEn": "Cossack Squat Mobility Flow",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groin_and_Back_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groin_and_Back_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "trx-cossack-squat-assisted",
+        "name": "Sentadilla Cosaca Lateral Asistida en TRX",
+        "nameEn": "TRX Assisted Lateral Cossack Squat",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Split_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "double-kettlebell-clean-and-jerk",
+    "name": "Clean & Jerk Completo con Doble Pesa Rusa",
+    "nameEn": "Double Kettlebell Clean and Jerk (Long Cycle)",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para clean & jerk completo con doble pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Isquiotibiales / Femoral",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Jerk/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Jerk/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "split-jerk-barbell",
+        "name": "Envión en Tijera (Split Jerk)",
+        "nameEn": "Barbell Split Jerk from Racks",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jerk/1.jpg"
+        ]
+      },
+      {
+        "id": "push-jerk-barbell",
+        "name": "Push Jerk con Barra Olímpica",
+        "nameEn": "Barbell Push Jerk Power Drive",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Jerk/1.jpg"
+        ]
+      },
+      {
+        "id": "snatch-balance-barbell",
+        "name": "Snatch Balance para Velocidad bajo la Barra",
+        "nameEn": "Barbell Snatch Balance Drill",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Balance/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Balance/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "double-kettlebell-snatch",
+    "name": "Snatch Simultáneo con Dos Pesas Rusas",
+    "nameEn": "Double Kettlebell Snatch",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Back",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para snatch simultáneo con dos pesas rusas.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skater-jumps-warmup",
+        "name": "Saltos de Patinador Laterales (Skater Hops)",
+        "nameEn": "Lateral Skater Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      },
+      {
+        "id": "broad-jump-standing",
+        "name": "Salto Horizontal de Longitud a Dos Pies",
+        "nameEn": "Standing Long Jump (Broad Jump)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "lateral-bound-heiden",
+        "name": "Salto Lateral a Una Pierna (Heiden Jump)",
+        "nameEn": "Lateral Bound Heiden Jump",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-renegade-row",
+    "name": "Remo Renegado en Plancha con Pesas Rusas",
+    "nameEn": "Kettlebell Renegade Row",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Abs",
+      "Chest",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para remo renegado en plancha con pesas rusas.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Pecho / Pectoral",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Row/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Row/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-row",
+        "name": "Remo con Barra",
+        "nameEn": "Barbell Row",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/1.jpg"
+        ]
+      },
+      {
+        "id": "t-bar-row",
+        "name": "Remo en Barra T",
+        "nameEn": "T-Bar Row",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-single-row",
+        "name": "Remo a una Mano con Mancuerna",
+        "nameEn": "Dumbbell Single-Arm Row",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-thruster",
+    "name": "Thruster con Pesa Rusa (Sentadilla + Press)",
+    "nameEn": "Kettlebell Thruster",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para thruster con pesa rusa (sentadilla + press).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Thruster/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Thruster/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "front-squat",
+        "name": "Sentadilla Frontal con Barra",
+        "nameEn": "Barbell Front Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "hack-squat",
+        "name": "Sentadilla Hack en Máquina",
+        "nameEn": "Hack Squat Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kettlebell-man-maker",
+    "name": "Man Maker con Pesas Rusas (Flexión + Remo + Thruster)",
+    "nameEn": "Kettlebell Man Maker Complex",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Back",
+      "Shoulders",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Multi-plano",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para man maker con pesas rusas (flexión + remo + thruster).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Hombros / Deltoides",
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Floor_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Floor_Press/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "bear-crawl-pull-through",
+    "name": "Arrastre de Saco o Pesa en Posición de Oso",
+    "nameEn": "Bear Crawl Sandbag Pull-Through",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para arrastre de saco o pesa en posición de oso con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Windmill/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-cable",
+        "name": "Press Pallof Antirrotación en Polea",
+        "nameEn": "Cable Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "half-kneeling-pallof-press",
+        "name": "Press Pallof en Posición de Caballero",
+        "nameEn": "Half-Kneeling Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      }
+    ]
+  }
+]

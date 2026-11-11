@@ -1,0 +1,394 @@
+[
+  {
+    "id": "tall-kneeling-lat-stretch-ball",
+    "name": "Estiramiento de Dorsal de Rodillas sobre Balón",
+    "nameEn": "Kneeling Lat Stretch on Stability Ball",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Back",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "StabilityBall",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de estiramiento de dorsal de rodillas sobre balón sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Suizo / Fitball",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chest_Stretch_on_Stability_Ball/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chest_Stretch_on_Stability_Ball/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "childs-pose-lat-reach",
+        "name": "Postura del Niño con Inclinación Lateral",
+        "nameEn": "Extended Child’s Pose with Lat Reach",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Childs_Pose/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Childs_Pose/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stir-the-pot-stability-ball",
+    "name": "Remover la Olla sobre Balón Suizo (Stir the Pot)",
+    "nameEn": "Stability Ball Stir the Pot Plank",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "StabilityBall",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para remover la olla sobre balón suizo (stir the pot) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Suizo / Fitball",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-cable",
+        "name": "Press Pallof Antirrotación en Polea",
+        "nameEn": "Cable Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "half-kneeling-pallof-press",
+        "name": "Press Pallof en Posición de Caballero",
+        "nameEn": "Half-Kneeling Pallof Press",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ab-crunch-stability-ball",
+    "name": "Crunch Abdominal sobre Balón Suizo con Gran Recorrido",
+    "nameEn": "Stability Ball Extended Range Crunch",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "StabilityBall",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para crunch abdominal sobre balón suizo con gran recorrido con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Suizo / Fitball",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stability-ball-pike",
+    "name": "Pica en Balón Suizo desde Plancha",
+    "nameEn": "Stability Ball Plank to Pike",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "StabilityBall",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para pica en balón suizo desde plancha con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Suizo / Fitball",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stability-ball-knee-tuck",
+    "name": "Recogida de Rodillas al Pecho en Balón Suizo",
+    "nameEn": "Stability Ball Knee Tuck In",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "StabilityBall",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para recogida de rodillas al pecho en balón suizo con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Suizo / Fitball",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Pull-In/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Pull-In/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  }
+]

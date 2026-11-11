@@ -1,0 +1,3268 @@
+[
+  {
+    "id": "scapular-pullup",
+    "name": "Dominadas Escapulares de Activación",
+    "nameEn": "Scapular Pull-Up",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas escapulares de activación con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ],
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Trapecio"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "assisted-pull-up",
+        "name": "Dominadas Asistidas en Máquina",
+        "nameEn": "Assisted Pull-Up",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "lat-pulldown",
+        "name": "Jalón al Pecho en Polea",
+        "nameEn": "Lat Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Lat_Pulldown/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Lat_Pulldown/1.jpg"
+        ]
+      },
+      {
+        "id": "behind-neck-pulldown",
+        "name": "Jalón Tras Nuca en Polea",
+        "nameEn": "Behind Neck Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bear-crawl",
+    "name": "Paso del Oso (Bear Crawl)",
+    "nameEn": "Bear Crawl",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "LowerBack"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Inicia en la posición base de paso del oso (bear crawl) asegurando el anclaje firme.",
+      "Ejecuta el desplazamiento o flexión activa contrayendo con intención el músculo principal.",
+      "Retorna bajo control excéntrico sin rebotes articulares."
+    ],
+    "tips": [
+      "Evita el balanceo por inercia para aislar el trabajo en la musculatura diana."
+    ],
+    "breathingCue": "Exhala en el esfuerzo de cierre; inhala en la fase de extensión.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Antebrazos",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bear_Crawl_Sled_Drags/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hamstring-sweep-dynamic-stretch",
+    "name": "Barrido Dinámico de Isquiotibiales en Marcha",
+    "nameEn": "Dynamic Walking Hamstring Sweeps",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Calves",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de barrido dinámico de isquiotibiales en marcha sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Leg_Raises/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Leg_Raises/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "knee-hug-glute-march",
+    "name": "Abrazo de Rodilla en Marcha con Elevación",
+    "nameEn": "Walking Knee Hug to Glute Stretch",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de abrazo de rodilla en marcha con elevación sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Knee_To_Chest/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Knee_To_Chest/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "banded-lateral-monster-walk",
+        "name": "Caminata Lateral de Monstruo con Banda en Rodillas",
+        "nameEn": "Banded Lateral Monster Walk",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/1.jpg"
+        ]
+      },
+      {
+        "id": "banded-clamshell",
+        "name": "La Almeja con Banda Elástica (Clamshell)",
+        "nameEn": "Banded Clamshell",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/1.jpg"
+        ]
+      },
+      {
+        "id": "pigeon-pose-glute",
+        "name": "Postura de la Paloma para Glúteo y Piramidal",
+        "nameEn": "Pigeon Pose for Glutes",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "quad-pull-reach-march",
+    "name": "Tirón de Cuádriceps en Marcha con Extensión",
+    "nameEn": "Walking Quad Pull with Overhead Reach",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de tirón de cuádriceps en marcha con extensión sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Quad_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Quad_Stretch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "standing-quad-reach-stretch",
+        "name": "Estiramiento de Cuádriceps de Pie con Elevación",
+        "nameEn": "Standing Quadriceps and Psoas Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Elevated_Quad_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Elevated_Quad_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "kneeling-quad-reach-bench",
+        "name": "Estiramiento de Cuádriceps con Pie Elevado en Banco",
+        "nameEn": "Rear-Foot Elevated Couch Hip Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Hip_Flexor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Hip_Flexor/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jumping-jacks-cardio",
+    "name": "Saltos de Tijera (Jumping Jacks)",
+    "nameEn": "Jumping Jacks",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de saltos de tijera (jumping jacks) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Star_Jump/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Star_Jump/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "jump-rope-basic-bounce",
+        "name": "Salto con Cuerda / Comba Rítmica Básica",
+        "nameEn": "Basic Jump Rope Bounce",
+        "equipment": "Rope",
+        "equipmentEs": "Cuerda de Batalla",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+        ]
+      },
+      {
+        "id": "treadmill-run",
+        "name": "Carrera en Cinta",
+        "nameEn": "Treadmill Run",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/1.jpg"
+        ]
+      },
+      {
+        "id": "stationary-bike",
+        "name": "Bicicleta Estática",
+        "nameEn": "Stationary Bike",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "high-knees-drill",
+    "name": "Rodillas Arriba en el Sitio (High Knees)",
+    "nameEn": "High Knees Running in Place",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Quads",
+      "Calves",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de rodillas arriba en el sitio (high knees) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Gemelos / Pantorrillas",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Fast_Skipping/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Fast_Skipping/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "jump-rope-basic-bounce",
+        "name": "Salto con Cuerda / Comba Rítmica Básica",
+        "nameEn": "Basic Jump Rope Bounce",
+        "equipment": "Rope",
+        "equipmentEs": "Cuerda de Batalla",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+        ]
+      },
+      {
+        "id": "treadmill-run",
+        "name": "Carrera en Cinta",
+        "nameEn": "Treadmill Run",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/1.jpg"
+        ]
+      },
+      {
+        "id": "stationary-bike",
+        "name": "Bicicleta Estática",
+        "nameEn": "Stationary Bike",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "butt-kicks-drill",
+    "name": "Talones a los Glúteos (Butt Kicks)",
+    "nameEn": "Butt Kicks Running Drill",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de talones a los glúteos (butt kicks) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Leg_Butt_Kick/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Leg_Butt_Kick/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "jump-rope-basic-bounce",
+        "name": "Salto con Cuerda / Comba Rítmica Básica",
+        "nameEn": "Basic Jump Rope Bounce",
+        "equipment": "Rope",
+        "equipmentEs": "Cuerda de Batalla",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+        ]
+      },
+      {
+        "id": "treadmill-run",
+        "name": "Carrera en Cinta",
+        "nameEn": "Treadmill Run",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/1.jpg"
+        ]
+      },
+      {
+        "id": "stationary-bike",
+        "name": "Bicicleta Estática",
+        "nameEn": "Stationary Bike",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "inchworm-walkout",
+    "name": "El Gusano (Inchworm Walkout con Flexión Opcional)",
+    "nameEn": "Inchworm to Plank Walkout",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Abs",
+      "Chest"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de el gusano (inchworm walkout con flexión opcional) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Abdomen / Core",
+      "Pecho / Pectoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inchworm/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inchworm/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "leg-swings-front-back",
+        "name": "Balanceos de Pierna Frontales y Posteriores",
+        "nameEn": "Front-to-Back Dynamic Leg Swings",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Leg_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Leg_Raises/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-hamstrings",
+        "name": "Liberación de Isquiotibiales con Rodillo",
+        "nameEn": "Foam Rolling Hamstrings",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring-SMR/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mountain-climbers",
+    "name": "Escaladores en Plancha (Mountain Climbers)",
+    "nameEn": "Mountain Climbers",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders",
+      "HipFlexors",
+      "Cardio"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de escaladores en plancha (mountain climbers) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Flexores de Cadera / Psoas",
+      "Sistema Cardiovascular"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mountain_Climbers/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "banded-lateral-monster-walk",
+    "name": "Caminata Lateral de Monstruo con Banda en Rodillas",
+    "nameEn": "Banded Lateral Monster Walk",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abductors",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Band",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de caminata lateral de monstruo con banda en rodillas a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abductores (Glúteo Medio)",
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Banda Elástica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-curtsy-lunge",
+        "name": "Zancada de Reverencia con Pesa Rusa",
+        "nameEn": "Kettlebell Curtsy Lunge",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+        ]
+      },
+      {
+        "id": "reverse-lunge-smith-machine",
+        "name": "Zancada Inversa en Máquina Smith",
+        "nameEn": "Smith Machine Reverse Lunge",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Single-Leg_Split_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "step-up-dumbbells-high-box",
+        "name": "Subidas a Cajón Alto con Mancuernas",
+        "nameEn": "High Box Step-Up with Dumbbells",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Step_Ups/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "banded-clamshell",
+    "name": "La Almeja con Banda Elástica (Clamshell)",
+    "nameEn": "Banded Clamshell",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Band",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de la almeja con banda elástica (clamshell) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abductores (Glúteo Medio)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Banda Elástica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "hip-90-90-mobility",
+        "name": "Movilidad de Cadera 90/90",
+        "nameEn": "90/90 Hip Mobility Flow",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/90_90_Hamstring/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-90-90-transitions",
+        "name": "Transiciones de Cadera 90/90 sin Manos",
+        "nameEn": "Hands-Free 90/90 Hip Switches",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Glute/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-circles-fire-hydrant",
+        "name": "Círculos Articulares de Cadera (Fire Hydrant CARs)",
+        "nameEn": "Quadruped Hip CARs (Controlled Articular Rotations)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Circles_prone/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Circles_prone/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "arm-circles-forward-backward",
+    "name": "Círculos de Brazos hacia Adelante y Atrás",
+    "nameEn": "Forward and Backward Arm Circles",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de círculos de brazos hacia adelante y atrás a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arm_Circles/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arm_Circles/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "shoulder-dislocations-band",
+        "name": "Dislocaciones de Hombro con Banda o Pica",
+        "nameEn": "Band Shoulder Dislocates",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Upward_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Upward_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "band-pull-apart-warmup",
+        "name": "Separaciones de Banda Elástica al Pecho (Pull-Apart)",
+        "nameEn": "Band Pull-Apart Warmup",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+        ]
+      },
+      {
+        "id": "overhead-band-press-warmup",
+        "name": "Press sobre Cabeza con Banda de Activación",
+        "nameEn": "Banded Overhead Press Warmup",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Shoulder_Press_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Shoulder_Press_-_With_Bands/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leg-swings-front-back",
+    "name": "Balanceos de Pierna Frontales y Posteriores",
+    "nameEn": "Front-to-Back Dynamic Leg Swings",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "HipFlexors",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de balanceos de pierna frontales y posteriores a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Leg_Raises/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Leg_Raises/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "inchworm-walkout",
+        "name": "El Gusano (Inchworm Walkout con Flexión Opcional)",
+        "nameEn": "Inchworm to Plank Walkout",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inchworm/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inchworm/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-hamstrings",
+        "name": "Liberación de Isquiotibiales con Rodillo",
+        "nameEn": "Foam Rolling Hamstrings",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring-SMR/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leg-swings-side-to-side",
+    "name": "Balanceos de Pierna Laterales",
+    "nameEn": "Side-to-Side Dynamic Leg Swings",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [
+      "Abductors",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de balanceos de pierna laterales a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [
+      "Abductores (Glúteo Medio)",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "adductor-machine",
+        "name": "Aductores en Máquina Sentado",
+        "nameEn": "Seated Hip Adductor Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-adductors",
+        "name": "Liberación de Aductores en Posición de Rana",
+        "nameEn": "Foam Rolling Adductor Complex",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-hip-adduction-cable",
+        "name": "Aducción de Cadera de Pie en Polea",
+        "nameEn": "Standing Cable Hip Adduction",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "torso-rotations-standing",
+    "name": "Rotaciones de Tronco de Pie con Pivote",
+    "nameEn": "Standing Torso Twists with Foot Pivot",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de rotaciones de tronco de pie con pivote a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Torso_Rotation/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Torso_Rotation/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-figure-eight",
+        "name": "El Ocho entre Piernas con Pesa Rusa (Figure 8)",
+        "nameEn": "Kettlebell Figure 8 Dynamic Core Flow",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Figure_8/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kettlebell_Figure_8/1.jpg"
+        ]
+      },
+      {
+        "id": "woodchopper-cable-high-to-low",
+        "name": "Leñador en Polea Alta hacia Abajo (Woodchopper)",
+        "nameEn": "High-to-Low Cable Woodchopper",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+        ]
+      },
+      {
+        "id": "woodchopper-cable-low-to-high",
+        "name": "Leñador en Polea Baja hacia Arriba",
+        "nameEn": "Low-to-High Cable Woodchopper",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "air-squat-warmup",
+    "name": "Sentadilla al Aire de Calentamiento Rítmico",
+    "nameEn": "Dynamic Bodyweight Air Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de sentadilla al aire de calentamiento rítmico a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bodyweight_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "front-squat",
+        "name": "Sentadilla Frontal con Barra",
+        "nameEn": "Barbell Front Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Barbell_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "hack-squat",
+        "name": "Sentadilla Hack en Máquina",
+        "nameEn": "Hack Squat Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "alternating-reverse-lunge-reach",
+    "name": "Zancada Inversa Alterna con Extensión de Brazos",
+    "nameEn": "Reverse Lunge with Overhead Lateral Reach",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de zancada inversa alterna con extensión de brazos a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crossover_Reverse_Lunge/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crossover_Reverse_Lunge/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-lunge",
+        "name": "Zancadas con Mancuerna",
+        "nameEn": "Dumbbell Lunge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lunges/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lunges/1.jpg"
+        ]
+      },
+      {
+        "id": "bulgarian-split-squat",
+        "name": "Sentadilla Búlgara con Mancuerna",
+        "nameEn": "Bulgarian Split Squat",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/1.jpg"
+        ]
+      },
+      {
+        "id": "walking-lunges-barbell",
+        "name": "Zancadas Caminando con Barra al Cuello",
+        "nameEn": "Barbell Walking Lunges",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Walking_Lunge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Walking_Lunge/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glute-bridge-activation-bodyweight",
+    "name": "Puente de Glúteos de Activación con Doble Apoyo",
+    "nameEn": "Bodyweight Glute Bridge Holds",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de puente de glúteos de activación con doble apoyo a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butt_Lift_Bridge/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butt_Lift_Bridge/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "band-pull-apart-warmup",
+    "name": "Separaciones de Banda Elástica al Pecho (Pull-Apart)",
+    "nameEn": "Band Pull-Apart Warmup",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Band",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de separaciones de banda elástica al pecho (pull-apart) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Trapecio",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Banda Elástica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "face-pull-rope",
+        "name": "Face Pull con Cuerda en Polea",
+        "nameEn": "Rope Cable Face Pull",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "reverse-pec-deck-rear-delts",
+        "name": "Pájaro en Máquina Pec-Deck Inversa",
+        "nameEn": "Reverse Pec-Deck Rear Delt Flye",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Machine_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Machine_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-rear-delt-flye",
+        "name": "Pájaros con Mancuernas en Banco Inclinado",
+        "nameEn": "Incline Prone Dumbbell Rear Delt Flye",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "overhead-band-press-warmup",
+    "name": "Press sobre Cabeza con Banda de Activación",
+    "nameEn": "Banded Overhead Press Warmup",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Band",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de press sobre cabeza con banda de activación a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Banda Elástica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Shoulder_Press_-_With_Bands/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Shoulder_Press_-_With_Bands/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "overhead-press",
+        "name": "Press Militar con Barra",
+        "nameEn": "Barbell Overhead Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-barbell-press",
+        "name": "Press Militar Sentado con Barra",
+        "nameEn": "Seated Barbell Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-shoulder-press",
+        "name": "Press de Hombro con Mancuernas",
+        "nameEn": "Dumbbell Shoulder Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "skater-jumps-warmup",
+    "name": "Saltos de Patinador Laterales (Skater Hops)",
+    "nameEn": "Lateral Skater Hops",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abductors",
+      "Calves",
+      "Cardio"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de saltos de patinador laterales (skater hops) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Abductores (Glúteo Medio)",
+      "Gemelos / Pantorrillas",
+      "Sistema Cardiovascular"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "power-clean-barbell",
+        "name": "Power Clean con Barra desde el Suelo",
+        "nameEn": "Barbell Power Clean from Floor",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+        ]
+      },
+      {
+        "id": "hang-clean-barbell",
+        "name": "Hang Clean con Barra desde Rodillas",
+        "nameEn": "Barbell Hang Clean (Hang Power Clean)",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Clean/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pogo-hops-calves",
+    "name": "Saltos Pogo Rítmicos en los Tobillos",
+    "nameEn": "Pogo Hops for Ankle Stiffness",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [
+      "Cardio"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de saltos pogo rítmicos en los tobillos a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [
+      "Sistema Cardiovascular"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "single-leg-ruler-hop",
+        "name": "Pequeños Saltos Unilaterales de Reactividad",
+        "nameEn": "Single-Leg Linear Hop Drill",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Hop_Progression/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Hop_Progression/1.jpg"
+        ]
+      },
+      {
+        "id": "hurdle-hops-continuous",
+        "name": "Saltos Continuos por Encima de Mini-Vallas",
+        "nameEn": "Continuous Mini-Hurdle Forward Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hurdle_Hops/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hurdle_Hops/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "single-leg-ruler-hop",
+    "name": "Pequeños Saltos Unilaterales de Reactividad",
+    "nameEn": "Single-Leg Linear Hop Drill",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de pequeños saltos unilaterales de reactividad a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Hop_Progression/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Hop_Progression/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pogo-hops-calves",
+        "name": "Saltos Pogo Rítmicos en los Tobillos",
+        "nameEn": "Pogo Hops for Ankle Stiffness",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+        ]
+      },
+      {
+        "id": "hurdle-hops-continuous",
+        "name": "Saltos Continuos por Encima de Mini-Vallas",
+        "nameEn": "Continuous Mini-Hurdle Forward Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hurdle_Hops/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hurdle_Hops/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plank-to-downward-dog",
+    "name": "Transición de Plancha a Perro Boca Abajo",
+    "nameEn": "Plank to Downward Dog Flow",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Calves",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de transición de plancha a perro boca abajo a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Gemelos / Pantorrillas",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bear-hold-activation",
+    "name": "Posición Isométrica de Oso con Rodillas Flotantes",
+    "nameEn": "Quadruped Hovering Bear Hold",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Quads",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de posición isométrica de oso con rodillas flotantes a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "bird-dog-activation",
+    "name": "Pájaro-Perro de Estabilidad Lumbar (Bird-Dog)",
+    "nameEn": "Bird-Dog Core Stability Activation",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Glutes",
+      "Shoulders",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de pájaro-perro de estabilidad lumbar (bird-dog) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Hombros / Deltoides",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "side-lying-external-rotation-band",
+    "name": "Rotación Externa de Hombro Tumbado con Mini-Banda",
+    "nameEn": "Side-Lying Rotator Cuff External Rotation",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Band",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de rotación externa de hombro tumbado con mini-banda a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Banda Elástica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Band/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Band/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "arm-circles-forward-backward",
+        "name": "Círculos de Brazos hacia Adelante y Atrás",
+        "nameEn": "Forward and Backward Arm Circles",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arm_Circles/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arm_Circles/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "face-pull-band-warmup",
+    "name": "Face Pull con Banda Elástica en Anclaje",
+    "nameEn": "Banded Face Pull Warmup",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Band",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de face pull con banda elástica en anclaje a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Banda Elástica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "face-pull-rope",
+        "name": "Face Pull con Cuerda en Polea",
+        "nameEn": "Rope Cable Face Pull",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "reverse-pec-deck-rear-delts",
+        "name": "Pájaro en Máquina Pec-Deck Inversa",
+        "nameEn": "Reverse Pec-Deck Rear Delt Flye",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Machine_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Machine_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-rear-delt-flye",
+        "name": "Pájaros con Mancuernas en Banco Inclinado",
+        "nameEn": "Incline Prone Dumbbell Rear Delt Flye",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "shadow-boxing-footwork",
+    "name": "Sombra de Boxeo con Juego de Pies Ligero",
+    "nameEn": "Light Shadow Boxing and Footwork Flow",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de sombra de boxeo con juego de pies ligero a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Star_Jump/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Star_Jump/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "jump-rope-basic-bounce",
+        "name": "Salto con Cuerda / Comba Rítmica Básica",
+        "nameEn": "Basic Jump Rope Bounce",
+        "equipment": "Rope",
+        "equipmentEs": "Cuerda de Batalla",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+        ]
+      },
+      {
+        "id": "treadmill-run",
+        "name": "Carrera en Cinta",
+        "nameEn": "Treadmill Run",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/1.jpg"
+        ]
+      },
+      {
+        "id": "stationary-bike",
+        "name": "Bicicleta Estática",
+        "nameEn": "Stationary Bike",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jump-rope-basic-bounce",
+    "name": "Salto con Cuerda / Comba Rítmica Básica",
+    "nameEn": "Basic Jump Rope Bounce",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Rope",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de salto con cuerda / comba rítmica básica a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Cuerda de Batalla",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "jumping-jacks-cardio",
+        "name": "Saltos de Tijera (Jumping Jacks)",
+        "nameEn": "Jumping Jacks",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Star_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Star_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "high-knees-drill",
+        "name": "Rodillas Arriba en el Sitio (High Knees)",
+        "nameEn": "High Knees Running in Place",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Fast_Skipping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Fast_Skipping/1.jpg"
+        ]
+      },
+      {
+        "id": "butt-kicks-drill",
+        "name": "Talones a los Glúteos (Butt Kicks)",
+        "nameEn": "Butt Kicks Running Drill",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Leg_Butt_Kick/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Leg_Butt_Kick/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lateral-shuffle-cones",
+    "name": "Desplazamiento Lateral de Baloncesto (Shuffles)",
+    "nameEn": "Lateral Defensive Shuffle Drill",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves",
+      "Cardio"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de desplazamiento lateral de baloncesto (shuffles) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Gemelos / Pantorrillas",
+      "Sistema Cardiovascular"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_to_Side_Box_Shuffle/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_to_Side_Box_Shuffle/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-lunge",
+        "name": "Zancadas con Mancuerna",
+        "nameEn": "Dumbbell Lunge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lunges/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Lunges/1.jpg"
+        ]
+      },
+      {
+        "id": "bulgarian-split-squat",
+        "name": "Sentadilla Búlgara con Mancuerna",
+        "nameEn": "Bulgarian Split Squat",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Squat_with_Dumbbells/1.jpg"
+        ]
+      },
+      {
+        "id": "walking-lunges-barbell",
+        "name": "Zancadas Caminando con Barra al Cuello",
+        "nameEn": "Barbell Walking Lunges",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Walking_Lunge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Walking_Lunge/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "a-skip-running-drill",
+    "name": "A-Skip de Técnica de Carrera",
+    "nameEn": "Track and Field A-Skip Drill",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves",
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de a-skip de técnica de carrera a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas",
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Fast_Skipping/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Fast_Skipping/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "jump-rope-basic-bounce",
+        "name": "Salto con Cuerda / Comba Rítmica Básica",
+        "nameEn": "Basic Jump Rope Bounce",
+        "equipment": "Rope",
+        "equipmentEs": "Cuerda de Batalla",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+        ]
+      },
+      {
+        "id": "treadmill-run",
+        "name": "Carrera en Cinta",
+        "nameEn": "Treadmill Run",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/1.jpg"
+        ]
+      },
+      {
+        "id": "stationary-bike",
+        "name": "Bicicleta Estática",
+        "nameEn": "Stationary Bike",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "b-skip-running-drill",
+    "name": "B-Skip con Extensión y Zarpazo",
+    "nameEn": "Dynamic B-Skip Hamstring Drill",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Calves",
+      "Cardio"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de b-skip con extensión y zarpazo a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas",
+      "Sistema Cardiovascular"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Fast_Skipping/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Fast_Skipping/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "carioca-grapevine-warmup",
+    "name": "Carioca / Pasos Cruzados Dinámicos de Cadera",
+    "nameEn": "Carioca Grapevine Hip Warmup Drill",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Adductors",
+      "Cardio"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de carioca / pasos cruzados dinámicos de cadera a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Aductores (Cara Interna)",
+      "Sistema Cardiovascular"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Carioca_Quick_Step/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Carioca_Quick_Step/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-lateral-swing",
+        "name": "Swing Lateral Controlado en el Plano Frontal",
+        "nameEn": "Kettlebell Lateral Plane Swing",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Kettlebell_Swings/1.jpg"
+        ]
+      },
+      {
+        "id": "banded-lateral-monster-walk",
+        "name": "Caminata Lateral de Monstruo con Banda en Rodillas",
+        "nameEn": "Banded Lateral Monster Walk",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Monster_Walk/1.jpg"
+        ]
+      },
+      {
+        "id": "banded-clamshell",
+        "name": "La Almeja con Banda Elástica (Clamshell)",
+        "nameEn": "Banded Clamshell",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Lift_with_Band/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "squat-to-stand-hamstring",
+    "name": "De Sentadilla Profunda a Flexión Frontal (Squat to Stand)",
+    "nameEn": "Squat-to-Stand with Hamstring Stretch",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Quads",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de de sentadilla profunda a flexión frontal (squat to stand) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hamstring_Stretch/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "dead-hang-bar-warmup",
+    "name": "Cuelgue Pasivo en Barra para Descompresión Espinal",
+    "nameEn": "Passive Bar Dead Hang",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Forearms",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de cuelgue pasivo en barra para descompresión espinal a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Antebrazos",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Handed_Hang/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Handed_Hang/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ring-pullup",
+        "name": "Dominadas en Anillas",
+        "nameEn": "Ring Pull-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/1.jpg"
+        ]
+      },
+      {
+        "id": "muscle-up-rings",
+        "name": "Muscle-Up en Anillas",
+        "nameEn": "Ring Muscle-Up",
+        "equipment": "Rings",
+        "equipmentEs": "Anillas de Gimnasia",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/1.jpg"
+        ]
+      },
+      {
+        "id": "mag-grip-lat-pulldown",
+        "name": "Jalón al Pecho con Agarre Neutro Ergonómico (MAG)",
+        "nameEn": "MAG Grip Neutral Lat Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "active-hang-scapular-depression",
+    "name": "Cuelgue Activo con Depresión Escapular",
+    "nameEn": "Active Bar Hang with Scapular Retraction",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Forearms",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de cuelgue activo con depresión escapular a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Antebrazos",
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "assisted-pull-up",
+        "name": "Dominadas Asistidas en Máquina",
+        "nameEn": "Assisted Pull-Up",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "lat-pulldown",
+        "name": "Jalón al Pecho en Polea",
+        "nameEn": "Lat Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Lat_Pulldown/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Lat_Pulldown/1.jpg"
+        ]
+      },
+      {
+        "id": "behind-neck-pulldown",
+        "name": "Jalón Tras Nuca en Polea",
+        "nameEn": "Behind Neck Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wrist-waves-joint-warmup",
+    "name": "Olas y Entrelazado de Muñecas",
+    "nameEn": "Wrist Wave Articulations",
+    "primaryMuscle": "Forearms",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de olas y entrelazado de muñecas a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Antebrazos",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Circles/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Circles/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "wrist-radial-ulnar-deviation",
+        "name": "Desviación Radial y Cubital con Barra de Palanca",
+        "nameEn": "Lever Bar Radial and Ulnar Wrist Deviations",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Forearms",
+        "primaryMuscleEs": "Antebrazos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Palms-Up_Dumbbell_Wrist_Curl_Over_A_Bench/1.jpg"
+        ]
+      },
+      {
+        "id": "wrist-mobility-circles-quadruped",
+        "name": "Movilidad Articular de Muñecas en Cuadrupedia",
+        "nameEn": "Quadruped Wrist Mobility Sequence",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Forearms",
+        "primaryMuscleEs": "Antebrazos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Circles/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wrist_Circles/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hip-opener-hurdle-step",
+    "name": "Paso por Encima de la Valla Imaginaria",
+    "nameEn": "Over-the-Hurdle Hip Rotation Steps",
+    "primaryMuscle": "HipFlexors",
+    "secondaryMuscles": [
+      "Glutes",
+      "Abductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de paso por encima de la valla imaginaria a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Flexores de Cadera / Psoas",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Abductores (Glúteo Medio)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Cone_Hops_or_hurdle_hops/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "banded-distracted-hip-flexor",
+        "name": "Descompresión de Cadera con Tracción de Banda",
+        "nameEn": "Banded Hip Flexor Distraction",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "HipFlexors",
+        "primaryMuscleEs": "Flexores de Cadera / Psoas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Hip_Flexors/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Hip_Flexors/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-hip-flexors-psoas",
+        "name": "Liberación de Psoas y Flexores con Esfera o Rodillo",
+        "nameEn": "Psoas and Hip Flexor Targeted Ball Release",
+        "equipment": "MedicineBall",
+        "equipmentEs": "Balón Medicinal",
+        "primaryMuscle": "HipFlexors",
+        "primaryMuscleEs": "Flexores de Cadera / Psoas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Quadriceps-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Quadriceps-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-banded-hip-flexor-pull",
+        "name": "Tracción de Flexores de Cadera de Pie con Banda",
+        "nameEn": "Standing Banded Knee Drive / Hip Flexor Pull",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "HipFlexors",
+        "primaryMuscleEs": "Flexores de Cadera / Psoas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Flexion_with_Band/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hip_Flexion_with_Band/1.jpg"
+        ]
+      }
+    ]
+  }
+]

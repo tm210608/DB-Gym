@@ -1,0 +1,3524 @@
+[
+  {
+    "id": "cable-crossover",
+    "name": "Cruces de Polea Alta",
+    "nameEn": "Cable Crossover",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Intermedio",
+    "forceType": "Empuje",
+    "instructions": [
+      "Coloca las poleas a una altura superior a tu cabeza en ambas columnas del crossover.",
+      "Sujeta los agarres D, da un paso adelante para tensar el cable y flexiona levemente las rodillas y codos.",
+      "Lleva los brazos hacia adelante y abajo en un arco de círculo encontrando tus manos al frente del abdomen bajo.",
+      "Regresa lentamente abriendo los brazos controlando el tirón del cable."
+    ],
+    "alternatives": [
+      "dumbbell-fly",
+      "low-cable-crossover"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Crossover/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Crossover/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "low-cable-crossover",
+    "name": "Cruces de Polea Baja",
+    "nameEn": "Low Cable Crossover",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Intermedio",
+    "forceType": "Empuje",
+    "instructions": [
+      "Coloca las poleas en la posición más baja de las columnas.",
+      "Toma los agarres D, da un paso adelante e inclina ligeramente el torso hacia el frente.",
+      "Lleva las manos hacia adelante y hacia arriba hasta que se junten a la altura del pecho superior.",
+      "Baja controladamente los brazos al punto de inicio."
+    ],
+    "alternatives": [
+      "cable-crossover",
+      "incline-dumbbell-fly"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Low_Cable_Crossover/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Low_Cable_Crossover/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lat-pulldown",
+    "name": "Jalón al Pecho en Polea",
+    "nameEn": "Lat Pulldown",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Biceps",
+      "Forearms"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "forceType": "Tirón",
+    "instructions": [
+      "Siéntate en la máquina ajustando el colchón a tus muslos para que no te levantes.",
+      "Sujeta la barra con agarre amplio prono y sostén con los brazos totalmente estirados.",
+      "Inclina ligeramente el torso hacia atrás y conduce los codos hacia abajo bajando la barra a tu pecho alto.",
+      "Concentra la fuerza en juntar tus codos a los costados antes que jalar con los puños.",
+      "Extiende lentamente de regreso estirando los dorsales por completo."
+    ],
+    "alternatives": [
+      "pull-up",
+      "seated-cable-row"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Lat_Pulldown/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Lat_Pulldown/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "assisted-pull-up",
+        "name": "Dominadas Asistidas en Máquina",
+        "nameEn": "Assisted Pull-Up",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "pull-up",
+        "name": "Dominadas Prone",
+        "nameEn": "Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "chin-up",
+        "name": "Dominadas Supinas",
+        "nameEn": "Chin-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin-Up/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "behind-neck-pulldown",
+    "name": "Jalón Tras Nuca en Polea",
+    "nameEn": "Behind Neck Pulldown",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Biceps",
+      "Shoulders"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Avanzado",
+    "forceType": "Tirón",
+    "instructions": [
+      "Siéntate en la máquina de jalones con agarre amplio.",
+      "Mantén el torso erguido y baja la barra lentamente por detrás de la cabeza hasta la nuca.",
+      "Evita movimientos bruscos para no tensionar los rotadores del hombro.",
+      "Sube la barra controlando la fase excéntrica."
+    ],
+    "alternatives": [
+      "lat-pulldown",
+      "pull-up"
+    ],
+    "category": "Fuerza",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Pulldown_Behind_The_Neck/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pull-up",
+        "name": "Dominadas Prone",
+        "nameEn": "Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "chin-up",
+        "name": "Dominadas Supinas",
+        "nameEn": "Chin-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "assisted-pull-up",
+        "name": "Dominadas Asistidas en Máquina",
+        "nameEn": "Assisted Pull-Up",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-cable-row",
+    "name": "Remo Sentado en Polea con Agarre Gironda",
+    "nameEn": "Seated Cable Row",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Biceps",
+      "Forearms"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "forceType": "Tirón",
+    "instructions": [
+      "Siéntate con los pies apoyados e inclínate para tomar el agarre estrecho.",
+      "Enderézate con el torso perpendicular al suelo y los brazos extendidos.",
+      "Jala el agarre hacia tu abdomen bajo retrayendo la espalda media y flexionando codos.",
+      "Regresa extendiendo los brazos sin redondear la columna."
+    ],
+    "alternatives": [
+      "barbell-row",
+      "dumbbell-single-row"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Cable_Rows/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Cable_Rows/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-row",
+        "name": "Remo con Barra",
+        "nameEn": "Barbell Row",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/1.jpg"
+        ]
+      },
+      {
+        "id": "t-bar-row",
+        "name": "Remo en Barra T",
+        "nameEn": "T-Bar Row",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-single-row",
+        "name": "Remo a una Mano con Mancuerna",
+        "nameEn": "Dumbbell Single-Arm Row",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "straight-arm-pulldown",
+    "name": "Pullover en Polea con Brazos Rectos",
+    "nameEn": "Straight Arm Pulldown",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Triceps",
+      "Chest"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Intermedio",
+    "forceType": "Tirón",
+    "instructions": [
+      "Párate frente a la polea alta con una barra recta.",
+      "Toma la barra a la altura de los hombros y da un paso atrás para estirar el cable.",
+      "Inclinando un poco el torso hacia adelante, jala la barra con los brazos casi rectos hasta los muslos.",
+      "Regresa lentamente al punto de inicio sintiendo el estiramiento del dorsal."
+    ],
+    "alternatives": [
+      "lat-pulldown",
+      "barbell-pullover"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Pecho / Pectoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Straight-Arm_Pulldown/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Straight-Arm_Pulldown/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-row",
+        "name": "Remo con Barra",
+        "nameEn": "Barbell Row",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/1.jpg"
+        ]
+      },
+      {
+        "id": "t-bar-row",
+        "name": "Remo en Barra T",
+        "nameEn": "T-Bar Row",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-single-row",
+        "name": "Remo a una Mano con Mancuerna",
+        "nameEn": "Dumbbell Single-Arm Row",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cable-lateral-raise",
+    "name": "Elevaciones Laterales en Polea",
+    "nameEn": "Cable Lateral Raise",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [],
+    "equipment": "Cable",
+    "difficulty": "Intermedio",
+    "forceType": "Empuje",
+    "instructions": [
+      "Párate de lado a la polea baja, sostén el agarre D con el brazo opuesto.",
+      "Eleva el cable lateralmente cruzando el cuerpo hasta la altura del hombro.",
+      "Regresa lentamente al punto de inicio."
+    ],
+    "alternatives": [
+      "lateral-raise"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "lateral-raise",
+        "name": "Elevaciones Laterales con Mancuernas",
+        "nameEn": "Dumbbell Lateral Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Lateral_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Lateral_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "machine-lateral-raise",
+        "name": "Elevaciones Laterales en Máquina",
+        "nameEn": "Machine Lateral Raise",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Lateral_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Lateral_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "front-dumbbell-raise",
+        "name": "Elevaciones Frontales con Mancuernas",
+        "nameEn": "Front Dumbbell Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Dumbbell_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Dumbbell_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "face-pull",
+    "name": "Face Pull con Cuerda en Polea",
+    "nameEn": "Cable Face Pull",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Back"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Intermedio",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta la polea a la altura del rostro superior y conecta la soga.",
+      "Toma la soga con pulgares apuntando hacia ti y da dos pasos atrás.",
+      "Jala la soga hacia la frente separando los extremos de la cuerda al nivel de tus orejas.",
+      "Aprieta el deltoides posterior e infraespinoso, y regresa despacio."
+    ],
+    "alternatives": [
+      "rear-delt-fly",
+      "reverse-pec-deck"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "seated-barbell-press",
+        "name": "Press Militar Sentado con Barra",
+        "nameEn": "Seated Barbell Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-shoulder-press",
+        "name": "Press de Hombro con Mancuernas",
+        "nameEn": "Dumbbell Shoulder Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "arnold-press",
+        "name": "Press Arnold con Mancuernas",
+        "nameEn": "Arnold Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cable-curl",
+    "name": "Curl de Bíceps en Polea",
+    "nameEn": "Cable Bicep Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "forceType": "Tirón",
+    "instructions": [
+      "Párate frente a la polea baja con barra de agarre.",
+      "Toma la barra con palmas hacia arriba y flexiona los codos contrayendo bíceps.",
+      "Baja resistiendo la tensión constante del cable."
+    ],
+    "alternatives": [
+      "barbell-curl",
+      "dumbbell-curl"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-curl",
+        "name": "Curl de Bíceps alterno con Mancuernas",
+        "nameEn": "Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-curl",
+        "name": "Curl Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "triceps-pushdown",
+    "name": "Extensión de Tríceps en Polea Alta",
+    "nameEn": "Triceps Cable Pushdown",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscles": [],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "forceType": "Empuje",
+    "instructions": [
+      "Coloca una soga o barra recta en la polea en posición superior y sujétala.",
+      "Da un medio paso atrás inclinando un poco el torso hacia adelante, con los codos fijos a las costillas.",
+      "Extiende el codo por completo empujando la soga hacia el suelo, abriéndola en el fondo del movimiento.",
+      "Flexiona el codo dejando subir la soga hasta la altura del pecho superior de forma controlada."
+    ],
+    "alternatives": [
+      "skull-crusher",
+      "bench-dips"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Tríceps",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skull-crusher",
+        "name": "Rompecráneos / Press Francés",
+        "nameEn": "Skull Crusher",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/EZ-Bar_Skullcrusher/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/EZ-Bar_Skullcrusher/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-kickback",
+        "name": "Patada de Tríceps con Mancuerna",
+        "nameEn": "Dumbbell Triceps Kickback",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tricep_Dumbbell_Kickback/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tricep_Dumbbell_Kickback/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-triceps-dip-machine",
+        "name": "Fondos de Tríceps Sentado en Máquina",
+        "nameEn": "Seated Dip Machine for Triceps",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "overhead-cable-extension",
+    "name": "Extensión de Tríceps sobre la Cabeza en Polea",
+    "nameEn": "Overhead Cable Triceps Extension",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscles": [],
+    "equipment": "Cable",
+    "difficulty": "Intermedio",
+    "forceType": "Empuje",
+    "instructions": [
+      "Dale la espalda a la polea y sujeta la soga llevándola detrás de tu cabeza.",
+      "Da un paso adelante e inclínate ligeramente.",
+      "Extiende los codos proyectando la soga hacia el frente.",
+      "Baja controlando el jalón detrás de tu cabeza."
+    ],
+    "alternatives": [
+      "triceps-pushdown",
+      "skull-crusher"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Tríceps",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Rope_Overhead_Triceps_Extension/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Rope_Overhead_Triceps_Extension/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skull-crusher",
+        "name": "Rompecráneos / Press Francés",
+        "nameEn": "Skull Crusher",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/EZ-Bar_Skullcrusher/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/EZ-Bar_Skullcrusher/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-kickback",
+        "name": "Patada de Tríceps con Mancuerna",
+        "nameEn": "Dumbbell Triceps Kickback",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tricep_Dumbbell_Kickback/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tricep_Dumbbell_Kickback/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-triceps-dip-machine",
+        "name": "Fondos de Tríceps Sentado en Máquina",
+        "nameEn": "Seated Dip Machine for Triceps",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cable-kickback",
+    "name": "Patada de Glúteo en Polea",
+    "nameEn": "Cable Glute Kickback",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Intermedio",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Coloca una tobillera a tu pie y conéctala a la polea baja.",
+      "Sostén el marco de la polea inclinado un poco adelante.",
+      "Patea el pie hacia atrás y hacia arriba contrayendo el glúteo.",
+      "Regresa despacio."
+    ],
+    "alternatives": [
+      "barbell-hip-thrust",
+      "dumbbell-glute-bridge"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Kickback/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Kickback/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-cable-flyes",
+    "name": "Cruces en Polea Sentado en Banco",
+    "nameEn": "Seated Cable Flyes",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Empuje",
+    "instructions": [
+      "Coloca un banco con respaldo a 90 grados en medio de una estación de poleas dobles ajustadas a la altura del pecho.",
+      "Siéntate apoyando firmemente la espalda y toma los agarres individuales.",
+      "Junta las manos hacia el frente en un arco amplio con los codos ligeramente doblados.",
+      "Aguanta un segundo la contracción máxima en el centro y abre los brazos despacio sintiendo la tensión continua del cable."
+    ],
+    "tips": [
+      "Al estar sentado se anula el balanceo del tronco, aislando el trabajo en el pectoral mayor."
+    ],
+    "breathingCue": "Exhala al juntar los agarres al frente; inhala al abrir los brazos.",
+    "alternatives": [
+      "cable-crossover"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Cable_Flyes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Flat_Bench_Cable_Flyes/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-fly",
+        "name": "Aperturas con Mancuernas",
+        "nameEn": "Dumbbell Fly",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-fly",
+        "name": "Aperturas Inclinadas con Mancuernas",
+        "nameEn": "Incline Dumbbell Fly",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "pec-deck-fly",
+        "name": "Aperturas en Contratora (Pec Deck)",
+        "nameEn": "Pec Deck Fly",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "single-arm-cable-chest-press",
+    "name": "Press de Pecho en Polea a Una Mano",
+    "nameEn": "Single-Arm Cable Chest Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Intermedio",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la polea a la altura del pecho y toma el agarre con una mano situándote de espaldas a la torre en posición de zancada firme.",
+      "Comienza con la mano al lado del pecho y el core completamente rígido para resistir la rotación.",
+      "Empuja el agarre hacia el frente en línea recta hasta extender el brazo.",
+      "Regresa lentamente sin permitir que el peso rote tu tronco hacia atrás."
+    ],
+    "tips": [
+      "Excelente para transferir fuerza rotacional y estabilidad del core a deportes de contacto o golpeo."
+    ],
+    "breathingCue": "Exhala al empujar al frente; inhala al regresar reteniendo el peso.",
+    "alternatives": [
+      "dumbbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Chest_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trx-chest-press",
+        "name": "Press de Pecho en Suspensión (TRX Chest Press)",
+        "nameEn": "TRX Suspension Chest Press",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "trx-chest-flye",
+        "name": "Aperturas de Pecho en Suspensión (TRX Flye)",
+        "nameEn": "TRX Suspension Chest Flye",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "trx-atomic-push-up",
+        "name": "Flexión Atómica con Pies en TRX (Push-Up + Crunch)",
+        "nameEn": "TRX Atomic Push-Up to Pike",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "straight-arm-cable-pulldown",
+    "name": "Pull-Over en Polea Alta con Brazos Rectos",
+    "nameEn": "Straight-Arm Cable Pulldown",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Triceps",
+      "Chest"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Coloca una barra recta o cuerda en la polea alta y tómala con las palmas hacia abajo.",
+      "Da un paso hacia atrás, inclina el tronco unos 30 grados con caderas flexionadas y mantén los brazos semirrectos.",
+      "Tracciona la barra en un arco descendente hacia los muslos exclusivamente contrayendo los dorsales.",
+      "Aprieta los dorsales abajo durante un segundo y regresa despacio hasta sentir el estiramiento completo arriba."
+    ],
+    "tips": [
+      "Mantén los codos fijados con un ángulo casi recto para que no intervengan los tríceps."
+    ],
+    "breathingCue": "Exhala al llevar la barra hacia los muslos; inhala al permitir que suba controladamente.",
+    "alternatives": [
+      "lat-pulldown"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Pecho / Pectoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight-Arm_Pulldown/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Straight-Arm_Pulldown/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "neutral-grip-pullup",
+        "name": "Dominadas con Agarre Neutro",
+        "nameEn": "Neutral Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pullup",
+        "name": "Dominadas Pronas con Agarre Ancho",
+        "nameEn": "Wide Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "archer-pullup",
+        "name": "Dominadas de Arquero",
+        "nameEn": "Archer Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "face-pull-rope",
+    "name": "Face Pull con Cuerda en Polea",
+    "nameEn": "Rope Cable Face Pull",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Transverso",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta la polea a la altura de los ojos y toma la cuerda con agarre neutro (pulgares hacia atrás).",
+      "Da un paso atrás con rodillas semiflexionadas y el tronco estable.",
+      "Tira de la cuerda hacia la cara separando las manos y llevando los codos altos y hacia atrás.",
+      "Al final del movimiento, rota externamente los hombros mostrando los nudillos hacia atrás.",
+      "Regresa con lentitud a la posición de brazos extendidos."
+    ],
+    "tips": [
+      "Fundamental para la salud articular de los hombros y compensar el exceso de press de banca."
+    ],
+    "breathingCue": "Exhala al traccionar hacia el rostro; inhala al retornar al frente.",
+    "alternatives": [],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Trapecio",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "prone-w-raise-bench",
+        "name": "Elevaciones en W Boca Abajo para Manguito Rotador",
+        "nameEn": "Prone Incline Bench W-Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Shoulder_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Incline_Shoulder_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "band-pull-apart-warmup",
+        "name": "Separaciones de Banda Elástica al Pecho (Pull-Apart)",
+        "nameEn": "Band Pull-Apart Warmup",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+        ]
+      },
+      {
+        "id": "face-pull-band-warmup",
+        "name": "Face Pull con Banda Elástica en Anclaje",
+        "nameEn": "Banded Face Pull Warmup",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "overhead-cable-triceps-extension",
+    "name": "Extensión de Tríceps sobre la Cabeza en Polea",
+    "nameEn": "Overhead Cable Triceps Extension",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Coloca una cuerda en una polea a media altura o baja y colócate de espaldas a la torre.",
+      "Lleva la cuerda por detrás de tu nuca con codos flexionados apuntando hacia adelante.",
+      "Da un paso adelante en zancada para dar estabilidad al tronco inclinado unos 30 grados.",
+      "Extiende los brazos hacia adelante y arriba bloqueando los tríceps con apertura de cuerda al final.",
+      "Flexiona los codos hacia atrás sintiendo un gran estiramiento en la cabeza larga del tríceps."
+    ],
+    "tips": [
+      "La posición por encima de la cabeza coloca a la cabeza larga del tríceps en estiramiento máximo."
+    ],
+    "breathingCue": "Exhala al extender los codos; inhala al flexionar hacia la nuca.",
+    "alternatives": [],
+    "primaryMuscleEs": "Tríceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Rope_Overhead_Triceps_Extension/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Rope_Overhead_Triceps_Extension/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skull-crusher",
+        "name": "Rompecráneos / Press Francés",
+        "nameEn": "Skull Crusher",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/EZ-Bar_Skullcrusher/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/EZ-Bar_Skullcrusher/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-kickback",
+        "name": "Patada de Tríceps con Mancuerna",
+        "nameEn": "Dumbbell Triceps Kickback",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tricep_Dumbbell_Kickback/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tricep_Dumbbell_Kickback/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-triceps-dip-machine",
+        "name": "Fondos de Tríceps Sentado en Máquina",
+        "nameEn": "Seated Dip Machine for Triceps",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pallof-press-cable",
+    "name": "Press Pallof Antirrotación en Polea",
+    "nameEn": "Cable Pallof Press",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para press pallof antirrotación en polea con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "stir-the-pot-stability-ball",
+        "name": "Remover la Olla sobre Balón Suizo (Stir the Pot)",
+        "nameEn": "Stability Ball Stir the Pot Plank",
+        "equipment": "StabilityBall",
+        "equipmentEs": "Balón Suizo / Fitball",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/1.jpg"
+        ]
+      },
+      {
+        "id": "side-plank-forearm-hold",
+        "name": "Plancha Lateral sobre Antebrazo",
+        "nameEn": "Side Plank Forearm Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "half-kneeling-pallof-press",
+    "name": "Press Pallof en Posición de Caballero",
+    "nameEn": "Half-Kneeling Pallof Press",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para press pallof en posición de caballero con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pallof_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "stir-the-pot-stability-ball",
+        "name": "Remover la Olla sobre Balón Suizo (Stir the Pot)",
+        "nameEn": "Stability Ball Stir the Pot Plank",
+        "equipment": "StabilityBall",
+        "equipmentEs": "Balón Suizo / Fitball",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/1.jpg"
+        ]
+      },
+      {
+        "id": "side-plank-forearm-hold",
+        "name": "Plancha Lateral sobre Antebrazo",
+        "nameEn": "Side Plank Forearm Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "woodchopper-cable-high-to-low",
+    "name": "Leñador en Polea Alta hacia Abajo (Woodchopper)",
+    "nameEn": "High-to-Low Cable Woodchopper",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para leñador en polea alta hacia abajo (woodchopper) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "bicycle-crunches-tempo",
+        "name": "Bicicleta Abdominal con Pausa Isométrica",
+        "nameEn": "Slow Tempo Bicycle Crunch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/1.jpg"
+        ]
+      },
+      {
+        "id": "landmine-rotations-core",
+        "name": "Rotaciones en Landmine para Oblicuos",
+        "nameEn": "Barbell Landmine Core Rotations",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-oblique-knee-tuck",
+        "name": "Elevación de Rodillas Cruzada Colgado en Barra",
+        "nameEn": "Hanging Oblique Knee Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "woodchopper-cable-low-to-high",
+    "name": "Leñador en Polea Baja hacia Arriba",
+    "nameEn": "Low-to-High Cable Woodchopper",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para leñador en polea baja hacia arriba con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "bicycle-crunches-tempo",
+        "name": "Bicicleta Abdominal con Pausa Isométrica",
+        "nameEn": "Slow Tempo Bicycle Crunch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Air_Bike/1.jpg"
+        ]
+      },
+      {
+        "id": "landmine-rotations-core",
+        "name": "Rotaciones en Landmine para Oblicuos",
+        "nameEn": "Barbell Landmine Core Rotations",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Landmine_180s/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-oblique-knee-tuck",
+        "name": "Elevación de Rodillas Cruzada Colgado en Barra",
+        "nameEn": "Hanging Oblique Knee Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "plank-cable-row",
+    "name": "Remo en Plancha Unilateral en Polea",
+    "nameEn": "Plank Single-Arm Cable Row",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Abs",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para remo en plancha unilateral en polea con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Abdomen / Core",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_One-arm_Cable_Pulley_Rows/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_One-arm_Cable_Pulley_Rows/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-row",
+        "name": "Remo con Barra",
+        "nameEn": "Barbell Row",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/1.jpg"
+        ]
+      },
+      {
+        "id": "t-bar-row",
+        "name": "Remo en Barra T",
+        "nameEn": "T-Bar Row",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-single-row",
+        "name": "Remo a una Mano con Mancuerna",
+        "nameEn": "Dumbbell Single-Arm Row",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cable-kneeling-crunch",
+    "name": "Crunch Abdominal Arrodillado en Polea Alta",
+    "nameEn": "Kneeling Cable Abdominal Crunch",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para crunch abdominal arrodillado en polea alta con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Kneeling_Cable_Crunch_With_Alternating_Oblique_Twists/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "standing-cable-anti-flexion-chop",
+    "name": "Bloqueo Antiflexión Lateral en Polea",
+    "nameEn": "Standing Lateral Anti-Flexion Cable Hold",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para bloqueo antiflexión lateral en polea con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Cable_Wood_Chop/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pallof-press-band",
+        "name": "Press Pallof con Banda Elástica",
+        "nameEn": "Resistance Band Pallof Press",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cross_Over_-_With_Bands/1.jpg"
+        ]
+      },
+      {
+        "id": "stir-the-pot-stability-ball",
+        "name": "Remover la Olla sobre Balón Suizo (Stir the Pot)",
+        "nameEn": "Stability Ball Stir the Pot Plank",
+        "equipment": "StabilityBall",
+        "equipmentEs": "Balón Suizo / Fitball",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Exercise_Ball_Crunch/1.jpg"
+        ]
+      },
+      {
+        "id": "side-plank-forearm-hold",
+        "name": "Plancha Lateral sobre Antebrazo",
+        "nameEn": "Side Plank Forearm Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push_Up_to_Side_Plank/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "external-rotation-cable-neutral",
+    "name": "Rotación Externa de Hombro en Polea a 0 Grados",
+    "nameEn": "Standing Cable Shoulder External Rotation",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para rotación externa de hombro en polea a 0 grados con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en shoulders.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "internal-rotation-cable-neutral",
+        "name": "Rotación Interna de Hombro en Polea",
+        "nameEn": "Standing Cable Shoulder Internal Rotation",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/1.jpg"
+        ]
+      },
+      {
+        "id": "external-rotation-90-90-cable",
+        "name": "Rotación Externa a 90/90 de Abducción en Polea",
+        "nameEn": "90/90 Cable Shoulder External Rotation",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/1.jpg"
+        ]
+      },
+      {
+        "id": "kettlebell-halo",
+        "name": "El Halo con Pesa Rusa alrededor de la Cabeza",
+        "nameEn": "Kettlebell Halo for Shoulder Mobility",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "internal-rotation-cable-neutral",
+    "name": "Rotación Interna de Hombro en Polea",
+    "nameEn": "Standing Cable Shoulder Internal Rotation",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Chest"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para rotación interna de hombro en polea con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en shoulders.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Pecho / Pectoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "external-rotation-cable-neutral",
+        "name": "Rotación Externa de Hombro en Polea a 0 Grados",
+        "nameEn": "Standing Cable Shoulder External Rotation",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/1.jpg"
+        ]
+      },
+      {
+        "id": "external-rotation-90-90-cable",
+        "name": "Rotación Externa a 90/90 de Abducción en Polea",
+        "nameEn": "90/90 Cable Shoulder External Rotation",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/1.jpg"
+        ]
+      },
+      {
+        "id": "kettlebell-halo",
+        "name": "El Halo con Pesa Rusa alrededor de la Cabeza",
+        "nameEn": "Kettlebell Halo for Shoulder Mobility",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "external-rotation-90-90-cable",
+    "name": "Rotación Externa a 90/90 de Abducción en Polea",
+    "nameEn": "90/90 Cable Shoulder External Rotation",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Intermedio",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para rotación externa a 90/90 de abducción en polea con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en shoulders.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "external-rotation-cable-neutral",
+        "name": "Rotación Externa de Hombro en Polea a 0 Grados",
+        "nameEn": "Standing Cable Shoulder External Rotation",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/External_Rotation_with_Cable/1.jpg"
+        ]
+      },
+      {
+        "id": "internal-rotation-cable-neutral",
+        "name": "Rotación Interna de Hombro en Polea",
+        "nameEn": "Standing Cable Shoulder Internal Rotation",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Internal_Rotation/1.jpg"
+        ]
+      },
+      {
+        "id": "kettlebell-halo",
+        "name": "El Halo con Pesa Rusa alrededor de la Cabeza",
+        "nameEn": "Kettlebell Halo for Shoulder Mobility",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Military_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glute-kickback-cable",
+    "name": "Patada de Glúteo en Polea Baja con Tobillera",
+    "nameEn": "Standing Cable Glute Kickback",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para patada de glúteo en polea baja con tobillera con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en glutes.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Kickback/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Kickback/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "standing-hip-abduction-cable",
+    "name": "Abducción de Cadera de Pie en Polea",
+    "nameEn": "Standing Cable Hip Abduction",
+    "primaryMuscle": "Abductors",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para abducción de cadera de pie en polea con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en abductors.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Abductores (Glúteo Medio)",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "side-lying-hip-abduction-straight-leg",
+        "name": "Elevación Lateral de Pierna Recta Tumbado",
+        "nameEn": "Side-Lying Straight Leg Hip Abduction",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/1.jpg"
+        ]
+      },
+      {
+        "id": "abductor-machine",
+        "name": "Abductores en Máquina Sentado (Glúteo Medio)",
+        "nameEn": "Seated Hip Abductor Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-it-band-tfl",
+        "name": "Liberación del Tensor de la Fascia Lata y Banda Iliotibial",
+        "nameEn": "Foam Rolling IT Band and Tensor Fasciae Latae",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "standing-hip-adduction-cable",
+    "name": "Aducción de Cadera de Pie en Polea",
+    "nameEn": "Standing Cable Hip Adduction",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para aducción de cadera de pie en polea con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en adductors.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "adductor-machine",
+        "name": "Aductores en Máquina Sentado",
+        "nameEn": "Seated Hip Adductor Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-adductors",
+        "name": "Liberación de Aductores en Posición de Rana",
+        "nameEn": "Foam Rolling Adductor Complex",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/1.jpg"
+        ]
+      },
+      {
+        "id": "frog-stretch-mobility",
+        "name": "Postura de la Rana (Frog Stretch)",
+        "nameEn": "Frog Mobility Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "incline-cable-chest-press",
+    "name": "Press de Pecho Inclinado en Poleas Bajas",
+    "nameEn": "Incline Low-to-High Cable Chest Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para press de pecho inclinado en poleas bajas.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Cable_Chest_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Cable_Chest_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "decline-cable-flyes",
+    "name": "Cruces Declinados de Polea Alta hacia Abajo",
+    "nameEn": "Decline High-to-Low Cable Flyes",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para cruces declinados de polea alta hacia abajo.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Low_Cable_Crossover/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Low_Cable_Crossover/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mag-grip-lat-pulldown",
+    "name": "Jalón al Pecho con Agarre Neutro Ergonómico (MAG)",
+    "nameEn": "MAG Grip Neutral Lat Pulldown",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Biceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para jalón al pecho con agarre neutro ergonómico (mag).",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/V-Bar_Pulldown/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "neutral-grip-pullup",
+        "name": "Dominadas con Agarre Neutro",
+        "nameEn": "Neutral Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pullup",
+        "name": "Dominadas Pronas con Agarre Ancho",
+        "nameEn": "Wide Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "archer-pullup",
+        "name": "Dominadas de Arquero",
+        "nameEn": "Archer Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kneeling-single-arm-lat-pulldown",
+    "name": "Jalón Unilateral Arrodillado en Polea",
+    "nameEn": "Kneeling Single-Arm Cable Lat Pulldown",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Biceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para jalón unilateral arrodillado en polea.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Bíceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Arm_Lat_Pulldown/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One_Arm_Lat_Pulldown/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "neutral-grip-pullup",
+        "name": "Dominadas con Agarre Neutro",
+        "nameEn": "Neutral Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pullup",
+        "name": "Dominadas Pronas con Agarre Ancho",
+        "nameEn": "Wide Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "archer-pullup",
+        "name": "Dominadas de Arquero",
+        "nameEn": "Archer Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lat-prayer-pulldown-rope",
+    "name": "Oración Dorsal con Cuerda en Polea Alta",
+    "nameEn": "Kneeling Cable Lat Prayer Pullover",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Back",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para oración dorsal con cuerda en polea alta.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Straight-Arm_Pulldown/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Straight-Arm_Pulldown/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "neutral-grip-pullup",
+        "name": "Dominadas con Agarre Neutro",
+        "nameEn": "Neutral Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pullup",
+        "name": "Dominadas Pronas con Agarre Ancho",
+        "nameEn": "Wide Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "archer-pullup",
+        "name": "Dominadas de Arquero",
+        "nameEn": "Archer Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cable-lateral-raise-behind-back",
+    "name": "Elevaciones Laterales en Polea por Detrás de la Espalda",
+    "nameEn": "Behind-the-Back Cable Lateral Raise",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para elevaciones laterales en polea por detrás de la espalda.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "seated-barbell-press",
+        "name": "Press Militar Sentado con Barra",
+        "nameEn": "Seated Barbell Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-shoulder-press",
+        "name": "Press de Hombro con Mancuernas",
+        "nameEn": "Dumbbell Shoulder Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "arnold-press",
+        "name": "Press Arnold con Mancuernas",
+        "nameEn": "Arnold Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "egyptian-cable-lateral-raise",
+    "name": "Elevación Lateral Egipcia Inclinada en Polea",
+    "nameEn": "Leaning Egyptian Cable Lateral Raise",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para elevación lateral egipcia inclinada en polea.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "seated-barbell-press",
+        "name": "Press Militar Sentado con Barra",
+        "nameEn": "Seated Barbell Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Barbell_Military_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-shoulder-press",
+        "name": "Press de Hombro con Mancuernas",
+        "nameEn": "Dumbbell Shoulder Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Shoulder_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "arnold-press",
+        "name": "Press Arnold con Mancuernas",
+        "nameEn": "Arnold Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Arnold_Dumbbell_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cable-biceps-curl-straight-bar",
+    "name": "Curl de Bíceps con Barra Recta en Polea Baja",
+    "nameEn": "Standing Low Cable Biceps Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para curl de bíceps con barra recta en polea baja.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-curl",
+        "name": "Curl de Bíceps alterno con Mancuernas",
+        "nameEn": "Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-curl",
+        "name": "Curl Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cable-kickback-triceps",
+    "name": "Patada de Tríceps Unilateral en Polea Baja",
+    "nameEn": "Single-Arm Cable Triceps Kickback",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para patada de tríceps unilateral en polea baja.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Tríceps",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_One_Arm_Tricep_Extension/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_One_Arm_Tricep_Extension/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "tate-press-dumbbells",
+        "name": "Press Tate con Mancuernas en Banco Plano",
+        "nameEn": "Flat Bench Dumbbell Tate Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tate_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tate_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "california-press-barbell",
+        "name": "Press California (Híbrido Cerrado + Press Francés)",
+        "nameEn": "Barbell California Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Barbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Barbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "close-grip-bench-press",
+        "name": "Press de Banca Cerrado para Tríceps",
+        "nameEn": "Close Grip Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Barbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Close-Grip_Barbell_Bench_Press/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "diamond-pushdown-cable",
+    "name": "Extensión de Tríceps con Agarre en V en Polea",
+    "nameEn": "V-Bar Cable Triceps Pushdown",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para extensión de tríceps con agarre en v en polea.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Tríceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown_-_V-Bar_Attachment/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown_-_V-Bar_Attachment/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "seated-triceps-dip-machine",
+        "name": "Fondos de Tríceps Sentado en Máquina",
+        "nameEn": "Seated Dip Machine for Triceps",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/1.jpg"
+        ]
+      },
+      {
+        "id": "skull-crusher",
+        "name": "Rompecráneos / Press Francés",
+        "nameEn": "Skull Crusher",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/EZ-Bar_Skullcrusher/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/EZ-Bar_Skullcrusher/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-kickback",
+        "name": "Patada de Tríceps con Mancuerna",
+        "nameEn": "Dumbbell Triceps Kickback",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tricep_Dumbbell_Kickback/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Tricep_Dumbbell_Kickback/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cable-pull-through-glutes",
+    "name": "Pull-Through en Polea Baja con Cuerda para Glúteos",
+    "nameEn": "Low Cable Pull-Through for Glutes",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para pull-through en polea baja con cuerda para glúteos.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pull_Through/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-hip-thrust",
+        "name": "Hip Thrust con Barra",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-glute-bridge",
+        "name": "Puente de Glúteos con Mancuerna",
+        "nameEn": "Dumbbell Glute Bridge",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Glute_Bridge/1.jpg"
+        ]
+      },
+      {
+        "id": "hip-thrust-barbell",
+        "name": "Hip Thrust con Barra (Empuje de Cadera)",
+        "nameEn": "Barbell Hip Thrust",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Hip_Thrust/1.jpg"
+        ]
+      }
+    ]
+  }
+]

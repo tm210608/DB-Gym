@@ -1,0 +1,365 @@
+[
+  {
+    "id": "ring-pushup",
+    "name": "Flexiones en Anillas de Gimnasia",
+    "nameEn": "Gymnastic Ring Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Rings",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones en anillas de gimnasia asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Anillas de Gimnasia",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Suspended_Push-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "push-up",
+        "name": "Flexiones de Pecho",
+        "nameEn": "Push-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/1.jpg"
+        ]
+      },
+      {
+        "id": "decline-push-up",
+        "name": "Flexiones Declina (Pies Elevados)",
+        "nameEn": "Decline Push-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Push-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pushup",
+        "name": "Flexiones con Agarre Ancho",
+        "nameEn": "Wide Grip Push-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push-Up_Wide/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Push-Up_Wide/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ring-pullup",
+    "name": "Dominadas en Anillas",
+    "nameEn": "Ring Pull-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Biceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Rings",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas en anillas con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Trapecio"
+    ],
+    "equipmentEs": "Anillas de Gimnasia",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Inverted_Row_with_Straps/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "neutral-grip-pullup",
+        "name": "Dominadas con Agarre Neutro",
+        "nameEn": "Neutral Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pullup",
+        "name": "Dominadas Pronas con Agarre Ancho",
+        "nameEn": "Wide Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "archer-pullup",
+        "name": "Dominadas de Arquero",
+        "nameEn": "Archer Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "muscle-up-rings",
+    "name": "Muscle-Up en Anillas",
+    "nameEn": "Ring Muscle-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Chest",
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Rings",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para muscle-up en anillas con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ],
+    "primaryMuscleEs": "Dorsal Ancho",
+    "secondaryMusclesEs": [
+      "Pecho / Pectoral",
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Trapecio"
+    ],
+    "equipmentEs": "Anillas de Gimnasia",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "neutral-grip-pullup",
+        "name": "Dominadas con Agarre Neutro",
+        "nameEn": "Neutral Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "wide-grip-pullup",
+        "name": "Dominadas Pronas con Agarre Ancho",
+        "nameEn": "Wide Grip Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Rear_Pull-Up/1.jpg"
+        ]
+      },
+      {
+        "id": "archer-pullup",
+        "name": "Dominadas de Arquero",
+        "nameEn": "Archer Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Lats",
+        "primaryMuscleEs": "Dorsal Ancho",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Mixed_Grip_Chin/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ring-dips",
+    "name": "Fondos en Anillas",
+    "nameEn": "Ring Dips",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Rings",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para fondos en anillas equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en chest.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up"
+    ],
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Tríceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Anillas de Gimnasia",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ring_Dips/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ring_Dips/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "parallel-bar-dips",
+        "name": "Fondos en Barras Paralelas",
+        "nameEn": "Parallel Bar Dips",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dips_-_Triceps_Version/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dips_-_Triceps_Version/1.jpg"
+        ]
+      },
+      {
+        "id": "push-up",
+        "name": "Flexiones de Pecho",
+        "nameEn": "Push-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pushups/1.jpg"
+        ]
+      },
+      {
+        "id": "decline-push-up",
+        "name": "Flexiones Declina (Pies Elevados)",
+        "nameEn": "Decline Push-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Push-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Decline_Push-Up/1.jpg"
+        ]
+      }
+    ]
+  }
+]

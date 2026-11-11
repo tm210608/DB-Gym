@@ -1,0 +1,1645 @@
+[
+  {
+    "id": "standing-calf-raise",
+    "name": "Elevación de Gemelos de Pie con Barra",
+    "nameEn": "Standing Barbell Calf Raise",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "equipment": "Barbell",
+    "difficulty": "Principiante",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Coloca la barra sobre la espalda alta.",
+      "Párate sobre el borde de un bloque metálico o disco.",
+      "Baja los talones por debajo del nivel del bloque para estirar.",
+      "Eleva los talones lo más alto posible apoyándote en las puntas de los pies."
+    ],
+    "alternatives": [
+      "seated-calf-raise"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "seated-calf-raise",
+        "name": "Elevación de Gemelos Sentado",
+        "nameEn": "Seated Calf Raise",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-calf-raise-machine",
+        "name": "Elevación de Talones Sentado en Máquina (Sóleo)",
+        "nameEn": "Seated Calf Raise Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "donkey-calf-raise-machine",
+        "name": "Elevación de Gemelos Estilo Burro (Donkey Calf)",
+        "nameEn": "Donkey Calf Raise Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-calf-raise",
+    "name": "Elevación de Gemelos Sentado",
+    "nameEn": "Seated Calf Raise",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Siéntate en la máquina apoyando la almohadilla sobre tus muslos bajos.",
+      "Coloca la punta de los pies en el bloque.",
+      "Eleva las puntas quitando el seguro, baja los talones al máximo y vuelve a elevar extendiendo al máximo el tobillo."
+    ],
+    "alternatives": [
+      "standing-calf-raise"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "standing-calf-raise",
+        "name": "Elevación de Gemelos de Pie con Barra",
+        "nameEn": "Standing Barbell Calf Raise",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "smith-machine-standing-calf-raise",
+        "name": "Elevación de Talones de Pie en Máquina Smith",
+        "nameEn": "Smith Machine Standing Calf Raise on Block",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "single-leg-isometric-calf-raise",
+        "name": "Sostenimiento Isométrico de Gemelo en Punta de Pie",
+        "nameEn": "Single-Leg Isometric Calf Raise Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-calf-raise-machine",
+    "name": "Elevación de Talones Sentado en Máquina (Sóleo)",
+    "nameEn": "Seated Calf Raise Machine",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Siéntate en la máquina de gemelos apoyando la parte delantera de los pies en la plataforma y los muslos bajo el acolchado.",
+      "Quita la palanca de seguridad y desciende los talones todo lo posible sintiendo el estiramiento profundo del sóleo.",
+      "Empuja sobre las puntas de los pies elevando los talones a la máxima altura.",
+      "Pausa un segundo arriba y baja despacio manteniendo una cadencia estricta."
+    ],
+    "tips": [
+      "Al tener las rodillas flexionadas a 90°, el gastrocnemio se inhibe y el sóleo asume prácticamente toda la carga."
+    ],
+    "breathingCue": "Exhala al elevar los talones; inhala en el descenso.",
+    "alternatives": [
+      "standing-calf-raise"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "standing-calf-raise",
+        "name": "Elevación de Gemelos de Pie con Barra",
+        "nameEn": "Standing Barbell Calf Raise",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "smith-machine-standing-calf-raise",
+        "name": "Elevación de Talones de Pie en Máquina Smith",
+        "nameEn": "Smith Machine Standing Calf Raise on Block",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "single-leg-isometric-calf-raise",
+        "name": "Sostenimiento Isométrico de Gemelo en Punta de Pie",
+        "nameEn": "Single-Leg Isometric Calf Raise Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tibialis-raise-bodyweight",
+    "name": "Elevación de Tibial Anterior contra la Pared",
+    "nameEn": "Wall Tibialis Raise",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs",
+      "Quads"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Apoya la espalda contra una pared lisa y adelanta los pies a una distancia de uno o dos pasos con piernas rectas.",
+      "Manteniendo los talones pegados al suelo, eleva las puntas de los pies hacia las espinillas lo más alto posible.",
+      "Aprieta la musculatura anterior de la espinilla en la cima durante un segundo.",
+      "Baja las puntas de los pies rozando suavemente el suelo y repite de forma continua."
+    ],
+    "tips": [
+      "Fundamental para proteger las rodillas, prevenir periostitis tibial y mejorar la dorsiflexión del tobillo."
+    ],
+    "breathingCue": "Exhala al subir las puntas de los pies; inhala al bajar al suelo.",
+    "alternatives": [
+      "standing-calf-raise"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Cuádriceps"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Calf_Raises/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Calf_Raises/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "tibialis-raise-weighted-bar",
+        "name": "Elevación de Tibial con Barra de Tobillo (Tib Bar)",
+        "nameEn": "Weighted Tib Bar Tibialis Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-calves-gastrocnemius",
+        "name": "Autoliberación de Gemelos y Tendón de Aquiles",
+        "nameEn": "Foam Rolling Calves and Gastrocnemius",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calves-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calves-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-shins-tibialis",
+        "name": "Liberación Miofascial de Tibial Anterior",
+        "nameEn": "Foam Rolling Anterior Tibialis",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Anterior_Tibialis-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Anterior_Tibialis-SMR/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "calf-raise-single-leg-bodyweight",
+    "name": "Elevación de Talón Unilateral en Escalón",
+    "nameEn": "Single-Leg Calf Raise on Step",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para elevación de talón unilateral en escalón equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en calves.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "donkey-calf-raise-machine",
+        "name": "Elevación de Gemelos Estilo Burro (Donkey Calf)",
+        "nameEn": "Donkey Calf Raise Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/1.jpg"
+        ]
+      },
+      {
+        "id": "leg-press-calf-raise",
+        "name": "Elevación de Talones en Prensa de Piernas",
+        "nameEn": "Leg Press Toe Press / Calf Raise",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press_On_The_Leg_Press_Machine/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press_On_The_Leg_Press_Machine/1.jpg"
+        ]
+      },
+      {
+        "id": "smith-machine-standing-calf-raise",
+        "name": "Elevación de Talones de Pie en Máquina Smith",
+        "nameEn": "Smith Machine Standing Calf Raise on Block",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ankle-dorsiflexion-wall-drill",
+    "name": "Movilidad de Dorsiflexión de Tobillo contra Pared",
+    "nameEn": "Knee-to-Wall Ankle Mobilization",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de movilidad de dorsiflexión de tobillo contra pared sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Stretch_Hands_Against_Wall/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Stretch_Hands_Against_Wall/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "half-kneeling-ankle-mobility-band",
+        "name": "Movilidad de Tobillo Asistida con Banda Elástica",
+        "nameEn": "Band-Distracted Ankle Mobilization",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Stretch_Hands_Against_Wall/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Stretch_Hands_Against_Wall/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-calves-gastrocnemius",
+        "name": "Autoliberación de Gemelos y Tendón de Aquiles",
+        "nameEn": "Foam Rolling Calves and Gastrocnemius",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calves-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calves-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-shins-tibialis",
+        "name": "Liberación Miofascial de Tibial Anterior",
+        "nameEn": "Foam Rolling Anterior Tibialis",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Anterior_Tibialis-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Anterior_Tibialis-SMR/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "half-kneeling-ankle-mobility-band",
+    "name": "Movilidad de Tobillo Asistida con Banda Elástica",
+    "nameEn": "Band-Distracted Ankle Mobilization",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Band",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de movilidad de tobillo asistida con banda elástica sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Banda Elástica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Stretch_Hands_Against_Wall/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Stretch_Hands_Against_Wall/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ankle-dorsiflexion-wall-drill",
+        "name": "Movilidad de Dorsiflexión de Tobillo contra Pared",
+        "nameEn": "Knee-to-Wall Ankle Mobilization",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Stretch_Hands_Against_Wall/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Stretch_Hands_Against_Wall/1.jpg"
+        ]
+      },
+      {
+        "id": "tibialis-raise-bodyweight",
+        "name": "Elevación de Tibial Anterior contra la Pared",
+        "nameEn": "Wall Tibialis Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Calf_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Calf_Raises/1.jpg"
+        ]
+      },
+      {
+        "id": "downward-facing-dog-pedaling",
+        "name": "Perro Boca Abajo con Pedaleo de Talones",
+        "nameEn": "Downward Dog Calf and Hamstring Pedals",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Stretch_Hands_Against_Wall/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Stretch_Hands_Against_Wall/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "downward-facing-dog-pedaling",
+    "name": "Perro Boca Abajo con Pedaleo de Talones",
+    "nameEn": "Downward Dog Calf and Hamstring Pedals",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Shoulders",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de perro boca abajo con pedaleo de talones sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Hombros / Deltoides",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Stretch_Hands_Against_Wall/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Stretch_Hands_Against_Wall/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "half-kneeling-ankle-mobility-band",
+        "name": "Movilidad de Tobillo Asistida con Banda Elástica",
+        "nameEn": "Band-Distracted Ankle Mobilization",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Stretch_Hands_Against_Wall/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Stretch_Hands_Against_Wall/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pogo-hops-calves",
+    "name": "Saltos Pogo Rítmicos en los Tobillos",
+    "nameEn": "Pogo Hops for Ankle Stiffness",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [
+      "Cardio"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de saltos pogo rítmicos en los tobillos a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [
+      "Sistema Cardiovascular"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "single-leg-ruler-hop",
+        "name": "Pequeños Saltos Unilaterales de Reactividad",
+        "nameEn": "Single-Leg Linear Hop Drill",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Hop_Progression/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Hop_Progression/1.jpg"
+        ]
+      },
+      {
+        "id": "hurdle-hops-continuous",
+        "name": "Saltos Continuos por Encima de Mini-Vallas",
+        "nameEn": "Continuous Mini-Hurdle Forward Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hurdle_Hops/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hurdle_Hops/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "single-leg-ruler-hop",
+    "name": "Pequeños Saltos Unilaterales de Reactividad",
+    "nameEn": "Single-Leg Linear Hop Drill",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de pequeños saltos unilaterales de reactividad a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Hop_Progression/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Hop_Progression/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pogo-hops-calves",
+        "name": "Saltos Pogo Rítmicos en los Tobillos",
+        "nameEn": "Pogo Hops for Ankle Stiffness",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+        ]
+      },
+      {
+        "id": "hurdle-hops-continuous",
+        "name": "Saltos Continuos por Encima de Mini-Vallas",
+        "nameEn": "Continuous Mini-Hurdle Forward Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hurdle_Hops/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hurdle_Hops/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foam-roll-calves-gastrocnemius",
+    "name": "Autoliberación de Gemelos y Tendón de Aquiles",
+    "nameEn": "Foam Rolling Calves and Gastrocnemius",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "FoamRoller",
+    "difficulty": "Principiante",
+    "category": "FoamRolling",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Coloca el rodillo o pelota bajo el área muscular diana de autoliberación de gemelos y tendón de aquiles.",
+      "Rueda lentamente buscando zonas de mayor tensión o nudos musculares (puntos gatillo).",
+      "Al localizar un punto sensible, sostén la presión fija durante 30 a 60 segundos respirando hondo."
+    ],
+    "tips": [
+      "Nunca ruedes directamente sobre articulaciones, huesos prominentes o la zona lumbar sin apoyo pélvico."
+    ],
+    "breathingCue": "Exhala largo y relajado mientras permites que el músculo ceda a la presión del rodillo.",
+    "alternatives": [
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Rodillo de Espuma",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calves-SMR/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calves-SMR/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "lacrosse-ball-plantar-fascia",
+        "name": "Masaje de Fascia Plantar del Pie con Pelota",
+        "nameEn": "Plantar Fascia Foot Ball Rolling",
+        "equipment": "MedicineBall",
+        "equipmentEs": "Balón Medicinal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Foot-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Foot-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "tibialis-raise-bodyweight",
+        "name": "Elevación de Tibial Anterior contra la Pared",
+        "nameEn": "Wall Tibialis Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Calf_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Calf_Raises/1.jpg"
+        ]
+      },
+      {
+        "id": "tibialis-raise-weighted-bar",
+        "name": "Elevación de Tibial con Barra de Tobillo (Tib Bar)",
+        "nameEn": "Weighted Tib Bar Tibialis Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Calf_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "foam-roll-shins-tibialis",
+    "name": "Liberación Miofascial de Tibial Anterior",
+    "nameEn": "Foam Rolling Anterior Tibialis",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "FoamRoller",
+    "difficulty": "Principiante",
+    "category": "FoamRolling",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Coloca el rodillo o pelota bajo el área muscular diana de liberación miofascial de tibial anterior.",
+      "Rueda lentamente buscando zonas de mayor tensión o nudos musculares (puntos gatillo).",
+      "Al localizar un punto sensible, sostén la presión fija durante 30 a 60 segundos respirando hondo."
+    ],
+    "tips": [
+      "Nunca ruedes directamente sobre articulaciones, huesos prominentes o la zona lumbar sin apoyo pélvico."
+    ],
+    "breathingCue": "Exhala largo y relajado mientras permites que el músculo ceda a la presión del rodillo.",
+    "alternatives": [
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Rodillo de Espuma",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Anterior_Tibialis-SMR/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Anterior_Tibialis-SMR/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "lacrosse-ball-plantar-fascia",
+        "name": "Masaje de Fascia Plantar del Pie con Pelota",
+        "nameEn": "Plantar Fascia Foot Ball Rolling",
+        "equipment": "MedicineBall",
+        "equipmentEs": "Balón Medicinal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Foot-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Foot-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "tibialis-raise-bodyweight",
+        "name": "Elevación de Tibial Anterior contra la Pared",
+        "nameEn": "Wall Tibialis Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Calf_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Calf_Raises/1.jpg"
+        ]
+      },
+      {
+        "id": "tibialis-raise-weighted-bar",
+        "name": "Elevación de Tibial con Barra de Tobillo (Tib Bar)",
+        "nameEn": "Weighted Tib Bar Tibialis Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Calf_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lacrosse-ball-plantar-fascia",
+    "name": "Masaje de Fascia Plantar del Pie con Pelota",
+    "nameEn": "Plantar Fascia Foot Ball Rolling",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "MedicineBall",
+    "difficulty": "Principiante",
+    "category": "FoamRolling",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Coloca el rodillo o pelota bajo el área muscular diana de masaje de fascia plantar del pie con pelota.",
+      "Rueda lentamente buscando zonas de mayor tensión o nudos musculares (puntos gatillo).",
+      "Al localizar un punto sensible, sostén la presión fija durante 30 a 60 segundos respirando hondo."
+    ],
+    "tips": [
+      "Nunca ruedes directamente sobre articulaciones, huesos prominentes o la zona lumbar sin apoyo pélvico."
+    ],
+    "breathingCue": "Exhala largo y relajado mientras permites que el músculo ceda a la presión del rodillo.",
+    "alternatives": [
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Balón Medicinal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Foot-SMR/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Foot-SMR/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "foam-roll-calves-gastrocnemius",
+        "name": "Autoliberación de Gemelos y Tendón de Aquiles",
+        "nameEn": "Foam Rolling Calves and Gastrocnemius",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calves-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calves-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-shins-tibialis",
+        "name": "Liberación Miofascial de Tibial Anterior",
+        "nameEn": "Foam Rolling Anterior Tibialis",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Anterior_Tibialis-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Anterior_Tibialis-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "tibialis-raise-bodyweight",
+        "name": "Elevación de Tibial Anterior contra la Pared",
+        "nameEn": "Wall Tibialis Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Calf_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Calf_Raises/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hurdle-hops-continuous",
+    "name": "Saltos Continuos por Encima de Mini-Vallas",
+    "nameEn": "Continuous Mini-Hurdle Forward Hops",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para saltos continuos por encima de mini-vallas.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hurdle_Hops/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hurdle_Hops/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "pogo-hops-calves",
+        "name": "Saltos Pogo Rítmicos en los Tobillos",
+        "nameEn": "Pogo Hops for Ankle Stiffness",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+        ]
+      },
+      {
+        "id": "single-leg-ruler-hop",
+        "name": "Pequeños Saltos Unilaterales de Reactividad",
+        "nameEn": "Single-Leg Linear Hop Drill",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Hop_Progression/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Single-Leg_Hop_Progression/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tibialis-raise-weighted-bar",
+    "name": "Elevación de Tibial con Barra de Tobillo (Tib Bar)",
+    "nameEn": "Weighted Tib Bar Tibialis Raise",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para elevación de tibial con barra de tobillo (tib bar) con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en calves.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Calf_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Calf_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "tibialis-raise-bodyweight",
+        "name": "Elevación de Tibial Anterior contra la Pared",
+        "nameEn": "Wall Tibialis Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Calf_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Calf_Raises/1.jpg"
+        ]
+      },
+      {
+        "id": "slant-board-calf-stretch-eccentric",
+        "name": "Descensos Excéntricos de Gemelo en Tabla Inclinada",
+        "nameEn": "Slant Board Eccentric Calf Drops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Gastrocnemius_Calf_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Gastrocnemius_Calf_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-calves-gastrocnemius",
+        "name": "Autoliberación de Gemelos y Tendón de Aquiles",
+        "nameEn": "Foam Rolling Calves and Gastrocnemius",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calves-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calves-SMR/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "slant-board-calf-stretch-eccentric",
+    "name": "Descensos Excéntricos de Gemelo en Tabla Inclinada",
+    "nameEn": "Slant Board Eccentric Calf Drops",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para descensos excéntricos de gemelo en tabla inclinada con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en calves.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Gastrocnemius_Calf_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Gastrocnemius_Calf_Stretch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "tibialis-raise-weighted-bar",
+        "name": "Elevación de Tibial con Barra de Tobillo (Tib Bar)",
+        "nameEn": "Weighted Tib Bar Tibialis Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-calves-gastrocnemius",
+        "name": "Autoliberación de Gemelos y Tendón de Aquiles",
+        "nameEn": "Foam Rolling Calves and Gastrocnemius",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calves-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calves-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "foam-roll-shins-tibialis",
+        "name": "Liberación Miofascial de Tibial Anterior",
+        "nameEn": "Foam Rolling Anterior Tibialis",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Anterior_Tibialis-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Anterior_Tibialis-SMR/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-calf-stretch-towel",
+    "name": "Estiramiento Asistido de Gemelo con Toalla",
+    "nameEn": "Towel-Assisted Gastrocnemius Stretch",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para estiramiento asistido de gemelo con toalla con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en calves.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Stretch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "tibialis-raise-weighted-bar",
+        "name": "Elevación de Tibial con Barra de Tobillo (Tib Bar)",
+        "nameEn": "Weighted Tib Bar Tibialis Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Dumbbell_Calf_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "single-leg-isometric-calf-raise",
+    "name": "Sostenimiento Isométrico de Gemelo en Punta de Pie",
+    "nameEn": "Single-Leg Isometric Calf Raise Hold",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para sostenimiento isométrico de gemelo en punta de pie con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en calves.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "standing-calf-raise",
+        "name": "Elevación de Gemelos de Pie con Barra",
+        "nameEn": "Standing Barbell Calf Raise",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-calf-raise",
+        "name": "Elevación de Gemelos Sentado",
+        "nameEn": "Seated Calf Raise",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-calf-raise-machine",
+        "name": "Elevación de Talones Sentado en Máquina (Sóleo)",
+        "nameEn": "Seated Calf Raise Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "donkey-calf-raise-machine",
+    "name": "Elevación de Gemelos Estilo Burro (Donkey Calf)",
+    "nameEn": "Donkey Calf Raise Machine",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para elevación de gemelos estilo burro (donkey calf).",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "smith-machine-standing-calf-raise",
+        "name": "Elevación de Talones de Pie en Máquina Smith",
+        "nameEn": "Smith Machine Standing Calf Raise on Block",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-calf-raise",
+        "name": "Elevación de Gemelos de Pie con Barra",
+        "nameEn": "Standing Barbell Calf Raise",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "calf-raise-single-leg-bodyweight",
+        "name": "Elevación de Talón Unilateral en Escalón",
+        "nameEn": "Single-Leg Calf Raise on Step",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leg-press-calf-raise",
+    "name": "Elevación de Talones en Prensa de Piernas",
+    "nameEn": "Leg Press Toe Press / Calf Raise",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para elevación de talones en prensa de piernas.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press_On_The_Leg_Press_Machine/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press_On_The_Leg_Press_Machine/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "smith-machine-standing-calf-raise",
+        "name": "Elevación de Talones de Pie en Máquina Smith",
+        "nameEn": "Smith Machine Standing Calf Raise on Block",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-calf-raise",
+        "name": "Elevación de Gemelos de Pie con Barra",
+        "nameEn": "Standing Barbell Calf Raise",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "calf-raise-single-leg-bodyweight",
+        "name": "Elevación de Talón Unilateral en Escalón",
+        "nameEn": "Single-Leg Calf Raise on Step",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "smith-machine-standing-calf-raise",
+    "name": "Elevación de Talones de Pie en Máquina Smith",
+    "nameEn": "Smith Machine Standing Calf Raise on Block",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "SmithMachine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para elevación de talones de pie en máquina smith.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina Smith / Multipower",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "donkey-calf-raise-machine",
+        "name": "Elevación de Gemelos Estilo Burro (Donkey Calf)",
+        "nameEn": "Donkey Calf Raise Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/1.jpg"
+        ]
+      },
+      {
+        "id": "leg-press-calf-raise",
+        "name": "Elevación de Talones en Prensa de Piernas",
+        "nameEn": "Leg Press Toe Press / Calf Raise",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press_On_The_Leg_Press_Machine/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press_On_The_Leg_Press_Machine/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-calf-raise",
+        "name": "Elevación de Gemelos de Pie con Barra",
+        "nameEn": "Standing Barbell Calf Raise",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/1.jpg"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1310 @@
+[
+  {
+    "id": "barbell-curl",
+    "name": "Curl de Bíceps con Barra EZ",
+    "nameEn": "Barbell Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Principiante",
+    "forceType": "Tirón",
+    "instructions": [
+      "Sujeta la barra curva EZ frente a ti con agarre supino (palmas bocarriba) ancho de hombros.",
+      "Mantén los codos pegados a tus costados y rígidos.",
+      "Contrae los bíceps trayendo la barra hacia el pecho sin balancear la espalda.",
+      "Aprieta arriba un segundo y desciende estirando suavemente el codo."
+    ],
+    "alternatives": [
+      "dumbbell-curl",
+      "hammer-curl"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-curl",
+        "name": "Curl de Bíceps alterno con Mancuernas",
+        "nameEn": "Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-curl",
+        "name": "Curl Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "hammer-curl",
+        "name": "Curl de Bíceps Martillo",
+        "nameEn": "Hammer Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hammer_Curls/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hammer_Curls/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dumbbell-curl",
+    "name": "Curl de Bíceps alterno con Mancuernas",
+    "nameEn": "Dumbbell Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "forceType": "Tirón",
+    "instructions": [
+      "Párate o siéntate con una mancuerna a cada lado.",
+      "Eleva el peso flexionando el codo y girando la muñeca hacia arriba (supinando) en el medio del recorrido.",
+      "Baja controladamente y alterna de brazo."
+    ],
+    "alternatives": [
+      "barbell-curl",
+      "incline-dumbbell-curl"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "preacher-curl",
+        "name": "Curl Predicador en Banco Scott",
+        "nameEn": "Preacher Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "cable-curl",
+        "name": "Curl de Bíceps en Polea",
+        "nameEn": "Cable Bicep Curl",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "incline-dumbbell-curl",
+    "name": "Curl Inclinado con Mancuernas",
+    "nameEn": "Incline Dumbbell Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Intermedio",
+    "forceType": "Tirón",
+    "instructions": [
+      "Siéntate en un banco inclinado a unos 45 grados sosteniendo las mancuernas colgadas.",
+      "Flexiona los codos manteniendo los brazos detrás del torso para enfatizar la cabeza larga del bíceps.",
+      "Baja extendiendo completamente."
+    ],
+    "alternatives": [
+      "dumbbell-curl",
+      "concentration-curl"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "preacher-curl",
+        "name": "Curl Predicador en Banco Scott",
+        "nameEn": "Preacher Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "cable-curl",
+        "name": "Curl de Bíceps en Polea",
+        "nameEn": "Cable Bicep Curl",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hammer-curl",
+    "name": "Curl de Bíceps Martillo",
+    "nameEn": "Hammer Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "forceType": "Tirón",
+    "instructions": [
+      "Sostén un par de mancuernas a los lados de tu torso con agarre neutro (las palmas se miran cara a cara).",
+      "Sube la mancuerna verticalmente doblando el codo sin girar la muñeca.",
+      "Asegúrate de no usar impulso en la parte baja del movimiento.",
+      "Desciende con control absoluto de los flexores de codo."
+    ],
+    "alternatives": [
+      "barbell-curl"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hammer_Curls/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hammer_Curls/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "preacher-curl",
+        "name": "Curl Predicador en Banco Scott",
+        "nameEn": "Preacher Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "cable-curl",
+        "name": "Curl de Bíceps en Polea",
+        "nameEn": "Cable Bicep Curl",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "preacher-curl",
+    "name": "Curl Predicador en Banco Scott",
+    "nameEn": "Preacher Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Principiante",
+    "forceType": "Tirón",
+    "instructions": [
+      "Siéntate en el banco predicador y apoya la parte posterior de tus brazos firmemente contra el colchón.",
+      "Toma la barra EZ y flexiona los codos para llevar el peso arriba sin separar los brazos de la almohadilla.",
+      "Baja controladamente estirando casi por completo los codos."
+    ],
+    "alternatives": [
+      "barbell-curl"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-curl",
+        "name": "Curl de Bíceps alterno con Mancuernas",
+        "nameEn": "Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-curl",
+        "name": "Curl Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "hammer-curl",
+        "name": "Curl de Bíceps Martillo",
+        "nameEn": "Hammer Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hammer_Curls/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hammer_Curls/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "concentration-curl",
+    "name": "Curl de Concentración con Mancuerna",
+    "nameEn": "Concentration Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "forceType": "Tirón",
+    "instructions": [
+      "Siéntate en un banco, apoya el codo contra la cara interna de tu muslo del mismo lado.",
+      "Flexiona el codo levantando la mancuerna de forma aislada hacia tu cara.",
+      "Baja de vuelta controladamente."
+    ],
+    "alternatives": [
+      "incline-dumbbell-curl",
+      "preacher-curl"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Concentration_Curls/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Concentration_Curls/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "preacher-curl",
+        "name": "Curl Predicador en Banco Scott",
+        "nameEn": "Preacher Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "cable-curl",
+        "name": "Curl de Bíceps en Polea",
+        "nameEn": "Cable Bicep Curl",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cable-curl",
+    "name": "Curl de Bíceps en Polea",
+    "nameEn": "Cable Bicep Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "forceType": "Tirón",
+    "instructions": [
+      "Párate frente a la polea baja con barra de agarre.",
+      "Toma la barra con palmas hacia arriba y flexiona los codos contrayendo bíceps.",
+      "Baja resistiendo la tensión constante del cable."
+    ],
+    "alternatives": [
+      "barbell-curl",
+      "dumbbell-curl"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-curl",
+        "name": "Curl de Bíceps alterno con Mancuernas",
+        "nameEn": "Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-curl",
+        "name": "Curl Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "spider-curl",
+    "name": "Curl Araña con Barra Z en Banco Inclinado",
+    "nameEn": "Spider Curl with EZ Bar",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "EZBar",
+    "difficulty": "Intermedio",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Apoya el pecho sobre la parte superior de un banco inclinado a 45 grados mirando hacia el suelo.",
+      "Sujeta la barra Z con agarre supino dejando que los brazos cuelguen rectos verticalmente.",
+      "Flexiona los codos elevando la barra hacia la frente con aislamiento absoluto sin balanceo.",
+      "Pausa un segundo en la contracción pico y desciende lentamente hasta la vertical."
+    ],
+    "tips": [
+      "Al estar el torso bloqueado contra el banco, se elimina cualquier inercia corporal."
+    ],
+    "breathingCue": "Exhala al subir la barra; inhala en la bajada.",
+    "alternatives": [
+      "preacher-curl"
+    ],
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Z",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spider_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spider_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-curl",
+        "name": "Curl de Bíceps alterno con Mancuernas",
+        "nameEn": "Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-curl",
+        "name": "Curl Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "biceps-wall-stretch",
+    "name": "Estiramiento de Bíceps contra la Pared",
+    "nameEn": "Wall Biceps and Anterior Shoulder Stretch",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estiramiento",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de estiramiento de bíceps contra la pared sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Stretch/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "kettlebell-crush-curl",
+    "name": "Curl de Bíceps Comprimiendo Pesa Rusa (Crush Curl)",
+    "nameEn": "Kettlebell Crush Grip Biceps Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Chest",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para curl de bíceps comprimiendo pesa rusa (crush curl).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [],
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Pecho / Pectoral",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Antebrazos"
+    ],
+    "equipmentEs": "Pesa Rusa (Kettlebell)",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Clean/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Clean/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trx-biceps-curl-overhead",
+        "name": "Curl de Bíceps en Suspensión",
+        "nameEn": "TRX Suspension Biceps Curl",
+        "equipment": "TRX",
+        "equipmentEs": "TRX / Suspensión",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Cable_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Cable_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-curl",
+        "name": "Curl de Bíceps alterno con Mancuernas",
+        "nameEn": "Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "preacher-curl-ez-bar-machine",
+    "name": "Curl Predicador en Máquina de Palanca",
+    "nameEn": "Machine Preacher Arm Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para curl predicador en máquina de palanca.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Machine_Preacher_Curls/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Machine_Preacher_Curls/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-curl",
+        "name": "Curl de Bíceps alterno con Mancuernas",
+        "nameEn": "Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-curl",
+        "name": "Curl Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cable-biceps-curl-straight-bar",
+    "name": "Curl de Bíceps con Barra Recta en Polea Baja",
+    "nameEn": "Standing Low Cable Biceps Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para curl de bíceps con barra recta en polea baja.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Polea con Cable",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-curl",
+        "name": "Curl de Bíceps alterno con Mancuernas",
+        "nameEn": "Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-curl",
+        "name": "Curl Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "concentration-curl-seated",
+    "name": "Curl Concentrado con Mancuerna Apoyo en Muslo",
+    "nameEn": "Seated Concentration Dumbbell Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para curl concentrado con mancuerna apoyo en muslo.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Dumbbell_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Dumbbell_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "preacher-curl",
+        "name": "Curl Predicador en Banco Scott",
+        "nameEn": "Preacher Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "cable-curl",
+        "name": "Curl de Bíceps en Polea",
+        "nameEn": "Cable Bicep Curl",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "drag-curl-barbell",
+    "name": "Drag Curl con Barra Rozando el Torso",
+    "nameEn": "Barbell Drag Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para drag curl con barra rozando el torso.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Drag_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Drag_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-curl",
+        "name": "Curl de Bíceps alterno con Mancuernas",
+        "nameEn": "Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-curl",
+        "name": "Curl Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "hammer-curl",
+        "name": "Curl de Bíceps Martillo",
+        "nameEn": "Hammer Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hammer_Curls/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hammer_Curls/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "waiter-curl-dumbbell",
+    "name": "Curl del Camarero con Una Sola Mancuerna",
+    "nameEn": "Waiter Dumbbell Biceps Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para curl del camarero con una sola mancuerna.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Mancuernas",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "preacher-curl",
+        "name": "Curl Predicador en Banco Scott",
+        "nameEn": "Preacher Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Preacher_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "cable-curl",
+        "name": "Curl de Bíceps en Polea",
+        "nameEn": "Cable Bicep Curl",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Biceps_Cable_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "trx-biceps-curl-overhead",
+    "name": "Curl de Bíceps en Suspensión",
+    "nameEn": "TRX Suspension Biceps Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para curl de bíceps en suspensión.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ],
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "TRX / Suspensión",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Cable_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Cable_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "kettlebell-crush-curl",
+        "name": "Curl de Bíceps Comprimiendo Pesa Rusa (Crush Curl)",
+        "nameEn": "Kettlebell Crush Grip Biceps Curl",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Two-Arm_Kettlebell_Clean/1.jpg"
+        ]
+      },
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-curl",
+        "name": "Curl de Bíceps alterno con Mancuernas",
+        "nameEn": "Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+        ]
+      }
+    ]
+  }
+]

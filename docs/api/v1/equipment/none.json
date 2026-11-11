@@ -1,0 +1,503 @@
+[
+  {
+    "id": "back-hyperextension",
+    "name": "Hiperextensiones Lumbares",
+    "nameEn": "Back Hyperextension",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "equipment": "None",
+    "difficulty": "Principiante",
+    "forceType": "Core",
+    "instructions": [
+      "Colócate en el banco de hiperextensiones con los tobillos asegurados.",
+      "Flexiona la cadera bajando el torso de forma controlada con la espalda recta.",
+      "Contrae la espalda baja y glúteos para levantar el torso hasta alinearlo con tus piernas."
+    ],
+    "alternatives": [
+      "deadlift"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Sin Equipamiento",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-row",
+        "name": "Remo con Barra",
+        "nameEn": "Barbell Row",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/1.jpg"
+        ]
+      },
+      {
+        "id": "t-bar-row",
+        "name": "Remo en Barra T",
+        "nameEn": "T-Bar Row",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-single-row",
+        "name": "Remo a una Mano con Mancuerna",
+        "nameEn": "Dumbbell Single-Arm Row",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "front-plate-raise",
+    "name": "Elevaciones Frontales con Disco",
+    "nameEn": "Front Plate Raise",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [],
+    "equipment": "None",
+    "difficulty": "Principiante",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sostén un disco de peso con ambas manos a los lados del disco.",
+      "Eleva el disco hacia adelante a la altura del pecho superior.",
+      "Baja controladamente hacia los muslos."
+    ],
+    "alternatives": [
+      "front-dumbbell-raise"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Sin Equipamiento",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Plate_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Plate_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "lateral-raise",
+        "name": "Elevaciones Laterales con Mancuernas",
+        "nameEn": "Dumbbell Lateral Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Lateral_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Lateral_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "cable-lateral-raise",
+        "name": "Elevaciones Laterales en Polea",
+        "nameEn": "Cable Lateral Raise",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "machine-lateral-raise",
+        "name": "Elevaciones Laterales en Máquina",
+        "nameEn": "Machine Lateral Raise",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Lateral_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Lateral_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ab-plank",
+    "name": "Plancha Abdominal",
+    "nameEn": "Abdominal Plank",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Back"
+    ],
+    "equipment": "None",
+    "difficulty": "Principiante",
+    "forceType": "Core",
+    "instructions": [
+      "Apoya tus antebrazos en el suelo alineando los codos justo bajo los hombros.",
+      "Estira tus piernas atrás apoyando las puntas de tus pies.",
+      "Contrae activamente el abdomen, los glúteos y las piernas creando fuerza en bloque.",
+      "Evita dejar caer la zona lumbar, mantén el cuello alineado neutro respirando rítmicamente."
+    ],
+    "alternatives": [
+      "hanging-leg-raise",
+      "ab-crunch"
+    ],
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Sin Equipamiento",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      },
+      {
+        "id": "l-sit-floor",
+        "name": "L-Sit en el Suelo",
+        "nameEn": "Floor L-Sit",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ab-crunch",
+    "name": "Crunch Abdominal",
+    "nameEn": "Abdominal Crunch",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [],
+    "equipment": "None",
+    "difficulty": "Principiante",
+    "forceType": "Core",
+    "instructions": [
+      "Acuéstate de espaldas con las rodillas flexionadas y pies en el suelo.",
+      "Coloca las manos ligeramente detrás de las orejas.",
+      "Eleva los hombros del suelo contrayendo el recto abdominal, sin tirar del cuello.",
+      "Baja con control."
+    ],
+    "alternatives": [
+      "ab-plank",
+      "hanging-leg-raise"
+    ],
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Sin Equipamiento",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      },
+      {
+        "id": "l-sit-floor",
+        "name": "L-Sit en el Suelo",
+        "nameEn": "Floor L-Sit",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ab-wheel-rollout",
+    "name": "Rueda Abdominal",
+    "nameEn": "Ab Wheel Rollout",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Back",
+      "Shoulders"
+    ],
+    "equipment": "None",
+    "difficulty": "Avanzado",
+    "forceType": "Core",
+    "instructions": [
+      "Arrodíllate en el suelo y sostén la rueda abdominal delante de ti.",
+      "Rueda la rueda hacia el frente estirando el cuerpo en una línea recta horizontal.",
+      "Contrae fuertemente el abdomen para regresar a la posición vertical."
+    ],
+    "alternatives": [
+      "ab-plank"
+    ],
+    "category": "Fuerza",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Sin Equipamiento",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Roller/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "russian-twist",
+        "name": "Giro Ruso con Disco/Mancuerna",
+        "nameEn": "Russian Twist",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Russian_Twist/1.jpg"
+        ]
+      },
+      {
+        "id": "l-sit-floor",
+        "name": "L-Sit en el Suelo",
+        "nameEn": "Floor L-Sit",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jump-rope",
+    "name": "Salto de Cuerda",
+    "nameEn": "Jump Rope",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves",
+      "Shoulders"
+    ],
+    "equipment": "None",
+    "difficulty": "Principiante",
+    "forceType": "Cardio",
+    "instructions": [
+      "Sostén los mangos a los lados de tus caderas.",
+      "Salta en las puntas de los pies mientras rotas la cuerda con las muñecas."
+    ],
+    "alternatives": [
+      "treadmill-run"
+    ],
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Sin Equipamiento",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "treadmill-run",
+        "name": "Carrera en Cinta",
+        "nameEn": "Treadmill Run",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/1.jpg"
+        ]
+      },
+      {
+        "id": "stationary-bike",
+        "name": "Bicicleta Estática",
+        "nameEn": "Stationary Bike",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      },
+      {
+        "id": "rowing-machine",
+        "name": "Máquina de Remo (Ergómetro)",
+        "nameEn": "Rowing Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"
+        ]
+      }
+    ]
+  }
+]

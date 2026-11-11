@@ -1,0 +1,3446 @@
+[
+  {
+    "id": "chest-press-machine",
+    "name": "Press de Pecho en Máquina",
+    "nameEn": "Machine Chest Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la altura del asiento para que los agarres queden alineados con la mitad del pecho.",
+      "Apoya la espalda firmemente contra el respaldo y toma los agarres.",
+      "Empuja hacia adelante extendiendo los brazos sin bloquear por completo los codos.",
+      "Regresa lentamente sintiendo la tensión constante en los pectorales."
+    ],
+    "alternatives": [
+      "barbell-bench-press",
+      "dumbbell-bench-press"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leverage_Chest_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leverage_Chest_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-bench-press",
+        "name": "Press de Banca con Barra",
+        "nameEn": "Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-bench-press",
+        "name": "Press de Banca con Mancuernas",
+        "nameEn": "Dumbbell Bench Press",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bench_Press/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-barbell-bench-press",
+        "name": "Press de Banca Inclinado con Barra",
+        "nameEn": "Incline Barbell Bench Press",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Incline_Bench_Press_-_Medium_Grip/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pec-deck-fly",
+    "name": "Aperturas en Contratora (Pec Deck)",
+    "nameEn": "Pec Deck Fly",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Empuje",
+    "instructions": [
+      "Siéntate con la espalda apoyada y los brazos extendidos hacia los lados tomando los agarres.",
+      "Junta los agarres en el centro contrayendo activamente el pecho.",
+      "Regresa lentamente al punto de inicio sin permitir que las pesas toquen el bloque."
+    ],
+    "alternatives": [
+      "dumbbell-fly",
+      "cable-crossover"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Pecho / Pectoral",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Butterfly/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "dumbbell-fly",
+        "name": "Aperturas con Mancuernas",
+        "nameEn": "Dumbbell Fly",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-fly",
+        "name": "Aperturas Inclinadas con Mancuernas",
+        "nameEn": "Incline Dumbbell Fly",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-flyes",
+        "name": "Aperturas Inclinadas con Mancuernas",
+        "nameEn": "Incline Dumbbell Flyes",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Chest",
+        "primaryMuscleEs": "Pecho / Pectoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Flyes/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "assisted-pull-up",
+    "name": "Dominadas Asistidas en Máquina",
+    "nameEn": "Assisted Pull-Up",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Biceps",
+      "Forearms"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Tirón",
+    "instructions": [
+      "Selecciona el peso de asistencia adecuado (a mayor peso, más fácil).",
+      "Coloca las rodillas o pies en la plataforma de asistencia.",
+      "Sujeta las barras superiores y realiza el movimiento de dominada controlando el descenso."
+    ],
+    "alternatives": [
+      "lat-pulldown",
+      "pull-up"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Assisted_Pull-Up/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "lat-pulldown",
+        "name": "Jalón al Pecho en Polea",
+        "nameEn": "Lat Pulldown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Lat_Pulldown/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Wide-Grip_Lat_Pulldown/1.jpg"
+        ]
+      },
+      {
+        "id": "pull-up",
+        "name": "Dominadas Prone",
+        "nameEn": "Pull-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Pullups/1.jpg"
+        ]
+      },
+      {
+        "id": "chin-up",
+        "name": "Dominadas Supinas",
+        "nameEn": "Chin-Up",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin-Up/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Chin-Up/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "t-bar-row",
+    "name": "Remo en Barra T",
+    "nameEn": "T-Bar Row",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Biceps",
+      "Forearms"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Intermedio",
+    "forceType": "Tirón",
+    "instructions": [
+      "Colócate en la plataforma de la barra T y flexiona las rodillas y cadera.",
+      "Toma las manijas con un agarre neutro o prono.",
+      "Manteniendo la espalda recta, jala el peso hacia el pecho contrayendo la espalda media.",
+      "Baja lentamente el peso extendiendo los brazos."
+    ],
+    "alternatives": [
+      "barbell-row",
+      "seated-cable-row"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/T-Bar_Row_with_Handle/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-row",
+        "name": "Remo con Barra",
+        "nameEn": "Barbell Row",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-single-row",
+        "name": "Remo a una Mano con Mancuerna",
+        "nameEn": "Dumbbell Single-Arm Row",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-cable-row",
+        "name": "Remo Sentado en Polea con Agarre Gironda",
+        "nameEn": "Seated Cable Row",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Cable_Rows/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Cable_Rows/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "machine-lateral-raise",
+    "name": "Elevaciones Laterales en Máquina",
+    "nameEn": "Machine Lateral Raise",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Empuje",
+    "instructions": [
+      "Siéntate en la máquina apoyando los brazos contra las almohadillas.",
+      "Eleva los codos hacia afuera contrayendo los hombros.",
+      "Baja controladamente resistiendo el peso."
+    ],
+    "alternatives": [
+      "lateral-raise",
+      "cable-lateral-raise"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Lateral_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Lateral_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "lateral-raise",
+        "name": "Elevaciones Laterales con Mancuernas",
+        "nameEn": "Dumbbell Lateral Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Lateral_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Lateral_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "cable-lateral-raise",
+        "name": "Elevaciones Laterales en Polea",
+        "nameEn": "Cable Lateral Raise",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "front-dumbbell-raise",
+        "name": "Elevaciones Frontales con Mancuernas",
+        "nameEn": "Front Dumbbell Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Dumbbell_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Dumbbell_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reverse-pec-deck",
+    "name": "Aperturas Inversas en Máquina",
+    "nameEn": "Reverse Pec Deck Fly",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Back"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Tirón",
+    "instructions": [
+      "Siéntate mirando hacia la máquina contratora.",
+      "Toma los agarres a nivel de los hombros con los codos ligeramente flexionados.",
+      "Jala hacia atrás abriendo los brazos hasta contraer el deltoides posterior."
+    ],
+    "alternatives": [
+      "rear-delt-fly",
+      "face-pull"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Machine_Flyes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Machine_Flyes/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "lateral-raise",
+        "name": "Elevaciones Laterales con Mancuernas",
+        "nameEn": "Dumbbell Lateral Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Lateral_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Lateral_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "cable-lateral-raise",
+        "name": "Elevaciones Laterales en Polea",
+        "nameEn": "Cable Lateral Raise",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Seated_Lateral_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "front-dumbbell-raise",
+        "name": "Elevaciones Frontales con Mancuernas",
+        "nameEn": "Front Dumbbell Raise",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Dumbbell_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Dumbbell_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hack-squat",
+    "name": "Sentadilla Hack en Máquina",
+    "nameEn": "Hack Squat Machine",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Intermedio",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Apoya la espalda en el respaldo de la máquina Hack y coloca los hombros bajo las almohadillas.",
+      "Coloca los pies al ancho de hombros en la plataforma.",
+      "Baja de forma controlada flexionando las rodillas.",
+      "Empuja la plataforma hacia arriba extendiendo las piernas."
+    ],
+    "alternatives": [
+      "barbell-squat",
+      "leg-press"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "zercher-squat-barbell",
+        "name": "Sentadilla Zercher con Barra en el Pliegue de los Codos",
+        "nameEn": "Zercher Squat with Barbell in Elbow Crook",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/1.jpg"
+        ]
+      },
+      {
+        "id": "safety-bar-squat",
+        "name": "Sentadilla con Barra de Seguridad (SSB Squat)",
+        "nameEn": "Safety Squat Bar (SSB) Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leg-press",
+    "name": "Prensa de Pierna de 45 Grados",
+    "nameEn": "Leg Press",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Acomódate en el asiento de la prensa recargando la espalda lumbar contra el respaldo.",
+      "Coloca los pies en la plataforma en un patrón medio al ancho de caderas.",
+      "Quita los pestillos de seguridad y baja la plataforma doblando las rodillas hasta un ángulo aproximado de 90 grados.",
+      "Empuja con el talón y el tercio medio de la planta sin bloquear tus rodillas de golpe arriba."
+    ],
+    "alternatives": [
+      "barbell-squat",
+      "leg-extension"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "zercher-squat-barbell",
+        "name": "Sentadilla Zercher con Barra en el Pliegue de los Codos",
+        "nameEn": "Zercher Squat with Barbell in Elbow Crook",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/1.jpg"
+        ]
+      },
+      {
+        "id": "safety-bar-squat",
+        "name": "Sentadilla con Barra de Seguridad (SSB Squat)",
+        "nameEn": "Safety Squat Bar (SSB) Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leg-extension",
+    "name": "Extensiones de Cuádriceps en Máquina",
+    "nameEn": "Leg Extension",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Siéntate ajustando la almohadilla del rodillo sobre tus tobillos.",
+      "Sostén los agarres laterales para evitar levantar el trasero.",
+      "Extiende las piernas por completo levantando el rodillo.",
+      "Baja lentamente resistiendo la carga."
+    ],
+    "alternatives": [
+      "leg-press",
+      "barbell-squat"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Extensions/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Extensions/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "zercher-squat-barbell",
+        "name": "Sentadilla Zercher con Barra en el Pliegue de los Codos",
+        "nameEn": "Zercher Squat with Barbell in Elbow Crook",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/1.jpg"
+        ]
+      },
+      {
+        "id": "safety-bar-squat",
+        "name": "Sentadilla con Barra de Seguridad (SSB Squat)",
+        "nameEn": "Safety Squat Bar (SSB) Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lying-leg-curl",
+    "name": "Curl Femoral Acostado",
+    "nameEn": "Lying Leg Curl",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Acuéstate boca abajo en la máquina de curl femoral.",
+      "Ubica el rodillo sobre los talones superiores.",
+      "Flexiona las rodillas jalando el peso hacia los glúteos.",
+      "Extiende controladamente las piernas."
+    ],
+    "alternatives": [
+      "seated-leg-curl",
+      "dumbbell-rdl"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-leg-curl",
+    "name": "Curl Femoral Sentado",
+    "nameEn": "Seated Leg Curl",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Siéntate y asegura el soporte de rodillas firmemente.",
+      "Coloca los talones sobre el rodillo de resistencia.",
+      "Flexiona las piernas empujando el rodillo hacia abajo.",
+      "Regresa despacio estirando por completo."
+    ],
+    "alternatives": [
+      "lying-leg-curl",
+      "romanian-deadlift"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Leg_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Leg_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-calf-raise",
+    "name": "Elevación de Gemelos Sentado",
+    "nameEn": "Seated Calf Raise",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Siéntate en la máquina apoyando la almohadilla sobre tus muslos bajos.",
+      "Coloca la punta de los pies en el bloque.",
+      "Eleva las puntas quitando el seguro, baja los talones al máximo y vuelve a elevar extendiendo al máximo el tobillo."
+    ],
+    "alternatives": [
+      "standing-calf-raise"
+    ],
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "standing-calf-raise",
+        "name": "Elevación de Gemelos de Pie con Barra",
+        "nameEn": "Standing Barbell Calf Raise",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "smith-machine-standing-calf-raise",
+        "name": "Elevación de Talones de Pie en Máquina Smith",
+        "nameEn": "Smith Machine Standing Calf Raise on Block",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "single-leg-isometric-calf-raise",
+        "name": "Sostenimiento Isométrico de Gemelo en Punta de Pie",
+        "nameEn": "Single-Leg Isometric Calf Raise Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "treadmill-run",
+    "name": "Carrera en Cinta",
+    "nameEn": "Treadmill Run",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Quads",
+      "Calves"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Cardio",
+    "instructions": [
+      "Configura la velocidad e inclinación en el monitor de control de la cinta.",
+      "Mantén tu postura erguida, la vista hacia el frente y un apoyo uniforme del pie.",
+      "Disfruta de una rutina constante de baja intensidad (LISS) o sprints rápidos progresivos."
+    ],
+    "alternatives": [
+      "stationary-bike",
+      "rowing-machine"
+    ],
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "jump-rope",
+        "name": "Salto de Cuerda",
+        "nameEn": "Jump Rope",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+        ]
+      },
+      {
+        "id": "assault-bike-sprint",
+        "name": "Sprint Máximo en Bicicleta de Aire (Air Bike)",
+        "nameEn": "Air Bike All-Out Sprint",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      },
+      {
+        "id": "rowing-machine-500m",
+        "name": "Remoergómetro Prueba de 500 Metros",
+        "nameEn": "Concept2 Rowing Machine 500m Sprint",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stationary-bike",
+    "name": "Bicicleta Estática",
+    "nameEn": "Stationary Bike",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Quads",
+      "Hamstrings"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Cardio",
+    "instructions": [
+      "Ajusta la altura del sillín al nivel de la cadera.",
+      "Pedalea manteniendo una cadencia constante y la columna neutral."
+    ],
+    "alternatives": [
+      "treadmill-run",
+      "elliptical-trainer"
+    ],
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "jump-rope",
+        "name": "Salto de Cuerda",
+        "nameEn": "Jump Rope",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+        ]
+      },
+      {
+        "id": "assault-bike-sprint",
+        "name": "Sprint Máximo en Bicicleta de Aire (Air Bike)",
+        "nameEn": "Air Bike All-Out Sprint",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      },
+      {
+        "id": "rowing-machine-500m",
+        "name": "Remoergómetro Prueba de 500 Metros",
+        "nameEn": "Concept2 Rowing Machine 500m Sprint",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rowing-machine",
+    "name": "Máquina de Remo (Ergómetro)",
+    "nameEn": "Rowing Machine",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Back",
+      "Legs",
+      "Arms"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Intermedio",
+    "forceType": "Cardio",
+    "instructions": [
+      "Siéntate con los pies asegurados en los estribos.",
+      "Empuja con las piernas, inclina el torso atrás y jala el manillar hacia el pecho bajo.",
+      "Regresa las manos, el torso y flexiona las piernas."
+    ],
+    "alternatives": [
+      "treadmill-run"
+    ],
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Legs",
+      "Arms"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "jump-rope",
+        "name": "Salto de Cuerda",
+        "nameEn": "Jump Rope",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+        ]
+      },
+      {
+        "id": "assault-bike-sprint",
+        "name": "Sprint Máximo en Bicicleta de Aire (Air Bike)",
+        "nameEn": "Air Bike All-Out Sprint",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      },
+      {
+        "id": "rowing-machine-500m",
+        "name": "Remoergómetro Prueba de 500 Metros",
+        "nameEn": "Concept2 Rowing Machine 500m Sprint",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "elliptical-trainer",
+    "name": "Elíptica",
+    "nameEn": "Elliptical Trainer",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Quads",
+      "Glutes"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "forceType": "Cardio",
+    "instructions": [
+      "Súbete a los pedales y toma los agarres móviles.",
+      "Muévete en un movimiento fluido de zancada elíptica empujando con brazos y piernas."
+    ],
+    "alternatives": [
+      "stationary-bike",
+      "treadmill-run"
+    ],
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "stabilizers": [
+      "Abs"
+    ],
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "tips": [
+      "Mantén la tensión muscular controlada y evita movimientos bruscos en la fase excéntrica."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica de esfuerzo y toma aire en la fase excéntrica de retorno.",
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Elliptical_Trainer/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Elliptical_Trainer/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "jump-rope",
+        "name": "Salto de Cuerda",
+        "nameEn": "Jump Rope",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+        ]
+      },
+      {
+        "id": "assault-bike-sprint",
+        "name": "Sprint Máximo en Bicicleta de Aire (Air Bike)",
+        "nameEn": "Air Bike All-Out Sprint",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      },
+      {
+        "id": "rowing-machine-500m",
+        "name": "Remoergómetro Prueba de 500 Metros",
+        "nameEn": "Concept2 Rowing Machine 500m Sprint",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "chest-supported-t-bar-row",
+    "name": "Remo en Barra T con Apoyo al Pecho",
+    "nameEn": "Chest-Supported T-Bar Row",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Biceps",
+      "Traps",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Lats"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Apoya el pecho firmemente contra la almohadilla inclinada de la máquina y asegura los pies en las plataformas.",
+      "Toma los agarres con las manos en pronación o agarre neutro con brazos totalmente estirados.",
+      "Tira de las empuñaduras llevando los codos hacia atrás y apretando las escápulas con fuerza en el punto alto.",
+      "Baja el peso con una cadencia controlada de 2 a 3 segundos hasta sentir el estiramiento escapular completo."
+    ],
+    "tips": [
+      "Al tener el pecho apoyado, eliminas por completo la sobrecarga lumbar, permitiendo aislar la espalda alta."
+    ],
+    "breathingCue": "Exhala al traccionar los codos hacia atrás; inhala en la bajada controlada.",
+    "alternatives": [
+      "seated-cable-row"
+    ],
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Trapecio",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Dorsal Ancho"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_T-Bar_Row/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_T-Bar_Row/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-row",
+        "name": "Remo con Barra",
+        "nameEn": "Barbell Row",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Barbell_Row/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-single-row",
+        "name": "Remo a una Mano con Mancuerna",
+        "nameEn": "Dumbbell Single-Arm Row",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/One-Arm_Dumbbell_Row/1.jpg"
+        ]
+      },
+      {
+        "id": "seated-cable-row",
+        "name": "Remo Sentado en Polea con Agarre Gironda",
+        "nameEn": "Seated Cable Row",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Back",
+        "primaryMuscleEs": "Espalda / Dorsal",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Cable_Rows/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Cable_Rows/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hack-squat-machine",
+    "name": "Sentadilla Hack en Máquina",
+    "nameEn": "Hack Squat Machine",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Calves",
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Intermedio",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Apoya la espalda y hombros firmemente contra las almohadillas de la máquina Hack y coloca los pies en el centro de la plataforma.",
+      "Desengancha los seguros laterales y desciende flexionando las rodillas de forma controlada.",
+      "Baja profundamente hasta formar al menos un ángulo de 90 grados o hasta que los muslos toquen las pantorrillas.",
+      "Empuja la plataforma con toda la planta de los pies extendiendo las rodillas sin bloquearlas de golpe arriba."
+    ],
+    "tips": [
+      "Permite una gran flexión de rodilla con mínimo estrés axial en la columna vertebral."
+    ],
+    "breathingCue": "Inhala al descender; exhala con fuerza al empujar hacia la posición erguida.",
+    "alternatives": [
+      "leg-press-45"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Gemelos / Pantorrillas",
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hack_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "zercher-squat-barbell",
+        "name": "Sentadilla Zercher con Barra en el Pliegue de los Codos",
+        "nameEn": "Zercher Squat with Barbell in Elbow Crook",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/1.jpg"
+        ]
+      },
+      {
+        "id": "safety-bar-squat",
+        "name": "Sentadilla con Barra de Seguridad (SSB Squat)",
+        "nameEn": "Safety Squat Bar (SSB) Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leg-press-45",
+    "name": "Prensa de Piernas a 45 Grados",
+    "nameEn": "45-Degree Leg Press",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Calves"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Siéntate en la máquina apoyando la zona lumbar firmemente contra el respaldo sin despegar los glúteos del asiento.",
+      "Coloca los pies en la plataforma a la anchura de los hombros y quita los topes de seguridad con las palancas laterales.",
+      "Flexiona las piernas bajando la plataforma de manera fluida hasta que las rodillas queden cerca del pecho a 90 grados.",
+      "Empuja con los talones y parte media del pie regresando la plataforma sin extender bruscamente las rodillas al final."
+    ],
+    "tips": [
+      "Nunca despegues la pelvis del respaldo en el punto más profundo para proteger la zona sacrolumbar."
+    ],
+    "breathingCue": "Inhala profundo en la bajada; exhala al empujar la plataforma.",
+    "alternatives": [
+      "hack-squat-machine"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Gemelos / Pantorrillas"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "zercher-squat-barbell",
+        "name": "Sentadilla Zercher con Barra en el Pliegue de los Codos",
+        "nameEn": "Zercher Squat with Barbell in Elbow Crook",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/1.jpg"
+        ]
+      },
+      {
+        "id": "safety-bar-squat",
+        "name": "Sentadilla con Barra de Seguridad (SSB Squat)",
+        "nameEn": "Safety Squat Bar (SSB) Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-leg-curl-machine",
+    "name": "Curl Femoral Sentado en Máquina",
+    "nameEn": "Seated Leg Curl Machine",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Ajusta el respaldo para que el eje de rotación de la máquina coincida con tus rodillas y asegura la almohadilla superior sobre tus muslos.",
+      "Coloca la parte posterior de los tobillos sobre el rodillo inferior acolchado.",
+      "Flexiona las piernas hacia abajo y atrás contrayendo los isquiotibiales hasta el tope de recorrido.",
+      "Aguanta un instante la contracción y permite que el rodillo suba despacio en 3 segundos sintiendo el estiramiento excéntrico."
+    ],
+    "tips": [
+      "Al tener la cadera flexionada en posición sentada, los isquiotibiales se estiran más, generando mayor hipertrofia."
+    ],
+    "breathingCue": "Exhala al flexionar las piernas hacia atrás; inhala al regresar a la extensión.",
+    "alternatives": [
+      "lying-leg-curl-machine",
+      "romanian-deadlift"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Leg_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Leg_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "lying-leg-curl-machine",
+    "name": "Curl Femoral Tumbado en Máquina",
+    "nameEn": "Lying Leg Curl Machine",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Acuéstate boca abajo en el banco de la máquina encajando los tobillos bajo el rodillo acolchado.",
+      "Sujeta firmemente las asas laterales y mantén la pelvis pegada al tapizado.",
+      "Flexiona las rodillas llevando los talones hacia los glúteos de forma decidida.",
+      "Desciende despacio resistiendo la carga hasta estirar casi por completo las piernas."
+    ],
+    "tips": [
+      "No levantes las caderas del banco durante la flexión para evitar compensaciones con la zona lumbar."
+    ],
+    "breathingCue": "Exhala al doblar las rodillas; inhala al extender lentamente.",
+    "alternatives": [
+      "seated-leg-curl-machine"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lying_Leg_Curls/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leg-extension-machine",
+    "name": "Extensión de Cuádriceps en Máquina",
+    "nameEn": "Leg Extension Machine",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Siéntate con la espalda apoyada y los tobillos colocados detrás del rodillo inferior acolchado.",
+      "Agarra las asas laterales para fijar el torso en el asiento.",
+      "Extiende las piernas hacia arriba contrayendo los cuádriceps hasta quedar paralelas al suelo.",
+      "Mantén la contracción durante un segundo en la posición más alta y baja con control en 3 segundos."
+    ],
+    "tips": [
+      "Ideal para trabajar el recto femoral en aislamiento completo sin sobrecarga de estabilizadores."
+    ],
+    "breathingCue": "Exhala al extender las piernas hacia arriba; inhala al descender despacio.",
+    "alternatives": [
+      "hack-squat-machine"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Extensions/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Extensions/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "zercher-squat-barbell",
+        "name": "Sentadilla Zercher con Barra en el Pliegue de los Codos",
+        "nameEn": "Zercher Squat with Barbell in Elbow Crook",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/1.jpg"
+        ]
+      },
+      {
+        "id": "safety-bar-squat",
+        "name": "Sentadilla con Barra de Seguridad (SSB Squat)",
+        "nameEn": "Safety Squat Bar (SSB) Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-calf-raise-machine",
+    "name": "Elevación de Talones Sentado en Máquina (Sóleo)",
+    "nameEn": "Seated Calf Raise Machine",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Flexión/Extensión",
+    "instructions": [
+      "Siéntate en la máquina de gemelos apoyando la parte delantera de los pies en la plataforma y los muslos bajo el acolchado.",
+      "Quita la palanca de seguridad y desciende los talones todo lo posible sintiendo el estiramiento profundo del sóleo.",
+      "Empuja sobre las puntas de los pies elevando los talones a la máxima altura.",
+      "Pausa un segundo arriba y baja despacio manteniendo una cadencia estricta."
+    ],
+    "tips": [
+      "Al tener las rodillas flexionadas a 90°, el gastrocnemio se inhibe y el sóleo asume prácticamente toda la carga."
+    ],
+    "breathingCue": "Exhala al elevar los talones; inhala en el descenso.",
+    "alternatives": [
+      "standing-calf-raise"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Calf_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "standing-calf-raise",
+        "name": "Elevación de Gemelos de Pie con Barra",
+        "nameEn": "Standing Barbell Calf Raise",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "smith-machine-standing-calf-raise",
+        "name": "Elevación de Talones de Pie en Máquina Smith",
+        "nameEn": "Smith Machine Standing Calf Raise on Block",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "single-leg-isometric-calf-raise",
+        "name": "Sostenimiento Isométrico de Gemelo en Punta de Pie",
+        "nameEn": "Single-Leg Isometric Calf Raise Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "adductor-machine",
+    "name": "Aductores en Máquina Sentado",
+    "nameEn": "Seated Hip Adductor Machine",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Empuje",
+    "instructions": [
+      "Siéntate en la máquina de aducción ajustando las almohadillas por la parte interna de las rodillas.",
+      "Abre las piernas a un rango cómodo donde sientas un estiramiento suave en la cara interna de los muslos.",
+      "Junta las rodillas empujando hacia el centro contrayendo los aductores de forma controlada.",
+      "Pausa un segundo en el cierre y abre las piernas despacio resistiendo el peso."
+    ],
+    "tips": [
+      "Refuerza la estabilidad de la pelvis en sentadillas pesadas y cambios de dirección deportivos."
+    ],
+    "breathingCue": "Exhala al cerrar las piernas al centro; inhala al abrir.",
+    "alternatives": [
+      "abductor-machine"
+    ],
+    "primaryMuscleEs": "Aductores (Cara Interna)",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Adductor/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "foam-roll-adductors",
+        "name": "Liberación de Aductores en Posición de Rana",
+        "nameEn": "Foam Rolling Adductor Complex",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Adductor/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-hip-adduction-cable",
+        "name": "Aducción de Cadera de Pie en Polea",
+        "nameEn": "Standing Cable Hip Adduction",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+        ]
+      },
+      {
+        "id": "frog-stretch-mobility",
+        "name": "Postura de la Rana (Frog Stretch)",
+        "nameEn": "Frog Mobility Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Adductors",
+        "primaryMuscleEs": "Aductores (Cara Interna)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Groiners/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "abductor-machine",
+    "name": "Abductores en Máquina Sentado (Glúteo Medio)",
+    "nameEn": "Seated Hip Abductor Machine",
+    "primaryMuscle": "Abductors",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Empuje",
+    "instructions": [
+      "Siéntate apoyando la espalda contra el respaldo y coloca la parte externa de las rodillas contra los rodillos.",
+      "Empuja hacia afuera separando las piernas con fuerza del glúteo medio y abductores.",
+      "Mantén la apertura máxima un segundo y regresa despacio hasta la posición inicial sin dejar caer las placas."
+    ],
+    "tips": [
+      "Inclinarse levemente hacia adelante suele enfocar mejor las fibras superiores del glúteo."
+    ],
+    "breathingCue": "Exhala al separar las piernas hacia afuera; inhala al cerrar.",
+    "alternatives": [
+      "adductor-machine"
+    ],
+    "primaryMuscleEs": "Abductores (Glúteo Medio)",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Thigh_Abductor/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "foam-roll-it-band-tfl",
+        "name": "Liberación del Tensor de la Fascia Lata y Banda Iliotibial",
+        "nameEn": "Foam Rolling IT Band and Tensor Fasciae Latae",
+        "equipment": "FoamRoller",
+        "equipmentEs": "Rodillo de Espuma",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Iliotibial_Tract-SMR/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-hip-abduction-cable",
+        "name": "Abducción de Cadera de Pie en Polea",
+        "nameEn": "Standing Cable Hip Abduction",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Hip_Adduction/1.jpg"
+        ]
+      },
+      {
+        "id": "side-lying-hip-abduction-straight-leg",
+        "name": "Elevación Lateral de Pierna Recta Tumbado",
+        "nameEn": "Side-Lying Straight Leg Hip Abduction",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abductors",
+        "primaryMuscleEs": "Abductores (Glúteo Medio)",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Side_Leg_Raises/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "captain-chair-leg-raise",
+    "name": "Elevación de Piernas en Silla del Capitán",
+    "nameEn": "Captain’s Chair Vertical Leg Raise",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para elevación de piernas en silla del capitán con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Abdomen / Core",
+    "secondaryMusclesEs": [
+      "Flexores de Cadera / Psoas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Ab_Crunch_Machine/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "ab-plank",
+        "name": "Plancha Abdominal",
+        "nameEn": "Abdominal Plank",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Plank/1.jpg"
+        ]
+      },
+      {
+        "id": "ab-crunch",
+        "name": "Crunch Abdominal",
+        "nameEn": "Abdominal Crunch",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Crunches/1.jpg"
+        ]
+      },
+      {
+        "id": "hanging-leg-raise",
+        "name": "Elevación de Piernas Colgado",
+        "nameEn": "Hanging Leg Raise",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Abs",
+        "primaryMuscleEs": "Abdomen / Core",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hanging_Leg_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "back-hyperextension-45-degree",
+    "name": "Hiperextensión a 45 Grados en Banco Romano",
+    "nameEn": "45-Degree Back Extension on Roman Chair",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para hiperextensión a 45 grados en banco romano con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "reverse-hyperextension-bench",
+        "name": "Hiperextensión Inversa en Banco para Cadena Posterior",
+        "nameEn": "Reverse Hyperextension on Flat Bench",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
+        ]
+      },
+      {
+        "id": "good-morning-barbell-heavy",
+        "name": "Buenos Días con Barra para Erectores Espinales",
+        "nameEn": "Barbell Good Morning",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/1.jpg"
+        ]
+      },
+      {
+        "id": "arch-body-hold-superman",
+        "name": "Posición de Arco / Superman Isométrico",
+        "nameEn": "Superman Arch Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "reverse-pec-deck-rear-delts",
+    "name": "Pájaro en Máquina Pec-Deck Inversa",
+    "nameEn": "Reverse Pec-Deck Rear Delt Flye",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para pájaro en máquina pec-deck inversa.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Trapecio",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Machine_Flyes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Reverse_Machine_Flyes/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "incline-dumbbell-rear-delt-flye",
+        "name": "Pájaros con Mancuernas en Banco Inclinado",
+        "nameEn": "Incline Prone Dumbbell Rear Delt Flye",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bent_Over_Dumbbell_Rear_Delt_Raise_With_Head_On_Bench/1.jpg"
+        ]
+      },
+      {
+        "id": "face-pull-rope",
+        "name": "Face Pull con Cuerda en Polea",
+        "nameEn": "Rope Cable Face Pull",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Face_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "band-pull-apart-warmup",
+        "name": "Separaciones de Banda Elástica al Pecho (Pull-Apart)",
+        "nameEn": "Band Pull-Apart Warmup",
+        "equipment": "Band",
+        "equipmentEs": "Banda Elástica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Band_Pull_Apart/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "preacher-curl-ez-bar-machine",
+    "name": "Curl Predicador en Máquina de Palanca",
+    "nameEn": "Machine Preacher Arm Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para curl predicador en máquina de palanca.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Bíceps",
+    "secondaryMusclesEs": [
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Machine_Preacher_Curls/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Machine_Preacher_Curls/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-curl",
+        "name": "Curl de Bíceps con Barra EZ",
+        "nameEn": "Barbell Curl",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-curl",
+        "name": "Curl de Bíceps alterno con Mancuernas",
+        "nameEn": "Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Bicep_Curl/1.jpg"
+        ]
+      },
+      {
+        "id": "incline-dumbbell-curl",
+        "name": "Curl Inclinado con Mancuernas",
+        "nameEn": "Incline Dumbbell Curl",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Biceps",
+        "primaryMuscleEs": "Bíceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Incline_Dumbbell_Curl/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-triceps-dip-machine",
+    "name": "Fondos de Tríceps Sentado en Máquina",
+    "nameEn": "Seated Dip Machine for Triceps",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscles": [
+      "Chest",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para fondos de tríceps sentado en máquina.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Tríceps",
+    "secondaryMusclesEs": [
+      "Pecho / Pectoral",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dip_Machine/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "diamond-pushdown-cable",
+        "name": "Extensión de Tríceps con Agarre en V en Polea",
+        "nameEn": "V-Bar Cable Triceps Pushdown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown_-_V-Bar_Attachment/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown_-_V-Bar_Attachment/1.jpg"
+        ]
+      },
+      {
+        "id": "triceps-pushdown",
+        "name": "Extensión de Tríceps en Polea Alta",
+        "nameEn": "Triceps Cable Pushdown",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Triceps_Pushdown/1.jpg"
+        ]
+      },
+      {
+        "id": "overhead-cable-extension",
+        "name": "Extensión de Tríceps sobre la Cabeza en Polea",
+        "nameEn": "Overhead Cable Triceps Extension",
+        "equipment": "Cable",
+        "equipmentEs": "Polea con Cable",
+        "primaryMuscle": "Triceps",
+        "primaryMuscleEs": "Tríceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Rope_Overhead_Triceps_Extension/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cable_Rope_Overhead_Triceps_Extension/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "belt-squat-machine",
+    "name": "Sentadilla con Cinturón en Máquina (Belt Squat)",
+    "nameEn": "Belt Squat Machine (Spinal-Free)",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para sentadilla con cinturón en máquina (belt squat).",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "zercher-squat-barbell",
+        "name": "Sentadilla Zercher con Barra en el Pliegue de los Codos",
+        "nameEn": "Zercher Squat with Barbell in Elbow Crook",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/1.jpg"
+        ]
+      },
+      {
+        "id": "safety-bar-squat",
+        "name": "Sentadilla con Barra de Seguridad (SSB Squat)",
+        "nameEn": "Safety Squat Bar (SSB) Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sissy-squat-bench-machine",
+    "name": "Sentadilla Sissy en Banco Específico Bloqueado",
+    "nameEn": "Sissy Squat Bench Machine Isolation",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para sentadilla sissy en banco específico bloqueado.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "zercher-squat-barbell",
+        "name": "Sentadilla Zercher con Barra en el Pliegue de los Codos",
+        "nameEn": "Zercher Squat with Barbell in Elbow Crook",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/1.jpg"
+        ]
+      },
+      {
+        "id": "safety-bar-squat",
+        "name": "Sentadilla con Barra de Seguridad (SSB Squat)",
+        "nameEn": "Safety Squat Bar (SSB) Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pendulum-squat-machine",
+    "name": "Sentadilla en Máquina de Péndulo",
+    "nameEn": "Pendulum Squat Machine",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Intermedio",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para sentadilla en máquina de péndulo.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "zercher-squat-barbell",
+        "name": "Sentadilla Zercher con Barra en el Pliegue de los Codos",
+        "nameEn": "Zercher Squat with Barbell in Elbow Crook",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/1.jpg"
+        ]
+      },
+      {
+        "id": "safety-bar-squat",
+        "name": "Sentadilla con Barra de Seguridad (SSB Squat)",
+        "nameEn": "Safety Squat Bar (SSB) Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "glute-ham-raise-ghd",
+    "name": "Elevación Glúteo-Femoral en GHD (Glute Ham Raise)",
+    "nameEn": "Glute Ham Raise on GHD Machine",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Avanzado",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para elevación glúteo-femoral en ghd (glute ham raise).",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Gemelos / Pantorrillas",
+      "Espalda Baja / Lumbar"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Ham_Raise/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Glute_Ham_Raise/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "single-leg-leg-press-45",
+    "name": "Prensa de Piernas Unilateral a 45 Grados",
+    "nameEn": "Single-Leg 45-Degree Leg Press",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para prensa de piernas unilateral a 45 grados.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Leg_Press/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "barbell-squat",
+        "name": "Sentadilla de Espalda con Barra",
+        "nameEn": "Barbell Back Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      },
+      {
+        "id": "zercher-squat-barbell",
+        "name": "Sentadilla Zercher con Barra en el Pliegue de los Codos",
+        "nameEn": "Zercher Squat with Barbell in Elbow Crook",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Zercher_Squats/1.jpg"
+        ]
+      },
+      {
+        "id": "safety-bar-squat",
+        "name": "Sentadilla con Barra de Seguridad (SSB Squat)",
+        "nameEn": "Safety Squat Bar (SSB) Squat",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Full_Squat/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "standing-single-leg-curl-machine",
+    "name": "Curl Femoral de Pie en Máquina Unilateral",
+    "nameEn": "Standing Single-Leg Hamstring Curl Machine",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para curl femoral de pie en máquina unilateral.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Isquiotibiales / Femoral",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Leg_Curl/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Leg_Curl/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "romanian-deadlift",
+        "name": "Peso Muerto Rumano con Barra",
+        "nameEn": "Barbell Romanian Deadlift",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Romanian_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "dumbbell-rdl",
+        "name": "Peso Muerto Rumano con Mancuernas",
+        "nameEn": "Dumbbell Romanian Deadlift",
+        "equipment": "Dumbbell",
+        "equipmentEs": "Mancuernas",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff-Legged_Dumbbell_Deadlift/1.jpg"
+        ]
+      },
+      {
+        "id": "trap-bar-deadlift-low-handles",
+        "name": "Peso Muerto en Barra Hexagonal (Asas Bajas)",
+        "nameEn": "Trap Bar Deadlift Low Handles",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Hamstrings",
+        "primaryMuscleEs": "Isquiotibiales / Femoral",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Trap_Bar_Deadlift/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "donkey-calf-raise-machine",
+    "name": "Elevación de Gemelos Estilo Burro (Donkey Calf)",
+    "nameEn": "Donkey Calf Raise Machine",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para elevación de gemelos estilo burro (donkey calf).",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Donkey_Calf_Raises/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "smith-machine-standing-calf-raise",
+        "name": "Elevación de Talones de Pie en Máquina Smith",
+        "nameEn": "Smith Machine Standing Calf Raise on Block",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-calf-raise",
+        "name": "Elevación de Gemelos de Pie con Barra",
+        "nameEn": "Standing Barbell Calf Raise",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "calf-raise-single-leg-bodyweight",
+        "name": "Elevación de Talón Unilateral en Escalón",
+        "nameEn": "Single-Leg Calf Raise on Step",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "leg-press-calf-raise",
+    "name": "Elevación de Talones en Prensa de Piernas",
+    "nameEn": "Leg Press Toe Press / Calf Raise",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Hipertrofia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta el equipamiento y adopta la colocación anatómica de inicio para elevación de talones en prensa de piernas.",
+      "Ejecuta el recorrido concéntrico completo aplicando fuerza uniforme y sostenida.",
+      "Controla la bajada excéntrica durante 2 a 3 segundos preservando la estabilidad articular."
+    ],
+    "tips": [
+      "Prioriza el control excéntrico y la técnica antes de incrementar el tonelaje de carga."
+    ],
+    "breathingCue": "Exhala en la fase concéntrica positiva; inhala en la fase excéntrica negativa.",
+    "alternatives": [
+      "barbell-bench-press"
+    ],
+    "primaryMuscleEs": "Gemelos / Pantorrillas",
+    "secondaryMusclesEs": [],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press_On_The_Leg_Press_Machine/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Calf_Press_On_The_Leg_Press_Machine/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "smith-machine-standing-calf-raise",
+        "name": "Elevación de Talones de Pie en Máquina Smith",
+        "nameEn": "Smith Machine Standing Calf Raise on Block",
+        "equipment": "SmithMachine",
+        "equipmentEs": "Máquina Smith / Multipower",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Smith_Machine_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "standing-calf-raise",
+        "name": "Elevación de Gemelos de Pie con Barra",
+        "nameEn": "Standing Barbell Calf Raise",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Barbell_Calf_Raise/1.jpg"
+        ]
+      },
+      {
+        "id": "calf-raise-single-leg-bodyweight",
+        "name": "Elevación de Talón Unilateral en Escalón",
+        "nameEn": "Single-Leg Calf Raise on Step",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Calves",
+        "primaryMuscleEs": "Gemelos / Pantorrillas",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Seated_One-Leg_Calf_Raise/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Dumbbell_Seated_One-Leg_Calf_Raise/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "treadmill-incline-power-walk",
+    "name": "Marcha Rápida en Cinta con Inclinación Máxima",
+    "nameEn": "Steep Incline Treadmill Power Walk",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves",
+      "Glutes",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de marcha rápida en cinta con inclinación máxima a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas",
+      "Glúteos",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Walking_Treadmill/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Walking_Treadmill/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "jump-rope",
+        "name": "Salto de Cuerda",
+        "nameEn": "Jump Rope",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+        ]
+      },
+      {
+        "id": "assault-bike-sprint",
+        "name": "Sprint Máximo en Bicicleta de Aire (Air Bike)",
+        "nameEn": "Air Bike All-Out Sprint",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      },
+      {
+        "id": "rowing-machine-500m",
+        "name": "Remoergómetro Prueba de 500 Metros",
+        "nameEn": "Concept2 Rowing Machine 500m Sprint",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "stairmaster-intervals",
+    "name": "Escaladora Continua en Intervalos (StairMaster)",
+    "nameEn": "StairMaster Step Climber Intervals",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Glutes",
+      "Quads",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de escaladora continua en intervalos (stairmaster) a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Cuádriceps",
+      "Gemelos / Pantorrillas"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stairmaster/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stairmaster/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "jump-rope",
+        "name": "Salto de Cuerda",
+        "nameEn": "Jump Rope",
+        "equipment": "None",
+        "equipmentEs": "Sin Equipamiento",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+        ]
+      },
+      {
+        "id": "assault-bike-sprint",
+        "name": "Sprint Máximo en Bicicleta de Aire (Air Bike)",
+        "nameEn": "Air Bike All-Out Sprint",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      },
+      {
+        "id": "rowing-machine-500m",
+        "name": "Remoergómetro Prueba de 500 Metros",
+        "nameEn": "Concept2 Rowing Machine 500m Sprint",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"
+        ]
+      }
+    ]
+  }
+]

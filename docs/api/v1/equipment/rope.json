@@ -1,0 +1,451 @@
+[
+  {
+    "id": "jump-rope-basic-bounce",
+    "name": "Salto con Cuerda / Comba Rítmica Básica",
+    "nameEn": "Basic Jump Rope Bounce",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Rope",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de salto con cuerda / comba rítmica básica a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Cuerda de Batalla",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "jumping-jacks-cardio",
+        "name": "Saltos de Tijera (Jumping Jacks)",
+        "nameEn": "Jumping Jacks",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Star_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Star_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "high-knees-drill",
+        "name": "Rodillas Arriba en el Sitio (High Knees)",
+        "nameEn": "High Knees Running in Place",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Fast_Skipping/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Fast_Skipping/1.jpg"
+        ]
+      },
+      {
+        "id": "butt-kicks-drill",
+        "name": "Talones a los Glúteos (Butt Kicks)",
+        "nameEn": "Butt Kicks Running Drill",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Leg_Butt_Kick/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Leg_Butt_Kick/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-ropes-waves-alternating",
+    "name": "Olas Alternas con Cuerdas de Batalla",
+    "nameEn": "Alternating Battle Rope Waves",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Forearms",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Rope",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de olas alternas con cuerdas de batalla a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Antebrazos",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Cuerda de Batalla",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Battling_Ropes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Battling_Ropes/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "treadmill-run",
+        "name": "Carrera en Cinta",
+        "nameEn": "Treadmill Run",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/1.jpg"
+        ]
+      },
+      {
+        "id": "stationary-bike",
+        "name": "Bicicleta Estática",
+        "nameEn": "Stationary Bike",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      },
+      {
+        "id": "rowing-machine",
+        "name": "Máquina de Remo (Ergómetro)",
+        "nameEn": "Rowing Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-ropes-double-slams",
+    "name": "Slams Dobles con Cuerdas de Batalla al Suelo",
+    "nameEn": "Double Battle Rope Power Slams",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Lats",
+      "Shoulders",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Rope",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de slams dobles con cuerdas de batalla al suelo a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Dorsal Ancho",
+      "Hombros / Deltoides",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Cuerda de Batalla",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Battling_Ropes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Battling_Ropes/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "treadmill-run",
+        "name": "Carrera en Cinta",
+        "nameEn": "Treadmill Run",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/1.jpg"
+        ]
+      },
+      {
+        "id": "stationary-bike",
+        "name": "Bicicleta Estática",
+        "nameEn": "Stationary Bike",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      },
+      {
+        "id": "rowing-machine",
+        "name": "Máquina de Remo (Ergómetro)",
+        "nameEn": "Rowing Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "battle-ropes-snake-variations",
+    "name": "Movimiento de Serpiente con Cuerdas de Batalla",
+    "nameEn": "Snake Waves on Battle Ropes",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Chest",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Rope",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de movimiento de serpiente con cuerdas de batalla a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Pecho / Pectoral",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Cuerda de Batalla",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Battling_Ropes/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Battling_Ropes/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "treadmill-run",
+        "name": "Carrera en Cinta",
+        "nameEn": "Treadmill Run",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/1.jpg"
+        ]
+      },
+      {
+        "id": "stationary-bike",
+        "name": "Bicicleta Estática",
+        "nameEn": "Stationary Bike",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      },
+      {
+        "id": "rowing-machine",
+        "name": "Máquina de Remo (Ergómetro)",
+        "nameEn": "Rowing Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jump-rope-double-unders",
+    "name": "Saltos Dobles a la Comba (Double Unders)",
+    "nameEn": "CrossFit Double Unders Jump Rope",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Rope",
+    "difficulty": "Avanzado",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de saltos dobles a la comba (double unders) a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ],
+    "primaryMuscleEs": "Sistema Cardiovascular",
+    "secondaryMusclesEs": [
+      "Gemelos / Pantorrillas",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Cuerda de Batalla",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rope_Jumping/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "treadmill-run",
+        "name": "Carrera en Cinta",
+        "nameEn": "Treadmill Run",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Jogging_Treadmill/1.jpg"
+        ]
+      },
+      {
+        "id": "stationary-bike",
+        "name": "Bicicleta Estática",
+        "nameEn": "Stationary Bike",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Bicycling_Stationary/1.jpg"
+        ]
+      },
+      {
+        "id": "rowing-machine",
+        "name": "Máquina de Remo (Ergómetro)",
+        "nameEn": "Rowing Machine",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "Cardio",
+        "primaryMuscleEs": "Sistema Cardiovascular",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rowing_Stationary/1.jpg"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,665 @@
+[
+  {
+    "id": "arch-body-hold-superman",
+    "name": "Posición de Arco / Superman Isométrico",
+    "nameEn": "Superman Arch Hold",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Glutes",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de posición de arco / superman isométrico bloqueando articulaciones clave.",
+      "Genera tensión máxima en lowerback y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Glúteos"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "back-hyperextension-45-degree",
+        "name": "Hiperextensión a 45 Grados en Banco Romano",
+        "nameEn": "45-Degree Back Extension on Roman Chair",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/1.jpg"
+        ]
+      },
+      {
+        "id": "good-morning-barbell-heavy",
+        "name": "Buenos Días con Barra para Erectores Espinales",
+        "nameEn": "Barbell Good Morning",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/1.jpg"
+        ]
+      },
+      {
+        "id": "jefferson-curl-barbell",
+        "name": "Curl Jefferson con Barra para Flexión Vertebral Controlada",
+        "nameEn": "Jefferson Curl for Spinal Articulation",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "cat-cow-stretch",
+    "name": "Gato-Camello (Cat-Cow)",
+    "nameEn": "Cat-Cow Mobility Stretch",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Back",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de gato-camello (cat-cow) sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cat_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cat_Stretch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "jefferson-curl-barbell",
+        "name": "Curl Jefferson con Barra para Flexión Vertebral Controlada",
+        "nameEn": "Jefferson Curl for Spinal Articulation",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-spinal-twist",
+    "name": "Torsión Espinal Sentado",
+    "nameEn": "Seated Spinal Twist",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Back",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Multi-plano",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta suavemente la postura de torsión espinal sentado sin forzar las articulaciones.",
+      "Sincroniza una respiración pausada y profunda manteniendo la posición o el flujo controlado.",
+      "Regresa a la posición neutra sin movimientos bruscos sintiendo la liberación articular."
+    ],
+    "tips": [
+      "La movilidad debe sentirse como una liberación progresiva, nunca con dolor agudo punzante."
+    ],
+    "breathingCue": "Inhala expandiendo la caja torácica; exhala profundizando en el rango articular de forma relajada.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Espalda / Dorsal",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spinal_Stretch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Spinal_Stretch/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "bird-dog-activation",
+    "name": "Pájaro-Perro de Estabilidad Lumbar (Bird-Dog)",
+    "nameEn": "Bird-Dog Core Stability Activation",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Glutes",
+      "Shoulders",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Inicia el movimiento dinámico de pájaro-perro de estabilidad lumbar (bird-dog) a ritmo moderado y progresivo.",
+      "Aumenta la amplitud y fluidez a medida que la temperatura corporal y lubricación sinovial se incrementan.",
+      "Finaliza manteniendo la respiración rítmica y el control postural."
+    ],
+    "tips": [
+      "El objetivo del calentamiento es activar el sistema nervioso central sin generar fatiga previa al entrenamiento principal."
+    ],
+    "breathingCue": "Respiración continua y rítmica a través de la nariz y boca.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "inchworm-walkout"
+    ],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Hombros / Deltoides",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "reverse-hyperextension-bench",
+    "name": "Hiperextensión Inversa en Banco para Cadena Posterior",
+    "nameEn": "Reverse Hyperextension on Flat Bench",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para hiperextensión inversa en banco para cadena posterior con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Peso Corporal",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "back-hyperextension-45-degree",
+        "name": "Hiperextensión a 45 Grados en Banco Romano",
+        "nameEn": "45-Degree Back Extension on Roman Chair",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/1.jpg"
+        ]
+      },
+      {
+        "id": "good-morning-barbell-heavy",
+        "name": "Buenos Días con Barra para Erectores Espinales",
+        "nameEn": "Barbell Good Morning",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/1.jpg"
+        ]
+      },
+      {
+        "id": "jefferson-curl-barbell",
+        "name": "Curl Jefferson con Barra para Flexión Vertebral Controlada",
+        "nameEn": "Jefferson Curl for Spinal Articulation",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "back-hyperextension-45-degree",
+    "name": "Hiperextensión a 45 Grados en Banco Romano",
+    "nameEn": "45-Degree Back Extension on Roman Chair",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para hiperextensión a 45 grados en banco romano con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Glúteos",
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Máquina de Palanca",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "reverse-hyperextension-bench",
+        "name": "Hiperextensión Inversa en Banco para Cadena Posterior",
+        "nameEn": "Reverse Hyperextension on Flat Bench",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
+        ]
+      },
+      {
+        "id": "good-morning-barbell-heavy",
+        "name": "Buenos Días con Barra para Erectores Espinales",
+        "nameEn": "Barbell Good Morning",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/1.jpg"
+        ]
+      },
+      {
+        "id": "arch-body-hold-superman",
+        "name": "Posición de Arco / Superman Isométrico",
+        "nameEn": "Superman Arch Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "good-morning-barbell-heavy",
+    "name": "Buenos Días con Barra para Erectores Espinales",
+    "nameEn": "Barbell Good Morning",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para buenos días con barra para erectores espinales con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Stiff_Leg_Barbell_Good_Morning/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "reverse-hyperextension-bench",
+        "name": "Hiperextensión Inversa en Banco para Cadena Posterior",
+        "nameEn": "Reverse Hyperextension on Flat Bench",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
+        ]
+      },
+      {
+        "id": "back-hyperextension-45-degree",
+        "name": "Hiperextensión a 45 Grados en Banco Romano",
+        "nameEn": "45-Degree Back Extension on Roman Chair",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/1.jpg"
+        ]
+      },
+      {
+        "id": "arch-body-hold-superman",
+        "name": "Posición de Arco / Superman Isométrico",
+        "nameEn": "Superman Arch Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jefferson-curl-barbell",
+    "name": "Curl Jefferson con Barra para Flexión Vertebral Controlada",
+    "nameEn": "Jefferson Curl for Spinal Articulation",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para curl jefferson con barra para flexión vertebral controlada con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Good_Morning/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "cat-cow-stretch",
+        "name": "Gato-Camello (Cat-Cow)",
+        "nameEn": "Cat-Cow Mobility Stretch",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cat_Stretch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Cat_Stretch/1.jpg"
+        ]
+      },
+      {
+        "id": "arch-body-hold-superman",
+        "name": "Posición de Arco / Superman Isométrico",
+        "nameEn": "Superman Arch Hold",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Superman/1.jpg"
+        ]
+      },
+      {
+        "id": "reverse-hyperextension-bench",
+        "name": "Hiperextensión Inversa en Banco para Cadena Posterior",
+        "nameEn": "Reverse Hyperextension on Flat Bench",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "seated-good-morning-bench",
+    "name": "Buenos Días Sentado en Banco con Piernas Abiertas",
+    "nameEn": "Seated Good Morning on Flat Bench",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Adductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Principiante",
+    "category": "Rehabilitación",
+    "mechanics": "Aislamiento",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Colócate en la posición indicada para buenos días sentado en banco con piernas abiertas con atención rigurosa a la postura anatómica neutra.",
+      "Realiza la contracción o mantenimiento isométrico suave focalizando la conexión neuromuscular en lowerback.",
+      "Regresa despacio evitando compensaciones o movimientos de torsión en articulaciones adyacentes."
+    ],
+    "tips": [
+      "Estos ejercicios están diseñados para el reacondicionamiento del tendón y la reactivación neuromuscular."
+    ],
+    "breathingCue": "Respiración diafragmática fluida y rítmica sin aguantar el aire.",
+    "alternatives": [
+      "scapular-wall-slides",
+      "cat-cow-stretch"
+    ],
+    "primaryMuscleEs": "Espalda Baja / Lumbar",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Aductores (Cara Interna)"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Good_Mornings/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Seated_Good_Mornings/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "reverse-hyperextension-bench",
+        "name": "Hiperextensión Inversa en Banco para Cadena Posterior",
+        "nameEn": "Reverse Hyperextension on Flat Bench",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_With_No_Hyperextension_Bench/1.jpg"
+        ]
+      },
+      {
+        "id": "back-hyperextension-45-degree",
+        "name": "Hiperextensión a 45 Grados en Banco Romano",
+        "nameEn": "45-Degree Back Extension on Roman Chair",
+        "equipment": "Machine",
+        "equipmentEs": "Máquina de Palanca",
+        "primaryMuscle": "LowerBack",
+        "primaryMuscleEs": "Espalda Baja / Lumbar",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hyperextensions_Back_Extensions/1.jpg"
+        ]
+      }
+    ]
+  }
+]

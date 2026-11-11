@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "power-clean-barbell",
+    "name": "Power Clean con Barra desde el Suelo",
+    "nameEn": "Barbell Power Clean from Floor",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Traps",
+      "Back",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para power clean con barra desde el suelo.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Trapecio",
+      "Espalda / Dorsal",
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skater-jumps-warmup",
+        "name": "Saltos de Patinador Laterales (Skater Hops)",
+        "nameEn": "Lateral Skater Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      },
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "broad-jump-standing",
+        "name": "Salto Horizontal de Longitud a Dos Pies",
+        "nameEn": "Standing Long Jump (Broad Jump)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hang-clean-barbell",
+    "name": "Hang Clean con Barra desde Rodillas",
+    "nameEn": "Barbell Hang Clean (Hang Power Clean)",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para hang clean con barra desde rodillas.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Clean/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Clean/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skater-jumps-warmup",
+        "name": "Saltos de Patinador Laterales (Skater Hops)",
+        "nameEn": "Lateral Skater Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      },
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "broad-jump-standing",
+        "name": "Salto Horizontal de Longitud a Dos Pies",
+        "nameEn": "Standing Long Jump (Broad Jump)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "clean-and-jerk-olympic",
+    "name": "Dos Tiempos Olímpico Completo (Clean & Jerk)",
+    "nameEn": "Olympic Clean and Jerk",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Glutes",
+      "Traps",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para dos tiempos olímpico completo (clean & jerk).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Glúteos",
+      "Trapecio",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_and_Jerk/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_and_Jerk/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "box-jump-standard",
+        "name": "Salto al Cajón Pliométrico",
+        "nameEn": "Standard Plyometric Box Jump",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "box-jump-step-down",
+        "name": "Salto al Cajón con Bajada Caminando",
+        "nameEn": "Box Jump with Step-Down",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "depth-jump-reactive",
+        "name": "Salto de Profundidad Reactivo (Depth Jump)",
+        "nameEn": "Depth Jump for Reactive Elastic Power",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Depth_Jump_Leap/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Depth_Jump_Leap/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "power-snatch-barbell",
+    "name": "Power Snatch (Arrancada de Potencia)",
+    "nameEn": "Barbell Power Snatch from Floor",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Shoulders",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para power snatch (arrancada de potencia).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Hombros / Deltoides",
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Snatch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Snatch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skater-jumps-warmup",
+        "name": "Saltos de Patinador Laterales (Skater Hops)",
+        "nameEn": "Lateral Skater Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      },
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "broad-jump-standing",
+        "name": "Salto Horizontal de Longitud a Dos Pies",
+        "nameEn": "Standing Long Jump (Broad Jump)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "hang-snatch-barbell",
+    "name": "Hang Snatch desde los Muslos",
+    "nameEn": "Barbell Hang Power Snatch",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Traps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para hang snatch desde los muslos.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Trapecio",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Snatch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Hang_Snatch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skater-jumps-warmup",
+        "name": "Saltos de Patinador Laterales (Skater Hops)",
+        "nameEn": "Lateral Skater Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      },
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "broad-jump-standing",
+        "name": "Salto Horizontal de Longitud a Dos Pies",
+        "nameEn": "Standing Long Jump (Broad Jump)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "split-jerk-barbell",
+    "name": "Envión en Tijera (Split Jerk)",
+    "nameEn": "Barbell Split Jerk from Racks",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Quads",
+      "Triceps",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para envión en tijera (split jerk).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Tríceps",
+      "Glúteos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jerk/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jerk/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "double-kettlebell-clean-and-jerk",
+        "name": "Clean & Jerk Completo con Doble Pesa Rusa",
+        "nameEn": "Double Kettlebell Clean and Jerk (Long Cycle)",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Jerk/1.jpg"
+        ]
+      },
+      {
+        "id": "push-jerk-barbell",
+        "name": "Push Jerk con Barra Olímpica",
+        "nameEn": "Barbell Push Jerk Power Drive",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Jerk/1.jpg"
+        ]
+      },
+      {
+        "id": "snatch-balance-barbell",
+        "name": "Snatch Balance para Velocidad bajo la Barra",
+        "nameEn": "Barbell Snatch Balance Drill",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Balance/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Balance/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "push-jerk-barbell",
+    "name": "Push Jerk con Barra Olímpica",
+    "nameEn": "Barbell Push Jerk Power Drive",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Quads",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para push jerk con barra olímpica.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Tríceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Jerk/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Jerk/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "double-kettlebell-clean-and-jerk",
+        "name": "Clean & Jerk Completo con Doble Pesa Rusa",
+        "nameEn": "Double Kettlebell Clean and Jerk (Long Cycle)",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Jerk/1.jpg"
+        ]
+      },
+      {
+        "id": "split-jerk-barbell",
+        "name": "Envión en Tijera (Split Jerk)",
+        "nameEn": "Barbell Split Jerk from Racks",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jerk/1.jpg"
+        ]
+      },
+      {
+        "id": "snatch-balance-barbell",
+        "name": "Snatch Balance para Velocidad bajo la Barra",
+        "nameEn": "Barbell Snatch Balance Drill",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Balance/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Balance/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "clean-pull-barbell",
+    "name": "Tirón de Cargada Pesado (Clean Pull)",
+    "nameEn": "Barbell Heavy Clean Pull",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Glutes",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para tirón de cargada pesado (clean pull).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Glúteos",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trap-bar-jump-shrug",
+        "name": "Salto con Encogimiento en Barra Hexagonal (Jump Shrug)",
+        "nameEn": "Trap Bar Jump Shrug Power Pull",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/1.jpg"
+        ]
+      },
+      {
+        "id": "snatch-pull-barbell",
+        "name": "Tirón de Arrancada con Agarre Ancho",
+        "nameEn": "Barbell Snatch Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "muscle-clean-barbell",
+        "name": "Muscle Clean de Calentamiento sin Flexión de Rodillas",
+        "nameEn": "Barbell Muscle Clean Warmup Drill",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "snatch-pull-barbell",
+    "name": "Tirón de Arrancada con Agarre Ancho",
+    "nameEn": "Barbell Snatch Pull",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para tirón de arrancada con agarre ancho.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trap-bar-jump-shrug",
+        "name": "Salto con Encogimiento en Barra Hexagonal (Jump Shrug)",
+        "nameEn": "Trap Bar Jump Shrug Power Pull",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/1.jpg"
+        ]
+      },
+      {
+        "id": "clean-pull-barbell",
+        "name": "Tirón de Cargada Pesado (Clean Pull)",
+        "nameEn": "Barbell Heavy Clean Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "muscle-clean-barbell",
+        "name": "Muscle Clean de Calentamiento sin Flexión de Rodillas",
+        "nameEn": "Barbell Muscle Clean Warmup Drill",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "overhead-squat-olympic",
+    "name": "Sentadilla de Arrancada Olímpica (Overhead Squat)",
+    "nameEn": "Olympic Barbell Overhead Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Back",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para sentadilla de arrancada olímpica (overhead squat).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Espalda / Dorsal",
+      "Abdomen / Core"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Squat/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Overhead_Squat/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "box-jump-standard",
+        "name": "Salto al Cajón Pliométrico",
+        "nameEn": "Standard Plyometric Box Jump",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "box-jump-step-down",
+        "name": "Salto al Cajón con Bajada Caminando",
+        "nameEn": "Box Jump with Step-Down",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "depth-jump-reactive",
+        "name": "Salto de Profundidad Reactivo (Depth Jump)",
+        "nameEn": "Depth Jump for Reactive Elastic Power",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Depth_Jump_Leap/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Depth_Jump_Leap/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "snatch-balance-barbell",
+    "name": "Snatch Balance para Velocidad bajo la Barra",
+    "nameEn": "Barbell Snatch Balance Drill",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Quads",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para snatch balance para velocidad bajo la barra.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Cuádriceps",
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Balance/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Balance/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "double-kettlebell-clean-and-jerk",
+        "name": "Clean & Jerk Completo con Doble Pesa Rusa",
+        "nameEn": "Double Kettlebell Clean and Jerk (Long Cycle)",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Jerk/1.jpg"
+        ]
+      },
+      {
+        "id": "split-jerk-barbell",
+        "name": "Envión en Tijera (Split Jerk)",
+        "nameEn": "Barbell Split Jerk from Racks",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jerk/1.jpg"
+        ]
+      },
+      {
+        "id": "push-jerk-barbell",
+        "name": "Push Jerk con Barra Olímpica",
+        "nameEn": "Barbell Push Jerk Power Drive",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Jerk/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "muscle-clean-barbell",
+    "name": "Muscle Clean de Calentamiento sin Flexión de Rodillas",
+    "nameEn": "Barbell Muscle Clean Warmup Drill",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Biceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para muscle clean de calentamiento sin flexión de rodillas.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Bíceps",
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trap-bar-jump-shrug",
+        "name": "Salto con Encogimiento en Barra Hexagonal (Jump Shrug)",
+        "nameEn": "Trap Bar Jump Shrug Power Pull",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/1.jpg"
+        ]
+      },
+      {
+        "id": "clean-pull-barbell",
+        "name": "Tirón de Cargada Pesado (Clean Pull)",
+        "nameEn": "Barbell Heavy Clean Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "snatch-pull-barbell",
+        "name": "Tirón de Arrancada con Agarre Ancho",
+        "nameEn": "Barbell Snatch Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "muscle-snatch-barbell",
+    "name": "Muscle Snatch sin Metida",
+    "nameEn": "Barbell Muscle Snatch Drill",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para muscle snatch sin metida.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Trapecio",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Snatch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Muscle_Snatch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "double-kettlebell-clean-and-jerk",
+        "name": "Clean & Jerk Completo con Doble Pesa Rusa",
+        "nameEn": "Double Kettlebell Clean and Jerk (Long Cycle)",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Jerk/1.jpg"
+        ]
+      },
+      {
+        "id": "split-jerk-barbell",
+        "name": "Envión en Tijera (Split Jerk)",
+        "nameEn": "Barbell Split Jerk from Racks",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jerk/1.jpg"
+        ]
+      },
+      {
+        "id": "push-jerk-barbell",
+        "name": "Push Jerk con Barra Olímpica",
+        "nameEn": "Barbell Push Jerk Power Drive",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Jerk/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tall-clean-barbell",
+    "name": "Tall Clean desde Bipedestación",
+    "nameEn": "Barbell Tall Clean Turnover Drill",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para tall clean desde bipedestación.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Trapecio",
+    "secondaryMusclesEs": [
+      "Cuádriceps"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "trap-bar-jump-shrug",
+        "name": "Salto con Encogimiento en Barra Hexagonal (Jump Shrug)",
+        "nameEn": "Trap Bar Jump Shrug Power Pull",
+        "equipment": "Trap Bar",
+        "equipmentEs": "Barra Hexagonal",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Barbell_Shrug/1.jpg"
+        ]
+      },
+      {
+        "id": "clean-pull-barbell",
+        "name": "Tirón de Cargada Pesado (Clean Pull)",
+        "nameEn": "Barbell Heavy Clean Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Pull/1.jpg"
+        ]
+      },
+      {
+        "id": "snatch-pull-barbell",
+        "name": "Tirón de Arrancada con Agarre Ancho",
+        "nameEn": "Barbell Snatch Pull",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Traps",
+        "primaryMuscleEs": "Trapecio",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Pull/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tall-snatch-barbell",
+    "name": "Tall Snatch para Rapidez de Entrada",
+    "nameEn": "Barbell Tall Snatch Turnover Drill",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para tall snatch para rapidez de entrada.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Hombros / Deltoides",
+    "secondaryMusclesEs": [
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "double-kettlebell-clean-and-jerk",
+        "name": "Clean & Jerk Completo con Doble Pesa Rusa",
+        "nameEn": "Double Kettlebell Clean and Jerk (Long Cycle)",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Jerk/1.jpg"
+        ]
+      },
+      {
+        "id": "split-jerk-barbell",
+        "name": "Envión en Tijera (Split Jerk)",
+        "nameEn": "Barbell Split Jerk from Racks",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Split_Jerk/1.jpg"
+        ]
+      },
+      {
+        "id": "push-jerk-barbell",
+        "name": "Push Jerk con Barra Olímpica",
+        "nameEn": "Barbell Push Jerk Power Drive",
+        "equipment": "Barbell",
+        "equipmentEs": "Barra Olímpica",
+        "primaryMuscle": "Shoulders",
+        "primaryMuscleEs": "Hombros / Deltoides",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Jerk/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Jerk/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "clean-deadlift-barbell",
+    "name": "Peso Muerto con Postura Específica de Cargada",
+    "nameEn": "Clean Grip Barbell Deadlift",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Traps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para peso muerto con postura específica de cargada.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Trapecio",
+      "Espalda / Dorsal"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Clean_Deadlift/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "box-jump-standard",
+        "name": "Salto al Cajón Pliométrico",
+        "nameEn": "Standard Plyometric Box Jump",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "box-jump-step-down",
+        "name": "Salto al Cajón con Bajada Caminando",
+        "nameEn": "Box Jump with Step-Down",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "depth-jump-reactive",
+        "name": "Salto de Profundidad Reactivo (Depth Jump)",
+        "nameEn": "Depth Jump for Reactive Elastic Power",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Depth_Jump_Leap/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Depth_Jump_Leap/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "snatch-deadlift-barbell",
+    "name": "Peso Muerto con Agarre Ancho de Arrancada",
+    "nameEn": "Snatch Grip Barbell Deadlift",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Traps",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para peso muerto con agarre ancho de arrancada.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Espalda / Dorsal",
+    "secondaryMusclesEs": [
+      "Isquiotibiales / Femoral",
+      "Trapecio",
+      "Antebrazos"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Deadlift/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Snatch_Deadlift/1.jpg"
+    ],
+    "substitutes": []
+  },
+  {
+    "id": "block-clean-power",
+    "name": "Clean desde Bloques Altos (Block Clean)",
+    "nameEn": "Clean from High Pulling Blocks",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para clean desde bloques altos (block clean).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Clean_from_Blocks/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Clean_from_Blocks/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skater-jumps-warmup",
+        "name": "Saltos de Patinador Laterales (Skater Hops)",
+        "nameEn": "Lateral Skater Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      },
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "broad-jump-standing",
+        "name": "Salto Horizontal de Longitud a Dos Pies",
+        "nameEn": "Standing Long Jump (Broad Jump)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "block-snatch-power",
+    "name": "Snatch desde Bloques (Block Snatch)",
+    "nameEn": "Snatch from Pulling Blocks",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para snatch desde bloques (block snatch).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Glúteos",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides",
+      "Trapecio"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Snatch_from_Blocks/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Power_Snatch_from_Blocks/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "skater-jumps-warmup",
+        "name": "Saltos de Patinador Laterales (Skater Hops)",
+        "nameEn": "Lateral Skater Hops",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Lateral_Bound/1.jpg"
+        ]
+      },
+      {
+        "id": "double-kettlebell-snatch",
+        "name": "Snatch Simultáneo con Dos Pesas Rusas",
+        "nameEn": "Double Kettlebell Snatch",
+        "equipment": "Kettlebell",
+        "equipmentEs": "Pesa Rusa (Kettlebell)",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Double_Kettlebell_Snatch/1.jpg"
+        ]
+      },
+      {
+        "id": "broad-jump-standing",
+        "name": "Salto Horizontal de Longitud a Dos Pies",
+        "nameEn": "Standing Long Jump (Broad Jump)",
+        "equipment": "Bodyweight",
+        "equipmentEs": "Peso Corporal",
+        "primaryMuscle": "Glutes",
+        "primaryMuscleEs": "Glúteos",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Standing_Long_Jump/1.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jerk-recovery-barbell",
+    "name": "Recuperación de Envión en Rack Alto",
+    "nameEn": "Barbell Jerk Drive and Recovery",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para recuperación de envión en rack alto.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "kettlebell-snatch-single-arm"
+    ],
+    "primaryMuscleEs": "Cuádriceps",
+    "secondaryMusclesEs": [
+      "Hombros / Deltoides"
+    ],
+    "stabilizersEs": [
+      "Abdomen / Core",
+      "Espalda Baja / Lumbar"
+    ],
+    "equipmentEs": "Barra Olímpica",
+    "images": [
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rack_Delivery/0.jpg",
+      "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Rack_Delivery/1.jpg"
+    ],
+    "substitutes": [
+      {
+        "id": "box-jump-standard",
+        "name": "Salto al Cajón Pliométrico",
+        "nameEn": "Standard Plyometric Box Jump",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "box-jump-step-down",
+        "name": "Salto al Cajón con Bajada Caminando",
+        "nameEn": "Box Jump with Step-Down",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Front_Box_Jump/1.jpg"
+        ]
+      },
+      {
+        "id": "depth-jump-reactive",
+        "name": "Salto de Profundidad Reactivo (Depth Jump)",
+        "nameEn": "Depth Jump for Reactive Elastic Power",
+        "equipment": "Box",
+        "equipmentEs": "Cajón Pliométrico",
+        "primaryMuscle": "Quads",
+        "primaryMuscleEs": "Cuádriceps",
+        "images": [
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Depth_Jump_Leap/0.jpg",
+          "https://raw.githubusercontent.com/yuhonas/free-exercise-db/main/exercises/Depth_Jump_Leap/1.jpg"
+        ]
+      }
+    ]
+  }
+]

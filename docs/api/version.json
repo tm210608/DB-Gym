@@ -1,10 +1,424 @@
 {
-  "version": "2.1.0",
-  "updatedAt": "2026-11-11T18:23:05.700Z",
+  "name": "DB-Gym Open Exercise & Routine API",
+  "version": "2.2.0",
+  "license": "MIT",
+  "updatedAt": "2026-11-11T18:49:43.786Z",
   "totalExercises": 533,
+  "totalRoutines": 8,
+  "features": [
+    "Bilingual metadata (Spanish & English)",
+    "Verified 2-frame looping photography (0.jpg & 1.jpg)",
+    "Pre-computed biomechanical substitutes (Busy Machine / Equipment swap)",
+    "Zero-backend pre-sharded static REST endpoints",
+    "Ready-to-use 3-block workout routines",
+    "SQLite (Android Room) and PostgreSQL SQL dumps"
+  ],
   "endpoints": {
-    "allExercises": "https://tm210608.github.io/DB-Gym/api/exercises.json",
-    "cdnExercises": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/exercises.json",
-    "rawExercises": "https://raw.githubusercontent.com/tm210608/DB-Gym/main/exercises.json"
-  }
+    "allExercises": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/exercises.json",
+    "v1Exercises": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/exercises.json",
+    "v1Routines": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/routines.json",
+    "v1Index": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/index.json",
+    "githubPagesExplorer": "https://tm210608.github.io/DB-Gym/"
+  },
+  "muscles": [
+    {
+      "muscle": "Chest",
+      "muscleEs": "Pecho / Pectoral",
+      "slug": "chest",
+      "count": 47,
+      "endpoint": "/api/v1/muscles/chest.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/chest.json"
+    },
+    {
+      "muscle": "Back",
+      "muscleEs": "Espalda / Dorsal",
+      "slug": "back",
+      "count": 41,
+      "endpoint": "/api/v1/muscles/back.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/back.json"
+    },
+    {
+      "muscle": "Shoulders",
+      "muscleEs": "Hombros / Deltoides",
+      "slug": "shoulders",
+      "count": 63,
+      "endpoint": "/api/v1/muscles/shoulders.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/shoulders.json"
+    },
+    {
+      "muscle": "Biceps",
+      "muscleEs": "Bíceps",
+      "slug": "biceps",
+      "count": 16,
+      "endpoint": "/api/v1/muscles/biceps.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/biceps.json"
+    },
+    {
+      "muscle": "Triceps",
+      "muscleEs": "Tríceps",
+      "slug": "triceps",
+      "count": 18,
+      "endpoint": "/api/v1/muscles/triceps.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/triceps.json"
+    },
+    {
+      "muscle": "Quads",
+      "muscleEs": "Cuádriceps",
+      "slug": "quads",
+      "count": 62,
+      "endpoint": "/api/v1/muscles/quads.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/quads.json"
+    },
+    {
+      "muscle": "Hamstrings",
+      "muscleEs": "Isquiotibiales / Femoral",
+      "slug": "hamstrings",
+      "count": 24,
+      "endpoint": "/api/v1/muscles/hamstrings.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/hamstrings.json"
+    },
+    {
+      "muscle": "Glutes",
+      "muscleEs": "Glúteos",
+      "slug": "glutes",
+      "count": 46,
+      "endpoint": "/api/v1/muscles/glutes.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/glutes.json"
+    },
+    {
+      "muscle": "Calves",
+      "muscleEs": "Gemelos / Pantorrillas",
+      "slug": "calves",
+      "count": 21,
+      "endpoint": "/api/v1/muscles/calves.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/calves.json"
+    },
+    {
+      "muscle": "Abs",
+      "muscleEs": "Abdomen / Core",
+      "slug": "abs",
+      "count": 67,
+      "endpoint": "/api/v1/muscles/abs.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/abs.json"
+    },
+    {
+      "muscle": "Forearms",
+      "muscleEs": "Antebrazos",
+      "slug": "forearms",
+      "count": 13,
+      "endpoint": "/api/v1/muscles/forearms.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/forearms.json"
+    },
+    {
+      "muscle": "Cardio",
+      "muscleEs": "Sistema Cardiovascular",
+      "slug": "cardio",
+      "count": 44,
+      "endpoint": "/api/v1/muscles/cardio.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/cardio.json"
+    },
+    {
+      "muscle": "Lats",
+      "muscleEs": "Dorsal Ancho",
+      "slug": "lats",
+      "count": 19,
+      "endpoint": "/api/v1/muscles/lats.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/lats.json"
+    },
+    {
+      "muscle": "Adductors",
+      "muscleEs": "Aductores (Cara Interna)",
+      "slug": "adductors",
+      "count": 11,
+      "endpoint": "/api/v1/muscles/adductors.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/adductors.json"
+    },
+    {
+      "muscle": "Abductors",
+      "muscleEs": "Abductores (Glúteo Medio)",
+      "slug": "abductors",
+      "count": 8,
+      "endpoint": "/api/v1/muscles/abductors.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/abductors.json"
+    },
+    {
+      "muscle": "LowerBack",
+      "muscleEs": "Espalda Baja / Lumbar",
+      "slug": "lowerback",
+      "count": 9,
+      "endpoint": "/api/v1/muscles/lowerback.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/lowerback.json"
+    },
+    {
+      "muscle": "Traps",
+      "muscleEs": "Trapecio",
+      "slug": "traps",
+      "count": 16,
+      "endpoint": "/api/v1/muscles/traps.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/traps.json"
+    },
+    {
+      "muscle": "HipFlexors",
+      "muscleEs": "Flexores de Cadera / Psoas",
+      "slug": "hipflexors",
+      "count": 6,
+      "endpoint": "/api/v1/muscles/hipflexors.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/hipflexors.json"
+    },
+    {
+      "muscle": "Serratus",
+      "muscleEs": "Serrato Anterior",
+      "slug": "serratus",
+      "count": 2,
+      "endpoint": "/api/v1/muscles/serratus.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/muscles/serratus.json"
+    }
+  ],
+  "equipment": [
+    {
+      "equipment": "Barbell",
+      "equipmentEs": "Barra Olímpica",
+      "slug": "barbell",
+      "count": 68,
+      "endpoint": "/api/v1/equipment/barbell.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/barbell.json"
+    },
+    {
+      "equipment": "Dumbbell",
+      "equipmentEs": "Mancuernas",
+      "slug": "dumbbell",
+      "count": 54,
+      "endpoint": "/api/v1/equipment/dumbbell.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/dumbbell.json"
+    },
+    {
+      "equipment": "Machine",
+      "equipmentEs": "Máquina de Palanca",
+      "slug": "machine",
+      "count": 40,
+      "endpoint": "/api/v1/equipment/machine.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/machine.json"
+    },
+    {
+      "equipment": "Cable",
+      "equipmentEs": "Polea con Cable",
+      "slug": "cable",
+      "count": 41,
+      "endpoint": "/api/v1/equipment/cable.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/cable.json"
+    },
+    {
+      "equipment": "Bodyweight",
+      "equipmentEs": "Peso Corporal",
+      "slug": "bodyweight",
+      "count": 185,
+      "endpoint": "/api/v1/equipment/bodyweight.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/bodyweight.json"
+    },
+    {
+      "equipment": "None",
+      "equipmentEs": "Sin Equipamiento",
+      "slug": "none",
+      "count": 6,
+      "endpoint": "/api/v1/equipment/none.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/none.json"
+    },
+    {
+      "equipment": "EZBar",
+      "equipmentEs": "Barra Z",
+      "slug": "ezbar",
+      "count": 3,
+      "endpoint": "/api/v1/equipment/ezbar.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/ezbar.json"
+    },
+    {
+      "equipment": "Rings",
+      "equipmentEs": "Anillas de Gimnasia",
+      "slug": "rings",
+      "count": 4,
+      "endpoint": "/api/v1/equipment/rings.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/rings.json"
+    },
+    {
+      "equipment": "Band",
+      "equipmentEs": "Banda Elástica",
+      "slug": "band",
+      "count": 15,
+      "endpoint": "/api/v1/equipment/band.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/band.json"
+    },
+    {
+      "equipment": "Kettlebell",
+      "equipmentEs": "Pesa Rusa (Kettlebell)",
+      "slug": "kettlebell",
+      "count": 37,
+      "endpoint": "/api/v1/equipment/kettlebell.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/kettlebell.json"
+    },
+    {
+      "equipment": "StabilityBall",
+      "equipmentEs": "Balón Suizo / Fitball",
+      "slug": "stabilityball",
+      "count": 5,
+      "endpoint": "/api/v1/equipment/stabilityball.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/stabilityball.json"
+    },
+    {
+      "equipment": "Rope",
+      "equipmentEs": "Cuerda de Batalla",
+      "slug": "rope",
+      "count": 5,
+      "endpoint": "/api/v1/equipment/rope.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/rope.json"
+    },
+    {
+      "equipment": "FoamRoller",
+      "equipmentEs": "Rodillo de Espuma",
+      "slug": "foamroller",
+      "count": 12,
+      "endpoint": "/api/v1/equipment/foamroller.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/foamroller.json"
+    },
+    {
+      "equipment": "MedicineBall",
+      "equipmentEs": "Balón Medicinal",
+      "slug": "medicineball",
+      "count": 8,
+      "endpoint": "/api/v1/equipment/medicineball.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/medicineball.json"
+    },
+    {
+      "equipment": "Sled",
+      "equipmentEs": "Trineo de Empuje (Prowler)",
+      "slug": "sled",
+      "count": 3,
+      "endpoint": "/api/v1/equipment/sled.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/sled.json"
+    },
+    {
+      "equipment": "Box",
+      "equipmentEs": "Cajón Pliométrico",
+      "slug": "box",
+      "count": 5,
+      "endpoint": "/api/v1/equipment/box.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/box.json"
+    },
+    {
+      "equipment": "Trap Bar",
+      "equipmentEs": "Barra Hexagonal",
+      "slug": "trap-bar",
+      "count": 3,
+      "endpoint": "/api/v1/equipment/trap-bar.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/trap-bar.json"
+    },
+    {
+      "equipment": "SmithMachine",
+      "equipmentEs": "Máquina Smith / Multipower",
+      "slug": "smithmachine",
+      "count": 4,
+      "endpoint": "/api/v1/equipment/smithmachine.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/smithmachine.json"
+    },
+    {
+      "equipment": "TRX",
+      "equipmentEs": "TRX / Suspensión",
+      "slug": "trx",
+      "count": 35,
+      "endpoint": "/api/v1/equipment/trx.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/equipment/trx.json"
+    }
+  ],
+  "categories": [
+    {
+      "category": "Hipertrofia",
+      "slug": "hipertrofia",
+      "count": 144,
+      "endpoint": "/api/v1/categories/hipertrofia.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/categories/hipertrofia.json"
+    },
+    {
+      "category": "Fuerza",
+      "slug": "fuerza",
+      "count": 9,
+      "endpoint": "/api/v1/categories/fuerza.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/categories/fuerza.json"
+    },
+    {
+      "category": "Calistenia",
+      "slug": "calistenia",
+      "count": 38,
+      "endpoint": "/api/v1/categories/calistenia.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/categories/calistenia.json"
+    },
+    {
+      "category": "Isométrico",
+      "slug": "isometrico",
+      "count": 58,
+      "endpoint": "/api/v1/categories/isometrico.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/categories/isometrico.json"
+    },
+    {
+      "category": "Cardio",
+      "slug": "cardio",
+      "count": 35,
+      "endpoint": "/api/v1/categories/cardio.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/categories/cardio.json"
+    },
+    {
+      "category": "Funcional",
+      "slug": "funcional",
+      "count": 38,
+      "endpoint": "/api/v1/categories/funcional.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/categories/funcional.json"
+    },
+    {
+      "category": "Rehabilitación",
+      "slug": "rehabilitacion",
+      "count": 37,
+      "endpoint": "/api/v1/categories/rehabilitacion.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/categories/rehabilitacion.json"
+    },
+    {
+      "category": "Pliométrico",
+      "slug": "pliometrico",
+      "count": 21,
+      "endpoint": "/api/v1/categories/pliometrico.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/categories/pliometrico.json"
+    },
+    {
+      "category": "Calentamiento",
+      "slug": "calentamiento",
+      "count": 40,
+      "endpoint": "/api/v1/categories/calentamiento.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/categories/calentamiento.json"
+    },
+    {
+      "category": "Movilidad",
+      "slug": "movilidad",
+      "count": 43,
+      "endpoint": "/api/v1/categories/movilidad.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/categories/movilidad.json"
+    },
+    {
+      "category": "FoamRolling",
+      "slug": "foamrolling",
+      "count": 15,
+      "endpoint": "/api/v1/categories/foamrolling.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/categories/foamrolling.json"
+    },
+    {
+      "category": "Kettlebell",
+      "slug": "kettlebell",
+      "count": 35,
+      "endpoint": "/api/v1/categories/kettlebell.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/categories/kettlebell.json"
+    },
+    {
+      "category": "Olímpico",
+      "slug": "olimpico",
+      "count": 20,
+      "endpoint": "/api/v1/categories/olimpico.json",
+      "cdnUrl": "https://cdn.jsdelivr.net/gh/tm210608/DB-Gym@main/docs/api/v1/categories/olimpico.json"
+    }
+  ]
 }
