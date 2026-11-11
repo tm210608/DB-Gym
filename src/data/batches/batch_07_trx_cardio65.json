@@ -1,0 +1,2274 @@
+[
+  {
+    "id": "trx-chest-press",
+    "name": "Press de Pecho en Suspensión (TRX Chest Press)",
+    "nameEn": "TRX Suspension Chest Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para press de pecho en suspensión (trx chest press).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-chest-flye",
+    "name": "Aperturas de Pecho en Suspensión (TRX Flye)",
+    "nameEn": "TRX Suspension Chest Flye",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para aperturas de pecho en suspensión (trx flye).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-inverted-row-high",
+    "name": "Remo Invertido en TRX Agarre Alto",
+    "nameEn": "TRX High Inverted Row",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Traps",
+      "Biceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para remo invertido en trx agarre alto.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-low-row-neutral",
+    "name": "Remo en TRX con Agarre Neutro al Torso",
+    "nameEn": "TRX Low Neutral Grip Row",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Biceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para remo en trx con agarre neutro al torso.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-single-arm-power-pull",
+    "name": "Tirón de Potencia con Rotación en TRX (Power Pull)",
+    "nameEn": "TRX Single-Arm Rotational Power Pull",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Abs",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para tirón de potencia con rotación en trx (power pull).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-y-flye-deltoids",
+    "name": "Aperturas en Y en Suspensión para Deltoides Posterior",
+    "nameEn": "TRX Y-Deltoid Flye",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para aperturas en y en suspensión para deltoides posterior.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-t-flye-rhomboids",
+    "name": "Aperturas en T en Suspensión para Romboides",
+    "nameEn": "TRX T-Flye for Upper Back and Rhomboids",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Traps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para aperturas en t en suspensión para romboides.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-biceps-curl-overhead",
+    "name": "Curl de Bíceps en Suspensión",
+    "nameEn": "TRX Suspension Biceps Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para curl de bíceps en suspensión.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-triceps-pressdown",
+    "name": "Extensión de Tríceps sobre Cabeza en TRX",
+    "nameEn": "TRX Overhead Triceps Extension",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para extensión de tríceps sobre cabeza en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-pistol-squat-assisted",
+    "name": "Sentadilla Pistola Asistida con TRX",
+    "nameEn": "TRX Assisted Single-Leg Pistol Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para sentadilla pistola asistida con trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-hamstring-curl-supine",
+    "name": "Curl de Isquiotibiales en Suspensión Boca Arriba",
+    "nameEn": "TRX Supine Hamstring Runner Curl",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para curl de isquiotibiales en suspensión boca arriba.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-atomic-push-up",
+    "name": "Flexión Atómica con Pies en TRX (Push-Up + Crunch)",
+    "nameEn": "TRX Atomic Push-Up to Pike",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Abs",
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para flexión atómica con pies en trx (push-up + crunch).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-plank-feet-suspended",
+    "name": "Plancha Isométrica con Pies en TRX",
+    "nameEn": "TRX Suspended Feet Forearm Plank",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para plancha isométrica con pies en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-side-plank-suspended",
+    "name": "Plancha Lateral con Pies Suspendidos en TRX",
+    "nameEn": "TRX Suspended Side Plank",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para plancha lateral con pies suspendidos en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-pikes-abdominals",
+    "name": "Pica Abdominal en Suspensión (TRX Pike)",
+    "nameEn": "TRX Abdominal Pike Drill",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para pica abdominal en suspensión (trx pike).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-mountain-climbers",
+    "name": "Escaladores Suspendidos en TRX",
+    "nameEn": "TRX Suspended Mountain Climbers",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders",
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para escaladores suspendidos en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-suspended-lunge",
+    "name": "Zancada Búlgara en Suspensión (TRX Suspended Lunge)",
+    "nameEn": "TRX Rear-Foot Suspended Lunge",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para zancada búlgara en suspensión (trx suspended lunge).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-cossack-squat-assisted",
+    "name": "Sentadilla Cosaca Lateral Asistida en TRX",
+    "nameEn": "TRX Assisted Lateral Cossack Squat",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [
+      "Quads",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para sentadilla cosaca lateral asistida en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-clock-press",
+    "name": "Press del Reloj Asimétrico en Suspensión",
+    "nameEn": "TRX Clock Press Multi-Angle Chest",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para press del reloj asimétrico en suspensión.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-alligator-jaw-flye",
+    "name": "Apertura Cocodrilo Asimétrica en TRX",
+    "nameEn": "TRX Alligator Diagonal Shoulder Flye",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Back",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para apertura cocodrilo asimétrica en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-curtsy-lunge-balance",
+    "name": "Zancada Cruzada de Reverencia con TRX",
+    "nameEn": "TRX Balance Curtsy Lunge",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Quads",
+      "Abductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para zancada cruzada de reverencia con trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-sprinter-start",
+    "name": "Salida de Velocista en Suspensión (Sprinter Start)",
+    "nameEn": "TRX Sprinter Start Explosive Drive",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para salida de velocista en suspensión (sprinter start).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-single-leg-deadlift",
+    "name": "Peso Muerto Unilateral Asistido en TRX",
+    "nameEn": "TRX Assisted Single-Leg RDL",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para peso muerto unilateral asistido en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-body-saw-plank",
+    "name": "Sierra Corporal Suspendida en TRX",
+    "nameEn": "TRX Suspended Body Saw Plank",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para sierra corporal suspendida en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-pendulum-oblique-swings",
+    "name": "Péndulo de Piernas Suspendidas para Oblicuos",
+    "nameEn": "TRX Suspended Oblique Pendulum Swings",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para péndulo de piernas suspendidas para oblicuos.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-face-pull-high",
+    "name": "Face Pull en TRX con Rotación Externa",
+    "nameEn": "TRX High Face Pull and External Rotate",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para face pull en trx con rotación externa.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-w-flye-external-rotation",
+    "name": "Aperturas en W en Suspensión",
+    "nameEn": "TRX W-Flye for Rotator Cuff and Mid Back",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para aperturas en w en suspensión.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-squat-jump-power",
+    "name": "Sentadilla con Salto Asistida por TRX",
+    "nameEn": "TRX Assisted Plyometric Squat Jump",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para sentadilla con salto asistida por trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-hip-abduction-supine",
+    "name": "Abducción de Cadera con Pies Suspendidos",
+    "nameEn": "TRX Supine Suspended Hip Abduction",
+    "primaryMuscle": "Abductors",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para abducción de cadera con pies suspendidos.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-hip-press-bridge",
+    "name": "Puente de Caderas con Talones en TRX",
+    "nameEn": "TRX Suspended Glute Bridge Press",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para puente de caderas con talones en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-rollout-core",
+    "name": "Rollout Abdominal en TRX de Pie",
+    "nameEn": "TRX Standing Abdominal Rollout",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Lats",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para rollout abdominal en trx de pie.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-overhead-squat",
+    "name": "Sentadilla Profunda con Brazos en Y en TRX",
+    "nameEn": "TRX Overhead Deep Squat Mobility",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para sentadilla profunda con brazos en y en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-swimmer-pull",
+    "name": "Tirón de Nadador con Brazos Rectos en TRX",
+    "nameEn": "TRX Straight-Arm Swimmer Lat Pull",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Triceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para tirón de nadador con brazos rectos en trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-side-lunge-assisted",
+    "name": "Zancada Lateral Asistida con TRX",
+    "nameEn": "TRX Assisted Lateral Lunge",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Adductors",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para zancada lateral asistida con trx.",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "trx-burpee-single-leg",
+    "name": "Burpee Unilateral con Pie en TRX (Avanzado)",
+    "nameEn": "TRX Single-Leg Suspended Burpee",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Chest",
+      "Quads",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "TRX",
+    "difficulty": "Avanzado",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Ajusta la longitud de las correas y fija los anclajes con tensión constante para burpee unilateral con pie en trx (avanzado).",
+      "Mantén la alineación axial de la columna vertebral y activa los estabilizadores del core.",
+      "Ejecuta el rango de movimiento suavemente aprovechando la inestabilidad de las correas."
+    ],
+    "tips": [
+      "Para aumentar o reducir la intensidad inmediatamente, varía el ángulo de inclinación respecto al punto de anclaje."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala al retornar con control.",
+    "alternatives": [
+      "push-up",
+      "inverted-row"
+    ]
+  },
+  {
+    "id": "assault-bike-sprint",
+    "name": "Sprint Máximo en Bicicleta de Aire (Air Bike)",
+    "nameEn": "Air Bike All-Out Sprint",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Quads",
+      "Shoulders",
+      "Lats"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de sprint máximo en bicicleta de aire (air bike) a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "rowing-machine-500m",
+    "name": "Remoergómetro Prueba de 500 Metros",
+    "nameEn": "Concept2 Rowing Machine 500m Sprint",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Back",
+      "Quads",
+      "Hamstrings",
+      "Biceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de remoergómetro prueba de 500 metros a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "ski-erg-intervals",
+    "name": "Intervalos en Simulador de Esquí (SkiErg)",
+    "nameEn": "Concept2 SkiErg Sprint Intervals",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Lats",
+      "Abs",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de intervalos en simulador de esquí (skierg) a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "battle-ropes-waves-alternating",
+    "name": "Olas Alternas con Cuerdas de Batalla",
+    "nameEn": "Alternating Battle Rope Waves",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Forearms",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Rope",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de olas alternas con cuerdas de batalla a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "battle-ropes-double-slams",
+    "name": "Slams Dobles con Cuerdas de Batalla al Suelo",
+    "nameEn": "Double Battle Rope Power Slams",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Lats",
+      "Shoulders",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Rope",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de slams dobles con cuerdas de batalla al suelo a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "battle-ropes-snake-variations",
+    "name": "Movimiento de Serpiente con Cuerdas de Batalla",
+    "nameEn": "Snake Waves on Battle Ropes",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Chest",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Rope",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de movimiento de serpiente con cuerdas de batalla a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "treadmill-incline-power-walk",
+    "name": "Marcha Rápida en Cinta con Inclinación Máxima",
+    "nameEn": "Steep Incline Treadmill Power Walk",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves",
+      "Glutes",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de marcha rápida en cinta con inclinación máxima a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "stairmaster-intervals",
+    "name": "Escaladora Continua en Intervalos (StairMaster)",
+    "nameEn": "StairMaster Step Climber Intervals",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Glutes",
+      "Quads",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de escaladora continua en intervalos (stairmaster) a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "jump-rope-double-unders",
+    "name": "Saltos Dobles a la Comba (Double Unders)",
+    "nameEn": "CrossFit Double Unders Jump Rope",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Rope",
+    "difficulty": "Avanzado",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de saltos dobles a la comba (double unders) a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "shuttle-run-suicides",
+    "name": "Carrera de Lanzadera de Conos (Suicidios)",
+    "nameEn": "Pro Agility Shuttle Run Drill",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Quads",
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de carrera de lanzadera de conos (suicidios) a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "boxer-skip-jump-rope",
+    "name": "Paso de Boxeador Cruzado con Comba",
+    "nameEn": "Boxer Skip Rhythm Jump Rope",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de paso de boxeador cruzado con comba a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "lateral-skater-bounds-continuous",
+    "name": "Saltos de Patinador Continuos de Resistencia",
+    "nameEn": "Continuous Lateral Skater Cardio",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Glutes",
+      "Abductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de saltos de patinador continuos de resistencia a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "plyometric-lunges-continuous",
+    "name": "Zancadas Pliométricas Alternadas Rápidas",
+    "nameEn": "Fast Jumping Switch Lunges",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Quads",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de zancadas pliométricas alternadas rápidas a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "high-knee-sprint-rope",
+    "name": "Sprint de Rodillas Arriba con Cuerda",
+    "nameEn": "High-Knee Sprint with Jump Rope",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de sprint de rodillas arriba con cuerda a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "shadow-box-high-intensity",
+    "name": "Sombra de Golpeo Continuo a Alta Intensidad",
+    "nameEn": "High-Intensity Shadow Boxing Interval",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de sombra de golpeo continuo a alta intensidad a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "sled-sprint-high-speed",
+    "name": "Sprint con Empuje de Trineo Ligero",
+    "nameEn": "High-Speed Sled Push Sprint",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Quads",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Sled",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de sprint con empuje de trineo ligero a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "bear-crawl-sprint-forward",
+    "name": "Gateo del Oso a Máxima Velocidad Frontal",
+    "nameEn": "High-Speed Bear Crawl Sprint",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Abs",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de gateo del oso a máxima velocidad frontal a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "gorilla-hops-cardio",
+    "name": "Saltos de Gorila Laterales Continuos",
+    "nameEn": "Lateral Gorilla Hops Cardio Drill",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Quads",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de saltos de gorila laterales continuos a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "fast-feet-football-drill",
+    "name": "Pies Rápidos en el Sitio (Fast Feet Drill)",
+    "nameEn": "Rapid Fire Fast Feet Football Drill",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de pies rápidos en el sitio (fast feet drill) a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "agility-ladder-in-and-out",
+    "name": "Escalera de Agilidad: Entradas y Salidas",
+    "nameEn": "Agility Ladder In-and-Out Footwork",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de escalera de agilidad: entradas y salidas a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "agility-ladder-icky-shuffle",
+    "name": "Escalera de Agilidad: Icky Shuffle Rítmico",
+    "nameEn": "Agility Ladder Icky Shuffle Drill",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de escalera de agilidad: icky shuffle rítmico a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "jumping-jack-crossover",
+    "name": "Saltos de Tijera con Cruce de Brazos y Pies",
+    "nameEn": "Crossover Jumping Jacks",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de saltos de tijera con cruce de brazos y pies a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "tuck-jump-burpee-complex",
+    "name": "Burpee Explosivo con Salto de Rodillas al Pecho",
+    "nameEn": "Burpee to Tuck Jump Complex",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Chest",
+      "Quads",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de burpee explosivo con salto de rodillas al pecho a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "half-burpee-speed",
+    "name": "Medio Burpee de Velocidad (Speed Sprawl)",
+    "nameEn": "Speed Half Burpee without Push-Up",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Abs",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de medio burpee de velocidad (speed sprawl) a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "seal-jacks-chest",
+    "name": "Saltos de Foca con Palmada Frontal",
+    "nameEn": "Seal Jacks Cardio Drill",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Chest",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de saltos de foca con palmada frontal a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "butt-kick-heel-taps",
+    "name": "Talones a Glúteos con Toque de Manos Atrás",
+    "nameEn": "Heel Tap Butt Kicks Fast Pace",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de talones a glúteos con toque de manos atrás a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "single-under-crossover-rope",
+    "name": "Salto con Cruzada de Cuerda (Criss-Cross)",
+    "nameEn": "Criss-Cross Jump Rope Drill",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Forearms",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de salto con cruzada de cuerda (criss-cross) a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "broad-jump-to-backpedal",
+    "name": "Salto de Longitud con Carrera de Retroceso",
+    "nameEn": "Broad Jump with Fast Backpedal",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de salto de longitud con carrera de retroceso a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "jumping-rope-side-straddle",
+    "name": "Salto de Comba con Apertura Lateral de Piernas",
+    "nameEn": "Side Straddle Jump Rope Footwork",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Calves",
+      "Abductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de salto de comba con apertura lateral de piernas a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  },
+  {
+    "id": "turbo-climbers-ground",
+    "name": "Escaladores Turbo a Máxima Cadencia",
+    "nameEn": "Max Cadence Turbo Mountain Climbers",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Abs",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Cardio",
+    "mechanics": "Compuesto",
+    "movementPattern": "Cardiovascular",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Cardio",
+    "instructions": [
+      "Mantén la postura erguida y comienza el ritmo de escaladores turbo a máxima cadencia a una cadencia sostenida.",
+      "Enfoca el esfuerzo en la respiración diafragmática continua sin apneas prolongadas.",
+      "Finaliza manteniendo la desaceleración gradual para permitir la recuperación cardíaca."
+    ],
+    "tips": [
+      "Controla las zonas de frecuencia cardíaca según el objetivo (resistencia aeróbica o HIIT de alta potencia)."
+    ],
+    "breathingCue": "Respiración rítmica coordinada con los pasos o repeticiones del ejercicio.",
+    "alternatives": [
+      "jumping-jacks-cardio",
+      "high-knees-drill"
+    ]
+  }
+]

@@ -1,0 +1,4265 @@
+[
+  {
+    "id": "kettlebell-clean-single-arm",
+    "name": "Clean con Pesa Rusa a Una Mano",
+    "nameEn": "Single-Arm Kettlebell Clean",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Traps",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para clean con pesa rusa a una mano.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-snatch-single-arm",
+    "name": "Snatch (Arrancada) con Pesa Rusa a Una Mano",
+    "nameEn": "Single-Arm Kettlebell Snatch",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Shoulders",
+      "Lats"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para snatch (arrancada) con pesa rusa a una mano.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "turkish-get-up-full",
+    "name": "Levantamiento Turco Completo (Turkish Get-Up)",
+    "nameEn": "Full Turkish Get-Up",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Abs",
+      "Glutes",
+      "Quads",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Multi-plano",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para levantamiento turco completo (turkish get-up).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-strict-press",
+    "name": "Press Militar Estricto con Pesa Rusa",
+    "nameEn": "Single-Arm Kettlebell Military Press",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Triceps",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para press militar estricto con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-push-press",
+    "name": "Push Press con Pesa Rusa",
+    "nameEn": "Kettlebell Push Press",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Quads",
+      "Triceps",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para push press con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-halo",
+    "name": "El Halo con Pesa Rusa alrededor de la Cabeza",
+    "nameEn": "Kettlebell Halo for Shoulder Mobility",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps",
+      "Forearms",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para el halo con pesa rusa alrededor de la cabeza.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "double-kettlebell-front-squat",
+    "name": "Sentadilla Frontal con Doble Pesa Rusa en Rack",
+    "nameEn": "Double Kettlebell Front Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Abs",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para sentadilla frontal con doble pesa rusa en rack.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-somersault-squat",
+    "name": "Sentadilla con Pesa Rusa Apoyada Tras Nuca",
+    "nameEn": "Kettlebell Somersault Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para sentadilla con pesa rusa apoyada tras nuca.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "single-leg-kettlebell-rdl",
+    "name": "Peso Muerto Rumano Unilateral con Pesa Rusa",
+    "nameEn": "Single-Leg Kettlebell Romanian Deadlift",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Forearms",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para peso muerto rumano unilateral con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-gorilla-row",
+    "name": "Remo Gorila Alterno con Dos Pesas Rusas",
+    "nameEn": "Kettlebell Gorilla Row",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Lats",
+      "Abs",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para remo gorila alterno con dos pesas rusas.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-high-pull",
+    "name": "Tirón Alto con Pesa Rusa (High Pull)",
+    "nameEn": "Kettlebell High Pull",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para tirón alto con pesa rusa (high pull).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-bottoms-up-clean",
+    "name": "Clean con Base hacia Arriba (Bottoms-Up)",
+    "nameEn": "Bottoms-Up Kettlebell Clean",
+    "primaryMuscle": "Forearms",
+    "secondaryMuscles": [
+      "Biceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para clean con base hacia arriba (bottoms-up).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-bottoms-up-press",
+    "name": "Press con Base hacia Arriba para Estabilidad",
+    "nameEn": "Bottoms-Up Kettlebell Press",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Forearms",
+      "Triceps",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para press con base hacia arriba para estabilidad.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-figure-eight",
+    "name": "El Ocho entre Piernas con Pesa Rusa (Figure 8)",
+    "nameEn": "Kettlebell Figure 8 Dynamic Core Flow",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para el ocho entre piernas con pesa rusa (figure 8).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-deck-squat",
+    "name": "Deck Squat con Impulso de Pesa Rusa",
+    "nameEn": "Kettlebell Deck Squat to Stand",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Abs",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para deck squat con impulso de pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-curtsy-lunge",
+    "name": "Zancada de Reverencia con Pesa Rusa",
+    "nameEn": "Kettlebell Curtsy Lunge",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Quads",
+      "Adductors"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para zancada de reverencia con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-sots-press",
+    "name": "Press Sots en Sentadilla Profunda con Pesa Rusa",
+    "nameEn": "Kettlebell Sots Press in Deep Squat",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Quads",
+      "Back",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para press sots en sentadilla profunda con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-slingshot",
+    "name": "Vuelta al Mundo alrededor del Torso (Slingshot)",
+    "nameEn": "Kettlebell Slingshot / Around the World",
+    "primaryMuscle": "Forearms",
+    "secondaryMuscles": [
+      "Abs",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para vuelta al mundo alrededor del torso (slingshot).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-overhead-carry",
+    "name": "Paseo con Pesa Rusa Bloqueada sobre la Cabeza",
+    "nameEn": "Single-Arm Kettlebell Overhead Carry",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Abs",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Carry",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para paseo con pesa rusa bloqueada sobre la cabeza.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-rack-carry",
+    "name": "Paseo en Posición de Rack con Pesa Rusa",
+    "nameEn": "Single-Arm Kettlebell Front Rack Carry",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Forearms",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Carry",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para paseo en posición de rack con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-waiter-walk",
+    "name": "Paseo del Camarero con Pesa Rusa",
+    "nameEn": "Kettlebell Waiter’s Walk",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Forearms",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Carry",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para paseo del camarero con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-crush-curl",
+    "name": "Curl de Bíceps Comprimiendo Pesa Rusa (Crush Curl)",
+    "nameEn": "Kettlebell Crush Grip Biceps Curl",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Chest",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para curl de bíceps comprimiendo pesa rusa (crush curl).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-overhead-triceps-extension",
+    "name": "Extensión de Tríceps sobre Cabeza con Pesa Rusa",
+    "nameEn": "Kettlebell Overhead Triceps Extension",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para extensión de tríceps sobre cabeza con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-floor-press-single",
+    "name": "Press en el Suelo a Una Mano con Pesa Rusa",
+    "nameEn": "Single-Arm Kettlebell Floor Press",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para press en el suelo a una mano con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-cross-body-clean",
+    "name": "Clean Cruzado Diagonal con Pesa Rusa",
+    "nameEn": "Cross-Body Kettlebell Clean",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abs",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para clean cruzado diagonal con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-kneeling-windlass",
+    "name": "Giro de Molinete de Rodillas con Pesa Rusa",
+    "nameEn": "Half-Kneeling Kettlebell Windmill",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Abs",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para giro de molinete de rodillas con pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-lateral-swing",
+    "name": "Swing Lateral Controlado en el Plano Frontal",
+    "nameEn": "Kettlebell Lateral Plane Swing",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abs",
+      "Adductors"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para swing lateral controlado en el plano frontal.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-pistol-box-squat",
+    "name": "Sentadilla Pistola a Cajón con Pesa Rusa Contrapeso",
+    "nameEn": "Counterbalance Kettlebell Pistol Squat to Box",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para sentadilla pistola a cajón con pesa rusa contrapeso.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-good-morning",
+    "name": "Buenos Días con Pesa Rusa Abrazada al Pecho",
+    "nameEn": "Kettlebell Hugged Good Morning",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para buenos días con pesa rusa abrazada al pecho.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-cossack-press",
+    "name": "Sentadilla Cosaca con Press Frontal de Pesa Rusa",
+    "nameEn": "Kettlebell Cossack Squat with Press-Out",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [
+      "Quads",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Estocada",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para sentadilla cosaca con press frontal de pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "double-kettlebell-clean-and-jerk",
+    "name": "Clean & Jerk Completo con Doble Pesa Rusa",
+    "nameEn": "Double Kettlebell Clean and Jerk (Long Cycle)",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para clean & jerk completo con doble pesa rusa.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "double-kettlebell-snatch",
+    "name": "Snatch Simultáneo con Dos Pesas Rusas",
+    "nameEn": "Double Kettlebell Snatch",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Back",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para snatch simultáneo con dos pesas rusas.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-renegade-row",
+    "name": "Remo Renegado en Plancha con Pesas Rusas",
+    "nameEn": "Kettlebell Renegade Row",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Abs",
+      "Chest",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para remo renegado en plancha con pesas rusas.",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-thruster",
+    "name": "Thruster con Pesa Rusa (Sentadilla + Press)",
+    "nameEn": "Kettlebell Thruster",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Principiante",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para thruster con pesa rusa (sentadilla + press).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "kettlebell-man-maker",
+    "name": "Man Maker con Pesas Rusas (Flexión + Remo + Thruster)",
+    "nameEn": "Kettlebell Man Maker Complex",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Back",
+      "Shoulders",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Forearms"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Avanzado",
+    "category": "Kettlebell",
+    "mechanics": "Compuesto",
+    "movementPattern": "Multi-plano",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Asegura el agarre firme y la postura sólida con la pesa rusa para man maker con pesas rusas (flexión + remo + thruster).",
+      "Ejecuta la aceleración balística o empuje estricto manteniendo el core presurizado.",
+      "Amortigua o desciende la pesa a la posición de inicio siguiendo la trayectoria biomecánica adecuada."
+    ],
+    "tips": [
+      "En movimientos balísticos como swing o snatch, la fuerza se genera con la extensión de cadera, no con los brazos."
+    ],
+    "breathingCue": "Exhalación seca y percusiva en el momento de máxima potencia; inhalación en la carga elástica.",
+    "alternatives": [
+      "kettlebell-swing",
+      "kettlebell-deadlift"
+    ]
+  },
+  {
+    "id": "pallof-press-cable",
+    "name": "Press Pallof Antirrotación en Polea",
+    "nameEn": "Cable Pallof Press",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para press pallof antirrotación en polea con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "pallof-press-band",
+    "name": "Press Pallof con Banda Elástica",
+    "nameEn": "Resistance Band Pallof Press",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Band",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para press pallof con banda elástica con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "half-kneeling-pallof-press",
+    "name": "Press Pallof en Posición de Caballero",
+    "nameEn": "Half-Kneeling Pallof Press",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para press pallof en posición de caballero con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "ab-wheel-rollout-knees",
+    "name": "Rueda Abdominal de Rodillas (Ab Wheel)",
+    "nameEn": "Kneeling Ab Wheel Rollout",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Lats",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para rueda abdominal de rodillas (ab wheel) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "ab-wheel-rollout-standing",
+    "name": "Rueda Abdominal de Pie (Avanzado)",
+    "nameEn": "Standing Ab Wheel Rollout",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Lats",
+      "Chest"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para rueda abdominal de pie (avanzado) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "stir-the-pot-stability-ball",
+    "name": "Remover la Olla sobre Balón Suizo (Stir the Pot)",
+    "nameEn": "Stability Ball Stir the Pot Plank",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "StabilityBall",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para remover la olla sobre balón suizo (stir the pot) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "suitcase-carry-dumbbell",
+    "name": "Paseo de la Maleta (Suitcase Carry Unilateral)",
+    "nameEn": "Single-Arm Dumbbell Suitcase Carry",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Forearms",
+      "Traps",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Carry",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para paseo de la maleta (suitcase carry unilateral) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "farmers-walk-heavy",
+    "name": "Paseo del Granjero Bilateral Pesado",
+    "nameEn": "Heavy Dumbbell Farmer’s Walk",
+    "primaryMuscle": "Forearms",
+    "secondaryMuscles": [
+      "Traps",
+      "Abs",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Carry",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para paseo del granjero bilateral pesado con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "overhead-dumbbell-carry-dual",
+    "name": "Paseo con Mancuernas sobre la Cabeza",
+    "nameEn": "Dual Dumbbell Overhead Carry",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Carry",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para paseo con mancuernas sobre la cabeza con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "side-plank-forearm-hold",
+    "name": "Plancha Lateral sobre Antebrazo",
+    "nameEn": "Side Plank Forearm Hold",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para plancha lateral sobre antebrazo con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "rkc-plank-max-tension",
+    "name": "Plancha RKC de Tensión Máxima",
+    "nameEn": "RKC Maximum Tension Plank",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para plancha rkc de tensión máxima con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "hollow-body-rocks",
+    "name": "Balanceos en Posición Hueca (Hollow Rocks)",
+    "nameEn": "Hollow Body Rocks",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para balanceos en posición hueca (hollow rocks) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "v-up-ab-crunch",
+    "name": "V-Ups Abdominales en V",
+    "nameEn": "Jackknife V-Up Crunch",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para v-ups abdominales en v con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "bicycle-crunches-tempo",
+    "name": "Bicicleta Abdominal con Pausa Isométrica",
+    "nameEn": "Slow Tempo Bicycle Crunch",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para bicicleta abdominal con pausa isométrica con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "reverse-crunch-incline-bench",
+    "name": "Crunch Inverso en Banco Inclinado",
+    "nameEn": "Incline Bench Reverse Crunch",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para crunch inverso en banco inclinado con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "woodchopper-cable-high-to-low",
+    "name": "Leñador en Polea Alta hacia Abajo (Woodchopper)",
+    "nameEn": "High-to-Low Cable Woodchopper",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para leñador en polea alta hacia abajo (woodchopper) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "woodchopper-cable-low-to-high",
+    "name": "Leñador en Polea Baja hacia Arriba",
+    "nameEn": "Low-to-High Cable Woodchopper",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para leñador en polea baja hacia arriba con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "landmine-rotations-core",
+    "name": "Rotaciones en Landmine para Oblicuos",
+    "nameEn": "Barbell Landmine Core Rotations",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para rotaciones en landmine para oblicuos con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "landmine-anti-rotation",
+    "name": "Sostenimiento Antirrotación en Landmine",
+    "nameEn": "Landmine Anti-Rotation Hold",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para sostenimiento antirrotación en landmine con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "hanging-oblique-knee-tuck",
+    "name": "Elevación de Rodillas Cruzada Colgado en Barra",
+    "nameEn": "Hanging Oblique Knee Raise",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para elevación de rodillas cruzada colgado en barra con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "plank-shoulder-taps",
+    "name": "Plancha Alta con Toques de Hombro Alternos",
+    "nameEn": "Plank Shoulder Taps",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para plancha alta con toques de hombro alternos con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "bear-crawl-pull-through",
+    "name": "Arrastre de Saco o Pesa en Posición de Oso",
+    "nameEn": "Bear Crawl Sandbag Pull-Through",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Kettlebell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para arrastre de saco o pesa en posición de oso con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "plank-cable-row",
+    "name": "Remo en Plancha Unilateral en Polea",
+    "nameEn": "Plank Single-Arm Cable Row",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Abs",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para remo en plancha unilateral en polea con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "pot-stirrer-ab-wheel",
+    "name": "Círculos con Rueda Abdominal (Pot Stirrers)",
+    "nameEn": "Ab Wheel Circular Rollout",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para círculos con rueda abdominal (pot stirrers) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "seated-med-ball-rotational-throw",
+    "name": "Lanzamiento Rotacional de Balón Medicinal Sentado",
+    "nameEn": "Seated Medicine Ball Rotational Wall Throw",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Chest",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "MedicineBall",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para lanzamiento rotacional de balón medicinal sentado con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "standing-med-ball-side-slam",
+    "name": "Slam Lateral Rotacional de Balón al Suelo",
+    "nameEn": "Rotational Medicine Ball Side Slam",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "MedicineBall",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para slam lateral rotacional de balón al suelo con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "overhead-med-ball-slam",
+    "name": "Slam Balístico Frontal de Balón Medicinal",
+    "nameEn": "Overhead Medicine Ball Slam",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Lats",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "MedicineBall",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para slam balístico frontal de balón medicinal con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "cable-kneeling-crunch",
+    "name": "Crunch Abdominal Arrodillado en Polea Alta",
+    "nameEn": "Kneeling Cable Abdominal Crunch",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para crunch abdominal arrodillado en polea alta con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "captain-chair-leg-raise",
+    "name": "Elevación de Piernas en Silla del Capitán",
+    "nameEn": "Captain’s Chair Vertical Leg Raise",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para elevación de piernas en silla del capitán con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "decline-bench-sit-up-weighted",
+    "name": "Sit-Up en Banco Declinado con Disco al Pecho",
+    "nameEn": "Weighted Decline Bench Sit-Up",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para sit-up en banco declinado con disco al pecho con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "garhammer-raise-bench",
+    "name": "Elevación Garhammer de Pelvis en Banco",
+    "nameEn": "Garhammer Abdominal Bench Pulse",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para elevación garhammer de pelvis en banco con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "caterpillar-walk-plank",
+    "name": "Caminata de Oruga a Plancha Larga (Long Lever)",
+    "nameEn": "Long-Lever Extended Plank Walkouts",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para caminata de oruga a plancha larga (long lever) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "turkish-sit-up-dumbbell",
+    "name": "Sit-Up Turco con Mancuerna Vertical",
+    "nameEn": "Dumbbell Turkish Sit-Up",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para sit-up turco con mancuerna vertical con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "side-plank-star",
+    "name": "Plancha Lateral en Estrella con Brazo y Pierna Arriba",
+    "nameEn": "Side Plank Star Hold",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Abductors",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para plancha lateral en estrella con brazo y pierna arriba con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "body-saw-plank-sliders",
+    "name": "Sierra Corporal en Plancha con Deslizadores",
+    "nameEn": "Body Saw Plank on Sliders or Towel",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para sierra corporal en plancha con deslizadores con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "ab-crunch-stability-ball",
+    "name": "Crunch Abdominal sobre Balón Suizo con Gran Recorrido",
+    "nameEn": "Stability Ball Extended Range Crunch",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "StabilityBall",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para crunch abdominal sobre balón suizo con gran recorrido con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "stability-ball-pike",
+    "name": "Pica en Balón Suizo desde Plancha",
+    "nameEn": "Stability Ball Plank to Pike",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "StabilityBall",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para pica en balón suizo desde plancha con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "stability-ball-knee-tuck",
+    "name": "Recogida de Rodillas al Pecho en Balón Suizo",
+    "nameEn": "Stability Ball Knee Tuck In",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "StabilityBall",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para recogida de rodillas al pecho en balón suizo con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "reverse-hyperextension-bench",
+    "name": "Hiperextensión Inversa en Banco para Cadena Posterior",
+    "nameEn": "Reverse Hyperextension on Flat Bench",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para hiperextensión inversa en banco para cadena posterior con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "back-hyperextension-45-degree",
+    "name": "Hiperextensión a 45 Grados en Banco Romano",
+    "nameEn": "45-Degree Back Extension on Roman Chair",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Glutes",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Machine",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para hiperextensión a 45 grados en banco romano con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "good-morning-barbell-heavy",
+    "name": "Buenos Días con Barra para Erectores Espinales",
+    "nameEn": "Barbell Good Morning",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para buenos días con barra para erectores espinales con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "jefferson-curl-barbell",
+    "name": "Curl Jefferson con Barra para Flexión Vertebral Controlada",
+    "nameEn": "Jefferson Curl for Spinal Articulation",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Movilidad",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para curl jefferson con barra para flexión vertebral controlada con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "standing-cable-anti-flexion-chop",
+    "name": "Bloqueo Antiflexión Lateral en Polea",
+    "nameEn": "Standing Lateral Anti-Flexion Cable Hold",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Cable",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Rotación",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para bloqueo antiflexión lateral en polea con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "sled-push-prowler",
+    "name": "Empuje de Trineo Pesado (Prowler Sled Push)",
+    "nameEn": "Heavy Prowler Sled Push",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves",
+      "Cardio"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Sled",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para empuje de trineo pesado (prowler sled push) con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "sled-drag-backward",
+    "name": "Arrastre de Trineo Marchando hacia Atrás",
+    "nameEn": "Backward Sled Drag for Knee Resilience",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Sled",
+    "difficulty": "Principiante",
+    "category": "Funcional",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Posiciónate para arrastre de trineo marchando hacia atrás con la faja abdominal fuertemente activada.",
+      "Resiste activamente las fuerzas de torsión, flexión o extensión que intentan desestabilizar la columna.",
+      "Mantén la respiración diafragmática fluida sin perder presión intraabdominal."
+    ],
+    "tips": [
+      "El rol primordial del core en el rendimiento es resistir el movimiento indeseado, no crear torsiones lesivas."
+    ],
+    "breathingCue": "Respiración corta y presurizada manteniendo el abdomen endurecido.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "box-jump-standard",
+    "name": "Salto al Cajón Pliométrico",
+    "nameEn": "Standard Plyometric Box Jump",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Box",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para salto al cajón pliométrico.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "box-jump-step-down",
+    "name": "Salto al Cajón con Bajada Caminando",
+    "nameEn": "Box Jump with Step-Down",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Box",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para salto al cajón con bajada caminando.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "depth-jump-reactive",
+    "name": "Salto de Profundidad Reactivo (Depth Jump)",
+    "nameEn": "Depth Jump for Reactive Elastic Power",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Calves",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Box",
+    "difficulty": "Avanzado",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para salto de profundidad reactivo (depth jump).",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "broad-jump-standing",
+    "name": "Salto Horizontal de Longitud a Dos Pies",
+    "nameEn": "Standing Long Jump (Broad Jump)",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Quads",
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para salto horizontal de longitud a dos pies.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "vertical-jump-countermovement",
+    "name": "Salto Vertical con Contramovimiento (CMJ)",
+    "nameEn": "Countermovement Vertical Jump (CMJ)",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para salto vertical con contramovimiento (cmj).",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "tuck-jump-plyo",
+    "name": "Salto con Rodillas al Pecho en el Aire (Tuck Jump)",
+    "nameEn": "Tuck Jump High Impact Drill",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Quads",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para salto con rodillas al pecho en el aire (tuck jump).",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "lateral-bound-heiden",
+    "name": "Salto Lateral a Una Pierna (Heiden Jump)",
+    "nameEn": "Lateral Bound Heiden Jump",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abductors",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para salto lateral a una pierna (heiden jump).",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "split-squat-jump",
+    "name": "Salto en Tijera Alternando Piernas en el Aire",
+    "nameEn": "Jumping Split Squat Lunges",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para salto en tijera alternando piernas en el aire.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "burpee-chest-to-ground",
+    "name": "Burpee Completo con Pecho a Tierra",
+    "nameEn": "Full Chest-to-Ground Burpee",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Chest",
+      "Quads",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para burpee completo con pecho a tierra.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "squat-thrust-burpee",
+    "name": "Squat Thrust sin Flexión (Sprawl)",
+    "nameEn": "Squat Thrust / Sprawl",
+    "primaryMuscle": "Cardio",
+    "secondaryMuscles": [
+      "Abs",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para squat thrust sin flexión (sprawl).",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "jump-squat-plyometric",
+    "name": "Sentadilla con Salto Vertical Continuo",
+    "nameEn": "Continuous Plyometric Jump Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para sentadilla con salto vertical continuo.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "single-leg-box-jump",
+    "name": "Salto al Cajón a Una Pierna",
+    "nameEn": "Single-Leg Box Jump",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Box",
+    "difficulty": "Avanzado",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para salto al cajón a una pierna.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "med-ball-chest-pass-explosive",
+    "name": "Pase Pectoral Explosivo de Balón contra Pared",
+    "nameEn": "Explosive Medicine Ball Chest Pass to Wall",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "MedicineBall",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para pase pectoral explosivo de balón contra pared.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "plyometric-push-up-box",
+    "name": "Flexión Pliométrica con Manos al Cajón",
+    "nameEn": "Incline Plyometric Push-Up on Box",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Box",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para flexión pliométrica con manos al cajón.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "depth-pushup-blocks",
+    "name": "Flexión con Caída Reactiva desde Bloques",
+    "nameEn": "Depth Push-Up from Drop Blocks",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para flexión con caída reactiva desde bloques.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "hurdle-hops-continuous",
+    "name": "Saltos Continuos por Encima de Mini-Vallas",
+    "nameEn": "Continuous Mini-Hurdle Forward Hops",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para saltos continuos por encima de mini-vallas.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "skater-bounds-reactive",
+    "name": "Patinadores Laterales Reactivos con Palo o Cono",
+    "nameEn": "Reactive Lateral Skater Bounds",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Abductors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para patinadores laterales reactivos con palo o cono.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "band-assisted-jump-squat",
+    "name": "Sentadilla con Salto Asistida por Banda Elástica",
+    "nameEn": "Band-Assisted Overspeed Jump Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Band",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para sentadilla con salto asistida por banda elástica.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "trap-bar-jump-shrug",
+    "name": "Salto con Encogimiento en Barra Hexagonal (Jump Shrug)",
+    "nameEn": "Trap Bar Jump Shrug Power Pull",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Quads",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Trap Bar",
+    "difficulty": "Avanzado",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para salto con encogimiento en barra hexagonal (jump shrug).",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "dumbbell-jump-squat-light",
+    "name": "Sentadilla con Salto con Mancuernas Ligeras",
+    "nameEn": "Light Dumbbell Loaded Jump Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Dumbbell",
+    "difficulty": "Intermedio",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Carga elástica rápida mediante flexión explosiva de tobillos, rodillas y caderas para sentadilla con salto con mancuernas ligeras.",
+      "Extiende con potencia triple (tobillos, rodillas y caderas) propulsando el cuerpo en el aire.",
+      "Aterriza de puntillas flexionando articulaciones para amortiguar el impacto de forma silenciosa."
+    ],
+    "tips": [
+      "La calidad y amortiguación silenciosa del aterrizaje son mucho más importantes que la altura alcanzada."
+    ],
+    "breathingCue": "Inhala en la precarga; exhala con un grito seco o soplido en el despegue explosivo.",
+    "alternatives": [
+      "box-jump-standard",
+      "vertical-jump-countermovement"
+    ]
+  },
+  {
+    "id": "power-clean-barbell",
+    "name": "Power Clean con Barra desde el Suelo",
+    "nameEn": "Barbell Power Clean from Floor",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Traps",
+      "Back",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para power clean con barra desde el suelo.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "hang-clean-barbell",
+    "name": "Hang Clean con Barra desde Rodillas",
+    "nameEn": "Barbell Hang Clean (Hang Power Clean)",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para hang clean con barra desde rodillas.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "clean-and-jerk-olympic",
+    "name": "Dos Tiempos Olímpico Completo (Clean & Jerk)",
+    "nameEn": "Olympic Clean and Jerk",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Glutes",
+      "Traps",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para dos tiempos olímpico completo (clean & jerk).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "power-snatch-barbell",
+    "name": "Power Snatch (Arrancada de Potencia)",
+    "nameEn": "Barbell Power Snatch from Floor",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Shoulders",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para power snatch (arrancada de potencia).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "hang-snatch-barbell",
+    "name": "Hang Snatch desde los Muslos",
+    "nameEn": "Barbell Hang Power Snatch",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Traps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para hang snatch desde los muslos.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "split-jerk-barbell",
+    "name": "Envión en Tijera (Split Jerk)",
+    "nameEn": "Barbell Split Jerk from Racks",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Quads",
+      "Triceps",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para envión en tijera (split jerk).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "push-jerk-barbell",
+    "name": "Push Jerk con Barra Olímpica",
+    "nameEn": "Barbell Push Jerk Power Drive",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Quads",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para push jerk con barra olímpica.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "clean-pull-barbell",
+    "name": "Tirón de Cargada Pesado (Clean Pull)",
+    "nameEn": "Barbell Heavy Clean Pull",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Glutes",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para tirón de cargada pesado (clean pull).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "snatch-pull-barbell",
+    "name": "Tirón de Arrancada con Agarre Ancho",
+    "nameEn": "Barbell Snatch Pull",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para tirón de arrancada con agarre ancho.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "overhead-squat-olympic",
+    "name": "Sentadilla de Arrancada Olímpica (Overhead Squat)",
+    "nameEn": "Olympic Barbell Overhead Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Back",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para sentadilla de arrancada olímpica (overhead squat).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "snatch-balance-barbell",
+    "name": "Snatch Balance para Velocidad bajo la Barra",
+    "nameEn": "Barbell Snatch Balance Drill",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Quads",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para snatch balance para velocidad bajo la barra.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "muscle-clean-barbell",
+    "name": "Muscle Clean de Calentamiento sin Flexión de Rodillas",
+    "nameEn": "Barbell Muscle Clean Warmup Drill",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Biceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para muscle clean de calentamiento sin flexión de rodillas.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "muscle-snatch-barbell",
+    "name": "Muscle Snatch sin Metida",
+    "nameEn": "Barbell Muscle Snatch Drill",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para muscle snatch sin metida.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "tall-clean-barbell",
+    "name": "Tall Clean desde Bipedestación",
+    "nameEn": "Barbell Tall Clean Turnover Drill",
+    "primaryMuscle": "Traps",
+    "secondaryMuscles": [
+      "Quads"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para tall clean desde bipedestación.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "tall-snatch-barbell",
+    "name": "Tall Snatch para Rapidez de Entrada",
+    "nameEn": "Barbell Tall Snatch Turnover Drill",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para tall snatch para rapidez de entrada.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "clean-deadlift-barbell",
+    "name": "Peso Muerto con Postura Específica de Cargada",
+    "nameEn": "Clean Grip Barbell Deadlift",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Traps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para peso muerto con postura específica de cargada.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "snatch-deadlift-barbell",
+    "name": "Peso Muerto con Agarre Ancho de Arrancada",
+    "nameEn": "Snatch Grip Barbell Deadlift",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Hamstrings",
+      "Traps",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Intermedio",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para peso muerto con agarre ancho de arrancada.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "block-clean-power",
+    "name": "Clean desde Bloques Altos (Block Clean)",
+    "nameEn": "Clean from High Pulling Blocks",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para clean desde bloques altos (block clean).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "block-snatch-power",
+    "name": "Snatch desde Bloques (Block Snatch)",
+    "nameEn": "Snatch from Pulling Blocks",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para snatch desde bloques (block snatch).",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  },
+  {
+    "id": "jerk-recovery-barbell",
+    "name": "Recuperación de Envión en Rack Alto",
+    "nameEn": "Barbell Jerk Drive and Recovery",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "LowerBack"
+    ],
+    "equipment": "Barbell",
+    "difficulty": "Avanzado",
+    "category": "Olímpico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Explosivo",
+    "isUnilateral": false,
+    "trackingType": "Peso×Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Tirón",
+    "instructions": [
+      "Ajusta el agarre reglamentario con gancho (hook grip) y la postura de salida para recuperación de envión en rack alto.",
+      "Ejecuta el primer tirón controlado manteniendo el ángulo de espalda neutro constante.",
+      "Detona la extensión triple explosiva al pasar las rodillas e ingresa con rapidez bajo la barra.",
+      "Recupera la vertical erguida asegurando el control total del peso sobre la cabeza o sobre los hombros."
+    ],
+    "tips": [
+      "El hook grip (pulgar atrapado bajo los dedos índice y corazón) es indispensable para la seguridad en halterofilia."
+    ],
+    "breathingCue": "Inhala hondo y fija la faja abdominal antes del despegue; exhala al estabilizar la barra arriba.",
+    "alternatives": [
+      "barbell-deadlift",
+      "kettlebell-snatch-single-arm"
+    ]
+  }
+]

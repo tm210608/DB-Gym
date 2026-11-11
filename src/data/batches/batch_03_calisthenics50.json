@@ -1,0 +1,1786 @@
+[
+  {
+    "id": "diamond-pushup",
+    "name": "Flexiones Diamante",
+    "nameEn": "Diamond Push-Up",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscles": [
+      "Chest",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones diamante asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ]
+  },
+  {
+    "id": "wide-grip-pushup",
+    "name": "Flexiones con Agarre Ancho",
+    "nameEn": "Wide Grip Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones con agarre ancho asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ]
+  },
+  {
+    "id": "decline-pushup",
+    "name": "Flexiones Declinadas con Pies Elevados",
+    "nameEn": "Decline Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones declinadas con pies elevados asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ]
+  },
+  {
+    "id": "incline-pushup",
+    "name": "Flexiones Inclinadas con Manos Elevadas",
+    "nameEn": "Incline Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones inclinadas con manos elevadas asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ]
+  },
+  {
+    "id": "archer-pushup",
+    "name": "Flexiones de Arquero",
+    "nameEn": "Archer Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones de arquero asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ]
+  },
+  {
+    "id": "pike-pushup",
+    "name": "Flexiones en Pica",
+    "nameEn": "Pike Push-Up",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Triceps",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones en pica asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ]
+  },
+  {
+    "id": "hindu-pushup",
+    "name": "Flexiones Hindúes (Dand)",
+    "nameEn": "Hindu Push-Up",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Chest",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Multi-plano",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones hindúes (dand) asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ]
+  },
+  {
+    "id": "spiderman-pushup",
+    "name": "Flexiones Spiderman",
+    "nameEn": "Spiderman Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Abs",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones spiderman asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ]
+  },
+  {
+    "id": "clap-pushup",
+    "name": "Flexiones con Palmada Pliométricas",
+    "nameEn": "Clap Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Pliométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones con palmada pliométricas asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ]
+  },
+  {
+    "id": "ring-pushup",
+    "name": "Flexiones en Anillas de Gimnasia",
+    "nameEn": "Gymnastic Ring Push-Up",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Rings",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Horizontal",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Adopta la postura inicial de flexiones en anillas de gimnasia asegurando alineación pélvica y core tenso.",
+      "Desciende el torso de forma controlada hasta el rango óptimo de estiramiento articular.",
+      "Empuja con potencia contra el punto de apoyo extendiendo los brazos a la posición inicial."
+    ],
+    "tips": [
+      "Mantén la retroversión pélvica activa para evitar el arqueo lumbar."
+    ],
+    "breathingCue": "Inhala en el descenso; exhala al empujar hacia la posición inicial.",
+    "alternatives": [
+      "push-up",
+      "barbell-bench-press"
+    ]
+  },
+  {
+    "id": "chin-up",
+    "name": "Dominadas Supinas (Chin-Up)",
+    "nameEn": "Chin-Up",
+    "primaryMuscle": "Biceps",
+    "secondaryMuscles": [
+      "Lats",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas supinas (chin-up) con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ]
+  },
+  {
+    "id": "neutral-grip-pullup",
+    "name": "Dominadas con Agarre Neutro",
+    "nameEn": "Neutral Grip Pull-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Biceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas con agarre neutro con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ]
+  },
+  {
+    "id": "wide-grip-pullup",
+    "name": "Dominadas Pronas con Agarre Ancho",
+    "nameEn": "Wide Grip Pull-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Back",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas pronas con agarre ancho con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ]
+  },
+  {
+    "id": "archer-pullup",
+    "name": "Dominadas de Arquero",
+    "nameEn": "Archer Pull-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Biceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas de arquero con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ]
+  },
+  {
+    "id": "l-sit-pullup",
+    "name": "Dominadas en L-Sit",
+    "nameEn": "L-Sit Pull-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Abs",
+      "HipFlexors",
+      "Biceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas en l-sit con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ]
+  },
+  {
+    "id": "ring-pullup",
+    "name": "Dominadas en Anillas",
+    "nameEn": "Ring Pull-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Biceps",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Rings",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas en anillas con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ]
+  },
+  {
+    "id": "scapular-pullup",
+    "name": "Dominadas Escapulares de Activación",
+    "nameEn": "Scapular Pull-Up",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas escapulares de activación con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ]
+  },
+  {
+    "id": "chest-to-bar-pullup",
+    "name": "Dominadas Pecho a la Barra",
+    "nameEn": "Chest-to-Bar Pull-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Back",
+      "Biceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para dominadas pecho a la barra con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ]
+  },
+  {
+    "id": "muscle-up-bar",
+    "name": "Muscle-Up en Barra",
+    "nameEn": "Bar Muscle-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Chest",
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para muscle-up en barra con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ]
+  },
+  {
+    "id": "muscle-up-rings",
+    "name": "Muscle-Up en Anillas",
+    "nameEn": "Ring Muscle-Up",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Chest",
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Traps"
+    ],
+    "equipment": "Rings",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Tirón Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Frontal",
+    "forceType": "Tirón",
+    "instructions": [
+      "Cuélgate del soporte con el agarre especificado para muscle-up en anillas con brazos rectos.",
+      "Activa las escápulas y tracciona con los dorsales impulsando el cuerpo hacia el agarre.",
+      "Baja con descenso suave y controlado hasta extender los codos por completo."
+    ],
+    "tips": [
+      "Inicia siempre el movimiento deprimiendo las escápulas antes de doblar los codos."
+    ],
+    "breathingCue": "Exhala durante la tracción concéntrica; inhala en la bajada.",
+    "alternatives": [
+      "pull-up",
+      "lat-pulldown"
+    ]
+  },
+  {
+    "id": "parallel-bar-dips",
+    "name": "Fondos en Barras Paralelas",
+    "nameEn": "Parallel Bar Dips",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para fondos en barras paralelas equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en chest.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up",
+      "goblet-squat"
+    ]
+  },
+  {
+    "id": "bench-dips",
+    "name": "Fondos de Tríceps en Banco",
+    "nameEn": "Bench Dips",
+    "primaryMuscle": "Triceps",
+    "secondaryMuscles": [
+      "Chest",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para fondos de tríceps en banco equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en triceps.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up",
+      "goblet-squat"
+    ]
+  },
+  {
+    "id": "ring-dips",
+    "name": "Fondos en Anillas",
+    "nameEn": "Ring Dips",
+    "primaryMuscle": "Chest",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Rings",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Empuje Vertical",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para fondos en anillas equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en chest.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up",
+      "goblet-squat"
+    ]
+  },
+  {
+    "id": "pistol-squat",
+    "name": "Sentadilla Pistola a Una Pierna (Pistol Squat)",
+    "nameEn": "Pistol Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para sentadilla pistola a una pierna (pistol squat) equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en quads.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up",
+      "goblet-squat"
+    ]
+  },
+  {
+    "id": "shrimp-squat",
+    "name": "Sentadilla Camarón (Shrimp Squat)",
+    "nameEn": "Shrimp Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para sentadilla camarón (shrimp squat) equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en quads.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up",
+      "goblet-squat"
+    ]
+  },
+  {
+    "id": "sissy-squat-bodyweight",
+    "name": "Sentadilla Sissy con Peso Corporal",
+    "nameEn": "Bodyweight Sissy Squat",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para sentadilla sissy con peso corporal equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en quads.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up",
+      "goblet-squat"
+    ]
+  },
+  {
+    "id": "nordic-hamstring-curl",
+    "name": "Curl Nórdico de Isquiotibiales",
+    "nameEn": "Nordic Hamstring Curl",
+    "primaryMuscle": "Hamstrings",
+    "secondaryMuscles": [
+      "Glutes",
+      "Calves"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para curl nórdico de isquiotibiales equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en hamstrings.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up",
+      "goblet-squat"
+    ]
+  },
+  {
+    "id": "reverse-nordic-curl",
+    "name": "Curl Nórdico Inverso para Cuádriceps",
+    "nameEn": "Reverse Nordic Curl",
+    "primaryMuscle": "Quads",
+    "secondaryMuscles": [
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para curl nórdico inverso para cuádriceps equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en quads.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up",
+      "goblet-squat"
+    ]
+  },
+  {
+    "id": "single-leg-glute-bridge",
+    "name": "Puente de Glúteos a Una Pierna",
+    "nameEn": "Single-Leg Glute Bridge",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Hamstrings"
+    ],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Bisagra de Cadera",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para puente de glúteos a una pierna equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en glutes.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up",
+      "goblet-squat"
+    ]
+  },
+  {
+    "id": "calf-raise-single-leg-bodyweight",
+    "name": "Elevación de Talón Unilateral en Escalón",
+    "nameEn": "Single-Leg Calf Raise on Step",
+    "primaryMuscle": "Calves",
+    "secondaryMuscles": [],
+    "stabilizers": [
+      "Abs"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Sentadilla",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Empuje",
+    "instructions": [
+      "Sitúate en posición de partida para elevación de talón unilateral en escalón equilibrando el cuerpo.",
+      "Ejecuta el rango de recorrido completo manteniendo la tensión continua en calves.",
+      "Regresa a la postura inicial con control técnico riguroso."
+    ],
+    "tips": [
+      "Prioriza la cadencia controlada sobre la cantidad de repeticiones."
+    ],
+    "breathingCue": "Exhala en el esfuerzo principal; inhala en la fase de retorno.",
+    "alternatives": [
+      "push-up",
+      "goblet-squat"
+    ]
+  },
+  {
+    "id": "l-sit-floor",
+    "name": "L-Sit en el Suelo",
+    "nameEn": "Floor L-Sit",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de l-sit en el suelo bloqueando articulaciones clave.",
+      "Genera tensión máxima en abs y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "l-sit-parallettes",
+    "name": "L-Sit en Paralelas Bajas",
+    "nameEn": "Parallettes L-Sit",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors",
+      "Triceps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de l-sit en paralelas bajas bloqueando articulaciones clave.",
+      "Genera tensión máxima en abs y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "hollow-body-hold",
+    "name": "Posición Hueca (Hollow Body Hold)",
+    "nameEn": "Hollow Body Hold",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Quads",
+      "HipFlexors"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de posición hueca (hollow body hold) bloqueando articulaciones clave.",
+      "Genera tensión máxima en abs y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "arch-body-hold-superman",
+    "name": "Posición de Arco / Superman Isométrico",
+    "nameEn": "Superman Arch Hold",
+    "primaryMuscle": "LowerBack",
+    "secondaryMuscles": [
+      "Glutes",
+      "Traps"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de posición de arco / superman isométrico bloqueando articulaciones clave.",
+      "Genera tensión máxima en lowerback y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "planche-lean",
+    "name": "Inclinación de Plancha (Planche Lean)",
+    "nameEn": "Planche Lean",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Chest",
+      "Abs",
+      "Serratus"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de inclinación de plancha (planche lean) bloqueando articulaciones clave.",
+      "Genera tensión máxima en shoulders y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "tuck-planche",
+    "name": "Tuck Planche en Paralelas",
+    "nameEn": "Tuck Planche",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Chest",
+      "Triceps",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de tuck planche en paralelas bloqueando articulaciones clave.",
+      "Genera tensión máxima en shoulders y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "front-lever-tuck",
+    "name": "Tuck Front Lever en Barra",
+    "nameEn": "Tuck Front Lever",
+    "primaryMuscle": "Lats",
+    "secondaryMuscles": [
+      "Abs",
+      "Back"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de tuck front lever en barra bloqueando articulaciones clave.",
+      "Genera tensión máxima en lats y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "back-lever-tuck",
+    "name": "Tuck Back Lever en Barra",
+    "nameEn": "Tuck Back Lever",
+    "primaryMuscle": "Back",
+    "secondaryMuscles": [
+      "Shoulders",
+      "LowerBack"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de tuck back lever en barra bloqueando articulaciones clave.",
+      "Genera tensión máxima en back y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "handstand-wall-hold",
+    "name": "Pino contra la Pared Isométrico",
+    "nameEn": "Wall Handstand Hold",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Triceps",
+      "Traps",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de pino contra la pared isométrico bloqueando articulaciones clave.",
+      "Genera tensión máxima en shoulders y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "freestanding-handstand",
+    "name": "Pino Libre (Handstand)",
+    "nameEn": "Freestanding Handstand",
+    "primaryMuscle": "Shoulders",
+    "secondaryMuscles": [
+      "Traps",
+      "Forearms",
+      "Abs"
+    ],
+    "stabilizers": [
+      "Abs",
+      "Glutes"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Isométrico",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Tiempo",
+    "planeOfMotion": "Sagital",
+    "forceType": "Estático",
+    "instructions": [
+      "Adopta la postura isométrica de pino libre (handstand) bloqueando articulaciones clave.",
+      "Genera tensión máxima en shoulders y respira de forma corta y controlada.",
+      "Sostén la alineación corporal estricta durante el tiempo programado sin descompensar."
+    ],
+    "tips": [
+      "La calidad postural y la protracción escapular son críticas en las figuras gimnásticas."
+    ],
+    "breathingCue": "Respiración diafragmática superficial y constante sin despresurizar el abdomen.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "hanging-knee-raise",
+    "name": "Elevación de Rodillas Colgado en Barra",
+    "nameEn": "Hanging Knee Raise",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "LowerBack"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Inicia en la posición base de elevación de rodillas colgado en barra asegurando el anclaje firme.",
+      "Ejecuta el desplazamiento o flexión activa contrayendo con intención el músculo principal.",
+      "Retorna bajo control excéntrico sin rebotes articulares."
+    ],
+    "tips": [
+      "Evita el balanceo por inercia para aislar el trabajo en la musculatura diana."
+    ],
+    "breathingCue": "Exhala en el esfuerzo de cierre; inhala en la fase de extensión.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "hanging-leg-raise",
+    "name": "Elevación de Piernas Rectas Colgado",
+    "nameEn": "Hanging Straight Leg Raise",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "HipFlexors",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "LowerBack"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Inicia en la posición base de elevación de piernas rectas colgado asegurando el anclaje firme.",
+      "Ejecuta el desplazamiento o flexión activa contrayendo con intención el músculo principal.",
+      "Retorna bajo control excéntrico sin rebotes articulares."
+    ],
+    "tips": [
+      "Evita el balanceo por inercia para aislar el trabajo en la musculatura diana."
+    ],
+    "breathingCue": "Exhala en el esfuerzo de cierre; inhala en la fase de extensión.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "toes-to-bar",
+    "name": "Pies a la Barra (Toes to Bar)",
+    "nameEn": "Toes to Bar",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Lats",
+      "HipFlexors",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "LowerBack"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Inicia en la posición base de pies a la barra (toes to bar) asegurando el anclaje firme.",
+      "Ejecuta el desplazamiento o flexión activa contrayendo con intención el músculo principal.",
+      "Retorna bajo control excéntrico sin rebotes articulares."
+    ],
+    "tips": [
+      "Evita el balanceo por inercia para aislar el trabajo en la musculatura diana."
+    ],
+    "breathingCue": "Exhala en el esfuerzo de cierre; inhala en la fase de extensión.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "windshield-wipers-hanging",
+    "name": "Limpiaparabrisas Colgado en Barra",
+    "nameEn": "Hanging Windshield Wipers",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Lats",
+      "Forearms"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "LowerBack"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Rotación",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Inicia en la posición base de limpiaparabrisas colgado en barra asegurando el anclaje firme.",
+      "Ejecuta el desplazamiento o flexión activa contrayendo con intención el músculo principal.",
+      "Retorna bajo control excéntrico sin rebotes articulares."
+    ],
+    "tips": [
+      "Evita el balanceo por inercia para aislar el trabajo en la musculatura diana."
+    ],
+    "breathingCue": "Exhala en el esfuerzo de cierre; inhala en la fase de extensión.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "dragon-flag",
+    "name": "Dragon Flag (Bandera de Dragón)",
+    "nameEn": "Dragon Flag",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Lats",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "LowerBack"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Inicia en la posición base de dragon flag (bandera de dragón) asegurando el anclaje firme.",
+      "Ejecuta el desplazamiento o flexión activa contrayendo con intención el músculo principal.",
+      "Retorna bajo control excéntrico sin rebotes articulares."
+    ],
+    "tips": [
+      "Evita el balanceo por inercia para aislar el trabajo en la musculatura diana."
+    ],
+    "breathingCue": "Exhala en el esfuerzo de cierre; inhala en la fase de extensión.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "human-flag",
+    "name": "Bandera Humana (Human Flag)",
+    "nameEn": "Human Flag",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Lats"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "LowerBack"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Inicia en la posición base de bandera humana (human flag) asegurando el anclaje firme.",
+      "Ejecuta el desplazamiento o flexión activa contrayendo con intención el músculo principal.",
+      "Retorna bajo control excéntrico sin rebotes articulares."
+    ],
+    "tips": [
+      "Evita el balanceo por inercia para aislar el trabajo en la musculatura diana."
+    ],
+    "breathingCue": "Exhala en el esfuerzo de cierre; inhala en la fase de extensión.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "side-plank-hip-abduction",
+    "name": "Plancha Lateral con Elevación de Pierna",
+    "nameEn": "Side Plank with Hip Abduction",
+    "primaryMuscle": "Abductors",
+    "secondaryMuscles": [
+      "Abs",
+      "Glutes"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "LowerBack"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Intermedio",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Inicia en la posición base de plancha lateral con elevación de pierna asegurando el anclaje firme.",
+      "Ejecuta el desplazamiento o flexión activa contrayendo con intención el músculo principal.",
+      "Retorna bajo control excéntrico sin rebotes articulares."
+    ],
+    "tips": [
+      "Evita el balanceo por inercia para aislar el trabajo en la musculatura diana."
+    ],
+    "breathingCue": "Exhala en el esfuerzo de cierre; inhala en la fase de extensión.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "copenhagen-plank",
+    "name": "Plancha Copenhague para Aductores",
+    "nameEn": "Copenhagen Adductor Plank",
+    "primaryMuscle": "Adductors",
+    "secondaryMuscles": [
+      "Abs"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "LowerBack"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Avanzado",
+    "category": "Calistenia",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": true,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Inicia en la posición base de plancha copenhague para aductores asegurando el anclaje firme.",
+      "Ejecuta el desplazamiento o flexión activa contrayendo con intención el músculo principal.",
+      "Retorna bajo control excéntrico sin rebotes articulares."
+    ],
+    "tips": [
+      "Evita el balanceo por inercia para aislar el trabajo en la musculatura diana."
+    ],
+    "breathingCue": "Exhala en el esfuerzo de cierre; inhala en la fase de extensión.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "bear-crawl",
+    "name": "Paso del Oso (Bear Crawl)",
+    "nameEn": "Bear Crawl",
+    "primaryMuscle": "Abs",
+    "secondaryMuscles": [
+      "Shoulders",
+      "Quads"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "LowerBack"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Calentamiento",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Inicia en la posición base de paso del oso (bear crawl) asegurando el anclaje firme.",
+      "Ejecuta el desplazamiento o flexión activa contrayendo con intención el músculo principal.",
+      "Retorna bajo control excéntrico sin rebotes articulares."
+    ],
+    "tips": [
+      "Evita el balanceo por inercia para aislar el trabajo en la musculatura diana."
+    ],
+    "breathingCue": "Exhala en el esfuerzo de cierre; inhala en la fase de extensión.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  },
+  {
+    "id": "crab-walk",
+    "name": "Caminata de Cangrejo (Crab Walk)",
+    "nameEn": "Crab Walk",
+    "primaryMuscle": "Glutes",
+    "secondaryMuscles": [
+      "Triceps",
+      "Shoulders"
+    ],
+    "stabilizers": [
+      "Forearms",
+      "LowerBack"
+    ],
+    "equipment": "Bodyweight",
+    "difficulty": "Principiante",
+    "category": "Movilidad",
+    "mechanics": "Compuesto",
+    "movementPattern": "Anti-Extensión",
+    "isUnilateral": false,
+    "trackingType": "Reps",
+    "planeOfMotion": "Sagital",
+    "forceType": "Core",
+    "instructions": [
+      "Inicia en la posición base de caminata de cangrejo (crab walk) asegurando el anclaje firme.",
+      "Ejecuta el desplazamiento o flexión activa contrayendo con intención el músculo principal.",
+      "Retorna bajo control excéntrico sin rebotes articulares."
+    ],
+    "tips": [
+      "Evita el balanceo por inercia para aislar el trabajo en la musculatura diana."
+    ],
+    "breathingCue": "Exhala en el esfuerzo de cierre; inhala en la fase de extensión.",
+    "alternatives": [
+      "plank",
+      "dead-bug"
+    ]
+  }
+]
