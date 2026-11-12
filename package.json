@@ -1,35 +1,26 @@
 {
-  "name": "react-example",
+  "name": "db-gym",
+  "version": "2.2.0",
+  "description": "Base de datos y API REST estática de ejercicios biomecánicos en Español e Inglés con animaciones y rutinas",
   "private": true,
-  "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "tsx server.ts",
-    "build": "vite build && esbuild server.ts --bundle --platform=node --format=cjs --packages=external --sourcemap --outfile=dist/server.cjs",
-    "start": "node dist/server.cjs",
-    "clean": "rm -rf dist server.js",
-    "lint": "tsc --noEmit"
+    "consolidate": "node scripts/consolidate-master-db.js",
+    "map-animations": "node build-full-animation-map.js",
+    "build:api": "node scripts/build-public-api.js",
+    "build:html": "node generate-html.js",
+    "build": "npm run consolidate && npm run map-animations && npm run build:api && npm run build:html",
+    "validate": "node scripts/validate-db.js",
+    "test": "npm run validate"
   },
-  "dependencies": {
-    "@google/genai": "^2.4.0",
-    "@tailwindcss/vite": "^4.1.14",
-    "@vitejs/plugin-react": "^5.0.4",
-    "lucide-react": "^0.546.0",
-    "react": "^19.0.1",
-    "react-dom": "^19.0.1",
-    "vite": "^6.2.3",
-    "express": "^4.21.2",
-    "dotenv": "^17.2.3",
-    "motion": "^12.23.24"
-  },
-  "devDependencies": {
-    "@types/node": "^22.14.0",
-    "autoprefixer": "^10.4.21",
-    "esbuild": "^0.25.0",
-    "tailwindcss": "^4.1.14",
-    "tsx": "^4.21.0",
-    "typescript": "~5.8.2",
-    "vite": "^6.2.3",
-    "@types/express": "^4.17.21"
-  }
+  "keywords": [
+    "fitness",
+    "gym",
+    "exercises",
+    "workout",
+    "api",
+    "biomechanics"
+  ],
+  "author": "tm210608",
+  "license": "MIT"
 }
